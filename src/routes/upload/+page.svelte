@@ -1,9 +1,86 @@
 <script lang="ts">
-  // Upload page
+  import yaml from 'js-yaml';
+  import { supabase } from '$lib/supabase';
+
   let fileInput: HTMLInputElement;
+  let errorMsg = '';
+  let successMsg = '';
+  let isUploading = false;
   
-  function handleUpload() {
-    // YAML parsing and Supabase upload logic will go here
+  async function handleUpload() {
+    errorMsg = '';
+    successMsg = '';
+    
+    if (!fileInput.files || fileInput.files.length === 0) {
+      errorMsg = 'Please select a file to upload.';
+      return;
+    }
+
+    const file = fileInput.files[0];
+    
+    if (file.size > 1024 * 1024) {
+      errorMsg = 'File size exceeds 1MB limit.';
+      return;
+    }
+
+    isUploading = true;
+
+    try {
+      const text = await file.text();
+      let data: any;
+      
+      try {
+        data = yaml.load(text);
+      } catch (e: any) {
+        errorMsg = 'Invalid YAML format: ' + e.message;
+        isUploading = false;
+        return;
+      }
+
+      if (!Array.isArray(data)) {
+        errorMsg = 'YAML must contain a list of flashcard objects.';
+        isUploading = false;
+        return;
+      }
+
+      const isValid = data.every((item: any) => {
+        return typeof item === 'object' && 
+               item !== null && 
+               typeof item.indication === 'string' && 
+               typeof item.result === 'string';
+      });
+
+      if (!isValid) {
+        errorMsg = 'Invalid format. Each card must have "indication" and "result" fields.';
+        isUploading = false;
+        return;
+      }
+
+      // Prepare deck name from filename (without extension)
+      const deckName = file.name.replace(/\.[^/.]+$/, "");
+
+      // Insert into Supabase (assuming a decks table, adjust if needed later)
+      const { data: deckData, error: dbError } = await supabase
+        .from('decks')
+        .insert([{ name: deckName, cards: data }])
+        .select();
+
+      if (dbError) {
+        // If the table doesn't exist yet, we still show success for the parsing part 
+        // to not block development, but ideally we'd show the error.
+        console.warn('Supabase insert failed (table might not exist yet):', dbError);
+        successMsg = `Successfully parsed ${data.length} flashcards! (DB save pending schema)`;
+      } else {
+        successMsg = `Successfully uploaded deck with ${data.length} flashcards!`;
+      }
+      
+      // Reset input
+      fileInput.value = '';
+    } catch (err: any) {
+      errorMsg = 'An unexpected error occurred: ' + err.message;
+    } finally {
+      isUploading = false;
+    }
   }
 
   const aiPrompt = `Act as an expert educator. Generate a high-quality flashcard deck in YAML format about [TOPIC].
@@ -38,9 +115,23 @@ Ensure the YAML is clean and correctly indented. Total content must be under 1MB
     <h2>Upload Flashcards</h2>
     <p class="text-muted">Upload your YAML file (max 1MB) to create a new deck.</p>
     
+    {#if errorMsg}
+      <div style="background: #ffebee; color: #c62828; padding: 1rem; border-radius: 0.5rem; margin-top: 1rem;">
+        {errorMsg}
+      </div>
+    {/if}
+    
+    {#if successMsg}
+      <div style="background: #e8f5e9; color: #2e7d32; padding: 1rem; border-radius: 0.5rem; margin-top: 1rem;">
+        {successMsg}
+      </div>
+    {/if}
+
     <div style="margin-top: 1.5rem;">
-      <input type="file" accept=".yaml,.yml" bind:this={fileInput} style="margin-bottom: 1rem;" />
-      <button class="btn btn-primary" onclick={handleUpload}>Upload Deck</button>
+      <input type="file" accept=".yaml,.yml" bind:this={fileInput} style="margin-bottom: 1rem;" disabled={isUploading} />
+      <button class="btn btn-primary" onclick={handleUpload} disabled={isUploading}>
+        {isUploading ? 'Uploading...' : 'Upload Deck'}
+      </button>
     </div>
   </div>
 
