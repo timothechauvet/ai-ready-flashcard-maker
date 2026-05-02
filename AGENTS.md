@@ -43,6 +43,7 @@ These guidelines reduce common LLM coding mistakes. Bias toward caution over spe
 
 ## Project Context
 - **Name**: YASSSF (Yet Another Simple Shared Study Flashcards)
+- **Architecture**: See [README.md](./README.md) for full stack and architecture details.
 - **Tech Stack**: SvelteKit, Supabase, Vanilla CSS, Kubernetes
 - **Design Philosophy**: Mobile-first, dynamic, young, fast, premium white mode with dark slate green/grey accent color.
 - **YAML Format**: Max 1MB. Format: `indication` (req), `result` (req), `picture_url` (opt), `category` (opt).
