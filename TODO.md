@@ -11,6 +11,8 @@ This file tracks all remaining tasks for the YASSSF project. Agents must select 
 - [ ] Build `/upload` page with YAML parsing logic (1MB limit, validation) / Unassigned
 - [ ] Add AI prompt instructions for generating YAML decks / Unassigned
 - [ ] Wire up lazy loading for flashcards in Supabase queries / Unassigned
+- [x] Fix Docker build error (sync package-lock.json) / Atlas
+- [x] Fix Dependabot vulnerability (cookie < 0.7.0) / Atlas
 - [x] Verify Kubernetes files (`Dockerfile`, `k8s/deployment.yaml`, `k8s/service.yaml`) / Antigravity
 - [x] Initialize a docker compose for quick testing / Antigravity
 - [x] Add github actions for CI, docker build, npm run check, secrets analysis (gitleaks), pushing images to ghcr / Antigravity
