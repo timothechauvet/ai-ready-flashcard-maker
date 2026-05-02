@@ -9,7 +9,7 @@ This file tracks all remaining tasks for the YASSSF project. Agents must select 
 - [ ] Build `/library` page for favorites and uploaded decks / Unassigned
 - [ ] Build `/play/[deckId]` page with sequential/random toggles / Unassigned
 - [ ] Build `/upload` page with YAML parsing logic (1MB limit, validation) / Unassigned
-- [ ] Add AI prompt instructions for generating YAML decks / Unassigned
+- [x] Add AI prompt instructions for generating YAML decks / Antigravity
 - [ ] Wire up lazy loading for flashcards in Supabase queries / Unassigned
 - [x] Fix Docker build error (sync package-lock.json) / Atlas
 - [x] Fix Dependabot vulnerability (cookie < 0.7.0) / Atlas

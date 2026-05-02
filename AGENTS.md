@@ -47,3 +47,25 @@ These guidelines reduce common LLM coding mistakes. Bias toward caution over spe
 - **Tech Stack**: SvelteKit, Supabase, Vanilla CSS, Kubernetes
 - **Design Philosophy**: Mobile-first, dynamic, young, fast, premium white mode with dark slate green/grey accent color.
 - **YAML Format**: Max 1MB. Format: `indication` (req), `result` (req), `picture_url` (opt), `category` (opt).
+
+## 🤖 AI Generation Prompt
+Copy and paste this prompt into an AI agent (ChatGPT, Claude, etc.) to generate compatible YAML decks:
+
+```text
+Act as an expert educator. Generate a high-quality flashcard deck in YAML format about [TOPIC].
+The output must be a valid YAML list of objects with these exact fields:
+- indication: (string, required) The question or front side of the card.
+- result: (string, required) The answer, meaning, or back side of the card.
+- picture_url: (string, optional) A direct URL to a relevant image.
+- category: (string, optional) A tag or category for organization.
+
+Example format:
+- indication: "What is the capital of Japan?"
+  result: "Tokyo"
+  category: "Geography"
+- indication: "What does HTML stand for?"
+  result: "HyperText Markup Language"
+  category: "Technology"
+
+Ensure the YAML is clean and correctly indented. Total content must be under 1MB.
+```

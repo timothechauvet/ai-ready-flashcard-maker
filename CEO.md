@@ -6,6 +6,6 @@ Agents must read this document first. If there are items listed below, triage th
 
 ## Current Requests
 - [ ] Ensure all design matches the requested aesthetic: dark slate green/grey accent color with a high-end white mode feel.
-- [ ] Ensure the AI generation instructions in `AGENTS.md` or a separate prompt file is perfectly tailored for prompting other models to generate compatible YAML decks.
+- [x] Ensure the AI generation instructions in `AGENTS.md` or a separate prompt file is perfectly tailored for prompting other models to generate compatible YAML decks.
 - [x] Initialize a docker compose for quick testing
 - [x] Add github actions for CI and docker build, for npm run check, for secrets analysis (gitleaks) and for pushing images to a registry  (ghcr)
