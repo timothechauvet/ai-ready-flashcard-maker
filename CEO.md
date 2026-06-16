@@ -5,4 +5,5 @@ Welcome to YASSSF. This document contains strategic tasks and requests from the 
 Agents must read this document first. If there are items listed below, triage them by adding them to `TODO.md` as appropriate, and complete them before proceeding with normal TODOs.
 
 ## Current Requests
+
 - Ensure all design matches the requested aesthetic: dark slate green/grey accent color with a high-end white mode feel.

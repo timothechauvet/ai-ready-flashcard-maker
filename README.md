@@ -7,17 +7,20 @@ YASSSF is a mobile-first, high-performance flashcard maker application. It is de
 YASSSF is built with a modern, cloud-ready stack:
 
 ### Frontend Layer
+
 - **Framework**: [SvelteKit](https://kit.svelte.dev/)
 - **Styling**: Vanilla CSS with global architecture for extreme flexibility. Dark Slate Green/Grey primary accent. Mobile-first responsive design.
 - **Components**: Functional, reusable Svelte 5 components with interactive micro-animations.
 
 ### Backend & Data Layer
+
 - **Database & Auth**: [Supabase](https://supabase.com/)
   - Used for User Accounts and Authentication.
   - Used for storing flashcard decks and metadata.
 - **API**: Handled natively within SvelteKit's `/api` endpoints and Supabase direct connections.
 
 ### Application Flow & Pages
+
 1. `/`: Home page or redirect to exploration/dashboard.
 2. `/explore`: Public Flashcards Deck Database Browser.
    - Shows deck titles, descriptions, authors.
@@ -31,6 +34,7 @@ YASSSF is built with a modern, cloud-ready stack:
 6. `/settings`: Account Management.
 
 ### Deployment & CI/CD
+
 - **Containerization**: Built and packaged via Docker.
 - **Orchestration**: Fully Kubernetes-ready with Deployments and Services configurations (`k8s/`).
 - **CI Pipelines**: Configured with GitHub Actions for automated linting, checking (`npm run check`), security scanning (`gitleaks`), and Docker image publishing to GHCR.
