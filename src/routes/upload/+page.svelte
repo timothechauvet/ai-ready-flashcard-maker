@@ -3,9 +3,10 @@
   import { supabase } from '$lib/supabase';
 
   let fileInput: HTMLInputElement;
-  let errorMsg = '';
-  let successMsg = '';
-  let isUploading = false;
+  let deckTitle = $state('');
+  let errorMsg = $state('');
+  let successMsg = $state('');
+  let isUploading = $state(false);
   
   async function handleUpload() {
     errorMsg = '';
@@ -17,6 +18,7 @@
     }
 
     const file = fileInput.files[0];
+    const finalTitle = deckTitle.trim() || file.name.replace(/\.[^/.]+$/, "");
     
     if (file.size > 1024 * 1024) {
       errorMsg = 'File size exceeds 1MB limit.';
@@ -56,26 +58,22 @@
         return;
       }
 
-      // Prepare deck name from filename (without extension)
-      const deckName = file.name.replace(/\.[^/.]+$/, "");
-
-      // Insert into Supabase (assuming a decks table, adjust if needed later)
+      // Insert into Supabase
       const { data: deckData, error: dbError } = await supabase
         .from('decks')
-        .insert([{ name: deckName, cards: data }])
+        .insert([{ name: finalTitle, cards: data }])
         .select();
 
       if (dbError) {
-        // If the table doesn't exist yet, we still show success for the parsing part 
-        // to not block development, but ideally we'd show the error.
-        console.warn('Supabase insert failed (table might not exist yet):', dbError);
+        console.warn('Supabase insert failed:', dbError);
         successMsg = `Successfully parsed ${data.length} flashcards! (DB save pending schema)`;
       } else {
-        successMsg = `Successfully uploaded deck with ${data.length} flashcards!`;
+        successMsg = `Successfully uploaded "${finalTitle}" with ${data.length} flashcards!`;
       }
       
       // Reset input
       fileInput.value = '';
+      deckTitle = '';
     } catch (err: any) {
       errorMsg = 'An unexpected error occurred: ' + err.message;
     } finally {
@@ -127,9 +125,19 @@ Ensure the YAML is clean and correctly indented. Total content must be under 1MB
       </div>
     {/if}
 
-    <div style="margin-top: 1.5rem;">
-      <input type="file" accept=".yaml,.yml" bind:this={fileInput} style="margin-bottom: 1rem;" disabled={isUploading} />
-      <button class="btn btn-primary" onclick={handleUpload} disabled={isUploading}>
+    <div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+      <div class="form-group">
+        <label for="deckTitle" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">Deck Title (Optional)</label>
+        <input type="text" id="deckTitle" placeholder="e.g. Japanese Kanji N5" bind:value={deckTitle} disabled={isUploading} />
+        <small class="text-muted">If left blank, the filename will be used.</small>
+      </div>
+
+      <div class="form-group">
+        <label for="file" style="display: block; margin-bottom: 0.5rem; font-weight: 600;">YAML File</label>
+        <input type="file" id="file" accept=".yaml,.yml" bind:this={fileInput} disabled={isUploading} />
+      </div>
+
+      <button class="btn btn-primary" onclick={handleUpload} disabled={isUploading} style="width: 100%; margin-top: 0.5rem;">
         {isUploading ? 'Uploading...' : 'Upload Deck'}
       </button>
     </div>

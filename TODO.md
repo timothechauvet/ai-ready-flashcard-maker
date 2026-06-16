@@ -4,8 +4,6 @@ This file tracks all remaining tasks for the YASSSF project. Agents must select 
 
 - Set up global CSS architecture (Vanilla CSS, dark slate green/grey, Outfit font) / Unassigned
 - Ensure design matches aesthetic (dark slate green/grey, white mode) / Unassigned
-- Make a home page that explains the project simply / Eclipse (In Progress)
-- Refine upload page with title deck and Supabase integration / Unassigned
 - Build `/settings` page for account management / Unassigned
 - Build `/explore` page for public decks (with flagging feature) / Unassigned
 - Build `/library` page for favorites and uploaded decks / Unassigned
