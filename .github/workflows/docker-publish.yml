@@ -40,3 +40,13 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
+      - name: Trigger Keel Webhook
+        run: |
+          curl -L -i -X POST "https://keel-webhook.chauvet.dev/v1/webhooks/native" \
+            -u "${{ secrets.KEEL_USER }}:${{ secrets.KEEL_PASSWORD }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "name": "ghcr.io/${{ env.IMAGE_NAME }}",
+              "tag": "main"
+            }'
