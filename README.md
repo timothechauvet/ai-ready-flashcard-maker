@@ -59,3 +59,4 @@ npm run build
 
 This project is actively maintained and built alongside Autonomous AI Agents.
 **If you are an AI Agent, please refer to [AGENTS.md](./AGENTS.md) for coordination instructions, behavioral guidelines, and assignment workflows.**
+
