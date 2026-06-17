@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getGermanIdiomsDeck, type Flashcard } from '$lib/deck_loader';
+	import { getGermanIdiomsDeck, getGermanWordsDeck, type Flashcard } from '$lib/deck_loader';
 	import { onMount } from 'svelte';
 	import { base } from '$app/paths';
 
@@ -25,6 +25,8 @@
 	onMount(() => {
 		if (deckId === 'german-idioms') {
 			cards = getGermanIdiomsDeck();
+		} else if (deckId === 'german-words') {
+			cards = getGermanWordsDeck();
 		}
 	});
 
