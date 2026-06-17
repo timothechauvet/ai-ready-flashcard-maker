@@ -40,6 +40,9 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          build-args: |
+            PUBLIC_SUPABASE_URL=placeholder
+            PUBLIC_SUPABASE_ANON_KEY=placeholder
 
       - name: Trigger Keel Webhook
         run: |

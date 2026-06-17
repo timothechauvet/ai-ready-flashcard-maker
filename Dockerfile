@@ -1,5 +1,8 @@
 FROM node:20-alpine AS builder
 
+ARG PUBLIC_SUPABASE_URL
+ARG PUBLIC_SUPABASE_ANON_KEY
+
 WORKDIR /app
 COPY package*.json ./
 RUN npm ci
