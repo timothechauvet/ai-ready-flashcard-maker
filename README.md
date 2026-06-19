@@ -42,6 +42,7 @@ YASSSF is built with a modern, cloud-ready stack:
 ### Premium Subscription (Future)
 - **Pictures**: Support for attaching images and diagrams to cards.
 - **AI Training**: Smart card generation and adaptive spacing algorithms based on review performance.
+- **AI Text Triage**: Paste raw text/notes to automatically format and triage them into structured decks.
 - **Browser Extension**: Instantly clip content from your browser to create flashcards.
 - **API Access**: Export, import, and sync cards programmatically.
 
