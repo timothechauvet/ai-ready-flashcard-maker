@@ -104,8 +104,8 @@
 
 		<!-- Sub-Header Scoreboard -->
 		<div class="scoreboard">
-			<span class="score-incorrect">? {incorrectCount}</span>
-			<span class="score-correct">{correctCount} ✓</span>
+			<span class="score-incorrect">Need to revise: {incorrectCount}</span>
+			<span class="score-correct">I know: {correctCount}</span>
 		</div>
 
 		<!-- Central Card Area -->
@@ -155,8 +155,8 @@
 			</button>
 
 			<div class="swipe-buttons">
-				<button class="action-btn incorrect-btn" onclick={handleSwipeLeft}> ✕ Incorrect </button>
-				<button class="action-btn correct-btn" onclick={handleSwipeRight}> ✓ Correct </button>
+				<button class="action-btn incorrect-btn" onclick={handleSwipeLeft}> ✕ Need to revise </button>
+				<button class="action-btn correct-btn" onclick={handleSwipeRight}> ✓ I know </button>
 			</div>
 		</div>
 	</div>
