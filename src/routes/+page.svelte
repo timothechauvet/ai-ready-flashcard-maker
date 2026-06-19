@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>YASSSF - Master Anything Faster</title>
+	<title>Yet Another Simple Shared Study Flashcards</title>
 	<meta
 		name="description"
 		content="Yet Another Simple Shared Study Flashcards. AI-ready, mobile-first, lightning fast learning."
@@ -13,7 +13,7 @@
 <section class="hero-section">
 	<div class="hero-content">
 		<h1 class="animate-fade-in">
-			Master Any Subject with <span class="text-accent">Simplicity.</span>
+			Yet Another Simple Shared Study <span class="text-accent">Flashcards.</span>
 		</h1>
 		<p class="subtitle animate-fade-in" style="animation-delay: 0.1s;">
 			YASSSF is the ultimate minimal flashcard tool. Generate decks with AI, share with your
@@ -23,10 +23,6 @@
 			<a href={`${base}/upload`} class="btn btn-primary btn-lg">Create a Deck</a>
 			<a href={`${base}/explore`} class="btn btn-secondary btn-lg">Explore Public Decks</a>
 		</div>
-	</div>
-
-	<div class="hero-image-wrapper animate-fade-in" style="animation-delay: 0.3s;">
-		<img src="/images/hero.png" alt="YASSSF Flashcards Hero" class="hero-image" />
 	</div>
 
 	<div class="features-grid">
