@@ -170,9 +170,6 @@
 	</div>
 {:else if showFinishScreen}
 	<div class="play-container animate-fade-in finish-screen">
-		<div class="top-bar">
-			<a href={`${base}/explore`} class="close-btn" aria-label="Exit session">✕</a>
-		</div>
 		<div class="finish-content card">
 			<div class="trophy-icon">🎉</div>
 			<h2>You got it!</h2>
@@ -198,8 +195,7 @@
 {:else}
 	<div class="play-container animate-fade-in">
 		<!-- Top Bar Controls & Stats -->
-		<div class="top-bar">
-			<a href={`${base}/explore`} class="close-btn" aria-label="Exit session">✕</a>
+		<div class="top-bar" style="justify-content: center;">
 			<div style="display: flex; align-items: center; gap: 1rem;">
 				<label class="random-toggle-label">
 					<input type="checkbox" checked={isRandom} onchange={toggleRandom} />
@@ -210,7 +206,6 @@
 					<span class="score-correct">I know: {correctCount}</span>
 				</div>
 			</div>
-			<div style="width: 24px;"></div>
 		</div>
 
 		<!-- Central Card Area -->
