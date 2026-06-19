@@ -2,6 +2,7 @@ import yaml from 'js-yaml';
 import sampleYaml from './sample_deck.yaml?raw';
 import germanWordsYaml from './german_words.yaml?raw';
 import germanC1Yaml from './german_c1.yaml?raw';
+import germanNounsYaml from './german_nouns.yaml?raw';
 
 export interface Flashcard {
 	indication: string;
@@ -31,6 +32,15 @@ export function getGermanC1Deck(): Flashcard[] {
 		return yaml.load(germanC1Yaml) as Flashcard[];
 	} catch (e) {
 		console.error('Failed to parse german c1 yaml', e);
+		return [];
+	}
+}
+
+export function getGermanNounsDeck(): Flashcard[] {
+	try {
+		return yaml.load(germanNounsYaml) as Flashcard[];
+	} catch (e) {
+		console.error('Failed to parse german nouns yaml', e);
 		return [];
 	}
 }
