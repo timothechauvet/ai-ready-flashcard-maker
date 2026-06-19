@@ -38,6 +38,9 @@ YASSSF is built with a modern, cloud-ready stack:
 - **Personal Account Notes**: Attach notes and annotations to your study profile.
 - **Private Decks**: Keep your custom decks private, separate from the public explorer.
 - **Exam Mode**: A structured testing environment with score reporting.
+- **Word Pronunciation**: Synthesize spoken audio for flashcard text natively.
+- **Time Tracking**: Log and monitor session-based learning times and study metrics.
+- **Auto-Translation**: Instantly translate entire study decks into any target language.
 
 ### Premium Subscription (Future)
 - **Pictures**: Support for attaching images and diagrams to cards.
@@ -45,6 +48,9 @@ YASSSF is built with a modern, cloud-ready stack:
 - **AI Text Triage**: Paste raw text/notes to automatically format and triage them into structured decks.
 - **Browser Extension**: Instantly clip content from your browser to create flashcards.
 - **API Access**: Export, import, and sync cards programmatically.
+- **Audio Recording**: Record and save your own voice pronunciations on cards for review.
+- **Video Demonstrations**: Embed short video clips directly on cards to contextualize learning.
+- **Live Conversation Triaging**: Record live conversations, upload them, and let AI build personalized study decks from the transcript.
 
 ### Deployment & CI/CD
 
