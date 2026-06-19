@@ -297,6 +297,7 @@
 	.finish-actions button, .finish-actions a {
 		flex: 1;
 		max-width: 180px;
+		font-size: 0.9rem;
 	}
 
 	.top-bar {
