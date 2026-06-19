@@ -1,0 +1,39 @@
+- indication: 'der Apfel'
+  result: 'the apple'
+  category: 'Nouns'
+
+- indication: 'das Auto'
+  result: 'the car'
+  category: 'Nouns'
+
+- indication: 'das Buch'
+  result: 'the book'
+  category: 'Nouns'
+
+- indication: 'der Hund'
+  result: 'the dog'
+  category: 'Nouns'
+
+- indication: 'die Katze'
+  result: 'the cat'
+  category: 'Nouns'
+
+- indication: 'das Haus'
+  result: 'the house'
+  category: 'Nouns'
+
+- indication: 'der Tisch'
+  result: 'the table'
+  category: 'Nouns'
+
+- indication: 'der Stuhl'
+  result: 'the chair'
+  category: 'Nouns'
+
+- indication: 'das Kind'
+  result: 'the child'
+  category: 'Nouns'
+
+- indication: 'die Schule'
+  result: 'the school'
+  category: 'Nouns'
