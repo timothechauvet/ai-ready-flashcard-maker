@@ -5,7 +5,6 @@ import germanWordsYaml from './german_words.yaml?raw';
 export interface Flashcard {
 	indication: string;
 	result: string;
-	category?: string;
 }
 
 export function getGermanIdiomsDeck(): Flashcard[] {

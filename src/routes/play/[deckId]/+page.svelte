@@ -118,15 +118,9 @@
 		>
 			<div class="flashcard {isFlipped ? 'flipped' : ''}">
 				<div class="card-side card-front">
-					{#if currentCard?.category}
-						<span class="card-category">{currentCard.category}</span>
-					{/if}
 					<p class="card-text">{currentCard?.indication}</p>
 				</div>
 				<div class="card-side card-back">
-					{#if currentCard?.category}
-						<span class="card-category">{currentCard.category}</span>
-					{/if}
 					<p class="card-text">{currentCard?.result}</p>
 				</div>
 			</div>
@@ -151,7 +145,10 @@
 				disabled={history.length === 0}
 				aria-label="Undo"
 			>
-				↶
+				<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+					<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+					<path d="M3 3v5h5"/>
+				</svg>
 			</button>
 
 			<div class="swipe-buttons">
@@ -211,7 +208,7 @@
 	/* Central Card Area */
 	.flashcard-wrapper {
 		width: 100%;
-		height: 350px;
+		height: 280px;
 		perspective: 1000px;
 		cursor: pointer;
 		outline: none;
@@ -318,9 +315,8 @@
 	}
 
 	.undo-btn {
-		width: 50px;
-		height: 50px;
-		font-size: 1.5rem;
+		width: 44px;
+		height: 44px;
 		background-color: var(--surface-color);
 		color: var(--text-color);
 		border: 1px solid var(--border-color);
@@ -336,10 +332,11 @@
 	}
 
 	.incorrect-btn {
-		padding: 0.75rem 1.5rem;
+		padding: 0.6rem 1rem;
 		background-color: #fee2e2;
 		color: #b91c1c;
 		border: 1px solid #fca5a5;
+		font-size: 0.9rem;
 	}
 
 	.incorrect-btn:hover {
@@ -347,10 +344,11 @@
 	}
 
 	.correct-btn {
-		padding: 0.75rem 1.5rem;
+		padding: 0.6rem 1rem;
 		background-color: #d1fae5;
 		color: #047857;
 		border: 1px solid #6ee7b7;
+		font-size: 0.9rem;
 	}
 
 	.correct-btn:hover {
