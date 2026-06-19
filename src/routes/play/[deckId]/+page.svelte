@@ -15,6 +15,7 @@
 	let correctCount = $state(0);
 	let incorrectCount = $state(0);
 	let showFinishScreen = $state(false);
+	let isRandom = $state(false);
 
 	// Undo stack
 	interface HistoryState {
@@ -24,6 +25,7 @@
 		correctCount: number;
 		incorrectCount: number;
 		showFinishScreen: boolean;
+		isRandom: boolean;
 	}
 	let history = $state<HistoryState[]>([]);
 
@@ -50,7 +52,8 @@
 			isFlipped,
 			correctCount,
 			incorrectCount,
-			showFinishScreen
+			showFinishScreen,
+			isRandom
 		});
 	}
 
@@ -79,14 +82,29 @@
 		if (isKnown) {
 			// Remove card from active list
 			activeIndices = activeIndices.filter((_, idx) => idx !== originalActivePointer);
-			// Do not advance pointer because the current index is deleted; pointer now naturally points to next element
-			if (currentActivePointer >= activeIndices.length) {
-				currentActivePointer = 0;
+			// Determine next index
+			if (activeIndices.length > 0) {
+				if (isRandom) {
+					currentActivePointer = Math.floor(Math.random() * activeIndices.length);
+				} else if (currentActivePointer >= activeIndices.length) {
+					currentActivePointer = 0;
+				}
 			}
 		} else {
 			// Kept in deck, advance pointer to next active card
 			if (activeIndices.length > 0) {
-				currentActivePointer = (currentActivePointer + 1) % activeIndices.length;
+				if (isRandom) {
+					// Pick a random index that is different if possible
+					if (activeIndices.length > 1) {
+						let newPointer = currentActivePointer;
+						while (newPointer === currentActivePointer) {
+							newPointer = Math.floor(Math.random() * activeIndices.length);
+						}
+						currentActivePointer = newPointer;
+					}
+				} else {
+					currentActivePointer = (currentActivePointer + 1) % activeIndices.length;
+				}
 			}
 		}
 
@@ -113,16 +131,29 @@
 		correctCount = previous.correctCount;
 		incorrectCount = previous.incorrectCount;
 		showFinishScreen = previous.showFinishScreen;
+		isRandom = previous.isRandom;
 	}
 
 	function handleReplay() {
 		saveToHistory();
 		activeIndices = cards.map((_, i) => i);
-		currentActivePointer = 0;
 		isFlipped = false;
 		correctCount = 0;
 		incorrectCount = 0;
 		showFinishScreen = false;
+		if (isRandom) {
+			currentActivePointer = Math.floor(Math.random() * activeIndices.length);
+		} else {
+			currentActivePointer = 0;
+		}
+	}
+
+	function toggleRandom() {
+		saveToHistory();
+		isRandom = !isRandom;
+		if (isRandom && activeIndices.length > 0) {
+			currentActivePointer = Math.floor(Math.random() * activeIndices.length);
+		}
 	}
 </script>
 
@@ -169,9 +200,15 @@
 		<!-- Top Bar Controls & Stats -->
 		<div class="top-bar">
 			<a href={`${base}/explore`} class="close-btn" aria-label="Exit session">✕</a>
-			<div class="scoreboard-inline">
-				<span class="score-incorrect">Need to revise: {incorrectCount}</span>
-				<span class="score-correct">I know: {correctCount}</span>
+			<div style="display: flex; align-items: center; gap: 1rem;">
+				<label class="random-toggle-label">
+					<input type="checkbox" checked={isRandom} onchange={toggleRandom} />
+					<span>Shuffle</span>
+				</label>
+				<div class="scoreboard-inline">
+					<span class="score-incorrect">Need to revise: {incorrectCount}</span>
+					<span class="score-correct">I know: {correctCount}</span>
+				</div>
 			</div>
 			<div style="width: 24px;"></div>
 		</div>
@@ -322,6 +359,22 @@
 		gap: 1.5rem;
 		font-size: 0.95rem;
 		font-weight: 700;
+	}
+
+	.random-toggle-label {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--text-muted);
+		cursor: pointer;
+		user-select: none;
+	}
+
+	.random-toggle-label input {
+		width: auto;
+		cursor: pointer;
 	}
 
 	.score-incorrect {
