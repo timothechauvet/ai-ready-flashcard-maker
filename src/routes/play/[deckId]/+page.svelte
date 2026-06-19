@@ -1,43 +1,54 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { getGermanIdiomsDeck, getGermanWordsDeck, type Flashcard } from '$lib/deck_loader';
-	import { onMount } from 'svelte';
+	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
+	import confetti from 'canvas-confetti';
 
 	let deckId = $derived($page.params.deckId);
 
 	// Flashcard state
 	let cards = $state<Flashcard[]>([]);
-	let currentIndex = $state(0);
+	let activeIndices = $state<number[]>([]);
+	let currentActivePointer = $state(0);
 	let isFlipped = $state(false);
 	let correctCount = $state(0);
 	let incorrectCount = $state(0);
+	let showFinishScreen = $state(false);
 
 	// Undo stack
 	interface HistoryState {
-		currentIndex: number;
+		activeIndices: number[];
+		currentActivePointer: number;
 		isFlipped: boolean;
 		correctCount: number;
 		incorrectCount: number;
+		showFinishScreen: boolean;
 	}
 	let history = $state<HistoryState[]>([]);
 
 	onMount(() => {
+		let loadedCards: Flashcard[] = [];
 		if (deckId === 'german-idioms') {
-			cards = getGermanIdiomsDeck();
+			loadedCards = getGermanIdiomsDeck();
 		} else if (deckId === 'german-words') {
-			cards = getGermanWordsDeck();
+			loadedCards = getGermanWordsDeck();
 		}
+		cards = loadedCards;
+		activeIndices = loadedCards.map((_, i) => i);
 	});
 
-	const currentCard = $derived(cards[currentIndex] || null);
+	const currentCardIndex = $derived(activeIndices[currentActivePointer] ?? -1);
+	const currentCard = $derived(currentCardIndex !== -1 ? cards[currentCardIndex] : null);
 
 	function saveToHistory() {
 		history.push({
-			currentIndex,
+			activeIndices: [...activeIndices],
+			currentActivePointer,
 			isFlipped,
 			correctCount,
-			incorrectCount
+			incorrectCount,
+			showFinishScreen
 		});
 	}
 
@@ -49,33 +60,67 @@
 		if (!currentCard) return;
 		saveToHistory();
 		incorrectCount += 1;
-		nextCard();
+		nextCard(false);
 	}
 
-	function handleSwipeRight() {
+	async function handleSwipeRight() {
 		if (!currentCard) return;
 		saveToHistory();
 		correctCount += 1;
-		nextCard();
+		nextCard(true);
 	}
 
-	function nextCard() {
+	function nextCard(isKnown: boolean) {
 		isFlipped = false;
-		if (currentIndex < cards.length - 1) {
-			currentIndex += 1;
+		const originalActivePointer = currentActivePointer;
+
+		if (isKnown) {
+			// Remove card from active list
+			activeIndices = activeIndices.filter((_, idx) => idx !== originalActivePointer);
+			// Do not advance pointer because the current index is deleted; pointer now naturally points to next element
+			if (currentActivePointer >= activeIndices.length) {
+				currentActivePointer = 0;
+			}
 		} else {
-			// Loop or finish state: here loop back to start
-			currentIndex = 0;
+			// Kept in deck, advance pointer to next active card
+			if (activeIndices.length > 0) {
+				currentActivePointer = (currentActivePointer + 1) % activeIndices.length;
+			}
 		}
+
+		if (activeIndices.length === 0) {
+			showFinishScreen = true;
+			triggerConfetti();
+		}
+	}
+
+	function triggerConfetti() {
+		confetti({
+			particleCount: 100,
+			spread: 70,
+			origin: { y: 0.6 }
+		});
 	}
 
 	function handleUndo() {
 		if (history.length === 0) return;
 		const previous = history.pop()!;
-		currentIndex = previous.currentIndex;
+		activeIndices = previous.activeIndices;
+		currentActivePointer = previous.currentActivePointer;
 		isFlipped = previous.isFlipped;
 		correctCount = previous.correctCount;
 		incorrectCount = previous.incorrectCount;
+		showFinishScreen = previous.showFinishScreen;
+	}
+
+	function handleReplay() {
+		saveToHistory();
+		activeIndices = cards.map((_, i) => i);
+		currentActivePointer = 0;
+		isFlipped = false;
+		correctCount = 0;
+		incorrectCount = 0;
+		showFinishScreen = false;
 	}
 </script>
 
@@ -90,22 +135,43 @@
 	>
 		<h3>Loading Deck...</h3>
 	</div>
+{:else if showFinishScreen}
+	<div class="play-container animate-fade-in finish-screen">
+		<div class="top-bar">
+			<a href={`${base}/explore`} class="close-btn" aria-label="Exit session">✕</a>
+		</div>
+		<div class="finish-content card">
+			<div class="trophy-icon">🎉</div>
+			<h2>You got it!</h2>
+			<p class="text-muted">You finished the deck. All cards are learned!</p>
+			
+			<div class="stats-summary">
+				<div class="stat-box">
+					<span class="stat-val">{correctCount}</span>
+					<span class="stat-lbl">Known</span>
+				</div>
+				<div class="stat-box">
+					<span class="stat-val">{incorrectCount}</span>
+					<span class="stat-lbl">Revisions</span>
+				</div>
+			</div>
+
+			<div class="finish-actions">
+				<button class="btn btn-primary" onclick={handleReplay}>Replay Deck</button>
+				<a href={`${base}/explore`} class="btn btn-secondary">Public Decks</a>
+			</div>
+		</div>
+	</div>
 {:else}
 	<div class="play-container animate-fade-in">
 		<!-- Top Bar Controls & Stats -->
 		<div class="top-bar">
 			<a href={`${base}/explore`} class="close-btn" aria-label="Exit session">✕</a>
-			<span class="progress-indicator">
-				{currentIndex + 1} / {cards.length}
-			</span>
+			<div class="scoreboard-inline">
+				<span class="score-incorrect">Need to revise: {incorrectCount}</span>
+				<span class="score-correct">I know: {correctCount}</span>
+			</div>
 			<div style="width: 24px;"></div>
-			<!-- spacer -->
-		</div>
-
-		<!-- Sub-Header Scoreboard -->
-		<div class="scoreboard">
-			<span class="score-incorrect">Need to revise: {incorrectCount}</span>
-			<span class="score-correct">I know: {correctCount}</span>
 		</div>
 
 		<!-- Central Card Area -->
@@ -118,9 +184,11 @@
 		>
 			<div class="flashcard {isFlipped ? 'flipped' : ''}">
 				<div class="card-side card-front">
+					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
 					<p class="card-text">{currentCard?.indication}</p>
 				</div>
 				<div class="card-side card-back">
+					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
 					<p class="card-text">{currentCard?.result}</p>
 				</div>
 			</div>
@@ -145,7 +213,7 @@
 				disabled={history.length === 0}
 				aria-label="Undo"
 			>
-				<svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+				<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
 					<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
 					<path d="M3 3v5h5"/>
 				</svg>
@@ -170,6 +238,67 @@
 		padding: 0;
 	}
 
+	.finish-screen {
+		justify-content: center;
+		padding-top: 2rem;
+		gap: 1.5rem;
+	}
+
+	.finish-content {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		padding: 3rem 2rem;
+		gap: 1rem;
+	}
+
+	.trophy-icon {
+		font-size: 4rem;
+	}
+
+	.stats-summary {
+		display: flex;
+		gap: 2rem;
+		margin: 1rem 0;
+	}
+
+	.stat-box {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		background: var(--surface-color);
+		padding: 0.75rem 1.5rem;
+		border-radius: 1rem;
+		min-width: 100px;
+	}
+
+	.stat-val {
+		font-size: 1.5rem;
+		font-weight: 700;
+		color: var(--accent-color);
+	}
+
+	.stat-lbl {
+		font-size: 0.8rem;
+		color: var(--text-muted);
+		font-weight: 600;
+	}
+
+	.finish-actions {
+		display: flex;
+		gap: 1rem;
+		width: 100%;
+		justify-content: center;
+		margin-top: 1rem;
+	}
+
+	.finish-actions button, .finish-actions a {
+		flex: 1;
+		max-width: 180px;
+	}
+
 	.top-bar {
 		width: 100%;
 		display: flex;
@@ -185,15 +314,10 @@
 		cursor: pointer;
 	}
 
-	.progress-indicator {
-		font-weight: 600;
-		color: var(--text-muted);
-	}
-
-	.scoreboard {
+	.scoreboard-inline {
 		display: flex;
-		gap: 2rem;
-		font-size: 1.25rem;
+		gap: 1.5rem;
+		font-size: 0.95rem;
 		font-weight: 700;
 	}
 
@@ -255,17 +379,16 @@
 		color: var(--accent-color);
 	}
 
-	.card-category {
+	.card-counter {
 		position: absolute;
-		top: 1.5rem;
-		font-size: 0.75rem;
-		text-transform: uppercase;
-		letter-spacing: 0.1em;
-		font-weight: 700;
-		color: var(--accent-light);
-		background-color: rgba(82, 121, 111, 0.1);
-		padding: 0.25rem 0.75rem;
-		border-radius: 9999px;
+		top: 1rem;
+		left: 1rem;
+		font-size: 0.85rem;
+		font-weight: 600;
+		color: var(--text-muted);
+		background-color: rgba(0,0,0,0.05);
+		padding: 0.25rem 0.6rem;
+		border-radius: 0.5rem;
 	}
 
 	.card-text {
