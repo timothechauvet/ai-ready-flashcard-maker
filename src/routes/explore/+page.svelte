@@ -34,5 +34,17 @@
 			</div>
 			<a href={`${base}/play/german-words`} class="btn btn-primary">Play Deck</a>
 		</div>
+
+		<div
+			style="border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 0.5rem; display: flex; justify-content: space-between; align-items: center;"
+		>
+			<div>
+				<h3 style="margin-bottom: 0.25rem;">German C1.1</h3>
+				<p class="text-muted" style="font-size: 0.875rem;">
+					51 cards • German C1.1 vocabulary list
+				</p>
+			</div>
+			<a href={`${base}/play/german-c1`} class="btn btn-primary">Play Deck</a>
+		</div>
 	</div>
 </div>

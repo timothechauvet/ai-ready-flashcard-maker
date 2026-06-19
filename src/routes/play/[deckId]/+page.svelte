@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getGermanIdiomsDeck, getGermanWordsDeck, type Flashcard } from '$lib/deck_loader';
+	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
 	import confetti from 'canvas-confetti';
@@ -33,6 +33,8 @@
 			loadedCards = getGermanIdiomsDeck();
 		} else if (deckId === 'german-words') {
 			loadedCards = getGermanWordsDeck();
+		} else if (deckId === 'german-c1') {
+			loadedCards = getGermanC1Deck();
 		}
 		cards = loadedCards;
 		activeIndices = loadedCards.map((_, i) => i);
