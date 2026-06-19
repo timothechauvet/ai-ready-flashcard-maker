@@ -50,7 +50,7 @@
 			<div class="icon-box">🚀</div>
 			<h3>Shared Learning</h3>
 			<p class="text-muted">
-				No friction. Share your public decks with a link or keep them private in your local library.
+				No friction. Share your public decks with a link.
 			</p>
 		</div>
 	</div>

@@ -13,7 +13,6 @@
 			<a href={`${base}/`} style="color: white; font-size: 1.5rem; font-weight: 700;">YASSSF</a>
 			<nav style="display: flex; gap: 1rem;">
 				<a href={`${base}/explore`} style="color: white;">Explore</a>
-				<a href={`${base}/library`} style="color: white;">My Library</a>
 				<a href={`${base}/upload`} style="color: white;">Upload</a>
 				<a href={`${base}/settings`} style="color: white;">Settings</a>
 			</nav>
