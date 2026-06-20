@@ -63,7 +63,6 @@
 	const currentCardIndex = $derived(activeIndices[displayActivePointer] ?? -1);
 	const currentCard = $derived(currentCardIndex !== -1 ? cards[currentCardIndex] : null);
 
-	style="display: flex; align-items: center; gap: 1rem;"
 	function saveToHistory() {
 		history.push({
 			activeIndices: [...activeIndices],
