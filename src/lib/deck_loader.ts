@@ -10,6 +10,7 @@ import germanWortschatzYaml from './german_wortschatz.yaml?raw';
 export interface Flashcard {
 	indication: string;
 	result: string;
+	pronunciation?: string;
 }
 
 export function getGermanIdiomsDeck(): Flashcard[] {

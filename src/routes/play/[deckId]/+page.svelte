@@ -228,6 +228,11 @@
 				<div class="card-side card-front">
 					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
 					<p class="card-text">{currentCard?.indication}</p>
+					{#if currentCard?.pronunciation}
+						<p class="pronunciation-text" style="color: var(--text-muted); font-size: 1.1rem; font-family: monospace; margin-top: 0.5rem;">
+							{currentCard.pronunciation}
+						</p>
+					{/if}
 				</div>
 				<div class="card-side card-back">
 					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
