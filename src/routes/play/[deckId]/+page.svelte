@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, getGermanNounsDeck, getGermanPartizipienDeck, getGermanSayingsDeck, getGermanWortschatzDeck, getKannadaColorsDeck, type Flashcard } from '$lib/deck_loader';
+	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, getGermanNounsDeck, getGermanPartizipienDeck, getGermanSayingsDeck, getGermanWortschatzDeck, getKannadaColorsDeck, getGermanColorsDeck, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
 	import confetti from 'canvas-confetti';
@@ -49,6 +49,8 @@
 			loadedCards = getGermanWortschatzDeck();
 		} else if (deckId === 'kannada-colors') {
 			loadedCards = getKannadaColorsDeck();
+		} else if (deckId === 'german-colors') {
+			loadedCards = getGermanColorsDeck();
 		}
 		cards = loadedCards;
 		activeIndices = loadedCards.map((_, i) => i);
@@ -290,7 +292,11 @@
 					</div>
 					<div class="card-side card-back">
 						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
-						<p class="card-text">{currentCard?.result}</p>
+						{#if deckId === 'german-colors' && currentCard?.clue}
+							<p class="card-text" style="color: {currentCard.clue}; font-weight: 700;">{currentCard?.result}</p>
+						{:else}
+							<p class="card-text">{currentCard?.result}</p>
+						{/if}
 						{#if currentCard?.clue}
 							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
 								{currentCard.clue}

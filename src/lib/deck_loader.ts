@@ -7,6 +7,7 @@ import germanPartizipienYaml from './german_partizipien.yaml?raw';
 import germanSayingsYaml from './german_sayings.yaml?raw';
 import germanWortschatzYaml from './german_wortschatz.yaml?raw';
 import kannadaColorsYaml from './kannada_colors.yaml?raw';
+import germanColorsYaml from './german_colors.yaml?raw';
 
 export interface Flashcard {
 	indication: string;
@@ -83,6 +84,15 @@ export function getKannadaColorsDeck(): Flashcard[] {
 		return yaml.load(kannadaColorsYaml) as Flashcard[];
 	} catch (e) {
 		console.error('Failed to parse kannada colors yaml', e);
+		return [];
+	}
+}
+
+export function getGermanColorsDeck(): Flashcard[] {
+	try {
+		return yaml.load(germanColorsYaml) as Flashcard[];
+	} catch (e) {
+		console.error('Failed to parse german colors yaml', e);
 		return [];
 	}
 }

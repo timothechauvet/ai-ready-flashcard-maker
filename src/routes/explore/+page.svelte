@@ -106,5 +106,17 @@
 			</div>
 			<a href={`${base}/play/kannada-colors`} class="btn btn-primary">Play Deck</a>
 		</div>
+
+		<div
+			style="border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 0.5rem; display: flex; justify-content: space-between; align-items: center;"
+		>
+			<div>
+				<h3 style="margin-bottom: 0.25rem;">German Colors</h3>
+				<p class="text-muted" style="font-size: 0.875rem;">
+					12 cards • Nouns of colors with articles and visual color cues
+				</p>
+			</div>
+			<a href={`${base}/play/german-colors`} class="btn btn-primary">Play Deck</a>
+		</div>
 	</div>
 </div>

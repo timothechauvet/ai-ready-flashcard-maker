@@ -1,0 +1,48 @@
+- indication: das Rot
+  result: red
+  pronunciation: '[das ʁoːt]'
+  clue: '#FF0000'
+- indication: das Blau
+  result: blue
+  pronunciation: '[das blaʊ̯]'
+  clue: '#0000FF'
+- indication: das Grün
+  result: green
+  pronunciation: '[das ɡʁyːn]'
+  clue: '#008000'
+- indication: das Gelb
+  result: yellow
+  pronunciation: '[das ɡɛlp]'
+  clue: '#FFFF00'
+- indication: das Schwarz
+  result: black
+  pronunciation: '[das ʃvaʁts]'
+  clue: '#000000'
+- indication: das Weiß
+  result: white
+  pronunciation: '[das vaɪ̯s]'
+  clue: '#FFFFFF'
+- indication: das Orange
+  result: orange
+  pronunciation: '[das oˈʁɑ̃ːʒə]'
+  clue: '#FFA500'
+- indication: das Rosa
+  result: pink
+  pronunciation: '[das ˈʁoːza]'
+  clue: '#FFC0CB'
+- indication: das Braun
+  result: brown
+  pronunciation: '[das bʁaʊ̯n]'
+  clue: '#A52A2A'
+- indication: das Grau
+  result: gray
+  pronunciation: '[das ɡʁaʊ̯]'
+  clue: '#808080'
+- indication: das Violett
+  result: violet
+  pronunciation: '[das vi.oˈlɛt]'
+  clue: '#EE82EE'
+- indication: das Türkis
+  result: turquoise
+  pronunciation: '[das tʏʁˈkiːs]'
+  clue: '#40E0D0'
