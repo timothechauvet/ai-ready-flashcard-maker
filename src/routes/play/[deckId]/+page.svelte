@@ -27,6 +27,8 @@
 	let skipFlipAnimation = $state(false);
 	let isRandom = $state(false);
 	let autoListen = $state(false);
+	let flipCount = $state(0);
+	let showFlipClue = $state(true);
 	let currentUtterance: SpeechSynthesisUtterance | null = null;
 	let speechStartedAt = 0;
 	const LISTEN_INTERRUPT_DELAY_MS = 3000;
@@ -43,6 +45,16 @@
 		autoListen: boolean;
 	}
 	let history = $state<HistoryState[]>([]);
+
+	onMount(() => {
+		const match = document.cookie.match(/(?:^|; )flipCount=([^;]*)/);
+		if (match) {
+			flipCount = parseInt(match[1], 10) || 0;
+			if (flipCount >= 3) {
+				showFlipClue = false;
+			}
+		}
+	});
 
 	$effect(() => {
 		if (!browser) return;
@@ -110,6 +122,13 @@
 
 	function handleFlip() {
 		isFlipped = !isFlipped;
+		if (isFlipped && showFlipClue) {
+			flipCount++;
+			document.cookie = `flipCount=${flipCount}; path=/; max-age=31536000`;
+			if (flipCount >= 3) {
+				showFlipClue = false;
+			}
+		}
 	}
 
 	function speakWord(text: string | undefined, options?: { allowInterrupt?: boolean }) {
@@ -436,15 +455,17 @@
 		</div>
 
 		<!-- Instructions / Curved arrows design -->
-		<div class="flip-hint">
-			<svg class="flip-arrow-icon" viewBox="0 0 24 24" width="24" height="24">
-				<path
-					fill="currentColor"
-					d="M19 8l-4 4h3c0 3.31-2.69 6-6 6-1.01 0-1.97-.25-2.8-.7l-1.46 1.46C8.97 19.54 10.43 20 12 20c4.42 0 8-3.58 8-8h3l-4-4zM6 12c0-3.31 2.69-6 6-6 1.01 0 1.97.25 2.8.7l1.46-1.46C15.03 4.46 13.57 4 12 4c-4.42 0-8 3.58-8 8H1L5 16l4-4H6z"
-				/>
-			</svg>
-			<span>Tap card to flip</span>
-		</div>
+		{#if showFlipClue}
+			<div class="flip-hint" in:fade out:fade>
+				<svg class="flip-arrow-icon" viewBox="0 0 24 24" width="24" height="24">
+					<path
+						fill="currentColor"
+						d="M19 8l-4 4h3c0 3.31-2.69 6-6 6-1.01 0-1.97-.25-2.8-.7l-1.46 1.46C8.97 19.54 10.43 20 12 20c4.42 0 8-3.58 8-8h3l-4-4zM6 12c0-3.31 2.69-6 6-6 1.01 0 1.97.25 2.8.7l1.46-1.46C15.03 4.46 13.57 4 12 4c-4.42 0-8 3.58-8 8H1L5 16l4-4H6z"
+					/>
+				</svg>
+				<span>Tap card to flip</span>
+			</div>
+		{/if}
 
 		<!-- Bottom Bar Controls -->
 		<div class="bottom-bar">
