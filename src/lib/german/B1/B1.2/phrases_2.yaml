@@ -31,8 +31,8 @@
 - indication: die Socken fpl
   result: the socks fpl
   clue: Phrase
-- indication: to be in the sale
-  result: verkauft werden
+- indication: verkauft werden
+  result: be sold
   clue: Phrase
 - indication: der Ausverkauf
   result: the sellout
@@ -40,8 +40,8 @@
 - indication: die Zinsen pl
   result: interest pl
   clue: Phrase
-- indication: to hold a meeting
-  result: halten
+- indication: halten
+  result: hold
   clue: Phrase
 - indication: die Wohntextilien fpl
   result: the home textiles fpl

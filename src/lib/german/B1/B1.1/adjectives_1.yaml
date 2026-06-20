@@ -28,8 +28,8 @@
 - indication: die Aprikose
   result: the apricot
   clue: Adjective
-- indication: banknotes
-  result: einkaufen gehen
+- indication: einkaufen gehen
+  result: go shopping
   clue: Adjective
 - indication: die Bar
   result: the bar

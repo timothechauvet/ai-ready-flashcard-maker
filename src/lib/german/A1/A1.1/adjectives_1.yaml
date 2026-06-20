@@ -19,14 +19,14 @@
 - indication: die Ehefrau
   result: the wife
   clue: Adjective
-- indication: British
-  result: walisisch
+- indication: walisisch
+  result: welsh
   clue: Adjective
 - indication: die Mutter
   result: the mother
   clue: Adjective
-- indication: builder
-  result: Ich bin…
+- indication: Ich bin…
+  result: i am…
   clue: Adjective
 - indication: calm
   result: aufgeregt
@@ -52,8 +52,8 @@
 - indication: die Elektrikerin
   result: the electrician
   clue: Adjective
-- indication: English
-  result: schottisch
+- indication: schottisch
+  result: scottish
   clue: Adjective
 - indication: die Eltern
   result: the parents

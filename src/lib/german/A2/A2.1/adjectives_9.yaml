@@ -46,15 +46,15 @@
 - indication: to drive
   result: gehen
   clue: Adjective
-- indication: to fry
-  result: kochen
+- indication: kochen
+  result: cook
   clue: Adjective
 - indication: to overtake
   result: bremsen
   clue: Adjective
-- indication: to relax
-  result: Abruf
+- indication: Abruf
+  result: retrieval
   clue: Adjective
-- indication: to return
-  result: fahren
+- indication: fahren
+  result: drive
   clue: Adjective

@@ -19,8 +19,8 @@
 - indication: '92'
   result: other sports   |  andere sportarten
   clue: Phrase
-- indication: boxing
-  result: k.o. schlagen
+- indication: k.o. schlagen
+  result: knocked out hit
   clue: Phrase
 - indication: die Boxschuhe mpl
   result: the boxing shoes mpl

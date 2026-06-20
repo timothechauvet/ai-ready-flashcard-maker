@@ -16,8 +16,8 @@
 - indication: der blaue Fleck
   result: the bruise
   clue: Phrase
-- indication: coughing
-  result: in Ohnmacht fallen
+- indication: in Ohnmacht fallen
+  result: faint
   clue: Phrase
 - indication: shoulder
   result: body – back
@@ -28,11 +28,11 @@
 - indication: die Antibiotika ntpl
   result: the antibiotics ntpl
   clue: Phrase
-- indication: to be on medication
-  result: untersuchen
+- indication: untersuchen
+  result: investigate
   clue: Phrase
-- indication: to lose one’s balance
-  result: schmecken
+- indication: schmecken
+  result: taste good
   clue: Phrase
 - indication: die Lippen fpl
   result: the lips fpl

@@ -28,8 +28,8 @@
 - indication: low-calorie
   result: fettarm
   clue: Adjective
-- indication: low-fat
-  result: Milch-
+- indication: Milch-
+  result: milk-
   clue: Adjective
 - indication: marketplace
   result: vocabulary

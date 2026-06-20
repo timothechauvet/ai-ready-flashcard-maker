@@ -16,8 +16,8 @@
 - indication: basket
   result: einen Spieler decken
   clue: Phrase
-- indication: bathing zone
-  result: „Baden verboten.“
+- indication: „Baden verboten.“
+  result: “swimming forbidden.”
   clue: Phrase
 - indication: die blaue Linie
   result: the blue line

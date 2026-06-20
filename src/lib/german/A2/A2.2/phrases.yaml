@@ -25,8 +25,8 @@
 - indication: der Pilot / die Pilotin
   result: the pilot
   clue: Phrase
-- indication: to brush one’s teeth
-  result: waschen
+- indication: waschen
+  result: wash
   clue: Phrase
 - indication: to sail
   result: an Bord gehen

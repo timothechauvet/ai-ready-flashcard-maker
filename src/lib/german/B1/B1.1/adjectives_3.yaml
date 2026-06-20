@@ -37,8 +37,8 @@
 - indication: die App
   result: the app
   clue: Adjective
-- indication: delivery charge
-  result: zum Mitnehmen
+- indication: zum Mitnehmen
+  result: take away
   clue: Adjective
 - indication: das Schnitzel
   result: the schnitzel

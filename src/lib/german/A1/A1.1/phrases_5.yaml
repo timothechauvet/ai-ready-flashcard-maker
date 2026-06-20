@@ -16,9 +16,9 @@
 - indication: the basics   |  das wesentliche
   result: the basics |  the essential
   clue: Phrase
-- indication: Yes, please.
-  result: Bitte.
+- indication: Bitte.
+  result: please.
   clue: Phrase
-- indication: You’re welcome.
-  result: Einverstanden!
+- indication: Einverstanden!
+  result: agreed!
   clue: Phrase

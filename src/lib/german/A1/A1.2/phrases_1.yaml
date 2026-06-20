@@ -16,20 +16,20 @@
 - indication: Es ist fünf vor zehn.
   result: It’s five to ten.
   clue: Phrase
-- indication: Es ist siebzehn Uhr
-  result: It’s 17:30.
+- indication: It’s 17:30.
+  result: it's 5:30 p.m.
   clue: Phrase
-- indication: Es ist sonnig.
-  result: It’s sunny.
+- indication: It’s sunny.
+  result: it's sunny.
   clue: Phrase
 - indication: Es ist stürmisch.
   result: It’s changeable.
   clue: Phrase
-- indication: Es ist Viertel vor zehn.
-  result: It’s quarter to ten.
+- indication: It’s quarter to ten.
+  result: it's quarter to ten.
   clue: Phrase
-- indication: Es ist zehn Uhr
-  result: It’s 10 a.m.
+- indication: It’s 10 a.m.
+  result: it's 10 a.m.
   clue: Phrase
 - indication: für heute / morgen?
   result: How warm/cold is it?
@@ -40,21 +40,21 @@
 - indication: im Frühling / Winter
   result: Monday
   clue: Phrase
-- indication: '... in 60 seconds/'
-  result: Wann…?
+- indication: Wann…?
+  result: when…?
   clue: Phrase
 - indication: '... in 60 Sekunden /'
   result: two minutes.
   clue: Phrase
-- indication: '... in an hour/'
-  result: zwei Minuten.
+- indication: zwei Minuten.
+  result: two minutes.
   clue: Phrase
 - indication: '... in einer Stunde /'
   result: half an hour.
   clue: Phrase
-- indication: '... in quarter of an hour.'
-  result: halben Stunde.
+- indication: halben Stunde.
+  result: half an hour.
   clue: Phrase
-- indication: Is it going to rain?
-  result: Ist es warm / kalt?
+- indication: Ist es warm / kalt?
+  result: is it warm/cold?
   clue: Phrase

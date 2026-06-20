@@ -13,8 +13,8 @@
 - indication: I’m single.
   result: Partnerin.
   clue: Phrase
-- indication: I’m sorry.
-  result: Wie bitte?
+- indication: Wie bitte?
+  result: i'm sorry, what?
   clue: Phrase
 - indication: I’m travelling.
   result: Ruhestand.
@@ -28,11 +28,11 @@
 - indication: Königreich.
   result: I live in...
   clue: Phrase
-- indication: Mir geht es gut.
-  result: I’m fine.
+- indication: I’m fine.
+  result: i'm fine.
   clue: Phrase
-- indication: My birthday is on…
-  result: Ich bin … (Jahre alt).
+- indication: Ich bin … (Jahre alt).
+  result: i am___years old).
   clue: Phrase
 - indication: No.
   result: Ja.

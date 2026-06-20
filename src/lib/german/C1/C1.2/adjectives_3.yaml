@@ -40,8 +40,8 @@
 - indication: Krankenschwester
   result: die
   clue: Adjective
-- indication: long-sighted
-  result: kurzsichtig
+- indication: kurzsichtig
+  result: short-sighted
   clue: Adjective
 - indication: die Hypnotherapie
   result: the hypnotherapy

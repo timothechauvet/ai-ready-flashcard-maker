@@ -46,8 +46,8 @@
 - indication: das Bargeld
   result: the cash
   clue: Adjective
-- indication: charger
-  result: ausschalten
+- indication: ausschalten
+  result: turn off
   clue: Adjective
 - indication: das Sektglas
   result: the champagne glass

@@ -37,8 +37,8 @@
 - indication: die Steckdose
   result: the socket
   clue: Adjective
-- indication: emergency phone
-  result: Frostschutzmittel
+- indication: Frostschutzmittel
+  result: antifreeze
   clue: Adjective
 - indication: das Home­
   result: the home

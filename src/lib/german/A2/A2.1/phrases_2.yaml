@@ -1,8 +1,8 @@
 - indication: der Reisebus
   result: the coach
   clue: Phrase
-- indication: to clear the table
-  result: zu Abend essen
+- indication: zu Abend essen
+  result: have dinner
   clue: Phrase
 - indication: to dine
   result: den Tisch decken
@@ -10,14 +10,14 @@
 - indication: to go for a bike ride
   result: radfahren
   clue: Phrase
-- indication: to have a flat tyre
-  result: einen Unfall haben
+- indication: einen Unfall haben
+  result: have an accident
   clue: Phrase
 - indication: to have an accident
   result: kaputtgehen
   clue: Phrase
-- indication: to put away the
-  result: saubermachen
+- indication: saubermachen
+  result: clean up
   clue: Phrase
 - indication: das Glasgeschirr
   result: the glassware
@@ -25,6 +25,6 @@
 - indication: der Promillemesser
   result: the alcohol meter
   clue: Phrase
-- indication: to wipe one’s feet
-  result: Summer hereinlassen
+- indication: Summer hereinlassen
+  result: let summer in
   clue: Phrase

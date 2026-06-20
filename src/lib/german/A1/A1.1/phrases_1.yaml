@@ -13,11 +13,11 @@
 - indication: Bye!
   result: Bis Samstag.
   clue: Phrase
-- indication: children.
-  result: I don’t have any
+- indication: I don’t have any
+  result: i don't have any
   clue: Phrase
-- indication: ... dem Vereinigten
-  result: ... the UK.
+- indication: '... dem Vereinigten'
+  result: '... the UK.'
   clue: Phrase
 - indication: Do you have any
   result: Ich bin verwitwet.
@@ -31,17 +31,17 @@
 - indication: Excuse me.
   result: Nein, danke.
   clue: Phrase
-- indication: Fine, thanks.
-  result: Ihnen?
+- indication: Ihnen?
+  result: them?
   clue: Phrase
-- indication: Geburtstag.
-  result: Ich habe am …
+- indication: Ich habe am …
+  result: i have on…
   clue: Phrase
 - indication: gesundheit und wohlbefinden
   result: general health and wellbeing   |
   clue: Phrase
-- indication: Good afternoon.
-  result: Guten Morgen.
+- indication: Guten Morgen.
+  result: good morning
   clue: Phrase
 - indication: Good evening.
   result: Guten Tag.

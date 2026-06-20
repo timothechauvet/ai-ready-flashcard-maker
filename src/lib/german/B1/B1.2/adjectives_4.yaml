@@ -52,8 +52,8 @@
 - indication: die Tasse
   result: the cup
   clue: Adjective
-- indication: handlung
-  result: Spirituosen–
+- indication: Spirituosen–
+  result: spirits-
   clue: Adjective
 - indication: das Schmerzmittel
   result: the painkiller

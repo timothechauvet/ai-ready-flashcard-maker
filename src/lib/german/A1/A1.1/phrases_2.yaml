@@ -4,8 +4,8 @@
 - indication: I am...
   result: Mir ist kalt / warm.
   clue: Phrase
-- indication: I don’t know.
-  result: Nein.
+- indication: Nein.
+  result: no.
   clue: Phrase
 - indication: I don’t understand.
   result: Bitte.
@@ -13,20 +13,20 @@
 - indication: I have a partner.
   result: Ich bin verheiratet.
   clue: Phrase
-- indication: I work from home.
-  result: Ich reise.
+- indication: Ich reise.
+  result: i'm traveling.
   clue: Phrase
-- indication: I work part-/full-time.
-  result: Ich arbeite zu Hause.
+- indication: Ich arbeite zu Hause.
+  result: i work at home.
   clue: Phrase
-- indication: Ich bin
-  result: I’m self-employed.
+- indication: I’m self-employed.
+  result: i'm self-employed.
   clue: Phrase
 - indication: Ich bin … geboren.
   result: I was born in...
   clue: Phrase
-- indication: Ich bin im
-  result: I’m retired.
+- indication: I’m retired.
+  result: i'm retired.
   clue: Phrase
 - indication: Ich bin müde.
   result: I’m tired.
@@ -37,8 +37,8 @@
 - indication: Ich habe … Kinder.
   result: I have ... children.
   clue: Phrase
-- indication: Ich habe Hunger /
-  result: I’m hungry/thirsty.
+- indication: I’m hungry/thirsty.
+  result: i'm hungry/thirsty.
   clue: Phrase
 - indication: Ich komme aus…
   result: I’m from...
@@ -49,12 +49,12 @@
 - indication: I’m...
   result: Ich wohne in…
   clue: Phrase
-- indication: I’m … years old.
-  result: Geburtstag?
+- indication: Geburtstag?
+  result: birthday?
   clue: Phrase
 - indication: I’m a/an...
   result: Ich arbeite als…
   clue: Phrase
-- indication: I’m at university.
-  result: Ich bin arbeitslos.
+- indication: Ich bin arbeitslos.
+  result: i'm unemployed.
   clue: Phrase

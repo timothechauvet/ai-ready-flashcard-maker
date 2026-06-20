@@ -22,11 +22,11 @@
 - indication: der Tennisplatz
   result: the tennis court
   clue: Adjective
-- indication: the gym
-  result: gehen
+- indication: gehen
+  result: go
   clue: Adjective
-- indication: the seaside
-  result: schwimmen
+- indication: schwimmen
+  result: to swim
   clue: Adjective
 - indication: das Restaurant
   result: the restaurant
@@ -37,11 +37,11 @@
 - indication: to catch
   result: Basketball spielen
   clue: Adjective
-- indication: to check in
-  result: Nacht
+- indication: Nacht
+  result: night
   clue: Adjective
-- indication: to check out
-  result: einchecken
+- indication: einchecken
+  result: check in
   clue: Adjective
 - indication: to compete
   result: trainieren

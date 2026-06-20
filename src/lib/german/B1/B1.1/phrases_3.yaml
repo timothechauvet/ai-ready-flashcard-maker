@@ -1,5 +1,5 @@
-- indication: to have dinner
-  result: zu Mittag essen
+- indication: zu Mittag essen
+  result: to have lunch
   clue: Phrase
 - indication: to have lunch
   result: essen / trinken

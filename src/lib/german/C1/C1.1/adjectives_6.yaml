@@ -43,18 +43,18 @@
 - indication: die HLW
   result: the cpr
   clue: Adjective
-- indication: to cough
-  result: Blutdruck haben
+- indication: Blutdruck haben
+  result: have blood pressure
   clue: Adjective
-- indication: to examine
-  result: vereinbaren
+- indication: vereinbaren
+  result: agree
   clue: Adjective
 - indication: to have high/low
   result: mpl
   clue: Adjective
-- indication: to hear
-  result: riechen
+- indication: riechen
+  result: smell
   clue: Adjective
-- indication: to look after
-  result: sich erholen
+- indication: sich erholen
+  result: to recover
   clue: Adjective

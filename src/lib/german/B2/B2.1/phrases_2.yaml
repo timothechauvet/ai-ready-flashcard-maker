@@ -19,8 +19,8 @@
 - indication: to mark a player
   result: blockieren
   clue: Phrase
-- indication: to order room service
-  result: abreisen
+- indication: abreisen
+  result: leave
   clue: Phrase
 - indication: to pass the ball
   result: angreifen
@@ -31,8 +31,8 @@
 - indication: to score a goal
   result: den Ball abgeben
   clue: Phrase
-- indication: to see a show
-  result: zu trinken bestellen
+- indication: zu trinken bestellen
+  result: order a drink
   clue: Phrase
 - indication: in der Sonne liegen
   result: sunbathe

@@ -4,14 +4,14 @@
 - indication: Was für furchtbares
   result: Wetter!
   clue: Phrase
-- indication: Welches Datum
-  result: What is today’s date?
+- indication: What is today’s date?
+  result: what is today's date?
   clue: Phrase
 - indication: Wettervorhersage
   result: Wie ist die
   clue: Phrase
-- indication: What a lovely day!
-  result: Wird es regnen?
+- indication: Wird es regnen?
+  result: will it rain?
   clue: Phrase
 - indication: die Mitternacht
   result: the midnight

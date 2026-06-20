@@ -1,35 +1,35 @@
-- indication: It is...
-  result: Es ist wechselhaft.
+- indication: Es ist wechselhaft.
+  result: it's changeable.
   clue: Phrase
-- indication: It’s 20 to ten.
-  result: Es ist halb zehn.
+- indication: Es ist halb zehn.
+  result: it's half past nine.
   clue: Phrase
 - indication: It’s 5 p.m.
   result: (morgens).
   clue: Phrase
-- indication: It’s foggy.
-  result: dunstig.
+- indication: dunstig.
+  result: hazy.
   clue: Phrase
-- indication: It’s freezing.
-  result: Es ist neblig.
+- indication: Es ist neblig.
+  result: it's foggy.
   clue: Phrase
-- indication: It’s half past nine.
-  result: zehn.
+- indication: zehn.
+  result: ten.
   clue: Phrase
 - indication: It’s quarter past nine.
   result: Es ist zehn nach neun.
   clue: Phrase
-- indication: It’s raining/snowing.
-  result: Es friert.
+- indication: Es friert.
+  result: it's freezing.
   clue: Phrase
-- indication: It’s stormy.
-  result: Es ist windig.
+- indication: Es ist windig.
+  result: it's windy.
   clue: Phrase
-- indication: It’s ten past nine.
-  result: Es ist neun Uhr.
+- indication: Es ist neun Uhr.
+  result: it's nine o'clock.
   clue: Phrase
-- indication: It’s windy.
-  result: Es regnet / schneit.
+- indication: Es regnet / schneit.
+  result: it's raining/snowing.
   clue: Phrase
 - indication: time   |  die uhrzeit
   result: time |  the time
@@ -37,8 +37,8 @@
 - indication: die zwei Wochen
   result: the two weeks
   clue: Phrase
-- indication: monthly
-  result: alle zwei Wochen
+- indication: alle zwei Wochen
+  result: every two weeks
   clue: Phrase
 - indication: neun.
   result: Es ist Viertel nach
@@ -55,6 +55,6 @@
 - indication: die vorletzte Woche
   result: the week before last
   clue: Phrase
-- indication: today/tomorrow?
-  result: What’s the forecast for
+- indication: What’s the forecast for
+  result: what's the forecast for
   clue: Phrase

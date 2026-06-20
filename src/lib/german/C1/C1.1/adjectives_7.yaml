@@ -1,5 +1,5 @@
-- indication: to recover
-  result: gesund
+- indication: gesund
+  result: healthy
   clue: Adjective
 - indication: das Gleichgewicht
   result: the balance

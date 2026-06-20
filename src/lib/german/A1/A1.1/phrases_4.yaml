@@ -13,8 +13,8 @@
 - indication: So-so.
   result: Super!
   clue: Phrase
-- indication: Sorry?
-  result: Entschuldigung.
+- indication: Entschuldigung.
+  result: excuse me.
   clue: Phrase
 - indication: Studieren Sie?
   result: Arbeiten /
@@ -28,8 +28,8 @@
 - indication: Thank you.
   result: Ja, bitte.
   clue: Phrase
-- indication: They are...
-  result: Er / Sie ist…
+- indication: Er / Sie ist…
+  result: he/she is…
   clue: Phrase
 - indication: Tschüss!
   result: Have a good day/
@@ -37,8 +37,8 @@
 - indication: Universität.
   result: Ich bin an der
   clue: Phrase
-- indication: Very well, thanks, and
-  result: Wie geht es ihnen?
+- indication: Wie geht es ihnen?
+  result: how are you doing?
   clue: Phrase
 - indication: Wann haben Sie
   result: When is your birthday?
@@ -49,8 +49,8 @@
 - indication: Was machen Sie
   result: What do you do?
   clue: Phrase
-- indication: What’s your
-  result: beruflich?
+- indication: beruflich?
+  result: professionally?
   clue: Phrase
 - indication: Wie alt sind Sie?
   result: How old are you?

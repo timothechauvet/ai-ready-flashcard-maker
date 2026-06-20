@@ -16,11 +16,11 @@
 - indication: die Bedienung
   result: the service
   clue: Adjective
-- indication: to arrive
-  result: sich anziehen
+- indication: sich anziehen
+  result: to get dressed
   clue: Adjective
-- indication: to buy
-  result: sich umsehen
+- indication: sich umsehen
+  result: look around
   clue: Adjective
 - indication: to download/upload
   result: posten
@@ -34,8 +34,8 @@
 - indication: to get dressed
   result: aufwachen
   clue: Adjective
-- indication: to go shopping
-  result: (Online) einkaufen
+- indication: (Online) einkaufen
+  result: shop (online).
   clue: Adjective
 - indication: to leave
   result: ankommen
@@ -49,8 +49,8 @@
 - indication: to pay
   result: kaufen
   clue: Adjective
-- indication: to post (online)
-  result: schicken
+- indication: schicken
+  result: send
   clue: Adjective
 - indication: to shop (online)
   result: zahlen

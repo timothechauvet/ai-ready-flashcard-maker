@@ -10,8 +10,8 @@
 - indication: neunzig
   result: achtzig
   clue: Adjective
-- indication: nice
-  result: Es ist…
+- indication: Es ist…
+  result: it is…
   clue: Adjective
 - indication: der Abend
   result: the evening

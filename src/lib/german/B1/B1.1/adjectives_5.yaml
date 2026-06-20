@@ -10,8 +10,8 @@
 - indication: die Ente
   result: the duck
   clue: Adjective
-- indication: goulash soup
-  result: Sauerkraut
+- indication: Sauerkraut
+  result: sauerkraut
   clue: Adjective
 - indication: greengrocer’s
   result: vocabulary

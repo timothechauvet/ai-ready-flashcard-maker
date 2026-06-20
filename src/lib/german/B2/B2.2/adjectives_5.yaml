@@ -37,11 +37,11 @@
 - indication: to kick
   result: schlagen
   clue: Adjective
-- indication: to knock out
-  result: fechten
+- indication: fechten
+  result: fencing
   clue: Adjective
-- indication: to sing
-  result: spielen
+- indication: spielen
+  result: play
   clue: Adjective
 - indication: die Lawinengefahr
   result: the danger of avalanches

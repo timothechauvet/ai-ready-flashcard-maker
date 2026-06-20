@@ -1,8 +1,8 @@
 - indication: to reverse
   result: parken
   clue: Adjective
-- indication: to sit down
-  result: sich entspannen
+- indication: sich entspannen
+  result: to relax
   clue: Adjective
 - indication: to speed
   result: verlangsamen
@@ -13,8 +13,8 @@
 - indication: die Strecke
   result: the route
   clue: Adjective
-- indication: to watch TV
-  result: sich setzen
+- indication: sich setzen
+  result: to sit down
   clue: Adjective
 - indication: der Kessel
   result: the boiler

@@ -1,11 +1,11 @@
 - indication: schrecklich
   result: terrible / awful / dreadful
   clue: Adjective
-- indication: short-sighted
-  result: Sehen
+- indication: Sehen
+  result: see
   clue: Adjective
-- indication: sonographer
-  result: schaftstest
+- indication: schaftstest
+  result: shaft test
   clue: Adjective
 - indication: spektakulär
   result: spectacular

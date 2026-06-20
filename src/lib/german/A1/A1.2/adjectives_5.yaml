@@ -10,8 +10,8 @@
 - indication: temperature
   result: mild
   clue: Adjective
-- indication: the week before
-  result: Donnerstag
+- indication: Donnerstag
+  result: thursday
   clue: Adjective
 - indication: der Nebel
   result: the fog
@@ -19,8 +19,8 @@
 - indication: der Blitz
   result: the lightning
   clue: Adjective
-- indication: Thursday
-  result: Mittwoch
+- indication: Mittwoch
+  result: wednesday
   clue: Adjective
 - indication: Tuesday
   result: Montag

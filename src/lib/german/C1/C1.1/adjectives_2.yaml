@@ -10,8 +10,8 @@
 - indication: der Durchfall
   result: the diarrhea
   clue: Adjective
-- indication: CPR
-  result: Seitenlage
+- indication: Seitenlage
+  result: side position
   clue: Adjective
 - indication: die Verbrennung
   result: the combustion

@@ -37,14 +37,14 @@
 - indication: die Windeldermatitis
   result: diaper rash
   clue: Adjective
-- indication: to breast-feed
-  result: zahnen
+- indication: zahnen
+  result: teething
   clue: Adjective
 - indication: to graduate
   result: ablegen
   clue: Adjective
-- indication: to log on/off
-  result: Maschine schreiben
+- indication: Maschine schreiben
+  result: write by machine
   clue: Adjective
 - indication: das Passwort
   result: the password
