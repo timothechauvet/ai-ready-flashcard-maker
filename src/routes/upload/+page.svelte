@@ -8,6 +8,8 @@
 	let deckTitle = $state('');
 	let deckFolder = $state('');
 	let deckCategory = $state('');
+	let rawYamlText = $state('');
+	let uploadMode = $state<'file' | 'text'>('file');
 	let errorMsg = $state('');
 	let successMsg = $state('');
 	let isUploading = $state(false);
@@ -16,22 +18,38 @@
 		errorMsg = '';
 		successMsg = '';
 
-		if (!fileInput.files || fileInput.files.length === 0) {
-			errorMsg = 'Please select a file to upload.';
-			return;
+		let yamlContent = '';
+		let defaultTitle = '';
+
+		if (uploadMode === 'file') {
+			if (!fileInput.files || fileInput.files.length === 0) {
+				errorMsg = 'Please select a file to upload.';
+				return;
+			}
+			const file = fileInput.files[0];
+			if (file.size > 2 * 1024 * 1024) {
+				errorMsg = 'File size exceeds 2MB limit.';
+				return;
+			}
+			yamlContent = await file.text();
+			defaultTitle = file.name.replace(/\.[^/.]+$/, '');
+		} else {
+			if (!rawYamlText.trim()) {
+				errorMsg = 'Please paste some YAML content.';
+				return;
+			}
+			yamlContent = rawYamlText;
+			defaultTitle = 'Pasted Deck';
 		}
 
-		const file = fileInput.files[0];
-
-		if (file.size > 2 * 1024 * 1024) {
-			errorMsg = 'File size exceeds 2MB limit.';
+		if (new Blob([yamlContent]).size > 2 * 1024 * 1024) {
+			errorMsg = 'Content exceeds 2MB limit.';
 			return;
 		}
 
 		// Client-side YAML validation
 		try {
-			const text = await file.text();
-			const data = yaml.load(text);
+			const data = yaml.load(yamlContent);
 			if (!Array.isArray(data)) {
 				errorMsg = 'YAML must contain a list of flashcard objects.';
 				return;
@@ -55,7 +73,8 @@
 
 		try {
 			const formData = new FormData();
-			formData.append('file', file);
+			const fileObj = new File([yamlContent], defaultTitle + '.yaml', { type: 'text/yaml' });
+			formData.append('file', fileObj);
 			if (deckTitle.trim()) formData.append('title', deckTitle.trim());
 			if (deckFolder.trim()) formData.append('folder', deckFolder.trim());
 			if (deckCategory.trim()) formData.append('category', deckCategory.trim());
@@ -74,7 +93,8 @@
 			const result = await res.json();
 			successMsg = result.message || `Successfully uploaded ${result.card_count} cards!`;
 
-			fileInput.value = '';
+			if (fileInput) fileInput.value = '';
+			rawYamlText = '';
 			deckTitle = '';
 			deckFolder = '';
 			deckCategory = '';
@@ -98,11 +118,15 @@ Example format:
 - indication: "What does HTML stand for?"
   result: "HyperText Markup Language"
 
-Ensure the YAML is clean and correctly indented. Total content must be under 2MB.`;
+Ensure the YAML is clean and correctly indented. Total content must be under 2MB. DO NOT include code fences like \`\`\`yaml, just the raw text.`;
 
-	function copyPrompt() {
-		navigator.clipboard.writeText(aiPrompt);
-		alert('Prompt copied to clipboard!');
+	async function copyPrompt() {
+		try {
+			await navigator.clipboard.writeText(aiPrompt);
+			alert('Prompt copied to clipboard!');
+		} catch (err) {
+			console.error('Failed to copy: ', err);
+		}
 	}
 </script>
 
@@ -132,6 +156,52 @@ Ensure the YAML is clean and correctly indented. Total content must be under 2MB
 		{/if}
 
 		<div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+			<div class="tabs" style="display: flex; gap: 1rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
+				<button 
+					class="btn {uploadMode === 'file' ? 'btn-primary' : 'btn-secondary'}" 
+					onclick={() => uploadMode = 'file'}
+					style="flex: 1;"
+				>
+					Upload File
+				</button>
+				<button 
+					class="btn {uploadMode === 'text' ? 'btn-primary' : 'btn-secondary'}" 
+					onclick={() => uploadMode = 'text'}
+					style="flex: 1;"
+				>
+					Paste YAML
+				</button>
+			</div>
+
+			{#if uploadMode === 'file'}
+				<div class="form-group">
+					<label for="file" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+						>YAML File</label
+					>
+					<input
+						type="file"
+						id="file"
+						accept=".yaml,.yml"
+						bind:this={fileInput}
+						disabled={isUploading}
+					/>
+				</div>
+			{:else}
+				<div class="form-group">
+					<label for="rawYaml" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+						>Paste YAML Content</label
+					>
+					<textarea
+						id="rawYaml"
+						rows="10"
+						placeholder="- indication: 'Front'\n  result: 'Back'"
+						bind:value={rawYamlText}
+						disabled={isUploading}
+						style="width: 100%; padding: 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border-color); font-family: monospace; resize: vertical;"
+					></textarea>
+				</div>
+			{/if}
+
 			<div class="form-group">
 				<label for="deckTitle" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
 					>Deck Title (Optional)</label
@@ -172,26 +242,13 @@ Ensure the YAML is clean and correctly indented. Total content must be under 2MB
 				/>
 			</div>
 
-			<div class="form-group">
-				<label for="file" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
-					>YAML File</label
-				>
-				<input
-					type="file"
-					id="file"
-					accept=".yaml,.yml"
-					bind:this={fileInput}
-					disabled={isUploading}
-				/>
-			</div>
-
 			<button
 				class="btn btn-primary"
 				onclick={handleUpload}
 				disabled={isUploading}
 				style="width: 100%; margin-top: 0.5rem;"
 			>
-				{isUploading ? 'Uploading...' : 'Upload Deck'}
+				{isUploading ? 'Uploading...' : (uploadMode === 'file' ? 'Upload Deck' : 'Import Pasted YAML')}
 			</button>
 		</div>
 	</div>
