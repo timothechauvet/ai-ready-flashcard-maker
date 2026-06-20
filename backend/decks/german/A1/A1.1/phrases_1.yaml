@@ -1,0 +1,60 @@
+- indication: alt Sie sind?
+  result: Darf ich fragen, wie
+  clue: Phrase
+- indication: are?
+  result: May I ask how old you
+  clue: Phrase
+- indication: beschäftigung.
+  result: I work as a/an...
+  clue: Phrase
+- indication: Büroangestellte
+  result: work   |  arbeit
+  clue: Phrase
+- indication: Bye!
+  result: Bis Samstag.
+  clue: Phrase
+- indication: children.
+  result: I don’t have any
+  clue: Phrase
+- indication: ... dem Vereinigten
+  result: ... the UK.
+  clue: Phrase
+- indication: Do you have any
+  result: Ich bin verwitwet.
+  clue: Phrase
+- indication: Er / Sie fühlt sich…
+  result: They feel...
+  clue: Phrase
+- indication: Es geht so.
+  result: Could be worse.
+  clue: Phrase
+- indication: Excuse me.
+  result: Nein, danke.
+  clue: Phrase
+- indication: Fine, thanks.
+  result: Ihnen?
+  clue: Phrase
+- indication: Geburtstag.
+  result: Ich habe am …
+  clue: Phrase
+- indication: gesundheit und wohlbefinden
+  result: general health and wellbeing   |
+  clue: Phrase
+- indication: Good afternoon.
+  result: Guten Morgen.
+  clue: Phrase
+- indication: Good evening.
+  result: Guten Tag.
+  clue: Phrase
+- indication: Good morning.
+  result: Hallo!
+  clue: Phrase
+- indication: Goodnight.
+  result: Guten Abend.
+  clue: Phrase
+- indication: Great!
+  result: Danke, gut.
+  clue: Phrase
+- indication: Haben Sie Kinder?
+  result: children?
+  clue: Phrase

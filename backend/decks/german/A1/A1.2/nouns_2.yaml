@@ -1,0 +1,60 @@
+- indication: das Herz
+  result: heart
+  clue: Noun
+- indication: 'das Hobby • plural: die Hobbys'
+  result: hobby
+  clue: Noun
+- indication: das Hotel
+  result: hotel
+  clue: Noun
+- indication: das Kleid
+  result: dress
+  clue: Noun
+- indication: das Lächeln
+  result: smile
+  clue: Noun
+- indication: das Licht
+  result: light
+  clue: Noun
+- indication: das Mittel
+  result: means
+  clue: Noun
+- indication: das Modell
+  result: model
+  clue: Noun
+- indication: das Nahrungsmittel
+  result: food
+  clue: Noun
+- indication: das Papier
+  result: paper
+  clue: Noun
+- indication: das Pferd
+  result: horse
+  clue: Noun
+- indication: das Riff
+  result: reef
+  clue: Noun
+- indication: das Salz
+  result: salt
+  clue: Noun
+- indication: das Stück
+  result: piece
+  clue: Noun
+- indication: 'das Taxi • plural: die Taxis'
+  result: taxi
+  clue: Noun
+- indication: das Wasser
+  result: water
+  clue: Noun
+- indication: das Werkzeug
+  result: tool
+  clue: Noun
+- indication: das Zelt
+  result: tent
+  clue: Noun
+- indication: der Anspruch
+  result: claim
+  clue: Noun
+- indication: der Anzug
+  result: suit
+  clue: Noun

@@ -1,0 +1,60 @@
+- indication: die Bürgermeister
+  result: mayor
+  clue: Noun
+- indication: 'die Droge • plural: die Drogen'
+  result: drug
+  clue: Noun
+- indication: 'die Fahne • plural: die Fahnen'
+  result: flag
+  clue: Noun
+- indication: 'die Farbe • plural: die Farben'
+  result: color
+  clue: Noun
+- indication: die Faust
+  result: fist
+  clue: Noun
+- indication: die Furcht
+  result: fear
+  clue: Noun
+- indication: 'die Geschwindigkeit • plural: die Geschwindigkeiten'
+  result: speed
+  clue: Noun
+- indication: 'die Grundlage • plural: die Grundlagen'
+  result: basis
+  clue: Noun
+- indication: 'die Gruppe • plural: die Gruppen'
+  result: group
+  clue: Noun
+- indication: 'die Halle • plural: die Hallen'
+  result: hall
+  clue: Noun
+- indication: 'die Hitze • plural: die Hitzen'
+  result: heat
+  clue: Noun
+- indication: 'die Höhle • plural: die Höhlen'
+  result: cave
+  clue: Noun
+- indication: die Hut
+  result: care
+  clue: Noun
+- indication: die Jugend
+  result: youth
+  clue: Noun
+- indication: die Kellnerin
+  result: waitress
+  clue: Noun
+- indication: 'die Klasse • plural: die Klassen'
+  result: class
+  clue: Noun
+- indication: 'die Kohle • plural: die Kohlen'
+  result: coal
+  clue: Noun
+- indication: 'die Lampe • plural: die Lampen'
+  result: lamp
+  clue: Noun
+- indication: 'die Laune • plural: die Launen'
+  result: mood
+  clue: Noun
+- indication: 'die Linse • plural: die Linsen'
+  result: lens
+  clue: Noun

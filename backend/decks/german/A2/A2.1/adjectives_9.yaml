@@ -1,0 +1,60 @@
+- indication: street
+  result: vocabulary
+  clue: Adjective
+- indication: studio flat
+  result: das Doppelhaus
+  clue: Adjective
+- indication: suburb
+  result: die Adresse
+  clue: Adjective
+- indication: table lamp
+  result: das Schlafsofa
+  clue: Adjective
+- indication: tail
+  result: das Cockpit
+  clue: Adjective
+- indication: tap
+  result: der Schrank
+  clue: Adjective
+- indication: taxi
+  result: Verkehrsmittel ntpl
+  clue: Adjective
+- indication: taxi rank
+  result: das Taxi
+  clue: Adjective
+- indication: tenant
+  result: die Vermieterin
+  clue: Adjective
+- indication: terraced house
+  result: vocabulary
+  clue: Adjective
+- indication: the kitchen
+  result: der Treteimer
+  clue: Adjective
+- indication: timetable
+  result: die Fahrkarte
+  clue: Adjective
+- indication: tin opener
+  result: der Spachtel
+  clue: Adjective
+- indication: to cook
+  result: die Abzugshaube
+  clue: Adjective
+- indication: to cycle
+  result: die Radlerhose
+  clue: Adjective
+- indication: to drive
+  result: gehen
+  clue: Adjective
+- indication: to fry
+  result: kochen
+  clue: Adjective
+- indication: to overtake
+  result: bremsen
+  clue: Adjective
+- indication: to relax
+  result: Abruf
+  clue: Adjective
+- indication: to return
+  result: fahren
+  clue: Adjective

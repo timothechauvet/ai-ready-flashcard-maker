@@ -1,0 +1,60 @@
+- indication: '68'
+  result: der USB-Stick
+  clue: Adjective
+- indication: accessories
+  result: die Regenjacke
+  clue: Adjective
+- indication: accounts
+  result: die Personalabteilung
+  clue: Adjective
+- indication: address
+  result: vocabulary
+  clue: Adjective
+- indication: airmail
+  result: die Post
+  clue: Adjective
+- indication: antihistamine
+  result: mpl
+  clue: Adjective
+- indication: Antihistaminikum
+  result: das
+  clue: Adjective
+- indication: antique shop
+  result: vocabulary
+  clue: Adjective
+- indication: assembly hall
+  result: die Kantine
+  clue: Adjective
+- indication: attachment
+  result: die Datei
+  clue: Adjective
+- indication: baby bath
+  result: accessories
+  clue: Adjective
+- indication: baby lotion
+  result: die Babynahrung
+  clue: Adjective
+- indication: baby seat
+  result: die Babywanne
+  clue: Adjective
+- indication: baby walker
+  result: die Babyschale
+  clue: Adjective
+- indication: baby’s bottle
+  result: die Babylotion
+  clue: Adjective
+- indication: bandage
+  result: Salbe
+  clue: Adjective
+- indication: beauty
+  result: die Zahnpasta
+  clue: Adjective
+- indication: bikini
+  result: clothing
+  clue: Adjective
+- indication: blouse
+  result: der Bikini
+  clue: Adjective
+- indication: boots
+  result: footwear
+  clue: Adjective

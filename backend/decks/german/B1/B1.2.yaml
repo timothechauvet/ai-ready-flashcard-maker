@@ -1,0 +1,567 @@
+- indication: das Dokument
+  result: document
+  clue: Noun
+- indication: der Investor
+  result: investor
+  clue: Noun
+- indication: der Komponist
+  result: composer
+  clue: Noun
+- indication: der Landkreis
+  result: district
+  clue: Noun
+- indication: die Plattform
+  result: platform
+  clue: Noun
+- indication: die Allianz
+  result: alliance
+  clue: Noun
+- indication: der Bezirk
+  result: district
+  clue: Noun
+- indication: das Dunkel
+  result: darkness
+  clue: Noun
+- indication: der Durchmesser
+  result: diameter
+  clue: Noun
+- indication: der Friedhof
+  result: cemetery
+  clue: Noun
+- indication: der Ingenieur
+  result: engineer
+  clue: Noun
+- indication: das Universum
+  result: universe
+  clue: Noun
+- indication: die Zunahme
+  result: increase
+  clue: Noun
+- indication: der Beobachter
+  result: observer
+  clue: Noun
+- indication: der Betrachter
+  result: observer
+  clue: Noun
+- indication: das Ensemble
+  result: ensemble
+  clue: Noun
+- indication: das Festival
+  result: festival
+  clue: Noun
+- indication: der Konsument
+  result: consumer
+  clue: Noun
+- indication: das Lokal
+  result: pub, bar
+  clue: Noun
+- indication: die Malerei
+  result: painting
+  clue: Noun
+- indication: der Unsinn
+  result: nonsense
+  clue: Noun
+- indication: der Champion
+  result: champion
+  clue: Noun
+- indication: das Heft
+  result: notebook
+  clue: Noun
+- indication: die Lieferung
+  result: delivery
+  clue: Noun
+- indication: das Olympia
+  result: Olympics
+  clue: Noun
+- indication: das Spektrum
+  result: spectrum
+  clue: Noun
+- indication: das Vergnügen
+  result: pleasure
+  clue: Noun
+- indication: die Verhaltensweise
+  result: behavior
+  clue: Noun
+- indication: der Vermieter
+  result: landlord
+  clue: Noun
+- indication: die Anwesenheit
+  result: presence
+  clue: Noun
+- indication: der Europäer
+  result: European
+  clue: Noun
+- indication: die Geduld
+  result: patience
+  clue: Noun
+- indication: das Militär
+  result: military
+  clue: Noun
+- indication: die Minderheit
+  result: minority
+  clue: Noun
+- indication: die Steigerung
+  result: increase
+  clue: Noun
+- indication: die Übersicht
+  result: overview
+  clue: Noun
+- indication: der Absolvent
+  result: graduate
+  clue: Noun
+- indication: die Währung
+  result: currency
+  clue: Noun
+- indication: der Zuwachs
+  result: increase
+  clue: Noun
+- indication: der Gruß
+  result: greeting
+  clue: Noun
+- indication: der Weg
+  result: path, way
+  clue: Noun
+- indication: der Anfang
+  result: beginning
+  clue: Noun
+- indication: die Wohnung
+  result: apartment
+  clue: Noun
+- indication: die Situation
+  result: situation
+  clue: Noun
+- indication: die Richtung
+  result: direction
+  clue: Noun
+- indication: der Präsident
+  result: president
+  clue: Noun
+- indication: die Zeitung
+  result: newspaper
+  clue: Noun
+- indication: der Kollege
+  result: colleague
+  clue: Noun
+- indication: der Kilometer
+  result: kilometer
+  clue: Noun
+- indication: der Beginn
+  result: beginning
+  clue: Noun
+- indication: der Professor
+  result: professor
+  clue: Noun
+- indication: die Reihe
+  result: row, line
+  clue: Noun
+- indication: das Institut
+  result: institute
+  clue: Noun
+- indication: das Prinzip
+  result: principle
+  clue: Noun
+- indication: der Vorteil
+  result: advantage
+  clue: Noun
+- indication: die Struktur
+  result: structure
+  clue: Noun
+- indication: der Einfluss
+  result: influence
+  clue: Noun
+- indication: die Aussage
+  result: statement
+  clue: Noun
+- indication: die Kenntnis
+  result: knowledge
+  clue: Noun
+- indication: die Behandlung
+  result: treatment
+  clue: Noun
+- indication: die Geographie
+  result: geography
+  clue: Noun
+- indication: der Zuschauer
+  result: spectator
+  clue: Noun
+- indication: die Bildung
+  result: education
+  clue: Noun
+- indication: das Interview
+  result: interview
+  clue: Noun
+- indication: die Tradition
+  result: tradition
+  clue: Noun
+- indication: das Kriterium
+  result: criterion
+  clue: Noun
+- indication: die Ausnahme
+  result: exception
+  clue: Noun
+- indication: der Nachmittag
+  result: afternoon
+  clue: Noun
+- indication: der Kandidat
+  result: candidate
+  clue: Noun
+- indication: der Ausländer
+  result: foreigner
+  clue: Noun
+- indication: das Telefon
+  result: telephone
+  clue: Noun
+- indication: der Terrorismus
+  result: terrorism
+  clue: Noun
+- indication: der Terrorist
+  result: terrorist
+  clue: Noun
+- indication: die Koalition
+  result: coalition
+  clue: Noun
+- indication: der Weltkrieg
+  result: world war
+  clue: Noun
+- indication: die Gemeinschaft
+  result: community
+  clue: Noun
+- indication: der Verdacht
+  result: suspicion
+  clue: Noun
+- indication: der Polizist
+  result: policeman
+  clue: Noun
+- indication: die Demokratie
+  result: democracy
+  clue: Noun
+- indication: die Dimension
+  result: dimension
+  clue: Noun
+- indication: die Substanz
+  result: substance
+  clue: Noun
+- indication: der Grundsatz
+  result: principle
+  clue: Noun
+- indication: die Komponente
+  result: component
+  clue: Noun
+- indication: die Sendung
+  result: broadcast
+  clue: Noun
+- indication: die Zigarette
+  result: cigarette
+  clue: Noun
+- indication: der Charakter
+  result: character
+  clue: Noun
+- indication: die Herausforderung
+  result: challenge
+  clue: Noun
+- indication: die Existenz
+  result: existence
+  clue: Noun
+- indication: das Grundgesetz
+  result: basic law
+  clue: Noun
+- indication: die Vereinbarung
+  result: agreement
+  clue: Noun
+- indication: die Datei
+  result: data file
+  clue: Noun
+- indication: die Operation
+  result: operation
+  clue: Noun
+- indication: die Vielfalt
+  result: diversity
+  clue: Noun
+- indication: die Vielzahl
+  result: multitude
+  clue: Noun
+- indication: die Finanzierung
+  result: financing
+  clue: Noun
+- indication: die Absicht
+  result: intention
+  clue: Noun
+- indication: der Architekt
+  result: architect
+  clue: Noun
+- indication: die Aufmerksamkeit
+  result: attention
+  clue: Noun
+- indication: die Infektion
+  result: infection
+  clue: Noun
+- indication: der Kontinent
+  result: continent
+  clue: Noun
+- indication: das Marketing
+  result: marketing
+  clue: Noun
+- indication: das Orchester
+  result: orchestra
+  clue: Noun
+- indication: die Richtlinie
+  result: guideline
+  clue: Noun
+- indication: die Chemie
+  result: chemistry
+  clue: Noun
+- indication: die Notwendigkeit
+  result: necessity
+  clue: Noun
+- indication: das Frühstück
+  result: breakfast
+  clue: Noun
+- indication: die Prognose
+  result: prognosis
+  clue: Noun
+- indication: die Vorgabe
+  result: guideline
+  clue: Noun
+- indication: das/die Weihnachten
+  result: Christmas
+  clue: Noun
+- indication: die Kindheit
+  result: childhood
+  clue: Noun
+- indication: der Empfang
+  result: reception
+  clue: Noun
+- indication: der Empfänger
+  result: recipient
+  clue: Noun
+- indication: der Nachfolger
+  result: successor
+  clue: Noun
+- indication: das Potenzial
+  result: potential
+  clue: Noun
+- indication: die Strahlung
+  result: radiation
+  clue: Noun
+- indication: die Beurteilung
+  result: judgement
+  clue: Noun
+- indication: der Bewerber
+  result: applicant
+  clue: Noun
+- indication: der Passagier
+  result: passenger
+  clue: Noun
+- indication: die Einigung
+  result: agreement
+  clue: Noun
+- indication: der Katalog
+  result: catalogue
+  clue: Noun
+- indication: die Schnittstelle
+  result: interface
+  clue: Noun
+- indication: der Tipp
+  result: tip, hint
+  clue: Noun
+- indication: die Beschwerde
+  result: complaint
+  clue: Noun
+- indication: das Rathaus
+  result: town hall
+  clue: Noun
+- indication: die Kollegin
+  result: colleague
+  clue: Noun
+- indication: die Sekretärin
+  result: secretary
+  clue: Noun
+- indication: die Stabilität
+  result: stability
+  clue: Noun
+- indication: das Abenteuer
+  result: adventure
+  clue: Noun
+- indication: die Diagnose
+  result: diagnosis
+  clue: Noun
+- indication: die Fülle
+  result: abundance
+  clue: Noun
+- indication: das Gebirge
+  result: mountains
+  clue: Noun
+- indication: der Personenkraftwagen
+  result: car, auto
+  clue: Noun
+- indication: die Unterlagen
+  result: documents
+  clue: Noun
+- indication: die Bakterie
+  result: bacterium
+  clue: Noun
+- indication: die Entdeckung
+  result: discovery
+  clue: Noun
+- indication: die Erfindung
+  result: invention
+  clue: Noun
+- indication: das Milligramm
+  result: milligram
+  clue: Noun
+- indication: die Rezession
+  result: recession
+  clue: Noun
+- indication: die Schwangerschaft
+  result: pregnancy
+  clue: Noun
+- indication: die Unterschrift
+  result: signature
+  clue: Noun
+- indication: das Gremium
+  result: committee
+  clue: Noun
+- indication: das Abkommen
+  result: agreement
+  clue: Noun
+- indication: der Assistent
+  result: assistant
+  clue: Noun
+- indication: die Frequenz
+  result: frequency
+  clue: Noun
+- indication: der Physiker
+  result: physicist
+  clue: Noun
+- indication: der Therapeut
+  result: therapist
+  clue: Noun
+- indication: der Veranstalter
+  result: organizer
+  clue: Noun
+- indication: der Strahl
+  result: ray, beam
+  clue: Noun
+- indication: der Fall
+  result: fall, case
+  clue: Noun
+- indication: die Stadt
+  result: city, town
+  clue: Noun
+- indication: das Recht
+  result: right, law
+  clue: Noun
+- indication: die Seite
+  result: side, page
+  clue: Noun
+- indication: die Art
+  result: type, kind
+  clue: Noun
+- indication: die Universität
+  result: university
+  clue: Noun
+- indication: die Erfahrung
+  result: experience
+  clue: Noun
+- indication: der Vergleich
+  result: comparison
+  clue: Noun
+- indication: der Unterschied
+  result: difference
+  clue: Noun
+- indication: die Schwierigkeit
+  result: difficulty
+  clue: Noun
+- indication: der Eindruck
+  result: impression
+  clue: Noun
+- indication: die Literatur
+  result: literature
+  clue: Noun
+- indication: der/die Jugendliche
+  result: adolescent
+  clue: Noun
+- indication: das Essen
+  result: food, meal
+  clue: Noun
+- indication: das Meer
+  result: sea, ocean
+  clue: Noun
+- indication: der Politiker
+  result: politician
+  clue: Noun
+- indication: das Fernsehen
+  result: television
+  clue: Noun
+- indication: die Produktion
+  result: production
+  clue: Noun
+- indication: der Schutz
+  result: protection
+  clue: Noun
+- indication: die Freizeit
+  result: spare time
+  clue: Noun
+- indication: die Kontrolle
+  result: inspection
+  clue: Noun
+- indication: die Ausstellung
+  result: exhibition
+  clue: Noun
+- indication: der Hintergrund
+  result: background
+  clue: Noun
+- indication: das Instrument
+  result: instrument
+  clue: Noun
+- indication: der Zentimeter
+  result: centimeter
+  clue: Noun
+- indication: die Generation
+  result: generation
+  clue: Noun
+- indication: die Definition
+  result: definition
+  clue: Noun
+- indication: das Foto
+  result: photograph
+  clue: Noun
+- indication: die Mannschaft
+  result: crew, team
+  clue: Noun
+- indication: der Vorgang
+  result: occurrence
+  clue: Noun
+- indication: das Tor
+  result: gate, goal
+  clue: Noun
+- indication: das Parlament
+  result: parliament
+  clue: Noun
+- indication: das Phänomen
+  result: phenomenon
+  clue: Noun
+- indication: der Kanzler
+  result: chancellor
+  clue: Noun
+- indication: das Management
+  result: management
+  clue: Noun
+- indication: der Millimeter
+  result: millimeter
+  clue: Noun
+- indication: die Investition
+  result: investment
+  clue: Noun
+- indication: der Anschluss
+  result: connection
+  clue: Noun
+- indication: die Atmosphäre
+  result: atmosphere
+  clue: Noun
+- indication: die Abteilung
+  result: department
+  clue: Noun
+- indication: der Forscher
+  result: researcher
+  clue: Noun

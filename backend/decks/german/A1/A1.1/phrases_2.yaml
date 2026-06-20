@@ -1,0 +1,60 @@
+- indication: Hallo.
+  result: Hello.
+  clue: Phrase
+- indication: I am...
+  result: Mir ist kalt / warm.
+  clue: Phrase
+- indication: I don’t know.
+  result: Nein.
+  clue: Phrase
+- indication: I don’t understand.
+  result: Bitte.
+  clue: Phrase
+- indication: I have a partner.
+  result: Ich bin verheiratet.
+  clue: Phrase
+- indication: I work from home.
+  result: Ich reise.
+  clue: Phrase
+- indication: I work part-/full-time.
+  result: Ich arbeite zu Hause.
+  clue: Phrase
+- indication: Ich bin
+  result: I’m self-employed.
+  clue: Phrase
+- indication: Ich bin … geboren.
+  result: I was born in...
+  clue: Phrase
+- indication: Ich bin im
+  result: I’m retired.
+  clue: Phrase
+- indication: Ich bin müde.
+  result: I’m tired.
+  clue: Phrase
+- indication: Ich fühle mich…
+  result: He/She feels...
+  clue: Phrase
+- indication: Ich habe … Kinder.
+  result: I have ... children.
+  clue: Phrase
+- indication: Ich habe Hunger /
+  result: I’m hungry/thirsty.
+  clue: Phrase
+- indication: Ich komme aus…
+  result: I’m from...
+  clue: Phrase
+- indication: Ich weiß nicht.
+  result: Please.
+  clue: Phrase
+- indication: I’m...
+  result: Ich wohne in…
+  clue: Phrase
+- indication: I’m … years old.
+  result: Geburtstag?
+  clue: Phrase
+- indication: I’m a/an...
+  result: Ich arbeite als…
+  clue: Phrase
+- indication: I’m at university.
+  result: Ich bin arbeitslos.
+  clue: Phrase

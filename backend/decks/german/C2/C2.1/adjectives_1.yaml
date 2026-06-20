@@ -1,0 +1,68 @@
+- indication: '114'
+  result: die Weide
+  clue: Adjective
+- indication: '116'
+  result: die Sonne
+  clue: Adjective
+- indication: alligator
+  result: vocabulary
+  clue: Adjective
+- indication: alpin
+  result: alpine
+  clue: Adjective
+- indication: amphibian
+  result: das Reptil
+  clue: Adjective
+- indication: animal
+  result: vocabulary
+  clue: Adjective
+- indication: annehmbar
+  result: acceptable / reasonable
+  clue: Adjective
+  pronunciation: '[ˈanˌneːmbaːɐ̯]'
+- indication: ant
+  result: stechen
+  clue: Adjective
+- indication: atmosphere
+  result: die Luft
+  clue: Adjective
+- indication: auffällig
+  result: (in)conspicuous / (un)obtrusive / (un)noticeable
+  clue: Adjective
+  pronunciation: '[(ˈʊn)ˌʔaʊ̯fɛlɪç]'
+- indication: aufwändig
+  result: elaborate / costly / time-consuming
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯fˌvɛndɪç]'
+- indication: ausdrücklich
+  result: explicit / express / explicitly
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯sˌdʁʏklɪç]'
+- indication: badger
+  result: vocabulary
+  clue: Adjective
+- indication: bat
+  result: der Dachs
+  clue: Adjective
+- indication: bedürftig
+  result: needy / in need
+  clue: Adjective
+  pronunciation: '[bəˈdʏʁftɪç]'
+- indication: bee
+  result: die Ameise
+  clue: Adjective
+- indication: beetle
+  result: die Biene
+  clue: Adjective
+- indication: begehrt
+  result: highly sought-after / in-demand / coveted
+  clue: Adjective
+  pronunciation: '[bəˈɡeːɐ̯t]'
+- indication: begrenzt
+  result: limited / restricted
+  clue: Adjective
+  pronunciation: '[bəˈɡʁɛntst]'
+- indication: beharrlich
+  result: persistent / tenacious / persevering
+  clue: Adjective
+  pronunciation: '[bəˈhaʁlɪç]'

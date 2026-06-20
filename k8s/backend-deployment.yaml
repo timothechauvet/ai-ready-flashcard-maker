@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: yasssf-backend
+  namespace: default
+  labels:
+    app: yasssf-backend
+  annotations:
+    keel.sh/policy: force
+    keel.sh/trigger: webhook
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: yasssf-backend
+  template:
+    metadata:
+      labels:
+        app: yasssf-backend
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: o1k2
+      imagePullSecrets:
+        - name: ghcr-secret
+      containers:
+        - name: yasssf-backend
+          image: ghcr.io/timothechauvet/ai-ready-flashcard-maker-backend:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000
+          env:
+            - name: YASSSF_DB_PATH
+              value: /data/yasssf.db
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          resources:
+            requests:
+              cpu: 50m
+              memory: 64Mi
+            limits:
+              cpu: 250m
+              memory: 256Mi
+      volumes:
+        - name: data
+          persistentVolumeClaim:
+            claimName: yasssf-backend-data

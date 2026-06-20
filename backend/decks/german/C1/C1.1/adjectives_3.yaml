@@ -1,0 +1,60 @@
+- indication: examination
+  result: die Klinik
+  clue: Adjective
+- indication: extraction
+  result: der Abszess
+  clue: Adjective
+- indication: eye
+  result: die Stirn
+  clue: Adjective
+- indication: eyebrow
+  result: die Wimper
+  clue: Adjective
+- indication: eyelash
+  result: die Brust
+  clue: Adjective
+- indication: eyelid
+  result: die Augenbraue
+  clue: Adjective
+- indication: face
+  result: der Kopf
+  clue: Adjective
+- indication: fainting
+  result: das Husten
+  clue: Adjective
+- indication: fever
+  result: der Ohnmachtsanfall
+  clue: Adjective
+- indication: first aid
+  result: der Sonnenbrand
+  clue: Adjective
+- indication: foot
+  result: das Schienbein
+  clue: Adjective
+- indication: forehead
+  result: das Haar
+  clue: Adjective
+- indication: fracture
+  result: die Schnittverletzung
+  clue: Adjective
+- indication: genitals
+  result: die Achsel
+  clue: Adjective
+- indication: Gesundheit
+  result: die geistige
+  clue: Adjective
+- indication: graze
+  result: der Bruch
+  clue: Adjective
+- indication: hand
+  result: der Unterleib
+  clue: Adjective
+- indication: health insurance
+  result: die Behandlung
+  clue: Adjective
+- indication: healthy
+  result: ungskarte
+  clue: Adjective
+- indication: heart
+  result: das Gehirn
+  clue: Adjective

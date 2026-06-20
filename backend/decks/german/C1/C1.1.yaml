@@ -1,0 +1,690 @@
+- indication: die Stimmung
+  result: mood, atmosphere
+  clue: Noun
+- indication: die Fremdsprache
+  result: foreign language
+  clue: Noun
+- indication: die Erkrankung
+  result: illness, disease
+  clue: Noun
+- indication: der Ruf
+  result: reputation, call
+  clue: Noun
+- indication: der Anwalt
+  result: attorney, lawyer
+  clue: Noun
+- indication: die Sitzung
+  result: meeting, session
+  clue: Noun
+- indication: der/die Angehörige
+  result: member, relative
+  clue: Noun
+- indication: der Außenminister
+  result: foreign minister
+  clue: Noun
+- indication: die Erzählung
+  result: narration, story
+  clue: Noun
+- indication: der Rang
+  result: standing, status
+  clue: Noun
+- indication: der Höhepunkt
+  result: high point, peak
+  clue: Noun
+- indication: die Klinik
+  result: clinic, hospital
+  clue: Noun
+- indication: der Reiz
+  result: stimulus, appeal
+  clue: Noun
+- indication: die Sicherung
+  result: protection, fuse
+  clue: Noun
+- indication: der Einzelfall
+  result: individual, case
+  clue: Noun
+- indication: die Anfrage
+  result: inquiry, request
+  clue: Noun
+- indication: das Zitat
+  result: quotation, quote
+  clue: Noun
+- indication: das Fräulein
+  result: young lady, miss
+  clue: Noun
+- indication: die Großstadt
+  result: city, large town
+  clue: Noun
+- indication: das Betriebssystem
+  result: operating system
+  clue: Noun
+- indication: das Verbot
+  result: ban, prohibition
+  clue: Noun
+- indication: die Wäsche
+  result: washing, laundry
+  clue: Noun
+- indication: die Werkstatt
+  result: workshop, garage
+  clue: Noun
+- indication: der Eintritt
+  result: entry, admission
+  clue: Noun
+- indication: der Kommentar
+  result: comment, opinion
+  clue: Noun
+- indication: das Unrecht
+  result: injustice, wrong
+  clue: Noun
+- indication: die Volkswirtschaft
+  result: national economy
+  clue: Noun
+- indication: die Erfassung
+  result: recording, entry
+  clue: Noun
+- indication: der Gemeinderat
+  result: district council
+  clue: Noun
+- indication: die Landesregierung
+  result: state government
+  clue: Noun
+- indication: die Frau
+  result: woman, wife, Mrs.
+  clue: Noun
+- indication: das Ziel
+  result: destination, goal
+  clue: Noun
+- indication: der Arzt
+  result: physician, doctor
+  clue: Noun
+- indication: die Wirtschaft
+  result: economy, commerce
+  clue: Noun
+- indication: der Einsatz
+  result: inset, deployment
+  clue: Noun
+- indication: der Ansatz
+  result: approach, attempt
+  clue: Noun
+- indication: der Haushalt
+  result: household, budget
+  clue: Noun
+- indication: der Verein
+  result: association, club
+  clue: Noun
+- indication: das Ausland
+  result: foreign countries
+  clue: Noun
+- indication: die Kritik
+  result: criticism, review
+  clue: Noun
+- indication: das Opfer
+  result: sacrifice, victim
+  clue: Noun
+- indication: der Urlaub
+  result: vacation, holiday
+  clue: Noun
+- indication: die Prüfung
+  result: examination, test
+  clue: Noun
+- indication: die Auseinandersetzung
+  result: argument, quarrel
+  clue: Noun
+- indication: der Ton
+  result: sound, tone, clay
+  clue: Noun
+- indication: die Rechnung
+  result: bill, calculation
+  clue: Noun
+- indication: der Umgang
+  result: dealings, contact
+  clue: Noun
+- indication: die Haltung
+  result: posture, attitude
+  clue: Noun
+- indication: der Termin
+  result: appointment, date
+  clue: Noun
+- indication: die Überlegung
+  result: thought, thinking
+  clue: Noun
+- indication: die Auswahl
+  result: choice, selection
+  clue: Noun
+- indication: die Post
+  result: mail, post office
+  clue: Noun
+- indication: die Spannung
+  result: suspense, tension
+  clue: Noun
+- indication: das Viertel
+  result: quarter, district
+  clue: Noun
+- indication: das Entwicklungsland
+  result: developing nation
+  clue: Noun
+- indication: die Fachhochschule
+  result: technical college
+  clue: Noun
+- indication: der Impuls
+  result: stimulus, impulse
+  clue: Noun
+- indication: der Wahlkampf
+  result: election campaign
+  clue: Noun
+- indication: die Zeitschrift
+  result: magazine, journal
+  clue: Noun
+- indication: die Ferien
+  result: holiday, vacation
+  clue: Noun
+- indication: der Gehalt
+  result: meaning, contents
+  clue: Noun
+- indication: die Nahrung
+  result: nourishment, food
+  clue: Noun
+- indication: das Arbeitsamt
+  result: employment office
+  clue: Noun
+- indication: der Lohn
+  result: wage, pay, reward
+  clue: Noun
+- indication: der Profi
+  result: pro, professional
+  clue: Noun
+- indication: der Rock
+  result: skirt, rock music
+  clue: Noun
+- indication: der Schrank
+  result: cabinet, wardrobe
+  clue: Noun
+- indication: die Steuerung
+  result: control, steering
+  clue: Noun
+- indication: die Bearbeitung
+  result: working, handling
+  clue: Noun
+- indication: der Dirigent
+  result: musical conductor
+  clue: Noun
+- indication: das Glied
+  result: limb, joint, link
+  clue: Noun
+- indication: das Gutachten
+  result: report, reference
+  clue: Noun
+- indication: die Zielsetzung
+  result: target, objective
+  clue: Noun
+- indication: die Verknüpfung
+  result: combination, link
+  clue: Noun
+- indication: der Aufsichtsrat
+  result: supervisory board
+  clue: Noun
+- indication: der Blick
+  result: look, view, glance
+  clue: Noun
+- indication: der Punkt
+  result: dot, point, period
+  clue: Noun
+- indication: der Chef
+  result: head, leader, boss
+  clue: Noun
+- indication: die Vorstellung
+  result: idea, introduction
+  clue: Noun
+- indication: die Bevölkerung
+  result: population, people
+  clue: Noun
+- indication: die Diskussion
+  result: discussion, debate
+  clue: Noun
+- indication: der Gegensatz
+  result: opposite, contrast
+  clue: Noun
+- indication: der Druck
+  result: pressure, printing
+  clue: Noun
+- indication: die Karte
+  result: card, ticket, menu
+  clue: Noun
+- indication: die Stellung
+  result: position, standing
+  clue: Noun
+- indication: die Weltmeisterschaft
+  result: world championship
+  clue: Noun
+- indication: der Wissenschaftler
+  result: scholar, scientist
+  clue: Noun
+- indication: die Bundesregierung
+  result: federal government
+  clue: Noun
+- indication: der Sitz
+  result: seat, headquarters
+  clue: Noun
+- indication: der Bundeskanzler
+  result: federal chancellor
+  clue: Noun
+- indication: der Verlag
+  result: publishing company
+  clue: Noun
+- indication: der Vorstand
+  result: board, chairperson
+  clue: Noun
+- indication: der Bescheid
+  result: information, reply
+  clue: Noun
+- indication: die Begegnung
+  result: encounter, meeting
+  clue: Noun
+- indication: die Variante
+  result: variant, variation
+  clue: Noun
+- indication: der Gläubiger
+  result: creditor, believer
+  clue: Noun
+- indication: die Übung
+  result: exercise, practice
+  clue: Noun
+- indication: die Klage
+  result: complaint, lawsuit
+  clue: Noun
+- indication: der Ärger
+  result: annoyance, trouble
+  clue: Noun
+- indication: das Lebensjahr
+  result: year of one's life
+  clue: Noun
+- indication: der Abschied
+  result: departure, parting
+  clue: Noun
+- indication: der Anhänger
+  result: supporter, trailer
+  clue: Noun
+- indication: die Bestellung
+  result: order, reservation
+  clue: Noun
+- indication: der Erreger
+  result: agent, virus, germ
+  clue: Noun
+- indication: das Möbel
+  result: piece of furniture
+  clue: Noun
+- indication: der Hang
+  result: slope, inclination
+  clue: Noun
+- indication: die Ablehnung
+  result: refusal, rejection
+  clue: Noun
+- indication: die Abstimmung
+  result: vote, coordination
+  clue: Noun
+- indication: das Kloster
+  result: monastery, convent
+  clue: Noun
+- indication: der Stamm
+  result: trunk, stem, tribe
+  clue: Noun
+- indication: der Helfer
+  result: helper, accomplice
+  clue: Noun
+- indication: die Skala
+  result: scale, dial, range
+  clue: Noun
+- indication: die Zulassung
+  result: admission, license
+  clue: Noun
+- indication: der Einbruch
+  result: break in, collapse
+  clue: Noun
+- indication: der Handwerker
+  result: workman, tradesman
+  clue: Noun
+- indication: der Regierungschef
+  result: head of government
+  clue: Noun
+- indication: der Hörer
+  result: listener, receiver
+  clue: Noun
+- indication: der Rucksack
+  result: rucksack, backpack
+  clue: Noun
+- indication: die Stellungnahme
+  result: opinion, statement
+  clue: Noun
+- indication: der Zuhörer
+  result: listener, audience
+  clue: Noun
+- indication: das Unternehmen
+  result: enterprise, company
+  clue: Noun
+- indication: der Platz
+  result: place, room, square
+  clue: Noun
+- indication: die Folge
+  result: result, consequence
+  clue: Noun
+- indication: der Begriff
+  result: concept, idea, term
+  clue: Noun
+- indication: der Betrieb
+  result: business, operation
+  clue: Noun
+- indication: der Zusammenhang
+  result: connection, context
+  clue: Noun
+- indication: die Lage
+  result: situation, location
+  clue: Noun
+- indication: der Mitarbeiter
+  result: employee, co-worker
+  clue: Noun
+- indication: der Stoff
+  result: material, substance
+  clue: Noun
+- indication: die Erde
+  result: earth, ground, soil
+  clue: Noun
+- indication: die Nähe
+  result: vicinity, proximity
+  clue: Noun
+- indication: der Versuch
+  result: attempt, experiment
+  clue: Noun
+- indication: die Hochschule
+  result: college, university
+  clue: Noun
+- indication: die Fähigkeit
+  result: ability, capability
+  clue: Noun
+- indication: die Bahn
+  result: train, railway, way
+  clue: Noun
+- indication: die Gestalt
+  result: shape, form, figure
+  clue: Noun
+- indication: das Bad
+  result: bath, bathroom, spa
+  clue: Noun
+- indication: die Platte
+  result: disk, record, plate
+  clue: Noun
+- indication: die Schrift
+  result: script, handwriting
+  clue: Noun
+- indication: das Quartal
+  result: quarter of the year
+  clue: Noun
+- indication: der Zufall
+  result: chance, coincidence
+  clue: Noun
+- indication: die Fraktion
+  result: parliamentary party
+  clue: Noun
+- indication: der Kern
+  result: seed, core, nucleus
+  clue: Noun
+- indication: der Griff
+  result: handle, grip, grasp
+  clue: Noun
+- indication: das Zeugnis
+  result: report, testimonial
+  clue: Noun
+- indication: die Feststellung
+  result: observation, remark
+  clue: Noun
+- indication: die Inszenierung
+  result: production, staging
+  clue: Noun
+- indication: der Berater
+  result: advisor, consultant
+  clue: Noun
+- indication: die Eintragung
+  result: entry, registration
+  clue: Noun
+- indication: die Leistungsfähigkeit
+  result: productivity, power
+  clue: Noun
+- indication: der Salon
+  result: salon, drawing room
+  clue: Noun
+- indication: die Verordnung
+  result: prescription, order
+  clue: Noun
+- indication: die Konzeption
+  result: concept, conception
+  clue: Noun
+- indication: die Provinz
+  result: province, provinces
+  clue: Noun
+- indication: der Jurist
+  result: jurist, law student
+  clue: Noun
+- indication: das Land
+  result: land, country, state
+  clue: Noun
+- indication: das Fach
+  result: compartment, subject
+  clue: Noun
+- indication: der Unterricht
+  result: instruction, classes
+  clue: Noun
+- indication: die Einstellung
+  result: attitude, employment
+  clue: Noun
+- indication: der Vorschlag
+  result: suggestion, proposal
+  clue: Noun
+- indication: der Verband
+  result: association, bandage
+  clue: Noun
+- indication: die Förderung
+  result: support, sponsorship
+  clue: Noun
+- indication: das Steuer
+  result: steering wheel, helm
+  clue: Noun
+- indication: der Auftritt
+  result: appearance, entrance
+  clue: Noun
+- indication: der Nutzen
+  result: benefit, profit, use
+  clue: Noun
+- indication: die Versicherung
+  result: insurance, assurance
+  clue: Noun
+- indication: der Rechner
+  result: computer, calculator
+  clue: Noun
+- indication: der Sender
+  result: broadcasting station
+  clue: Noun
+- indication: der Bewohner
+  result: inhabitant, occupant
+  clue: Noun
+- indication: die Unternehmung
+  result: undertaking, venture
+  clue: Noun
+- indication: der Täter
+  result: culprit, perpetrator
+  clue: Noun
+- indication: der Beschluss
+  result: decision, resolution
+  clue: Noun
+- indication: die Erweiterung
+  result: expansion, extension
+  clue: Noun
+- indication: der Übergang
+  result: crossing, transition
+  clue: Noun
+- indication: der Besitz
+  result: property, possession
+  clue: Noun
+- indication: die Gestaltung
+  result: design, organization
+  clue: Noun
+- indication: die Ausführung
+  result: implementation, type
+  clue: Noun
+- indication: die Phantasie
+  result: imagination, fantasy
+  clue: Noun
+- indication: die Konjunktur
+  result: state of the economy
+  clue: Noun
+- indication: der Zettel
+  result: piece of paper, note
+  clue: Noun
+- indication: der Kongress
+  result: congress, convention
+  clue: Noun
+- indication: die Konstruktion
+  result: construction, design
+  clue: Noun
+- indication: die Kugel
+  result: ball, sphere, bullet
+  clue: Noun
+- indication: die Autobahn
+  result: expressway, motorway
+  clue: Noun
+- indication: das Magazin
+  result: magazine, storehouse
+  clue: Noun
+- indication: das Ministerium
+  result: ministry, department
+  clue: Noun
+- indication: die Weiterbildung
+  result: continuing education
+  clue: Noun
+- indication: die Auswertung
+  result: evaluation, analysis
+  clue: Noun
+- indication: der Großteil
+  result: large part, majority
+  clue: Noun
+- indication: das Volumen
+  result: volume, total amount
+  clue: Noun
+- indication: die Aufgabe
+  result: task, assignment, job
+  clue: Noun
+- indication: das Thema
+  result: subject, topic, theme
+  clue: Noun
+- indication: die Uhr
+  result: clock, watch, o'clock
+  clue: Noun
+- indication: der Ort
+  result: place, town, location
+  clue: Noun
+- indication: die Bedeutung
+  result: meaning, significance
+  clue: Noun
+- indication: der Boden
+  result: ground, floor, bottom
+  clue: Noun
+- indication: die Ausbildung
+  result: training, development
+  clue: Noun
+- indication: die Technik
+  result: technology, technique
+  clue: Noun
+- indication: der Kurs
+  result: course, exchange rate
+  clue: Noun
+- indication: der Zeitpunkt
+  result: moment, point in time
+  clue: Noun
+- indication: der Bund
+  result: association, alliance
+  clue: Noun
+- indication: das Fest
+  result: festival, celebration
+  clue: Noun
+- indication: die Kommission
+  result: commission, committee
+  clue: Noun
+- indication: das Kino
+  result: cinema, movie theater
+  clue: Noun
+- indication: die Kompetenz
+  result: competence, authority
+  clue: Noun
+- indication: die Erziehung
+  result: upbringing, education
+  clue: Noun
+- indication: der Entwurf
+  result: sketch, design, draft
+  clue: Noun
+- indication: die Behinderung
+  result: obstruction, handicap
+  clue: Noun
+- indication: die Frist
+  result: time period, deadline
+  clue: Noun
+- indication: die Innenstadt
+  result: town center, downtown
+  clue: Noun
+- indication: der Grenzwert
+  result: limiting value, limit
+  clue: Noun
+- indication: die Rahmenbedingung
+  result: prevailing, condition
+  clue: Noun
+- indication: die Arbeitskraft
+  result: work capacity, worker
+  clue: Noun
+- indication: die Bekämpfung
+  result: fighting, controlling
+  clue: Noun
+- indication: der Erzähler
+  result: storyteller, narrator
+  clue: Noun
+- indication: die Anleihe
+  result: loan, bond, borrowing
+  clue: Noun
+- indication: der Absatz
+  result: sales, paragraph, heel
+  clue: Noun
+- indication: die Beziehung
+  result: relation, relationship
+  clue: Noun
+- indication: die Angabe
+  result: information, statement
+  clue: Noun
+- indication: die Bedingung
+  result: condition, stipulation
+  clue: Noun
+- indication: die Voraussetzung
+  result: condition, requirement
+  clue: Noun
+- indication: die Erkenntnis
+  result: realization, discovery
+  clue: Noun
+- indication: der Gesellschafter
+  result: associate, shareholder
+  clue: Noun
+- indication: die Regelung
+  result: regulation, settlement
+  clue: Noun
+- indication: der Bau
+  result: construction, building
+  clue: Noun
+- indication: die Landschaft
+  result: landscape, countryside
+  clue: Noun
+- indication: der Mangel
+  result: lack, shortage, defect
+  clue: Noun
+- indication: die Perspektive
+  result: perspective, prospects
+  clue: Noun
+- indication: der Widerstand
+  result: resistance, opposition
+  clue: Noun
+- indication: der Alltag
+  result: workday, daily routine
+  clue: Noun

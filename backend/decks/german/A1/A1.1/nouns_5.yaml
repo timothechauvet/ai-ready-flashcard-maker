@@ -1,0 +1,60 @@
+- indication: der Park
+  result: park
+  clue: Noun
+- indication: der Plan
+  result: plan
+  clue: Noun
+- indication: der Rand
+  result: edge
+  clue: Noun
+- indication: der Rechtsanwalt /
+  result: lawyer
+  clue: Noun
+- indication: der Regen
+  result: rain
+  clue: Noun
+- indication: der Rücken
+  result: back
+  clue: Noun
+- indication: der Schlag
+  result: blow
+  clue: Noun
+- indication: der Schlüssel
+  result: key
+  clue: Noun
+- indication: der Schnitt
+  result: cut
+  clue: Noun
+- indication: der Schritt
+  result: step
+  clue: Noun
+- indication: der Schwager
+  result: brother-in-law
+  clue: Noun
+- indication: der Schwiegersohn
+  result: son-in-law
+  clue: Noun
+- indication: der Schwiegervater
+  result: father-in-law
+  clue: Noun
+- indication: 'der See • plural: die Seen'
+  result: lake
+  clue: Noun
+- indication: der Sohn
+  result: son
+  clue: Noun
+- indication: der Spaß
+  result: fun
+  clue: Noun
+- indication: der Stern
+  result: star
+  clue: Noun
+- indication: der Stiefsohn
+  result: stepson
+  clue: Noun
+- indication: der Stiefvater
+  result: stepfather
+  clue: Noun
+- indication: 'der Stuhl • plural: die Stühle'
+  result: the chair
+  clue: Noun

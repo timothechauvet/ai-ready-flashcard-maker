@@ -1,0 +1,60 @@
+- indication: newspaper
+  result: die Landkarte
+  clue: Adjective
+- indication: notebook
+  result: die Zeitung
+  clue: Adjective
+- indication: nursery school
+  result: vocabulary
+  clue: Adjective
+- indication: office block
+  result: die Moschee
+  clue: Adjective
+- indication: package
+  result: der Brief
+  clue: Adjective
+- indication: padded envelope
+  result: das Paket
+  clue: Adjective
+- indication: painkiller
+  result: Mittel
+  clue: Adjective
+- indication: paint
+  result: Bolzen pl
+  clue: Adjective
+- indication: paint roller
+  result: der Pinsel
+  clue: Adjective
+- indication: paintbrush
+  result: die Farbe
+  clue: Adjective
+- indication: painting
+  result: das DIY
+  clue: Adjective
+- indication: paper
+  result: das Heft
+  clue: Adjective
+- indication: password
+  result: der Benutzername
+  clue: Adjective
+- indication: pencil
+  result: der Kugelschreiber
+  clue: Adjective
+- indication: pharmacist
+  result: vocabulary
+  clue: Adjective
+- indication: plaster
+  result: die Medizin
+  clue: Adjective
+- indication: playground
+  result: das Spielfeld
+  clue: Adjective
+- indication: playing field
+  result: die Aula
+  clue: Adjective
+- indication: pliers
+  result: der Farbroller
+  clue: Adjective
+- indication: plumbing
+  result: das Tapezieren
+  clue: Adjective

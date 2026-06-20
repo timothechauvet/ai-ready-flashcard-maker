@@ -1,0 +1,60 @@
+- indication: die Aubergine
+  result: aubergine
+  clue: Noun
+- indication: 'die Äußerung • plural: die Äußerungen'
+  result: comment
+  clue: Noun
+- indication: die bäckerei und die konditorei
+  result: bakery and patisserie   |
+  clue: Noun
+- indication: die Bäckerin
+  result: der Bäcker /
+  clue: Noun
+- indication: 'die Batterie • plural: die Batterien'
+  result: battery
+  clue: Noun
+- indication: 'die Biologie • plural: die Biologien'
+  result: biology
+  clue: Noun
+- indication: die Blaubeere
+  result: blueberry
+  clue: Noun
+- indication: 'die Blüte • plural: die Blüten'
+  result: blossom
+  clue: Noun
+- indication: 'die Botschaft • plural: die Botschaften'
+  result: message
+  clue: Noun
+- indication: die Brasse
+  result: sea bream
+  clue: Noun
+- indication: die Bratwurst
+  result: bratwurst
+  clue: Noun
+- indication: die Brezel
+  result: pretzel
+  clue: Noun
+- indication: 'die Brille • plural: die Brillen'
+  result: glasses
+  clue: Noun
+- indication: die Brötchen ntpl
+  result: bread rolls
+  clue: Noun
+- indication: 'die Dienstleistung • plural: die Dienstleistungen'
+  result: service
+  clue: Noun
+- indication: die Distanz
+  result: distance
+  clue: Noun
+- indication: 'die Dunkelheit • plural: die Dunkelheiten'
+  result: darkness
+  clue: Noun
+- indication: die E-Mail
+  result: email
+  clue: Noun
+- indication: die E-Mail-Adresse
+  result: email address
+  clue: Noun
+- indication: 'die Ehe • plural: die Ehen'
+  result: marriage
+  clue: Noun

@@ -1,9 +1,13 @@
 <script lang="ts">
 	import yaml from 'js-yaml';
-	import { supabase } from '$lib/supabase';
+	import { env } from '$env/dynamic/public';
+
+	const API_BASE = env.PUBLIC_API_URL || 'https://api.yasssf.com';
 
 	let fileInput: HTMLInputElement;
 	let deckTitle = $state('');
+	let deckFolder = $state('');
+	let deckCategory = $state('');
 	let errorMsg = $state('');
 	let successMsg = $state('');
 	let isUploading = $state(false);
@@ -18,63 +22,62 @@
 		}
 
 		const file = fileInput.files[0];
-		const finalTitle = deckTitle.trim() || file.name.replace(/\.[^/.]+$/, '');
 
-		if (file.size > 1024 * 1024) {
-			errorMsg = 'File size exceeds 1MB limit.';
+		if (file.size > 2 * 1024 * 1024) {
+			errorMsg = 'File size exceeds 2MB limit.';
+			return;
+		}
+
+		// Client-side YAML validation
+		try {
+			const text = await file.text();
+			const data = yaml.load(text);
+			if (!Array.isArray(data)) {
+				errorMsg = 'YAML must contain a list of flashcard objects.';
+				return;
+			}
+			const isValid = data.every((item: unknown) => {
+				if (typeof item !== 'object' || item === null) return false;
+				const obj = item as Record<string, unknown>;
+				return typeof obj.indication === 'string' && typeof obj.result === 'string';
+			});
+			if (!isValid) {
+				errorMsg = 'Invalid format. Each card must have "indication" and "result" fields.';
+				return;
+			}
+		} catch (e) {
+			const parseError = e as Error;
+			errorMsg = 'Invalid YAML format: ' + parseError.message;
 			return;
 		}
 
 		isUploading = true;
 
 		try {
-			const text = await file.text();
-			let data: unknown;
+			const formData = new FormData();
+			formData.append('file', file);
+			if (deckTitle.trim()) formData.append('title', deckTitle.trim());
+			if (deckFolder.trim()) formData.append('folder', deckFolder.trim());
+			if (deckCategory.trim()) formData.append('category', deckCategory.trim());
 
-			try {
-				data = yaml.load(text);
-			} catch (e) {
-				const parseError = e as Error;
-				errorMsg = 'Invalid YAML format: ' + parseError.message;
-				isUploading = false;
-				return;
-			}
-
-			if (!Array.isArray(data)) {
-				errorMsg = 'YAML must contain a list of flashcard objects.';
-				isUploading = false;
-				return;
-			}
-
-			const isValid = data.every((item: unknown) => {
-				if (typeof item !== 'object' || item === null) return false;
-				const obj = item as Record<string, unknown>;
-				return typeof obj.indication === 'string' && typeof obj.result === 'string';
+			const res = await fetch(`${API_BASE}/decks/import`, {
+				method: 'POST',
+				body: formData,
 			});
 
-			if (!isValid) {
-				errorMsg = 'Invalid format. Each card must have "indication" and "result" fields.';
-				isUploading = false;
+			if (!res.ok) {
+				const err = await res.json().catch(() => ({ detail: res.statusText }));
+				errorMsg = err.detail || `Upload failed (${res.status})`;
 				return;
 			}
 
-			// Insert into Supabase
-			const { data: deckData, error: dbError } = await supabase
-				.from('decks')
-				.insert([{ name: finalTitle, cards: data }])
-				.select();
+			const result = await res.json();
+			successMsg = result.message || `Successfully uploaded ${result.card_count} cards!`;
 
-			if (dbError) {
-				console.warn('Supabase insert failed:', dbError);
-				successMsg = `Successfully parsed ${data.length} flashcards! (DB save pending schema)`;
-			} else {
-				console.warn('Uploaded deck:', deckData);
-				successMsg = `Successfully uploaded "${finalTitle}" with ${data.length} flashcards!`;
-			}
-
-			// Reset input
 			fileInput.value = '';
 			deckTitle = '';
+			deckFolder = '';
+			deckCategory = '';
 		} catch (err) {
 			const uploadError = err as Error;
 			errorMsg = 'An unexpected error occurred: ' + uploadError.message;
@@ -95,7 +98,7 @@ Example format:
 - indication: "What does HTML stand for?"
   result: "HyperText Markup Language"
 
-Ensure the YAML is clean and correctly indented. Total content must be under 1MB.`;
+Ensure the YAML is clean and correctly indented. Total content must be under 2MB.`;
 
 	function copyPrompt() {
 		navigator.clipboard.writeText(aiPrompt);
@@ -110,7 +113,7 @@ Ensure the YAML is clean and correctly indented. Total content must be under 1MB
 <div style="display: flex; flex-direction: column; gap: 2rem; max-width: 800px; margin: 0 auto;">
 	<div class="card">
 		<h2>Upload Flashcards</h2>
-		<p class="text-muted">Upload your YAML file (max 1MB) to create a new deck.</p>
+		<p class="text-muted">Upload your YAML file (max 2MB) to create a new deck.</p>
 
 		{#if errorMsg}
 			<div
@@ -141,6 +144,32 @@ Ensure the YAML is clean and correctly indented. Total content must be under 1MB
 					disabled={isUploading}
 				/>
 				<small class="text-muted">If left blank, the filename will be used.</small>
+			</div>
+
+			<div class="form-group">
+				<label for="deckFolder" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+					>Collection / Folder (Optional)</label
+				>
+				<input
+					type="text"
+					id="deckFolder"
+					placeholder="e.g. Japanese"
+					bind:value={deckFolder}
+					disabled={isUploading}
+				/>
+			</div>
+
+			<div class="form-group">
+				<label for="deckCategory" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+					>Category (Optional)</label
+				>
+				<input
+					type="text"
+					id="deckCategory"
+					placeholder="e.g. verbs, nouns, phrases"
+					bind:value={deckCategory}
+					disabled={isUploading}
+				/>
 			</div>
 
 			<div class="form-group">

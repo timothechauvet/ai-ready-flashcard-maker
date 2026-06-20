@@ -1,0 +1,60 @@
+- indication: jogging bottoms
+  result: die Jeans pl
+  clue: Phrase
+- indication: lighting
+  result: die Lederwaren fpl
+  clue: Phrase
+- indication: pants
+  result: die Leggings pl
+  clue: Phrase
+- indication: sandals
+  result: die Strandschuhe mpl
+  clue: Phrase
+- indication: second-class
+  result: in town   |  in der stadt
+  clue: Phrase
+- indication: skirt
+  result: die Shorts pl
+  clue: Phrase
+- indication: slippers
+  result: die Sandalen fpl
+  clue: Phrase
+- indication: spanner
+  result: die Schrauben fpl
+  clue: Phrase
+- indication: spreadsheet
+  result: die Zahlen fpl
+  clue: Phrase
+- indication: staff
+  result: der Chef / die Chefin
+  clue: Phrase
+- indication: suit
+  result: die Socken fpl
+  clue: Phrase
+- indication: to be in the sale
+  result: verkauft werden
+  clue: Phrase
+- indication: to be on sale
+  result: der Ausverkauf
+  clue: Phrase
+- indication: to borrow
+  result: die Zinsen pl
+  clue: Phrase
+- indication: to hold a meeting
+  result: halten
+  clue: Phrase
+- indication: toys
+  result: die Wohntextilien fpl
+  clue: Phrase
+- indication: trainers
+  result: die Pantoffeln fpl
+  clue: Phrase
+- indication: underwear
+  result: die Schuhe mpl
+  clue: Phrase
+- indication: wallpaper
+  result: die Fliesen fpl
+  clue: Phrase
+- indication: Wellington boots
+  result: die Sportschuhe mpl
+  clue: Phrase

@@ -1,0 +1,60 @@
+- indication: 'die Unsicherheit • plural: die Unsicherheiten'
+  result: uncertainty
+  clue: Noun
+- indication: 'die Verarbeitung • plural: die Verarbeitungen'
+  result: processing
+  clue: Noun
+- indication: 'die Verbesserung • plural: die Verbesserungen'
+  result: improvement
+  clue: Noun
+- indication: 'die Verfassung • plural: die Verfassungen'
+  result: constitution
+  clue: Noun
+- indication: 'die Verhandlung • plural: die Verhandlungen'
+  result: negotiation
+  clue: Noun
+- indication: die Verlängerung
+  result: injury time
+  clue: Noun
+- indication: 'die Veröffentlichung • plural: die Veröffentlichungen'
+  result: publication
+  clue: Noun
+- indication: 'die Versorgung • plural: die Versorgungen'
+  result: supply, care
+  clue: Noun
+- indication: die Vollpension
+  result: full board
+  clue: Noun
+- indication: 'die Vorbereitung • plural: die Vorbereitungen'
+  result: preparation
+  clue: Noun
+- indication: die Vorführung
+  result: play
+  clue: Noun
+- indication: 'die Wahrnehmung • plural: die Wahrnehmungen'
+  result: perception
+  clue: Noun
+- indication: 'die Wahrscheinlichkeit • plural: die Wahrscheinlichkeiten'
+  result: probability
+  clue: Noun
+- indication: 'die Wechselwirkung • plural: die Wechselwirkungen'
+  result: interaction
+  clue: Noun
+- indication: 'die Weise • plural: die Weisen'
+  result: way, manner
+  clue: Noun
+- indication: 'die Werbung • plural: die Werbungen'
+  result: advertising
+  clue: Noun
+- indication: die Wut
+  result: rage, fury
+  clue: Noun
+- indication: 'die Zeit • plural: die Zeiten'
+  result: time (hour)
+  clue: Noun
+- indication: die Zeit vertreiben
+  result: to pass the time
+  clue: Noun
+- indication: 'die Zerstörung • plural: die Zerstörungen'
+  result: destruction
+  clue: Noun

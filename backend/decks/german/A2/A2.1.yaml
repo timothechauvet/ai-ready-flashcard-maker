@@ -1,0 +1,504 @@
+- indication: das Radio
+  result: radio
+  clue: Noun
+- indication: der Strand
+  result: beach
+  clue: Noun
+- indication: das Rad
+  result: wheel
+  clue: Noun
+- indication: der Schlaf
+  result: sleep
+  clue: Noun
+- indication: die Tiefe
+  result: depth
+  clue: Noun
+- indication: die Geburt
+  result: birth
+  clue: Noun
+- indication: der Schauspieler
+  result: actor
+  clue: Noun
+- indication: der Sturm
+  result: storm
+  clue: Noun
+- indication: die Trauer
+  result: grief
+  clue: Noun
+- indication: der Papa
+  result: daddy
+  clue: Noun
+- indication: das Personal
+  result: staff
+  clue: Noun
+- indication: die Tendenz
+  result: trend
+  clue: Noun
+- indication: der Fleck
+  result: stain
+  clue: Noun
+- indication: das Video
+  result: video
+  clue: Noun
+- indication: der Trend
+  result: trend
+  clue: Noun
+- indication: der Bauch
+  result: belly
+  clue: Noun
+- indication: der Stil
+  result: style
+  clue: Noun
+- indication: die Wolke
+  result: cloud
+  clue: Noun
+- indication: der Zahn
+  result: tooth
+  clue: Noun
+- indication: der Bord
+  result: board
+  clue: Noun
+- indication: die Bibel
+  result: bible
+  clue: Noun
+- indication: der Feind
+  result: enemy
+  clue: Noun
+- indication: das Hemd
+  result: shirt
+  clue: Noun
+- indication: die Oper
+  result: opera
+  clue: Noun
+- indication: das Kreuz
+  result: cross
+  clue: Noun
+- indication: das Organ
+  result: organ
+  clue: Noun
+- indication: die Presse
+  result: press
+  clue: Noun
+- indication: das Regal
+  result: shelf
+  clue: Noun
+- indication: der Besitzer
+  result: owner
+  clue: Noun
+- indication: der Geschmack
+  result: taste
+  clue: Noun
+- indication: der Turm
+  result: tower
+  clue: Noun
+- indication: das Klavier
+  result: piano
+  clue: Noun
+- indication: der Pilot
+  result: pilot
+  clue: Noun
+- indication: der Riese
+  result: giant
+  clue: Noun
+- indication: das Dutzend
+  result: dozen
+  clue: Noun
+- indication: der Onkel
+  result: uncle
+  clue: Noun
+- indication: der Sachverhalt
+  result: facts
+  clue: Noun
+- indication: der Ertrag
+  result: yield
+  clue: Noun
+- indication: die Kette
+  result: chain
+  clue: Noun
+- indication: die Küste
+  result: coast
+  clue: Noun
+- indication: das Messer
+  result: knife
+  clue: Noun
+- indication: das Motto
+  result: motto
+  clue: Noun
+- indication: das Tuch
+  result: cloth
+  clue: Noun
+- indication: das Virus
+  result: virus
+  clue: Noun
+- indication: die Wunde
+  result: wound
+  clue: Noun
+- indication: der Anblick
+  result: sight
+  clue: Noun
+- indication: der Befehl
+  result: order
+  clue: Noun
+- indication: die Ehre
+  result: honor
+  clue: Noun
+- indication: die Epoche
+  result: epoch
+  clue: Noun
+- indication: der/die Geliebte
+  result: lover
+  clue: Noun
+- indication: der Lastkraftwagen
+  result: truck
+  clue: Noun
+- indication: der Teller
+  result: plate
+  clue: Noun
+- indication: der Wähler
+  result: voter
+  clue: Noun
+- indication: der Geruch
+  result: smell
+  clue: Noun
+- indication: die Kurve
+  result: curve
+  clue: Noun
+- indication: der Nerv
+  result: nerve
+  clue: Noun
+- indication: der Tanz
+  result: dance
+  clue: Noun
+- indication: die Front
+  result: front
+  clue: Noun
+- indication: das Gras
+  result: grass
+  clue: Noun
+- indication: der Stolz
+  result: pride
+  clue: Noun
+- indication: die Wange
+  result: cheek
+  clue: Noun
+- indication: die Anordnung
+  result: order
+  clue: Noun
+- indication: der Aufsatz
+  result: essay
+  clue: Noun
+- indication: der Eigentümer
+  result: owner
+  clue: Noun
+- indication: der Lärm
+  result: noise
+  clue: Noun
+- indication: der Liter
+  result: liter
+  clue: Noun
+- indication: der Teufel
+  result: devil
+  clue: Noun
+- indication: das Zeug
+  result: stuff
+  clue: Noun
+- indication: die Breite
+  result: width
+  clue: Noun
+- indication: das Fieber
+  result: fever
+  clue: Noun
+- indication: das Gerücht
+  result: rumor
+  clue: Noun
+- indication: das Grab
+  result: grave
+  clue: Noun
+- indication: die Königin
+  result: queen
+  clue: Noun
+- indication: die Party
+  result: party
+  clue: Noun
+- indication: der Schweiß
+  result: sweat
+  clue: Noun
+- indication: das Tagebuch
+  result: diary
+  clue: Noun
+- indication: das Verbrechen
+  result: crime
+  clue: Noun
+- indication: die Villa
+  result: villa
+  clue: Noun
+- indication: das Chaos
+  result: chaos
+  clue: Noun
+- indication: die Maus
+  result: mouse
+  clue: Noun
+- indication: der Zucker
+  result: sugar
+  clue: Noun
+- indication: der Block
+  result: block
+  clue: Noun
+- indication: die Fakten
+  result: facts
+  clue: Noun
+- indication: die Frucht
+  result: fruit
+  clue: Noun
+- indication: das Metall
+  result: metal
+  clue: Noun
+- indication: der Ozean
+  result: ocean
+  clue: Noun
+- indication: der Engel
+  result: angel
+  clue: Noun
+- indication: die Koralle
+  result: coral
+  clue: Noun
+- indication: das Deutsch
+  result: German
+  clue: Noun
+- indication: die Leute
+  result: people
+  clue: Noun
+- indication: der Vater
+  result: father
+  clue: Noun
+- indication: die Mutter
+  result: mother
+  clue: Noun
+- indication: die Familie
+  result: family
+  clue: Noun
+- indication: der Freund
+  result: friend
+  clue: Noun
+- indication: die Person
+  result: person
+  clue: Noun
+- indication: die Zahl
+  result: number
+  clue: Noun
+- indication: das System
+  result: system
+  clue: Noun
+- indication: die Straße
+  result: street
+  clue: Noun
+- indication: die Minute
+  result: minute
+  clue: Noun
+- indication: der Moment
+  result: moment
+  clue: Noun
+- indication: das Ergebnis
+  result: result
+  clue: Noun
+- indication: die Zukunft
+  result: future
+  clue: Noun
+- indication: der Markt
+  result: market
+  clue: Noun
+- indication: die Kirche
+  result: church
+  clue: Noun
+- indication: der Doktor
+  result: doctor
+  clue: Noun
+- indication: die Chance
+  result: chance
+  clue: Noun
+- indication: das Mitglied
+  result: member
+  clue: Noun
+- indication: das Fenster
+  result: window
+  clue: Noun
+- indication: die Natur
+  result: nature
+  clue: Noun
+- indication: das Tier
+  result: animal
+  clue: Noun
+- indication: der Sommer
+  result: summer
+  clue: Noun
+- indication: die Polizei
+  result: police
+  clue: Noun
+- indication: die Gefahr
+  result: danger
+  clue: Noun
+- indication: der Dollar
+  result: dollar
+  clue: Noun
+- indication: die Mitte
+  result: middle
+  clue: Noun
+- indication: die Schwester
+  result: sister
+  clue: Noun
+- indication: der Autor
+  result: author
+  clue: Noun
+- indication: die Wirkung
+  result: effect
+  clue: Noun
+- indication: der Brief
+  result: letter
+  clue: Noun
+- indication: die Veränderung
+  result: change
+  clue: Noun
+- indication: die Methode
+  result: method
+  clue: Noun
+- indication: der Augenblick
+  result: moment
+  clue: Noun
+- indication: der Künstler
+  result: artist
+  clue: Noun
+- indication: die Region
+  result: region
+  clue: Noun
+- indication: der Aspekt
+  result: aspect
+  clue: Noun
+- indication: die Erinnerung
+  result: memory
+  clue: Noun
+- indication: die Sekunde
+  result: second
+  clue: Noun
+- indication: der Garten
+  result: garden
+  clue: Noun
+- indication: der Gegenstand
+  result: object
+  clue: Noun
+- indication: der Finger
+  result: finger
+  clue: Noun
+- indication: die Freundin
+  result: friend
+  clue: Noun
+- indication: die Theorie
+  result: theory
+  clue: Noun
+- indication: die Nummer
+  result: number
+  clue: Noun
+- indication: der Schaden
+  result: damage
+  clue: Noun
+- indication: das Volk
+  result: people
+  clue: Noun
+- indication: der Angriff
+  result: attack
+  clue: Noun
+- indication: der/das Grad
+  result: degree
+  clue: Noun
+- indication: die Öffentlichkeit
+  result: public
+  clue: Noun
+- indication: die Energie
+  result: energy
+  clue: Noun
+- indication: das Zentrum
+  result: center
+  clue: Noun
+- indication: der Anschlag
+  result: attack
+  clue: Noun
+- indication: der Faktor
+  result: factor
+  clue: Noun
+- indication: das Objekt
+  result: object
+  clue: Noun
+- indication: das Jahrzehnt
+  result: decade
+  clue: Noun
+- indication: der Bericht
+  result: report
+  clue: Noun
+- indication: der Gewinn
+  result: profit
+  clue: Noun
+- indication: der Bauer
+  result: farmer
+  clue: Noun
+- indication: der Winter
+  result: winter
+  clue: Noun
+- indication: die Anzahl
+  result: number
+  clue: Noun
+- indication: die Insel
+  result: island
+  clue: Noun
+- indication: der Leiter
+  result: leader
+  clue: Noun
+- indication: die Leiter
+  result: ladder
+  clue: Noun
+- indication: das Museum
+  result: museum
+  clue: Noun
+- indication: die Ecke
+  result: corner
+  clue: Noun
+- indication: der Herbst
+  result: autumn
+  clue: Noun
+- indication: der Terror
+  result: terror
+  clue: Noun
+- indication: die Nation
+  result: nation
+  clue: Noun
+- indication: die Änderung
+  result: change
+  clue: Noun
+- indication: der Kaffee
+  result: coffee
+  clue: Noun
+- indication: die Lust
+  result: desire
+  clue: Noun
+- indication: der Experte
+  result: expert
+  clue: Noun
+- indication: der Meister
+  result: master
+  clue: Noun
+- indication: der Zugang
+  result: access
+  clue: Noun
+- indication: die Figur
+  result: figure
+  clue: Noun
+- indication: das Wachstum
+  result: growth
+  clue: Noun
+- indication: das Büro
+  result: office
+  clue: Noun
+- indication: der Rat
+  result: advice
+  clue: Noun
+- indication: der Effekt
+  result: effect
+  clue: Noun

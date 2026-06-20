@@ -1,0 +1,60 @@
+- indication: margarine
+  result: die saure Sahne
+  clue: Phrase
+- indication: menu
+  result: der Krug Wasser
+  clue: Phrase
+- indication: mobile phone
+  result: die Daten ntpl
+  clue: Phrase
+- indication: ntpl
+  result: die verlorene Eier
+  clue: Phrase
+- indication: pancake soup
+  result: die Frikadellen fpl
+  clue: Phrase
+- indication: pasta
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: pepper
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: Pfeffer
+  result: das Salz und der
+  clue: Phrase
+- indication: poached eggs
+  result: die Spiegeleier ntpl
+  clue: Phrase
+- indication: popcorn
+  result: die Oliven fpl
+  clue: Phrase
+- indication: potato fritters
+  result: die Kartoffeln fpl
+  clue: Phrase
+- indication: potatoes
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: sauce
+  result: sausage with curry
+  clue: Phrase
+- indication: schnitzel
+  result: die Kohlrouladen fpl
+  clue: Phrase
+- indication: service charge
+  result: die Tagesgerichte ntpl
+  clue: Phrase
+- indication: spinach
+  result: der rote Paprika
+  clue: Phrase
+- indication: starters
+  result: zum Essen ausgehen
+  clue: Phrase
+- indication: stuffed cabbage leaves
+  result: die Maultaschen fpl
+  clue: Phrase
+- indication: to ask for the bill
+  result: bestellen
+  clue: Phrase
+- indication: to browse
+  result: die Lebensmittel ntpl
+  clue: Phrase

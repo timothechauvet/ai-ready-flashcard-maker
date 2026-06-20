@@ -1,0 +1,60 @@
+- indication: See you tomorrow.
+  result: Bis bald.
+  clue: Phrase
+- indication: Sehr gut, danke, und
+  result: you?
+  clue: Phrase
+- indication: selbstständig.
+  result: I’m unemployed.
+  clue: Phrase
+- indication: Sind Sie verheiratet /
+  result: single?
+  clue: Phrase
+- indication: So-so.
+  result: Super!
+  clue: Phrase
+- indication: Sorry?
+  result: Entschuldigung.
+  clue: Phrase
+- indication: Studieren Sie?
+  result: Arbeiten /
+  clue: Phrase
+- indication: Teilzeit- / Vollzeit-
+  result: Ich habe eine
+  clue: Phrase
+- indication: than…
+  result: I’m older/younger
+  clue: Phrase
+- indication: Thank you.
+  result: Ja, bitte.
+  clue: Phrase
+- indication: They are...
+  result: Er / Sie ist…
+  clue: Phrase
+- indication: Tschüss!
+  result: Have a good day/
+  clue: Phrase
+- indication: Universität.
+  result: Ich bin an der
+  clue: Phrase
+- indication: Very well, thanks, and
+  result: Wie geht es ihnen?
+  clue: Phrase
+- indication: Wann haben Sie
+  result: When is your birthday?
+  clue: Phrase
+- indication: Was ist Ihr Beruf?
+  result: occupation?
+  clue: Phrase
+- indication: Was machen Sie
+  result: What do you do?
+  clue: Phrase
+- indication: What’s your
+  result: beruflich?
+  clue: Phrase
+- indication: Wie alt sind Sie?
+  result: How old are you?
+  clue: Phrase
+- indication: Wie geht es ihm / ihr?
+  result: How is he/she?
+  clue: Phrase

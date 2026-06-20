@@ -1,0 +1,42 @@
+- indication: '101'
+  result: the optician’s   |  beim optiker
+  clue: Phrase
+- indication: '102'
+  result: the hospital   |  im krankenhaus
+  clue: Phrase
+- indication: '103'
+  result: pregnancy   |  die schwangerschaft
+  clue: Phrase
+- indication: '104'
+  result: alternative therapies   |  alternative therapien
+  clue: Phrase
+- indication: '105'
+  result: the vet   |  beim tierarzt
+  clue: Phrase
+- indication: contact lens case
+  result: die Kontaktlinsen fpl
+  clue: Phrase
+- indication: dentist’s chair
+  result: the dentist’s surgery   |  beim zahnarzt
+  clue: Phrase
+- indication: Kontaktlinsen fpl
+  result: die harten / weichen
+  clue: Phrase
+- indication: lenses
+  result: hard/soft contact
+  clue: Phrase
+- indication: to microchip
+  result: zum Tierarzt gehen
+  clue: Phrase
+- indication: to put to sleep
+  result: kastrieren
+  clue: Phrase
+- indication: to take his/her pulse
+  result: der Puls
+  clue: Phrase
+- indication: to use contacts
+  result: eine Brille tragen
+  clue: Phrase
+- indication: Untersuchung
+  result: die CT­ / MRT­
+  clue: Phrase

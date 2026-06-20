@@ -1,0 +1,60 @@
+- indication: public holiday
+  result: der Hochzeitstag
+  clue: Adjective
+- indication: Ramadan
+  result: der Maifeiertag
+  clue: Adjective
+- indication: religious holiday
+  result: der Feiertag
+  clue: Adjective
+- indication: relocation
+  result: die Scheidung
+  clue: Adjective
+- indication: retirement
+  result: der Umzug
+  clue: Adjective
+- indication: Rose Monday
+  result: der Ramadan
+  clue: Adjective
+- indication: Saint Nicholas and
+  result: das Silvester
+  clue: Adjective
+- indication: Sankt Nikolaus und
+  result: Knecht Ruprecht
+  clue: Adjective
+- indication: Shrove Tuesday
+  result: die Fastenzeit
+  clue: Adjective
+- indication: streamers
+  result: die Party
+  clue: Adjective
+- indication: surprise party
+  result: die Feier
+  clue: Adjective
+- indication: Thanksgiving
+  result: der Rosenmontag
+  clue: Adjective
+- indication: to celebrate
+  result: Nachrichten
+  clue: Adjective
+- indication: Überraschungsparty
+  result: die
+  clue: Adjective
+- indication: Valentine’s Day
+  result: das Erntedankfest
+  clue: Adjective
+- indication: wedding
+  result: der Geburtstag
+  clue: Adjective
+- indication: wedding anniversary
+  result: die Hochzeit
+  clue: Adjective
+- indication: Weihnachtsbaum
+  result: der
+  clue: Adjective
+- indication: Weihnachtsmann /
+  result: der
+  clue: Adjective
+- indication: Weihnachtstag
+  result: der erste
+  clue: Adjective

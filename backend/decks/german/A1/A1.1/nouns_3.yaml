@@ -1,0 +1,60 @@
+- indication: 'das TV • plural: die TVs'
+  result: TV
+  clue: Noun
+- indication: das Werk
+  result: work
+  clue: Noun
+- indication: das Wort
+  result: word
+  clue: Noun
+- indication: 'das Zeichen • plural: die Zeichen'
+  result: sign
+  clue: Noun
+- indication: das Zimmer
+  result: room
+  clue: Noun
+- indication: 'das Zuhause • plural: die Zuhausen'
+  result: home
+  clue: Noun
+- indication: der / die
+  result: office worker
+  clue: Noun
+- indication: der Akt
+  result: act
+  clue: Noun
+- indication: 'der Apfel • plural: die Äpfel'
+  result: the apple
+  clue: Noun
+- indication: der Arm
+  result: arm
+  clue: Noun
+- indication: der Baum
+  result: tree
+  clue: Noun
+- indication: der Beamter /
+  result: civil servant
+  clue: Noun
+- indication: 'der Bude • plural: die Buden'
+  result: boy
+  clue: Noun
+- indication: der Bus
+  result: bus
+  clue: Noun
+- indication: der Club
+  result: club
+  clue: Noun
+- indication: der Elektriker /
+  result: electrician
+  clue: Noun
+- indication: der Enkelsohn
+  result: grandson
+  clue: Noun
+- indication: 'der Euro • plural: die Euros'
+  result: euro
+  clue: Noun
+- indication: der Feuerwehrmann /
+  result: firefighter
+  clue: Noun
+- indication: der Film
+  result: film
+  clue: Noun

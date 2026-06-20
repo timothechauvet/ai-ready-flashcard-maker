@@ -1,0 +1,60 @@
+- indication: 'die Katze • plural: die Katzen'
+  result: the cat
+  clue: Noun
+- indication: die Köchin
+  result: der Koch /
+  clue: Noun
+- indication: die Krankenschwester
+  result: der Krankenpfleger /
+  clue: Noun
+- indication: die Kuh
+  result: cow
+  clue: Noun
+- indication: die Kunst
+  result: art
+  clue: Noun
+- indication: 'die Liebe • plural: die Lieben'
+  result: love
+  clue: Noun
+- indication: 'die Linie • plural: die Linien'
+  result: line
+  clue: Noun
+- indication: 'die Lippe • plural: die Lippen'
+  result: lip
+  clue: Noun
+- indication: 'die Liste • plural: die Listen'
+  result: list
+  clue: Noun
+- indication: 'die Lücke • plural: die Lücken'
+  result: gap
+  clue: Noun
+- indication: die Luft
+  result: air
+  clue: Noun
+- indication: die Mauer
+  result: wall
+  clue: Noun
+- indication: die Maurerin
+  result: der Maurer /
+  clue: Noun
+- indication: 'die Nase • plural: die Nasen'
+  result: nose
+  clue: Noun
+- indication: 'die Nutzung • plural: die Nutzungen'
+  result: use
+  clue: Noun
+- indication: die Partnerin
+  result: der Partner /
+  clue: Noun
+- indication: die Pflicht
+  result: duty
+  clue: Noun
+- indication: die Rechtsanwältin
+  result: lecturer
+  clue: Noun
+- indication: die Regel
+  result: rule
+  clue: Noun
+- indication: 'die Rolle • plural: die Rollen'
+  result: role
+  clue: Noun

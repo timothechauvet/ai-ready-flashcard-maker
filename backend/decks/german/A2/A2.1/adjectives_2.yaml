@@ -1,0 +1,60 @@
+- indication: boot
+  result: exterior
+  clue: Adjective
+- indication: brake
+  result: die Batterie
+  clue: Adjective
+- indication: breakdown
+  result: der Unfall
+  clue: Adjective
+- indication: Breathalyser®
+  result: das Getriebe
+  clue: Adjective
+- indication: building
+  result: die Villa
+  clue: Adjective
+- indication: bungalow
+  result: der Wohnblock
+  clue: Adjective
+- indication: bus lane
+  result: die Buslinie
+  clue: Adjective
+- indication: bus route
+  result: vocabulary
+  clue: Adjective
+- indication: bus shelter
+  result: der Bus
+  clue: Adjective
+- indication: bus station
+  result: die Busspur
+  clue: Adjective
+- indication: car insurance
+  result: der Fahrzeugschein
+  clue: Adjective
+- indication: carpet
+  result: vocabulary
+  clue: Adjective
+- indication: ceiling
+  result: der Dachboden
+  clue: Adjective
+- indication: ceiling fan
+  result: der Boiler
+  clue: Adjective
+- indication: cellar
+  result: das Zimmer
+  clue: Adjective
+- indication: central heating
+  result: die Klimaanlage
+  clue: Adjective
+- indication: chain
+  result: das Pedal
+  clue: Adjective
+- indication: chimney
+  result: das Dach
+  clue: Adjective
+- indication: clingfilm
+  result: der Brotkasten
+  clue: Adjective
+- indication: clutch
+  result: die Klimaanlage
+  clue: Adjective

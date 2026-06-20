@@ -1,0 +1,60 @@
+- indication: box
+  result: die Flasche
+  clue: Adjective
+- indication: bread and jam
+  result: das Butterbrot
+  clue: Adjective
+- indication: bread basket
+  result: die Rechnung
+  clue: Adjective
+- indication: bread rolls
+  result: ntpl
+  clue: Adjective
+- indication: breakfast bar
+  result: vocabulary
+  clue: Adjective
+- indication: burger
+  result: die Bratwurst
+  clue: Adjective
+- indication: butcher
+  result: vocabulary
+  clue: Adjective
+- indication: butter
+  result: milchfrei
+  clue: Adjective
+- indication: button
+  result: der Bildschirm
+  clue: Adjective
+- indication: cable
+  result: der Akku
+  clue: Adjective
+- indication: caged
+  result: die Halbfettmilch
+  clue: Adjective
+- indication: carton
+  result: die Schachtel
+  clue: Adjective
+- indication: cash
+  result: der Markt
+  clue: Adjective
+- indication: chair
+  result: der Brotkorb
+  clue: Adjective
+- indication: champagne flute
+  result: der Stuhl
+  clue: Adjective
+- indication: change
+  result: das Bargeld
+  clue: Adjective
+- indication: charger
+  result: ausschalten
+  clue: Adjective
+- indication: cheese knife
+  result: das Sektglas
+  clue: Adjective
+- indication: chips
+  result: sides
+  clue: Adjective
+- indication: chocolate
+  result: snacks
+  clue: Adjective

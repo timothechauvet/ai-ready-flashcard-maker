@@ -1,0 +1,60 @@
+- indication: Hauptverkehrszeit
+  result: die
+  clue: Adjective
+- indication: headrest
+  result: die Handbremse
+  clue: Adjective
+- indication: hob
+  result: der Backofen
+  clue: Adjective
+- indication: holiday let
+  result: der Mietvertrag
+  clue: Adjective
+- indication: home entertainment
+  result: die Tischlampe
+  clue: Adjective
+- indication: Kartoffelstampfer
+  result: der
+  clue: Adjective
+- indication: keitsbegrenzung
+  result: die Geschwindig-
+  clue: Adjective
+- indication: kettle
+  result: vocabulary
+  clue: Adjective
+- indication: kitchen roll
+  result: die Frischhaltefolie
+  clue: Adjective
+- indication: landing
+  result: der Flur
+  clue: Adjective
+- indication: landlady
+  result: der Vermieter
+  clue: Adjective
+- indication: Landstraße
+  result: die einspurige
+  clue: Adjective
+- indication: letting agent
+  result: der Bezirk
+  clue: Adjective
+- indication: lift
+  result: die Treppe
+  clue: Adjective
+- indication: lounge
+  result: die Jalousie
+  clue: Adjective
+- indication: mechanic
+  result: ntpl
+  clue: Adjective
+- indication: microwave
+  result: das Kochfeld
+  clue: Adjective
+- indication: minibus
+  result: der Reisebus
+  clue: Adjective
+- indication: night bus
+  result: der Rollstuhlzugang
+  clue: Adjective
+- indication: ornament
+  result: das Bild
+  clue: Adjective

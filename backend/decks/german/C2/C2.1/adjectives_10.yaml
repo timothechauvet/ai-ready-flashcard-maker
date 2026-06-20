@@ -1,0 +1,74 @@
+- indication: toad
+  result: die Schlange
+  clue: Adjective
+- indication: tropisch
+  result: tropical
+  clue: Adjective
+- indication: tulip
+  result: die Sonnenblume
+  clue: Adjective
+- indication: übergenau
+  result: overly precise / fastidious
+  clue: Adjective
+  pronunciation: '[ˈyːbɐɡəˌnaʊ̯]'
+- indication: übermäßig
+  result: excessive / immoderate
+  clue: Adjective
+  pronunciation: '[ˈyːbɐˌmɛːsɪç]'
+- indication: überspitzt
+  result: exaggerated / provocative / overstated
+  clue: Adjective
+  pronunciation: '[ˌyːbɐˈʃpɪt͡st]'
+- indication: unermüdlich
+  result: untiring / tireless / indefatigable
+  clue: Adjective
+  pronunciation: '[ˈʊnʔɛɐ̯ˌmyːtlɪç]'
+- indication: unlösbar
+  result: unsolvable / insoluble
+  clue: Adjective
+  pronunciation: '[ˈʊnˌløːsbaːɐ̯]'
+- indication: unparteiisch
+  result: impartial / unbiased
+  clue: Adjective
+  pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
+- indication: unterbelegt
+  result: underoccupied / under-allocated / understaffed
+  clue: Adjective
+  pronunciation: '[ˈʊntɐbəˌleːkt]'
+- indication: unterrepräsentiert
+  result: underrepresented
+  clue: Adjective
+  pronunciation: '[ˈʊntɐʁeːpʁezɛnˌtiːɐ̯t]'
+- indication: valley
+  result: der Bach
+  clue: Adjective
+- indication: verhältnismäßig
+  result: relatively / comparatively / proportional
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈhɛltnɪsˌmɛːsɪç]'
+- indication: vermeintlich
+  result: supposed / alleged
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
+- indication: verschwiegen
+  result: discreet / secretive
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
+- indication: verwackelt
+  result: blurry / shaky
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈvakl̩t]'
+- indication: verwerflich
+  result: reprehensible / morally objectionable
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
+- indication: violet
+  result: die Tulpe
+  clue: Adjective
+- indication: volcano
+  result: das Tal
+  clue: Adjective
+- indication: vorhersehbar
+  result: predictable (*predictable results*)
+  clue: Adjective
+  pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'

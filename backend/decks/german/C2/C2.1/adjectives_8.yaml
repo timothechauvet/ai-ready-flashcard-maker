@@ -1,0 +1,62 @@
+- indication: pig
+  result: das Pferd
+  clue: Adjective
+- indication: pine
+  result: die Eiche
+  clue: Adjective
+- indication: plane
+  result: die Kiefer
+  clue: Adjective
+- indication: plants and trees
+  result: das Veilchen
+  clue: Adjective
+- indication: Polar-
+  result: polar
+  clue: Adjective
+- indication: pond
+  result: der Berg
+  clue: Adjective
+- indication: pony
+  result: der Papagei
+  clue: Adjective
+- indication: poplar
+  result: die Platane
+  clue: Adjective
+- indication: puppy
+  result: die Herde
+  clue: Adjective
+- indication: rabbit
+  result: das Pony
+  clue: Adjective
+- indication: rat
+  result: das Kaninchen
+  clue: Adjective
+- indication: river
+  result: der Teich
+  clue: Adjective
+- indication: rockpool
+  result: die Halbinsel
+  clue: Adjective
+- indication: rocks
+  result: der Fluss
+  clue: Adjective
+- indication: rodent
+  result: die Amphibie
+  clue: Adjective
+- indication: rose
+  result: die Mohnblume
+  clue: Adjective
+- indication: salamander
+  result: der Wassermolch
+  clue: Adjective
+- indication: sämtlich
+  result: all / complete
+  clue: Adjective
+  pronunciation: '[ˈzɛmtlɪç]'
+- indication: scenery
+  result: Naturschutzgebiet
+  clue: Adjective
+- indication: scheinbar
+  result: seemingly / apparently
+  clue: Adjective
+  pronunciation: '[ˈʃaɪ̯nbaːɐ̯]'

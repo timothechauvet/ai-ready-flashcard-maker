@@ -1,0 +1,60 @@
+- indication: '12'
+  result: time   |  die uhrzeit
+  clue: Phrase
+- indication: dreißig.
+  result: When...?
+  clue: Phrase
+- indication: Es ist bewölkt /
+  result: It’s cloudy/misty.
+  clue: Phrase
+- indication: Es ist fünf Uhr
+  result: (abends).
+  clue: Phrase
+- indication: Es ist fünf vor halb
+  result: It’s 25 past nine.
+  clue: Phrase
+- indication: Es ist fünf vor zehn.
+  result: It’s five to ten.
+  clue: Phrase
+- indication: Es ist siebzehn Uhr
+  result: It’s 17:30.
+  clue: Phrase
+- indication: Es ist sonnig.
+  result: It’s sunny.
+  clue: Phrase
+- indication: Es ist stürmisch.
+  result: It’s changeable.
+  clue: Phrase
+- indication: Es ist Viertel vor zehn.
+  result: It’s quarter to ten.
+  clue: Phrase
+- indication: Es ist zehn Uhr
+  result: It’s 10 a.m.
+  clue: Phrase
+- indication: für heute / morgen?
+  result: How warm/cold is it?
+  clue: Phrase
+- indication: Ich arbeite bei…
+  result: I work at/in...
+  clue: Phrase
+- indication: im Frühling / Winter
+  result: Monday
+  clue: Phrase
+- indication: ... in 60 seconds/
+  result: Wann…?
+  clue: Phrase
+- indication: ... in 60 Sekunden /
+  result: two minutes.
+  clue: Phrase
+- indication: ... in an hour/
+  result: zwei Minuten.
+  clue: Phrase
+- indication: ... in einer Stunde /
+  result: half an hour.
+  clue: Phrase
+- indication: ... in quarter of an hour.
+  result: halben Stunde.
+  clue: Phrase
+- indication: Is it going to rain?
+  result: Ist es warm / kalt?
+  clue: Phrase

@@ -1,0 +1,60 @@
+- indication: screws
+  result: der Schraubenzieher
+  clue: Adjective
+- indication: secondary school
+  result: die Grundschule
+  clue: Adjective
+- indication: sein
+  result: im (Sonder)angebot
+  clue: Adjective
+- indication: shirt
+  result: der Schlafanzug
+  clue: Adjective
+- indication: shoes/footwear
+  result: die Kleidung
+  clue: Adjective
+- indication: shorts
+  result: das Hemd
+  clue: Adjective
+- indication: silk
+  result: das Leder
+  clue: Adjective
+- indication: size
+  result: die Seide
+  clue: Adjective
+- indication: snowsuit
+  result: mpl
+  clue: Adjective
+- indication: socks
+  result: der Rock
+  clue: Adjective
+- indication: sore throat
+  result: mpl
+  clue: Adjective
+- indication: Spielwarengeschäft
+  result: das
+  clue: Adjective
+- indication: stamp
+  result: das Rubbellos
+  clue: Adjective
+- indication: sticky tape
+  result: fpl
+  clue: Adjective
+- indication: stomachache
+  result: mpl
+  clue: Adjective
+- indication: student
+  result: die Bibliothek
+  clue: Adjective
+- indication: Studentenausweis
+  result: der
+  clue: Adjective
+- indication: suntan lotion
+  result: das Pflaster
+  clue: Adjective
+- indication: supplier
+  result: die Kundin
+  clue: Adjective
+- indication: swimsuit
+  result: das Sweatshirt
+  clue: Adjective

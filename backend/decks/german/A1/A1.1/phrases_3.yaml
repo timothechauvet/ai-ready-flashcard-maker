@@ -1,0 +1,60 @@
+- indication: I’m cold/warm.
+  result: Ich bin satt.
+  clue: Phrase
+- indication: I’m divorced.
+  result: Ich bin ledig.
+  clue: Phrase
+- indication: I’m full.
+  result: Durst.
+  clue: Phrase
+- indication: I’m married.
+  result: ledig?
+  clue: Phrase
+- indication: I’m single.
+  result: Partnerin.
+  clue: Phrase
+- indication: I’m sorry.
+  result: Wie bitte?
+  clue: Phrase
+- indication: I’m travelling.
+  result: Ruhestand.
+  clue: Phrase
+- indication: I’m widowed.
+  result: Ich bin geschieden.
+  clue: Phrase
+- indication: jünger als…
+  result: Ich bin älter /
+  clue: Phrase
+- indication: Königreich.
+  result: I live in...
+  clue: Phrase
+- indication: Mir geht es gut.
+  result: I’m fine.
+  clue: Phrase
+- indication: My birthday is on…
+  result: Ich bin … (Jahre alt).
+  clue: Phrase
+- indication: No.
+  result: Ja.
+  clue: Phrase
+- indication: No, thanks.
+  result: Vielen Dank.
+  clue: Phrase
+- indication: Not bad, thanks.
+  result: So lala.
+  clue: Phrase
+- indication: OK!
+  result: Es tut mir leid.
+  clue: Phrase
+- indication: Partner / eine
+  result: Ich habe einen
+  clue: Phrase
+- indication: Schönen Tag /
+  result: Abend!
+  clue: Phrase
+- indication: See you on Saturday.
+  result: Bis morgen.
+  clue: Phrase
+- indication: See you soon.
+  result: Gute Nacht.
+  clue: Phrase

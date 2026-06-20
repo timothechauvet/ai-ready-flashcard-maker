@@ -1,0 +1,60 @@
+- indication: headlight
+  result: die Lenkstange
+  clue: Adjective
+- indication: high-speed train
+  result: das Eisenbahnnetz
+  clue: Adjective
+- indication: hold
+  result: der Rumpf
+  clue: Adjective
+- indication: hold luggage
+  result: der Frachtraum
+  clue: Adjective
+- indication: iron
+  result: die Kehrschaufel
+  clue: Adjective
+- indication: jetty
+  result: der Hafen
+  clue: Adjective
+- indication: lawnmower
+  result: die Hacke
+  clue: Adjective
+- indication: leather jacket
+  result: mpl
+  clue: Adjective
+- indication: left luggage
+  result: die U-Bahnstation
+  clue: Adjective
+- indication: lifebuoy
+  result: der Hafendamm
+  clue: Adjective
+- indication: lifejacket
+  result: der Rettungsring
+  clue: Adjective
+- indication: line
+  result: der Wagen
+  clue: Adjective
+- indication: lock
+  result: die Schwimmweste
+  clue: Adjective
+- indication: marina
+  result: der Hafen
+  clue: Adjective
+- indication: master bedroom
+  result: das Doppelbett
+  clue: Adjective
+- indication: mattress
+  result: das Kopfkissen
+  clue: Adjective
+- indication: metro station
+  result: die Linie
+  clue: Adjective
+- indication: mirror
+  result: bathroom
+  clue: Adjective
+- indication: mooring
+  result: die Schleuse
+  clue: Adjective
+- indication: motorbike
+  result: die Lederjacke
+  clue: Adjective

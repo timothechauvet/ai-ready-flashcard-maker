@@ -1,0 +1,60 @@
+- indication: das Alter
+  result: age
+  clue: Noun
+- indication: 'das Auge • plural: die Augen'
+  result: eye
+  clue: Noun
+- indication: 'das Auto • plural: die Autos'
+  result: automobile, car
+  clue: Noun
+- indication: das Bedürfnis
+  result: need
+  clue: Noun
+- indication: das Bein
+  result: leg
+  clue: Noun
+- indication: das Bett
+  result: bed
+  clue: Noun
+- indication: das Bier
+  result: beer
+  clue: Noun
+- indication: das Boot
+  result: boat
+  clue: Noun
+- indication: 'das Buch • plural: die Bücher'
+  result: the book
+  clue: Noun
+- indication: das Dach
+  result: roof
+  clue: Noun
+- indication: 'das Ei • plural: die Eis'
+  result: egg
+  clue: Noun
+- indication: 'das Ende • plural: die Enden'
+  result: end
+  clue: Noun
+- indication: das Feuer
+  result: fire
+  clue: Noun
+- indication: das Gas
+  result: gas
+  clue: Noun
+- indication: das Gesetz
+  result: law
+  clue: Noun
+- indication: das Gesicht
+  result: face
+  clue: Noun
+- indication: das Haar
+  result: hair
+  clue: Noun
+- indication: 'das Haus • plural: die Häuser'
+  result: the house
+  clue: Noun
+- indication: das Holz
+  result: wood
+  clue: Noun
+- indication: Das ist mein / meine…
+  result: This is my...
+  clue: Noun

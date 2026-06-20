@@ -1,0 +1,60 @@
+- indication: sun
+  result: die Temperatur
+  clue: Adjective
+- indication: Sunday
+  result: Samstag
+  clue: Adjective
+- indication: tausend
+  result: hundert
+  clue: Adjective
+- indication: temperature
+  result: mild
+  clue: Adjective
+- indication: the week before
+  result: Donnerstag
+  clue: Adjective
+- indication: thunder
+  result: der Nebel
+  clue: Adjective
+- indication: thunderstorm
+  result: der Blitz
+  clue: Adjective
+- indication: Thursday
+  result: Mittwoch
+  clue: Adjective
+- indication: Tuesday
+  result: Montag
+  clue: Adjective
+- indication: verspätet
+  result: soon
+  clue: Adjective
+- indication: vet
+  result: die Lehrerin
+  clue: Adjective
+- indication: vier
+  result: drei
+  clue: Adjective
+- indication: Wednesday
+  result: Dienstag
+  clue: Adjective
+- indication: week
+  result: das Wochenende
+  clue: Adjective
+- indication: weekend
+  result: der Tag
+  clue: Adjective
+- indication: wind
+  result: das Eis
+  clue: Adjective
+- indication: winter
+  result: der Herbst
+  clue: Adjective
+- indication: work   |  arbeit
+  result: der Laden
+  clue: Adjective
+- indication: year
+  result: der Monat
+  clue: Adjective
+- indication: yearly
+  result: monatlich
+  clue: Adjective

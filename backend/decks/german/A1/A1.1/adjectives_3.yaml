@@ -1,0 +1,33 @@
+- indication: teenager
+  result: das Kind
+  clue: Adjective
+- indication: überrascht
+  result: annoyed
+  clue: Adjective
+- indication: unwell
+  result: gut
+  clue: Adjective
+- indication: verängstigt
+  result: bored
+  clue: Adjective
+- indication: verärgert
+  result: angry
+  clue: Adjective
+- indication: Welsh
+  result: irisch
+  clue: Adjective
+- indication: white
+  result: schwarz
+  clue: Adjective
+- indication: wife
+  result: der Ehemann
+  clue: Adjective
+- indication: worried
+  result: traurig
+  clue: Adjective
+- indication: worse
+  result: besser
+  clue: Adjective
+- indication: wütend
+  result: sad
+  clue: Adjective

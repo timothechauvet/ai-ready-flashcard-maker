@@ -1,0 +1,33 @@
+- indication: die Weinkellnerin
+  result: der Weinkellner /
+  clue: Noun
+- indication: die Weintraube
+  result: grape
+  clue: Noun
+- indication: die Wurst
+  result: sausage
+  clue: Noun
+- indication: die Wurst und der
+  result: cold meats and cheese
+  clue: Noun
+- indication: die Wurstwaren fpl
+  result: cold meats
+  clue: Noun
+- indication: 'die Zahlung • plural: die Zahlungen'
+  result: payment
+  clue: Noun
+- indication: 'die Zeichnung • plural: die Zeichnungen'
+  result: drawing
+  clue: Noun
+- indication: 'die Zeuge • plural: die Zeugen'
+  result: witness
+  clue: Noun
+- indication: die Zitrone
+  result: lemon
+  clue: Noun
+- indication: die Zucchini
+  result: courgette
+  clue: Noun
+- indication: 'die Zustimmung • plural: die Zustimmungen'
+  result: approval
+  clue: Noun

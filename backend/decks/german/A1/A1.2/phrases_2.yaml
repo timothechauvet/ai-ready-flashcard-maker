@@ -1,0 +1,60 @@
+- indication: It is...
+  result: Es ist wechselhaft.
+  clue: Phrase
+- indication: It’s 20 to ten.
+  result: Es ist halb zehn.
+  clue: Phrase
+- indication: It’s 5 p.m.
+  result: (morgens).
+  clue: Phrase
+- indication: It’s foggy.
+  result: dunstig.
+  clue: Phrase
+- indication: It’s freezing.
+  result: Es ist neblig.
+  clue: Phrase
+- indication: It’s half past nine.
+  result: zehn.
+  clue: Phrase
+- indication: It’s quarter past nine.
+  result: Es ist zehn nach neun.
+  clue: Phrase
+- indication: It’s raining/snowing.
+  result: Es friert.
+  clue: Phrase
+- indication: It’s stormy.
+  result: Es ist windig.
+  clue: Phrase
+- indication: It’s ten past nine.
+  result: Es ist neun Uhr.
+  clue: Phrase
+- indication: It’s windy.
+  result: Es regnet / schneit.
+  clue: Phrase
+- indication: January
+  result: time   |  die uhrzeit
+  clue: Phrase
+- indication: month
+  result: die zwei Wochen
+  clue: Phrase
+- indication: monthly
+  result: alle zwei Wochen
+  clue: Phrase
+- indication: neun.
+  result: Es ist Viertel nach
+  clue: Phrase
+- indication: So ein schöner Tag!
+  result: What awful weather!
+  clue: Phrase
+- indication: spring
+  result: haben wir?
+  clue: Phrase
+- indication: tage, monate und jahreszeiten
+  result: days, months, and seasons   |
+  clue: Phrase
+- indication: the week after
+  result: die vorletzte Woche
+  clue: Phrase
+- indication: today/tomorrow?
+  result: What’s the forecast for
+  clue: Phrase

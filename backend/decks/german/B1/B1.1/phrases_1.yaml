@@ -1,0 +1,60 @@
+- indication: '42'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '43'
+  result: the basics   |  das wesentliche supermarket   |  der supermarkt
+  clue: Phrase
+- indication: '44'
+  result: market   |  der markt
+  clue: Phrase
+- indication: '48'
+  result: butcher’s   |  die metzgerei
+  clue: Phrase
+- indication: '49'
+  result: butcher’s   |  die metzgerei
+  clue: Phrase
+- indication: '61'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '64'
+  result: fast food   |  das fastfood
+  clue: Phrase
+- indication: '65'
+  result: fast food   |  das fastfood
+  clue: Phrase
+- indication: a takeaway
+  result: an order to go/
+  clue: Phrase
+- indication: beef olives
+  result: classic german dishes
+  clue: Phrase
+- indication: card reader
+  result: die Banknoten fpl
+  clue: Phrase
+- indication: couscous
+  result: die Kekse mpl
+  clue: Phrase
+- indication: cucumber salad
+  result: die Pommes ntpl
+  clue: Phrase
+- indication: delivery man/woman
+  result: die Lieferkosten pl
+  clue: Phrase
+- indication: eier und milchprodukte
+  result: eggs and dairy products   |
+  clue: Phrase
+- indication: eine SMS / E-Mail
+  result: email
+  clue: Phrase
+- indication: ham
+  result: asparagus wrapped in
+  clue: Phrase
+- indication: herring
+  result: fried and marinated
+  clue: Phrase
+- indication: jam
+  result: main meals   |  die hauptmahlzeiten
+  clue: Phrase
+- indication: Kreditkarte
+  result: die Bankkarte /
+  clue: Phrase

@@ -1,0 +1,60 @@
+- indication: 'die Entfernung • plural: die Entfernungen'
+  result: distance
+  clue: Noun
+- indication: 'die Entscheidung • plural: die Entscheidungen'
+  result: decision
+  clue: Noun
+- indication: 'die Erhöhung • plural: die Erhöhungen'
+  result: increase
+  clue: Noun
+- indication: 'die Eröffnung • plural: die Eröffnungen'
+  result: opening
+  clue: Noun
+- indication: die Fabrik
+  result: factory
+  clue: Noun
+- indication: 'die Fachleute • plural: die Fachleuten'
+  result: experts
+  clue: Noun
+- indication: die Fakultät
+  result: faculty
+  clue: Noun
+- indication: 'die Ferne • plural: die Fernen'
+  result: distance
+  clue: Noun
+- indication: die Fischhändlerin
+  result: der Fischhändler /
+  clue: Noun
+- indication: 'die Fluggesellschaft • plural: die Fluggesellschaften'
+  result: airline
+  clue: Noun
+- indication: die Forelle
+  result: trout
+  clue: Noun
+- indication: die Formel
+  result: formula
+  clue: Noun
+- indication: 'die Forschung • plural: die Forschungen'
+  result: research
+  clue: Noun
+- indication: 'die Frage • plural: die Fragen'
+  result: question
+  clue: Noun
+- indication: 'die Fragestellung • plural: die Fragestellungen'
+  result: problem
+  clue: Noun
+- indication: die Frühstückstheke
+  result: bread and butter
+  clue: Noun
+- indication: 'die Funktion • plural: die Funktionen'
+  result: function
+  clue: Noun
+- indication: 'die Galerie • plural: die Galerien'
+  result: gallery
+  clue: Noun
+- indication: die gefüllte Kartoffel
+  result: baked potato
+  clue: Noun
+- indication: die Gegenwart
+  result: present
+  clue: Noun

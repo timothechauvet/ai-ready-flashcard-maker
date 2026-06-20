@@ -1,0 +1,441 @@
+- indication: der Hund
+  result: the dog
+  clue: Noun
+- indication: die Katze
+  result: the cat
+  clue: Noun
+- indication: das Buch
+  result: the book
+  clue: Noun
+- indication: der Apfel
+  result: the apple
+  clue: Noun
+- indication: das Haus
+  result: the house
+  clue: Noun
+- indication: der Tisch
+  result: the table
+  clue: Noun
+- indication: der Stuhl
+  result: the chair
+  clue: Noun
+- indication: das Kind
+  result: the child
+  clue: Noun
+- indication: die Schule
+  result: the school
+  clue: Noun
+- indication: das Auto
+  result: automobile, car
+  clue: Noun
+- indication: die CD
+  result: CD
+  clue: Noun
+- indication: das TV
+  result: TV
+  clue: Noun
+- indication: der Tag
+  result: day
+  clue: Noun
+- indication: der Mann
+  result: man
+  clue: Noun
+- indication: das Ende
+  result: end
+  clue: Noun
+- indication: das Auge
+  result: eye
+  clue: Noun
+- indication: der Krieg
+  result: war
+  clue: Noun
+- indication: der Sohn
+  result: son
+  clue: Noun
+- indication: die Kunst
+  result: art
+  clue: Noun
+- indication: der Gott
+  result: god
+  clue: Noun
+- indication: das Gesetz
+  result: law
+  clue: Noun
+- indication: der Arm
+  result: arm
+  clue: Noun
+- indication: der Junge
+  result: boy
+  clue: Noun
+- indication: die Luft
+  result: air
+  clue: Noun
+- indication: das Bett
+  result: bed
+  clue: Noun
+- indication: der Spaß
+  result: fun
+  clue: Noun
+- indication: das Alter
+  result: age
+  clue: Noun
+- indication: das Bein
+  result: leg
+  clue: Noun
+- indication: die Sonne
+  result: sun
+  clue: Noun
+- indication: die Freude
+  result: joy
+  clue: Noun
+- indication: der Job
+  result: job
+  clue: Noun
+- indication: die See
+  result: sea
+  clue: Noun
+- indication: das Ohr
+  result: ear
+  clue: Noun
+- indication: die Nutzung
+  result: use
+  clue: Noun
+- indication: der Bus
+  result: bus
+  clue: Noun
+- indication: die Summe
+  result: sum
+  clue: Noun
+- indication: die Verwendung
+  result: use
+  clue: Noun
+- indication: die Steuer
+  result: tax
+  clue: Noun
+- indication: der Gebrauch
+  result: use
+  clue: Noun
+- indication: die Lippe
+  result: lip
+  clue: Noun
+- indication: der Schlüssel
+  result: key
+  clue: Noun
+- indication: das Ei
+  result: egg
+  clue: Noun
+- indication: der Hut
+  result: hat
+  clue: Noun
+- indication: das Öl
+  result: oil
+  clue: Noun
+- indication: der Tee
+  result: tea
+  clue: Noun
+- indication: das Gas
+  result: gas
+  clue: Noun
+- indication: die Benutzung
+  result: use
+  clue: Noun
+- indication: das Top
+  result: top
+  clue: Noun
+- indication: der Bude
+  result: boy
+  clue: Noun
+- indication: der Nebel
+  result: fog
+  clue: Noun
+- indication: der Schnitt
+  result: cut
+  clue: Noun
+- indication: der Topf
+  result: pot
+  clue: Noun
+- indication: der Akt
+  result: act
+  clue: Noun
+- indication: die Tasse
+  result: cup
+  clue: Noun
+- indication: die Gebühr
+  result: fee
+  clue: Noun
+- indication: die Kuh
+  result: cow
+  clue: Noun
+- indication: die Bar
+  result: bar
+  clue: Noun
+- indication: die Lücke
+  result: gap
+  clue: Noun
+- indication: das Schwein
+  result: pig
+  clue: Noun
+- indication: das Jahr
+  result: year
+  clue: Noun
+- indication: das Mal
+  result: time
+  clue: Noun
+- indication: die Arbeit
+  result: work
+  clue: Noun
+- indication: die Hand
+  result: hand
+  clue: Noun
+- indication: der/das Teil
+  result: part
+  clue: Noun
+- indication: die Woche
+  result: week
+  clue: Noun
+- indication: das Leben
+  result: life
+  clue: Noun
+- indication: das Wort
+  result: word
+  clue: Noun
+- indication: die Stunde
+  result: hour
+  clue: Noun
+- indication: der Name
+  result: name
+  clue: Noun
+- indication: der Kopf
+  result: head
+  clue: Noun
+- indication: der Euro
+  result: euro
+  clue: Noun
+- indication: das Gesicht
+  result: face
+  clue: Noun
+- indication: die Rolle
+  result: role
+  clue: Noun
+- indication: die Tür
+  result: door
+  clue: Noun
+- indication: der Text
+  result: text
+  clue: Noun
+- indication: das Werk
+  result: work
+  clue: Noun
+- indication: die Regel
+  result: rule
+  clue: Noun
+- indication: der Schritt
+  result: step
+  clue: Noun
+- indication: das Spiel
+  result: game
+  clue: Noun
+- indication: der Film
+  result: film
+  clue: Noun
+- indication: das Mädchen
+  result: girl
+  clue: Noun
+- indication: das Zuhause
+  result: home
+  clue: Noun
+- indication: das Zimmer
+  result: room
+  clue: Noun
+- indication: der Fuß
+  result: foot
+  clue: Noun
+- indication: der Körper
+  result: body
+  clue: Noun
+- indication: die Idee
+  result: idea
+  clue: Noun
+- indication: die Hilfe
+  result: help
+  clue: Noun
+- indication: der Westen/West
+  result: west
+  clue: Noun
+- indication: der Osten/Ost
+  result: east
+  clue: Noun
+- indication: das Haar
+  result: hair
+  clue: Noun
+- indication: das Risiko
+  result: risk
+  clue: Noun
+- indication: die Daten
+  result: data
+  clue: Noun
+- indication: die Liebe
+  result: love
+  clue: Noun
+- indication: die Linie
+  result: line
+  clue: Noun
+- indication: der Wunsch
+  result: wish
+  clue: Noun
+- indication: der Rücken
+  result: back
+  clue: Noun
+- indication: die Zelle
+  result: cell
+  clue: Noun
+- indication: die Wand
+  result: wall
+  clue: Noun
+- indication: die Hälfte
+  result: half
+  clue: Noun
+- indication: der Plan
+  result: plan
+  clue: Noun
+- indication: der Baum
+  result: tree
+  clue: Noun
+- indication: der Hinweis
+  result: hint
+  clue: Noun
+- indication: die Haut
+  result: skin
+  clue: Noun
+- indication: das Team
+  result: team
+  clue: Noun
+- indication: das Zeichen
+  result: sign
+  clue: Noun
+- indication: die Tatsache
+  result: fact
+  clue: Noun
+- indication: der Wind
+  result: wind
+  clue: Noun
+- indication: der See
+  result: lake
+  clue: Noun
+- indication: der Typ
+  result: type
+  clue: Noun
+- indication: das Schiff
+  result: ship
+  clue: Noun
+- indication: die Hoffnung
+  result: hope
+  clue: Noun
+- indication: der König
+  result: king
+  clue: Noun
+- indication: die Tat
+  result: deed
+  clue: Noun
+- indication: der Rand
+  result: edge
+  clue: Noun
+- indication: die Vergangenheit
+  result: past
+  clue: Noun
+- indication: der Verlust
+  result: loss
+  clue: Noun
+- indication: die Dame
+  result: lady
+  clue: Noun
+- indication: das Dach
+  result: roof
+  clue: Noun
+- indication: die Mauer
+  result: wall
+  clue: Noun
+- indication: der Stern
+  result: star
+  clue: Noun
+- indication: der Laden
+  result: shop
+  clue: Noun
+- indication: das Feuer
+  result: fire
+  clue: Noun
+- indication: die Nase
+  result: nose
+  clue: Noun
+- indication: der Club
+  result: club
+  clue: Noun
+- indication: der Fisch
+  result: fish
+  clue: Noun
+- indication: der Wein
+  result: wine
+  clue: Noun
+- indication: die Welle
+  result: wave
+  clue: Noun
+- indication: das Bedürfnis
+  result: need
+  clue: Noun
+- indication: die Tante
+  result: aunt
+  clue: Noun
+- indication: das Loch
+  result: hole
+  clue: Noun
+- indication: der Regen
+  result: rain
+  clue: Noun
+- indication: der Test
+  result: test
+  clue: Noun
+- indication: das Bier
+  result: beer
+  clue: Noun
+- indication: das Lied
+  result: song
+  clue: Noun
+- indication: die Pflicht
+  result: duty
+  clue: Noun
+- indication: der Wille
+  result: will
+  clue: Noun
+- indication: der Vogel
+  result: bird
+  clue: Noun
+- indication: die Armee
+  result: army
+  clue: Noun
+- indication: das Boot
+  result: boat
+  clue: Noun
+- indication: der Park
+  result: park
+  clue: Noun
+- indication: das Holz
+  result: wood
+  clue: Noun
+- indication: das Knie
+  result: knee
+  clue: Noun
+- indication: die Liste
+  result: list
+  clue: Noun
+- indication: das Schicksal
+  result: fate
+  clue: Noun
+- indication: das Lebensmittel
+  result: food
+  clue: Noun
+- indication: das Rennen
+  result: race
+  clue: Noun
+- indication: der Schlag
+  result: blow
+  clue: Noun

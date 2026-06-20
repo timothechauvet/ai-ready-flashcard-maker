@@ -1,0 +1,15 @@
+- indication: gestern
+  result: yesterday
+  clue: Adverb
+- indication: heute
+  result: today
+  clue: Adverb
+- indication: später
+  result: now
+  clue: Adverb
+- indication: täglich
+  result: weekly
+  clue: Adverb
+- indication: wöchentlich
+  result: fortnightly
+  clue: Adverb

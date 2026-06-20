@@ -1,0 +1,39 @@
+- indication: '24'
+  result: motorbike   |  mit dem motorrad
+  clue: Phrase
+- indication: '25'
+  result: motorbike   |  mit dem motorrad
+  clue: Phrase
+- indication: '36'
+  result: the bedroom   |  das schlafzimmer
+  clue: Phrase
+- indication: '37'
+  result: the bathroom   |  das bad
+  clue: Phrase
+- indication: '38'
+  result: the garden   |  der garten
+  clue: Phrase
+- indication: '39'
+  result: the garden   |  der garten
+  clue: Phrase
+- indication: bedroom
+  result: die Laken ntpl
+  clue: Phrase
+- indication: patio
+  result: die Blumen fpl
+  clue: Phrase
+- indication: runway
+  result: der Pilot / die Pilotin
+  clue: Phrase
+- indication: to brush one’s teeth
+  result: waschen
+  clue: Phrase
+- indication: to sail
+  result: an Bord gehen
+  clue: Phrase
+- indication: to validate a ticket
+  result: umsteigen
+  clue: Phrase
+- indication: Untertasse
+  result: die Tasse und die
+  clue: Phrase

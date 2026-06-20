@@ -1,0 +1,60 @@
+- indication: das Angebot
+  result: offer
+  clue: Noun
+- indication: das Atom
+  result: atom
+  clue: Noun
+- indication: 'das Baby • plural: die Babys'
+  result: baby
+  clue: Noun
+- indication: das Blut
+  result: blood
+  clue: Noun
+- indication: das Brot
+  result: bread
+  clue: Noun
+- indication: das Darlehen
+  result: loan
+  clue: Noun
+- indication: 'das Datum • plural: die Daten'
+  result: date
+  clue: Noun
+- indication: das Ding
+  result: thing
+  clue: Noun
+- indication: das Drittel
+  result: third
+  clue: Noun
+- indication: das Ereignis
+  result: event
+  clue: Noun
+- indication: das Feld
+  result: field
+  clue: Noun
+- indication: das Gedicht
+  result: poem
+  clue: Noun
+- indication: das Gehirn
+  result: brain
+  clue: Noun
+- indication: das Geld
+  result: money
+  clue: Noun
+- indication: das Gen
+  result: gene
+  clue: Noun
+- indication: das Geschenk
+  result: gift
+  clue: Noun
+- indication: das Glas
+  result: glass
+  clue: Noun
+- indication: das Gold
+  result: gold
+  clue: Noun
+- indication: das Gramm
+  result: gram
+  clue: Noun
+- indication: das Heim
+  result: home
+  clue: Noun

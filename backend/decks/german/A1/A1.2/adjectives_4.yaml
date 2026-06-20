@@ -1,0 +1,60 @@
+- indication: midnight
+  result: der Mittag
+  clue: Adjective
+- indication: mist
+  result: der Sturm
+  clue: Adjective
+- indication: neunzehn
+  result: achtzehn
+  clue: Adjective
+- indication: neunzig
+  result: achtzig
+  clue: Adjective
+- indication: nice
+  result: Es ist…
+  clue: Adjective
+- indication: night
+  result: der Abend
+  clue: Adjective
+- indication: November
+  result: Oktober
+  clue: Adjective
+- indication: October
+  result: September
+  clue: Adjective
+- indication: office
+  result: das Hotel
+  clue: Adjective
+- indication: police officer
+  result: die Klempnerin
+  clue: Adjective
+- indication: rain
+  result: die Sonne
+  clue: Adjective
+- indication: Saturday
+  result: Freitag
+  clue: Adjective
+- indication: schön
+  result: horrible
+  clue: Adjective
+- indication: school
+  result: das Restaurant
+  clue: Adjective
+- indication: schwül
+  result: mild
+  clue: Adjective
+- indication: September
+  result: August
+  clue: Adjective
+- indication: shop
+  result: die Schule
+  clue: Adjective
+- indication: siebzehn
+  result: sechzehn
+  clue: Adjective
+- indication: siebzig
+  result: sechzig
+  clue: Adjective
+- indication: snow
+  result: der Regen
+  clue: Adjective
