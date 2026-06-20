@@ -58,5 +58,41 @@
 			</div>
 			<a href={`${base}/play/german-nouns`} class="btn btn-primary">Play Deck</a>
 		</div>
+
+		<div
+			style="border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 0.5rem; display: flex; justify-content: space-between; align-items: center;"
+		>
+			<div>
+				<h3 style="margin-bottom: 0.25rem;">German Partizipialgruppen</h3>
+				<p class="text-muted" style="font-size: 0.875rem;">
+					18 cards • Partizipialgruppen als feste Wendungen (C1)
+				</p>
+			</div>
+			<a href={`${base}/play/german-partizipien`} class="btn btn-primary">Play Deck</a>
+		</div>
+
+		<div
+			style="border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 0.5rem; display: flex; justify-content: space-between; align-items: center;"
+		>
+			<div>
+				<h3 style="margin-bottom: 0.25rem;">German Sayings & Idioms</h3>
+				<p class="text-muted" style="font-size: 0.875rem;">
+					66 cards • Fixed expressions, idioms, and sayings (C1)
+				</p>
+			</div>
+			<a href={`${base}/play/german-sayings`} class="btn btn-primary">Play Deck</a>
+		</div>
+
+		<div
+			style="border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 0.5rem; display: flex; justify-content: space-between; align-items: center;"
+		>
+			<div>
+				<h3 style="margin-bottom: 0.25rem;">German Wortschatz</h3>
+				<p class="text-muted" style="font-size: 0.875rem;">
+					338 cards • General C1 vocabulary list
+				</p>
+			</div>
+			<a href={`${base}/play/german-wortschatz`} class="btn btn-primary">Play Deck</a>
+		</div>
 	</div>
 </div>
