@@ -264,13 +264,12 @@
 		<div class="top-bar" style="justify-content: center;">
 			<div style="display: flex; align-items: center; gap: 1rem;">
 				<button
-					class="action-btn shuffle-btn"
+					class="action-btn icon-btn {isRandom ? 'icon-btn-active' : ''}"
 					onclick={toggleRandom}
-					style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 0.5rem; border: 1px solid var(--border-color); background: {isRandom ? 'var(--accent-color)' : 'var(--card-bg)'}; color: {isRandom ? '#ffffff' : 'var(--text-color)'}; cursor: pointer;"
 					aria-label="Shuffle deck"
 					title="Shuffle deck"
 				>
-					<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+					<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
 						<polyline points="16 3 21 3 21 8"/>
 						<line x1="4" y1="20" x2="21" y2="3"/>
 						<polyline points="21 16 21 21 16 21"/>
@@ -325,11 +324,10 @@
 				</div>
 			</div>
 
-			<div style="display: flex; align-items: center; gap: 1rem; margin-top: 0.25rem;">
+			<div style="display: flex; align-items: center; gap: 0.75rem; margin-top: 0.25rem;">
 				<button
-					class="action-btn speak-btn"
+					class="action-btn listen-btn"
 					onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication); }}
-					style="display: flex; align-items: center; gap: 0.5rem; background: var(--card-bg); border: 1px solid var(--border-color); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 0.5rem; cursor: pointer; font-size: 0.9rem;"
 					aria-label="Speak pronunciation"
 				>
 					<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -339,10 +337,23 @@
 					Listen
 				</button>
 
-				<label class="auto-listen-label" style="display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; font-weight: 600; color: var(--text-muted); cursor: pointer; user-select: none;">
-					<input type="checkbox" bind:checked={autoListen} style="width: auto; cursor: pointer; margin: 0;" />
-					<span>Auto listen</span>
-				</label>
+				<button
+					class="action-btn listen-btn {autoListen ? 'listen-btn-active' : ''}"
+					onclick={(e) => { e.stopPropagation(); autoListen = !autoListen; }}
+					aria-label="Toggle auto listen"
+				>
+					{#if autoListen}
+						<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<path d="M5 13l4 4L19 7"></path>
+						</svg>
+					{:else}
+						<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+							<line x1="18" y1="6" x2="6" y2="18"></line>
+							<line x1="6" y1="6" x2="18" y2="18"></line>
+						</svg>
+					{/if}
+					Auto listen
+				</button>
 			</div>
 		</div>
 
@@ -606,6 +617,8 @@
 		transition: all 0.2s ease;
 	}
 
+	/* Icon buttons (undo, shuffle) — same square style */
+	.icon-btn,
 	.undo-btn {
 		width: 44px;
 		height: 44px;
@@ -614,13 +627,51 @@
 		border: 1px solid var(--border-color);
 	}
 
+	.icon-btn-active {
+		background-color: var(--accent-color);
+		color: #ffffff;
+		border-color: var(--accent-color);
+	}
+
+	.icon-btn:not(.icon-btn-active):hover,
+	.undo-btn:not(:disabled):hover {
+		background-color: var(--border-color);
+	}
+
 	.undo-btn:disabled {
 		opacity: 0.5;
 		cursor: not-allowed;
 	}
 
-	.undo-btn:not(:disabled):hover {
+	/* Listen / Auto-listen buttons — squircle like I-know / Need-to-revise */
+	.listen-btn {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.6rem 1rem;
+		background-color: var(--surface-color);
+		color: var(--text-color);
+		border: 1px solid var(--border-color);
+		font-size: 0.9rem;
+		font-weight: 700;
+		border-radius: 0.75rem;
+		cursor: pointer;
+		transition: all 0.2s ease;
+	}
+
+	.listen-btn:hover {
 		background-color: var(--border-color);
+	}
+
+	.listen-btn-active {
+		background-color: var(--accent-color);
+		color: #ffffff;
+		border-color: var(--accent-color);
+	}
+
+	.listen-btn-active:hover {
+		background-color: var(--accent-hover);
+		border-color: var(--accent-hover);
 	}
 
 	.incorrect-btn {
