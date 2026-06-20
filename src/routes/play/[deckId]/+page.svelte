@@ -24,6 +24,7 @@
 	let correctCount = $state(0);
 	let incorrectCount = $state(0);
 	let showFinishScreen = $state(false);
+	let skipFlipAnimation = $state(false);
 	let isRandom = $state(false);
 	let autoListen = $state(false);
 	let currentUtterance: SpeechSynthesisUtterance | null = null;
@@ -218,15 +219,21 @@
 			triggerConfetti();
 		} else {
 			if (isFlipped) {
-				// If the card is flipped (revealing the back), we must flip it back first,
-				// and only update displayActivePointer AFTER the animation ends (300ms) to prevent showing next card's answer.
+				// Instantly snap to the front without animation, showing the next card
+				skipFlipAnimation = true;
 				isFlipped = false;
-				setTimeout(() => {
-					displayActivePointer = nextPointer;
-					if (autoListen) {
+				displayActivePointer = nextPointer;
+				if (autoListen) {
+					tick().then(() => {
 						speakWord(currentCard?.indication);
-					}
-				}, 300);
+					});
+				}
+				// Restore animation class after the browser processes the instant snap
+				requestAnimationFrame(() => {
+					requestAnimationFrame(() => {
+						skipFlipAnimation = false;
+					});
+				});
 			} else {
 				// If the card is NOT flipped (still showing the front), update displayActivePointer immediately.
 				displayActivePointer = nextPointer;
@@ -360,7 +367,7 @@
 				role="button"
 				tabindex="0"
 			>
-				<div class="flashcard {isFlipped ? 'flipped' : ''}">
+				<div class="flashcard {isFlipped ? 'flipped' : ''} {skipFlipAnimation ? 'no-transition' : ''}">
 					<div class="card-side card-front">
 						<span class="card-counter">{displayActivePointer + 1} / {activeIndices.length}</span>
 						<p class="card-text">{currentCard?.indication}</p>
@@ -592,6 +599,10 @@
 		text-align: center;
 		transition: transform 0.6s;
 		transform-style: preserve-3d;
+	}
+
+	.flashcard.no-transition {
+		transition: none !important;
 	}
 
 	.flashcard.flipped {
