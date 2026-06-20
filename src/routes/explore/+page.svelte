@@ -2,23 +2,24 @@
 	import { base } from '$app/paths';
 	import { browser } from '$app/environment';
 	import { onMount } from 'svelte';
-	import { getGermanDeckDefinitions, publicDecks } from '$lib/deck_loader';
+	import { getGermanSubfolderDefinitions, publicDecks } from '$lib/deck_loader';
 
-	const germanDecks = getGermanDeckDefinitions();
+	const germanSubfolders = getGermanSubfolderDefinitions();
 	const otherDecks = publicDecks.filter((deck) => deck.folder !== 'German');
 
 	const germanLevels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'].map((level) => ({
 		level,
-		decks: germanDecks.filter((deck) => deck.subfolder?.startsWith(`${level}/`))
+		subfolders: germanSubfolders.filter((group) => group.subfolder.startsWith(`${level}/`))
 	}));
 
 	type ProgressMap = Record<string, { correct: number; total: number }>;
 	let progressMap = $state<ProgressMap>({});
+	let allGermanDecks = $derived(germanSubfolders.flatMap((group) => group.decks));
 	let overallCorrect = $derived(
-		germanDecks.reduce((sum, deck) => sum + (progressMap[deck.id]?.correct ?? 0), 0)
+		allGermanDecks.reduce((sum, deck) => sum + (progressMap[deck.id]?.correct ?? 0), 0)
 	);
 	let overallTotal = $derived(
-		germanDecks.reduce((sum, deck) => sum + (progressMap[deck.id]?.total ?? deck.cards.length), 0)
+		allGermanDecks.reduce((sum, deck) => sum + (progressMap[deck.id]?.total ?? deck.cards.length), 0)
 	);
 	let overallPercent = $derived(overallTotal === 0 ? 0 : Math.round((overallCorrect / overallTotal) * 100));
 
@@ -26,7 +27,7 @@
 		if (!browser) return;
 
 		const nextMap: ProgressMap = {};
-		for (const deck of germanDecks) {
+		for (const deck of allGermanDecks) {
 			const storageKey = `yasssf-progress:${deck.id}`;
 			const raw = localStorage.getItem(storageKey);
 			const parsed = raw ? JSON.parse(raw) : null;
@@ -37,6 +38,12 @@
 		}
 		progressMap = nextMap;
 	});
+
+	function subfolderProgress(subfolder: (typeof germanSubfolders)[number]) {
+		const correct = subfolder.decks.reduce((sum, deck) => sum + (progressMap[deck.id]?.correct ?? 0), 0);
+		const total = subfolder.decks.reduce((sum, deck) => sum + deck.cards.length, 0);
+		return { correct, total, percent: total ? Math.round((correct / total) * 100) : 0 };
+	}
 </script>
 
 <svelte:head>
@@ -51,7 +58,7 @@
 		<div class="german-folder-header">
 			<div>
 				<h3>German</h3>
-				<p class="text-muted">6 levels • 12 subfolders • {overallTotal} cards total</p>
+				<p class="text-muted">6 levels • 12 subfolders • 60 category decks • {overallTotal} cards total</p>
 			</div>
 			<div class="progress-summary">
 				<span>{overallCorrect} / {overallTotal}</span>
@@ -74,27 +81,43 @@
 				<div class="level-card">
 					<div class="level-card-header">
 						<h4>{levelGroup.level}</h4>
-						<span>{levelGroup.decks.length} folders</span>
+						<span>{levelGroup.subfolders.length} subfolders</span>
 					</div>
 					<div class="sublevel-list">
-						{#each levelGroup.decks as deck}
-							<div class="deck-row">
-								<div class="deck-row-copy">
-									<h5>{deck.level}</h5>
-									<p class="text-muted">{deck.cards.length} cards</p>
-									<p class="deck-path">German / {deck.subfolder}</p>
-								</div>
-								<div class="deck-row-actions">
-									<div class="mini-progress">
-										<span>{progressMap[deck.id]?.correct ?? 0} / {deck.cards.length}</span>
+						{#each levelGroup.subfolders as subfolder}
+							{@const progress = subfolderProgress(subfolder)}
+							<div class="subfolder-card">
+								<div class="subfolder-head">
+									<div>
+										<h5>{subfolder.level}</h5>
+										<p class="deck-path">German / {subfolder.subfolder}</p>
+									</div>
+									<div class="mini-progress wide">
+										<span>{progress.correct} / {progress.total}</span>
 										<div class="mini-progress-track">
-											<div
-												class="mini-progress-fill"
-												style={`width: ${Math.round(((progressMap[deck.id]?.correct ?? 0) / deck.cards.length) * 100)}%`}
-											></div>
+											<div class="mini-progress-fill" style={`width: ${progress.percent}%`}></div>
 										</div>
 									</div>
-									<a href={`${base}/play/${deck.id}`} class="btn btn-primary">Play</a>
+								</div>
+
+								<div class="category-list">
+									{#each subfolder.decks as deck}
+										<div class="deck-row">
+											<div class="deck-row-copy">
+												<h6>{deck.category}</h6>
+												<p class="text-muted">{deck.cards.length} cards</p>
+											</div>
+											<div class="deck-row-actions">
+												<div class="mini-progress">
+													<span>{progressMap[deck.id]?.correct ?? 0} / {deck.cards.length}</span>
+													<div class="mini-progress-track">
+														<div class="mini-progress-fill" style={`width: ${Math.round(((progressMap[deck.id]?.correct ?? 0) / deck.cards.length) * 100)}%`}></div>
+													</div>
+												</div>
+												<a href={`${base}/play/${deck.id}`} class="btn btn-primary">Play</a>
+											</div>
+										</div>
+									{/each}
 								</div>
 							</div>
 						{/each}
@@ -126,11 +149,16 @@
 		background: linear-gradient(180deg, #ffffff 0%, #f9fafb 100%);
 	}
 
-	.german-folder-header {
+	.german-folder-header,
+	.subfolder-head,
+	.level-card-header {
 		display: flex;
 		justify-content: space-between;
 		align-items: flex-start;
 		gap: 1rem;
+	}
+
+	.german-folder-header {
 		margin-bottom: 1rem;
 	}
 
@@ -181,12 +209,13 @@
 
 	.level-groups {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 		gap: 1rem;
 	}
 
 	.level-card,
-	.legacy-deck-card {
+	.legacy-deck-card,
+	.subfolder-card {
 		border: 1px solid var(--border-color);
 		padding: 1rem;
 		border-radius: 0.875rem;
@@ -200,10 +229,8 @@
 		gap: 1rem;
 	}
 
-	.level-card-header {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
+	.level-card-header,
+	.subfolder-head {
 		margin-bottom: 0.75rem;
 	}
 
@@ -213,7 +240,8 @@
 		color: var(--text-muted);
 	}
 
-	.sublevel-list {
+	.sublevel-list,
+	.category-list {
 		display: flex;
 		flex-direction: column;
 		gap: 0.75rem;
@@ -222,15 +250,17 @@
 	.deck-row {
 		border: 1px solid var(--border-color);
 		border-radius: 0.75rem;
-		padding: 0.875rem;
+		padding: 0.75rem;
 		display: flex;
 		justify-content: space-between;
 		gap: 1rem;
 		align-items: center;
 	}
 
-	.deck-row-copy h5 {
+	.deck-row-copy h6,
+	.subfolder-card h5 {
 		margin-bottom: 0.2rem;
+		text-transform: capitalize;
 	}
 
 	.deck-row-actions {
@@ -248,6 +278,10 @@
 		text-align: right;
 	}
 
+	.mini-progress.wide {
+		max-width: 180px;
+	}
+
 	.mini-progress-track {
 		height: 0.45rem;
 		margin-top: 0.35rem;
@@ -256,7 +290,8 @@
 	@media (max-width: 640px) {
 		.german-folder-header,
 		.deck-row,
-		.legacy-deck-card {
+		.legacy-deck-card,
+		.subfolder-head {
 			flex-direction: column;
 			align-items: stretch;
 		}
@@ -264,6 +299,10 @@
 		.progress-summary,
 		.deck-row-actions {
 			align-items: stretch;
+		}
+
+		.mini-progress.wide {
+			max-width: none;
 		}
 	}
 </style>
