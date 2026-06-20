@@ -16,6 +16,7 @@
 	let incorrectCount = $state(0);
 	let showFinishScreen = $state(false);
 	let isRandom = $state(false);
+	let autoListen = $state(false);
 
 	// Undo stack
 	interface HistoryState {
@@ -26,6 +27,7 @@
 		incorrectCount: number;
 		showFinishScreen: boolean;
 		isRandom: boolean;
+		autoListen: boolean;
 	}
 	let history = $state<HistoryState[]>([]);
 
@@ -63,7 +65,8 @@
 			correctCount,
 			incorrectCount,
 			showFinishScreen,
-			isRandom
+			isRandom,
+			autoListen
 		});
 	}
 
@@ -146,6 +149,12 @@
 		if (activeIndices.length === 0) {
 			showFinishScreen = true;
 			triggerConfetti();
+		} else {
+			if (autoListen) {
+				tick().then(() => {
+					speakWord(currentCard?.indication);
+				});
+			}
 		}
 	}
 
@@ -167,6 +176,7 @@
 		incorrectCount = previous.incorrectCount;
 		showFinishScreen = previous.showFinishScreen;
 		isRandom = previous.isRandom;
+		autoListen = previous.autoListen;
 	}
 
 	function handleReplay() {
@@ -235,7 +245,7 @@
 				<button
 					class="action-btn shuffle-btn"
 					onclick={toggleRandom}
-					style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--border-color); background: {isRandom ? 'var(--accent-color)' : 'var(--card-bg)'}; color: {isRandom ? '#ffffff' : 'var(--text-color)'}; cursor: pointer;"
+					style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 0.5rem; border: 1px solid var(--border-color); background: {isRandom ? 'var(--accent-color)' : 'var(--card-bg)'}; color: {isRandom ? '#ffffff' : 'var(--text-color)'}; cursor: pointer;"
 					aria-label="Shuffle deck"
 					title="Shuffle deck"
 				>
@@ -290,18 +300,25 @@
 				</div>
 			</div>
 
-			<button
-				class="action-btn speak-btn"
-				onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication); }}
-				style="display: flex; align-items: center; gap: 0.5rem; background: var(--card-bg); border: 1px solid var(--border-color); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 2rem; cursor: pointer; font-size: 0.9rem;"
-				aria-label="Speak pronunciation"
-			>
-				<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-					<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
-					<path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
-				</svg>
-				Listen
-			</button>
+			<div style="display: flex; align-items: center; gap: 1rem; margin-top: 0.25rem;">
+				<button
+					class="action-btn speak-btn"
+					onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication); }}
+					style="display: flex; align-items: center; gap: 0.5rem; background: var(--card-bg); border: 1px solid var(--border-color); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 0.5rem; cursor: pointer; font-size: 0.9rem;"
+					aria-label="Speak pronunciation"
+				>
+					<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+						<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+						<path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+					</svg>
+					Listen
+				</button>
+
+				<label class="auto-listen-label" style="display: flex; align-items: center; gap: 0.35rem; font-size: 0.85rem; font-weight: 600; color: var(--text-muted); cursor: pointer; user-select: none;">
+					<input type="checkbox" bind:checked={autoListen} style="width: auto; cursor: pointer; margin: 0;" />
+					<span>Auto listen</span>
+				</label>
+			</div>
 		</div>
 
 		<!-- Instructions / Curved arrows design -->
