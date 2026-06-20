@@ -20,6 +20,9 @@
 	let showFinishScreen = $state(false);
 	let isRandom = $state(false);
 	let autoListen = $state(false);
+	let currentUtterance: SpeechSynthesisUtterance | null = null;
+	let speechStartedAt = 0;
+	const LISTEN_INTERRUPT_DELAY_MS = 3000;
 
 	// Undo stack
 	interface HistoryState {
@@ -80,10 +83,39 @@
 		isFlipped = !isFlipped;
 	}
 
-	function speakWord(text: string | undefined) {
-		if (!text || window.speechSynthesis.speaking) return;
+	function speakWord(text: string | undefined, options?: { allowInterrupt?: boolean }) {
+		if (!text) return;
+
+		const now = Date.now();
+		const isSpeaking = window.speechSynthesis.speaking;
+		const canInterrupt = now - speechStartedAt >= LISTEN_INTERRUPT_DELAY_MS;
+
+		if (isSpeaking) {
+			if (!options?.allowInterrupt || !canInterrupt) return;
+			window.speechSynthesis.cancel();
+		}
+
 		const cleanText = text.replace(/\([^)]*\)/g, '').replace(/\[[^\]]*\]/g, '').trim();
 		const utterance = new SpeechSynthesisUtterance(cleanText);
+		currentUtterance = utterance;
+
+		utterance.onstart = () => {
+			speechStartedAt = Date.now();
+		};
+
+		utterance.onend = () => {
+			if (currentUtterance === utterance) {
+				currentUtterance = null;
+				speechStartedAt = 0;
+			}
+		};
+
+		utterance.onerror = () => {
+			if (currentUtterance === utterance) {
+				currentUtterance = null;
+				speechStartedAt = 0;
+			}
+		};
 		
 		// Set language dynamically
 		if (deckId === 'kannada-colors') {
@@ -327,7 +359,7 @@
 			<div style="display: flex; align-items: center; gap: 0.75rem; margin-top: 0.25rem;">
 				<button
 					class="action-btn listen-btn"
-					onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication); }}
+					onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication, { allowInterrupt: true }); }}
 					aria-label="Speak pronunciation"
 				>
 					<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
