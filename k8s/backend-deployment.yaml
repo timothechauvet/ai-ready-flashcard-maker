@@ -24,13 +24,15 @@ spec:
         - name: ghcr-secret
       containers:
         - name: yasssf-backend
-          image: ghcr.io/timothechauvet/ai-ready-flashcard-maker-backend:latest
+          image: ghcr.io/timothechauvet/ai-ready-flashcard-maker-backend:main
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
           env:
             - name: YASSSF_DB_PATH
               value: /data/yasssf.db
+            - name: PYTHONUNBUFFERED
+              value: "1"
           volumeMounts:
             - name: data
               mountPath: /data
@@ -38,13 +40,13 @@ spec:
             httpGet:
               path: /health
               port: 8000
-            initialDelaySeconds: 10
+            initialDelaySeconds: 45
             periodSeconds: 15
           readinessProbe:
             httpGet:
               path: /health
               port: 8000
-            initialDelaySeconds: 5
+            initialDelaySeconds: 15
             periodSeconds: 10
           resources:
             requests:
