@@ -6,6 +6,7 @@ import germanNounsYaml from './german_nouns.yaml?raw';
 import germanPartizipienYaml from './german_partizipien.yaml?raw';
 import germanSayingsYaml from './german_sayings.yaml?raw';
 import germanWortschatzYaml from './german_wortschatz.yaml?raw';
+import kannadaColorsYaml from './kannada_colors.yaml?raw';
 
 export interface Flashcard {
 	indication: string;
@@ -73,6 +74,15 @@ export function getGermanWortschatzDeck(): Flashcard[] {
 		return yaml.load(germanWortschatzYaml) as Flashcard[];
 	} catch (e) {
 		console.error('Failed to parse german wortschatz yaml', e);
+		return [];
+	}
+}
+
+export function getKannadaColorsDeck(): Flashcard[] {
+	try {
+		return yaml.load(kannadaColorsYaml) as Flashcard[];
+	} catch (e) {
+		console.error('Failed to parse kannada colors yaml', e);
 		return [];
 	}
 }

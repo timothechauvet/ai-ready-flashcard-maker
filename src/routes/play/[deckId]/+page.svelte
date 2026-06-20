@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, getGermanNounsDeck, getGermanPartizipienDeck, getGermanSayingsDeck, getGermanWortschatzDeck, type Flashcard } from '$lib/deck_loader';
+	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, getGermanNounsDeck, getGermanPartizipienDeck, getGermanSayingsDeck, getGermanWortschatzDeck, getKannadaColorsDeck, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
 	import confetti from 'canvas-confetti';
@@ -45,6 +45,8 @@
 			loadedCards = getGermanSayingsDeck();
 		} else if (deckId === 'german-wortschatz') {
 			loadedCards = getGermanWortschatzDeck();
+		} else if (deckId === 'kannada-colors') {
+			loadedCards = getKannadaColorsDeck();
 		}
 		cards = loadedCards;
 		activeIndices = loadedCards.map((_, i) => i);
@@ -71,16 +73,24 @@
 
 	function speakWord(text: string | undefined) {
 		if (!text) return;
-		// Strip brackets or parens if needed, but usually speech synthesis works fine
 		const cleanText = text.replace(/\([^)]*\)/g, '').replace(/\[[^\]]*\]/g, '').trim();
 		const utterance = new SpeechSynthesisUtterance(cleanText);
-		utterance.lang = 'de-DE';
 		
-		// Find a native German voice if possible
-		const voices = window.speechSynthesis.getVoices();
-		const deVoice = voices.find(v => v.lang.startsWith('de'));
-		if (deVoice) {
-			utterance.voice = deVoice;
+		// Set language dynamically
+		if (deckId === 'kannada-colors') {
+			utterance.lang = 'kn-IN';
+			const voices = window.speechSynthesis.getVoices();
+			const knVoice = voices.find(v => v.lang.startsWith('kn'));
+			if (knVoice) {
+				utterance.voice = knVoice;
+			}
+		} else {
+			utterance.lang = 'de-DE';
+			const voices = window.speechSynthesis.getVoices();
+			const deVoice = voices.find(v => v.lang.startsWith('de'));
+			if (deVoice) {
+				utterance.voice = deVoice;
+			}
 		}
 		
 		window.speechSynthesis.speak(utterance);
