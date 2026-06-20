@@ -40,7 +40,8 @@
 	},
 	"dependencies": {
 		"@supabase/supabase-js": "^2.108.1",
-		"js-yaml": "^4.2.0"
+		"js-yaml": "^4.2.0",
+		"web-haptics": "^0.0.6"
 	},
 	"overrides": {
 		"cookie": "0.7.0"

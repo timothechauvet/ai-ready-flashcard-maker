@@ -1,7 +1,32 @@
 <script lang="ts">
 	import '../app.css';
 	import { base } from '$app/paths';
+	import { onMount } from 'svelte';
+	import { WebHaptics } from 'web-haptics';
+
 	let { children } = $props();
+
+	onMount(() => {
+		const haptics = new WebHaptics();
+
+		const handlePointerDown = (event: Event) => {
+			const target = event.target;
+			if (!(target instanceof Element)) return;
+
+			const clickable = target.closest('button, a, [role="button"], input[type="button"], input[type="submit"]');
+			if (!(clickable instanceof HTMLElement)) return;
+			if ('disabled' in clickable && clickable.disabled) return;
+
+			haptics.trigger('selection');
+		};
+
+		document.addEventListener('pointerdown', handlePointerDown, { passive: true });
+
+		return () => {
+			document.removeEventListener('pointerdown', handlePointerDown);
+			haptics.destroy();
+		};
+	});
 </script>
 
 <div class="page-wrapper">
