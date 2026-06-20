@@ -1,46 +1,46 @@
-- indication: die Auswirkung, -en
+- indication: 'die Auswirkung • plural: die Auswirkungen'
   result: effect
   clue: Noun
-- indication: der Leser / die Leserin, er/-innen
+- indication: der Leser
   result: reader
   clue: Noun
-- indication: die Waffe, -n
+- indication: 'die Waffe • plural: die Waffen'
   result: weapon
   clue: Noun
-- indication: die Länge, -n
+- indication: 'die Länge • plural: die Längen'
   result: length
   clue: Noun
-- indication: der Spieler / die Spielerin, er/-innen
+- indication: der Spieler
   result: player
   clue: Noun
-- indication: die Krise, -n
+- indication: 'die Krise • plural: die Krisen'
   result: crisis
   clue: Noun
-- indication: die Suche, -n
+- indication: 'die Suche • plural: die Suchen'
   result: search
   clue: Noun
-- indication: die Flasche, -n
+- indication: 'die Flasche • plural: die Flaschen'
   result: bottle
   clue: Noun
-- indication: die Nachfrage, -n
+- indication: 'die Nachfrage • plural: die Nachfragen'
   result: demand
   clue: Noun
-- indication: die Debatte, -n
+- indication: 'die Debatte • plural: die Debatten'
   result: debate
   clue: Noun
 - indication: der Betrag
   result: amount
   clue: Noun
-- indication: der Fahrer / die Fahrerin, er/-innen
+- indication: der Fahrer
   result: driver
   clue: Noun
-- indication: der Schriftsteller / die Schriftstellerin, er/-innen
+- indication: der Schriftsteller
   result: writer
   clue: Noun
-- indication: die Verletzung, -en
+- indication: 'die Verletzung • plural: die Verletzungen'
   result: injury
   clue: Noun
-- indication: die Gesundheit, -en
+- indication: 'die Gesundheit • plural: die Gesundheiten'
   result: health
   clue: Noun
 - indication: die Saison
@@ -49,7 +49,7 @@
 - indication: der Wechsel
   result: change
   clue: Noun
-- indication: der Pfarrer / die Pfarrerin, er/-innen
+- indication: der Pfarrer
   result: pastor
   clue: Noun
 - indication: das Detail
@@ -64,19 +64,19 @@
 - indication: der Spiegel
   result: mirror
   clue: Noun
-- indication: die Treppe, -n
+- indication: 'die Treppe • plural: die Treppen'
   result: stairs
   clue: Noun
-- indication: die Brücke, -n
+- indication: 'die Brücke • plural: die Brücken'
   result: bridge
   clue: Noun
 - indication: das Signal
   result: signal
   clue: Noun
-- indication: die Kamera
+- indication: 'die Kamera • plural: die Kameras'
   result: camera
   clue: Noun
-- indication: die Karriere, -n
+- indication: 'die Karriere • plural: die Karrieren'
   result: career
   clue: Noun
 - indication: der Kredit
@@ -94,13 +94,13 @@
 - indication: das Einkommen
   result: income
   clue: Noun
-- indication: die Niederlage, -n
+- indication: 'die Niederlage • plural: die Niederlagen'
   result: defeat
   clue: Noun
 - indication: die Reform
   result: reform
   clue: Noun
-- indication: die Blume, -n
+- indication: 'die Blume • plural: die Blumen'
   result: flower
   clue: Noun
 - indication: das Motiv
@@ -109,22 +109,22 @@
 - indication: der Wandel
   result: change
   clue: Noun
-- indication: der Keller / die Kellerin, er/-innen
+- indication: der Keller
   result: cellar
   clue: Noun
-- indication: der Arbeiter / die Arbeiterin, er/-innen
+- indication: der Arbeiter
   result: worker
   clue: Noun
-- indication: die Anstrengung, -en
+- indication: 'die Anstrengung • plural: die Anstrengungen'
   result: effort
   clue: Noun
 - indication: das Symbol
   result: symbol
   clue: Noun
-- indication: die Entstehung, -en
+- indication: 'die Entstehung • plural: die Entstehungen'
   result: origin
   clue: Noun
-- indication: der Mister / die Misterin, er/-innen
+- indication: der Mister
   result: mister
   clue: Noun
 - indication: die Rückkehr
@@ -133,13 +133,13 @@
 - indication: der Stress
   result: stress
   clue: Noun
-- indication: die These, -n
+- indication: 'die These • plural: die Thesen'
   result: thesis
   clue: Noun
 - indication: das Vorgehen
   result: action
   clue: Noun
-- indication: die Wüste, -n
+- indication: 'die Wüste • plural: die Wüsten'
   result: desert
   clue: Noun
 - indication: das Center
@@ -157,10 +157,10 @@
 - indication: der Hafen
   result: harbor
   clue: Noun
-- indication: die Serie, -n
+- indication: 'die Serie • plural: die Serien'
   result: series
   clue: Noun
-- indication: die Wende, -n
+- indication: 'die Wende • plural: die Wenden'
   result: change
   clue: Noun
 - indication: die/das E-Mail
@@ -172,37 +172,37 @@
 - indication: das Resultat
   result: result
   clue: Noun
-- indication: die Umfrage, -n
+- indication: 'die Umfrage • plural: die Umfragen'
   result: survey
   clue: Noun
 - indication: die Herkunft
   result: origin
   clue: Noun
-- indication: der Hunger / die Hungerin, er/-innen
+- indication: der Hunger
   result: hunger
   clue: Noun
-- indication: das Medium, Medien
+- indication: 'das Medium • plural: die Medien'
   result: medium
   clue: Noun
-- indication: der Sieger / die Siegerin, er/-innen
+- indication: der Sieger
   result: winner
   clue: Noun
 - indication: das Format
   result: format
   clue: Noun
-- indication: der Kritiker / die Kritikerin, er/-innen
+- indication: der Kritiker
   result: critic
   clue: Noun
-- indication: der Sektor / die Sektorin, oren/-innen
+- indication: der Sektor
   result: sector
   clue: Noun
 - indication: das Tennis
   result: tennis
   clue: Noun
-- indication: die Verbreitung, -en
+- indication: 'die Verbreitung • plural: die Verbreitungen'
   result: spread
   clue: Noun
-- indication: die Wiese, -n
+- indication: 'die Wiese • plural: die Wiesen'
   result: meadow
   clue: Noun
 - indication: die Burg
@@ -211,25 +211,25 @@
 - indication: das Gedächtnis
   result: memory
   clue: Noun
-- indication: die Meldung, -en
+- indication: 'die Meldung • plural: die Meldungen'
   result: report
   clue: Noun
 - indication: die Agentur
   result: agency
   clue: Noun
-- indication: der Buchstabe, -n
+- indication: 'der Buchstabe • plural: die Buchstaben'
   result: letter
   clue: Noun
-- indication: die Einzelheit, -en
+- indication: 'die Einzelheit • plural: die Einzelheiten'
   result: detail
   clue: Noun
-- indication: das Regime, -n
+- indication: 'das Regime • plural: die Regimen'
   result: regime
   clue: Noun
 - indication: der Status
   result: status
   clue: Noun
-- indication: die Flüssigkeit, -en
+- indication: 'die Flüssigkeit • plural: die Flüssigkeiten'
   result: liquid
   clue: Noun
 - indication: der Muskel
@@ -241,52 +241,52 @@
 - indication: der Senat
   result: senate
   clue: Noun
-- indication: die Bemühung, -en
+- indication: 'die Bemühung • plural: die Bemühungen'
   result: effort
   clue: Noun
 - indication: der Hass
   result: hatred
   clue: Noun
-- indication: die Materie, -n
+- indication: 'die Materie • plural: die Materien'
   result: matter
   clue: Noun
-- indication: der Schuldner / die Schuldnerin, er/-innen
+- indication: der Schuldner
   result: debtor
   clue: Noun
 - indication: der Teppich
   result: carpet
   clue: Noun
-- indication: die Zunge, -n
+- indication: 'die Zunge • plural: die Zungen'
   result: tongue
   clue: Noun
 - indication: die Butter
   result: butter
   clue: Noun
-- indication: der Jäger / die Jägerin, er/-innen
+- indication: der Jäger
   result: hunter
   clue: Noun
 - indication: die Kartoffel
   result: potato
   clue: Noun
-- indication: der Käse, -n
+- indication: 'der Käse • plural: die Käsen'
   result: cheese
   clue: Noun
-- indication: die Leiche, -n
+- indication: 'die Leiche • plural: die Leichen'
   result: corpse
   clue: Noun
-- indication: die Liga
+- indication: 'die Liga • plural: die Ligas'
   result: league
   clue: Noun
 - indication: der Planet
   result: planet
   clue: Noun
-- indication: der Priester / die Priesterin, er/-innen
+- indication: der Priester
   result: priest
   clue: Noun
 - indication: das Talent
   result: talent
   clue: Noun
-- indication: der Ursprung
+- indication: 'der Ursprung • plural: die Ursprungen'
   result: origin
   clue: Noun
 - indication: die Vernunft
@@ -295,16 +295,16 @@
 - indication: das Design
   result: design
   clue: Noun
-- indication: der Mieter / die Mieterin, er/-innen
+- indication: der Mieter
   result: tenant
   clue: Noun
-- indication: die Periode, -n
+- indication: 'die Periode • plural: die Perioden'
   result: period
   clue: Noun
-- indication: die Schönheit, -en
+- indication: 'die Schönheit • plural: die Schönheiten'
   result: beauty
   clue: Noun
-- indication: der Stellvertreter / die Stellvertreterin, er/-innen
+- indication: der Stellvertreter
   result: deputy
   clue: Noun
 - indication: das Ticket
@@ -313,31 +313,31 @@
 - indication: der Tunnel
   result: tunnel
   clue: Noun
-- indication: die Bedrohung, -en
+- indication: 'die Bedrohung • plural: die Bedrohungen'
   result: threat
   clue: Noun
-- indication: die Jacke, -n
+- indication: 'die Jacke • plural: die Jacken'
   result: jacket
   clue: Noun
 - indication: die Jahreszeit
   result: season
   clue: Noun
-- indication: die Option, -en
+- indication: 'die Option • plural: die Optionen'
   result: option
   clue: Noun
-- indication: die Pistole, -n
+- indication: 'die Pistole • plural: die Pistolen'
   result: pistol
   clue: Noun
 - indication: die Reparatur
   result: repair
   clue: Noun
-- indication: der Sänger / die Sängerin, er/-innen
+- indication: der Sänger
   result: singer
   clue: Noun
-- indication: der Frühling, -e
+- indication: der Frühling
   result: spring
   clue: Noun
-- indication: die Kerze, -n
+- indication: 'die Kerze • plural: die Kerzen'
   result: candle
   clue: Noun
 - indication: der Prinz
@@ -346,16 +346,16 @@
 - indication: der Zugriff
   result: access
   clue: Noun
-- indication: das Beispiel
+- indication: 'das Beispiel • plural: die Beispiele'
   result: example
   clue: Noun
-- indication: das Prozent
+- indication: 'das Prozent • plural: die Prozente'
   result: percent
   clue: Noun
 - indication: das Problem
   result: problem
   clue: Noun
-- indication: die Million, -en
+- indication: 'die Million • plural: die Millionen'
   result: million
   clue: Noun
 - indication: das Bild
@@ -370,10 +370,10 @@
 - indication: die Eltern
   result: parents
   clue: Noun
-- indication: die Milliarde, -n
+- indication: 'die Milliarde • plural: die Milliarden'
   result: billion
   clue: Noun
-- indication: der Lehrer / die Lehrerin, er/-innen
+- indication: der Lehrer
   result: teacher
   clue: Noun
 - indication: das Jahrhundert
@@ -385,10 +385,10 @@
 - indication: das Gefühl
   result: feeling
   clue: Noun
-- indication: der Gedanke, -n
+- indication: 'der Gedanke • plural: die Gedanken'
   result: thought
   clue: Noun
-- indication: der Student / die Studentin, enten/-innen
+- indication: der Student
   result: student
   clue: Noun
 - indication: der Erfolg
@@ -400,7 +400,7 @@
 - indication: das Projekt
   result: project
   clue: Noun
-- indication: die Meinung, -en
+- indication: 'die Meinung • plural: die Meinungen'
   result: opinion
   clue: Noun
 - indication: das Produkt
@@ -409,22 +409,22 @@
 - indication: das Dorf
   result: village
   clue: Noun
-- indication: der Bruder / die Bruderin, er/-innen
+- indication: der Bruder
   result: brother
   clue: Noun
 - indication: der Kontakt
   result: contact
   clue: Noun
-- indication: der Patient / die Patientin, enten/-innen
+- indication: der Patient
   result: patient
   clue: Noun
 - indication: das Theater
   result: theater
   clue: Noun
-- indication: die Maßnahme, -n
+- indication: 'die Maßnahme • plural: die Maßnahmen'
   result: measure
   clue: Noun
-- indication: das Wochenende, -n
+- indication: 'das Wochenende • plural: die Wochenenden'
   result: weekend
   clue: Noun
 - indication: das Schweigen
@@ -436,7 +436,7 @@
 - indication: das Kapitel
   result: chapter
   clue: Noun
-- indication: der Bürger / die Bürgerin, er/-innen
+- indication: der Bürger
   result: citizen
   clue: Noun
 - indication: die Bibliothek
@@ -445,46 +445,46 @@
 - indication: das Maß
   result: measure
   clue: Noun
-- indication: die Wissenschaft, -en
+- indication: 'die Wissenschaft • plural: die Wissenschaften'
   result: science
   clue: Noun
-- indication: die Wirklichkeit, -en
+- indication: 'die Wirklichkeit • plural: die Wirklichkeiten'
   result: reality
   clue: Noun
-- indication: die Maschine, -n
+- indication: 'die Maschine • plural: die Maschinen'
   result: machine
   clue: Noun
-- indication: die Unterstützung, -en
+- indication: 'die Unterstützung • plural: die Unterstützungen'
   result: support
   clue: Noun
-- indication: der Soldat
+- indication: 'der Soldat / die Soldatin • plural: die Soldaten'
   result: soldier
   clue: Noun
 - indication: der Zweck
   result: purpose
   clue: Noun
-- indication: die Freiheit, -en
+- indication: 'die Freiheit • plural: die Freiheiten'
   result: freedom
   clue: Noun
-- indication: der Partner / die Partnerin, er/-innen
+- indication: 'der Partner / die Partnerin • plural: die Partner'
   result: partner
   clue: Noun
-- indication: der Sprecher / die Sprecherin, er/-innen
+- indication: 'der Sprecher / die Sprecherin • plural: die Sprecher'
   result: speaker
   clue: Noun
-- indication: die Bitte, -n
+- indication: 'die Bitte • plural: die Bitten'
   result: request
   clue: Noun
 - indication: der Sieg
   result: victory
   clue: Noun
-- indication: der Besucher / die Besucherin, er/-innen
+- indication: 'der Besucher / die Besucherin • plural: die Besucher'
   result: visitor
   clue: Noun
 - indication: die Qualität
   result: quality
   clue: Noun
-- indication: die Eigenschaft, -en
+- indication: 'die Eigenschaft • plural: die Eigenschaften'
   result: quality
   clue: Noun
 - indication: das Element
@@ -496,9 +496,9 @@
 - indication: das Wetter
   result: weather
   clue: Noun
-- indication: der Manager / die Managerin, er/-innen
+- indication: der Manager
   result: manager
   clue: Noun
-- indication: der Tourist / die Touristin, isten/-innen
+- indication: der Tourist
   result: tourist
   clue: Noun

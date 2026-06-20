@@ -1,10 +1,10 @@
-- indication: der Journalist / die Journalistin, isten/-innen
+- indication: der Journalist
   result: journalist
   clue: Noun
-- indication: die Bewertung, -en
+- indication: 'die Bewertung • plural: die Bewertungen'
   result: assessment
   clue: Noun
-- indication: die Bezeichnung, -en
+- indication: 'die Bezeichnung • plural: die Bezeichnungen'
   result: name, term
   clue: Noun
 - indication: der Vordergrund
@@ -13,7 +13,7 @@
 - indication: das Experiment
   result: experiment
   clue: Noun
-- indication: die Technologie, -n
+- indication: 'die Technologie • plural: die Technologien'
   result: technology
   clue: Noun
 - indication: das Erlebnis
@@ -22,43 +22,43 @@
 - indication: das Restaurant
   result: restaurant
   clue: Noun
-- indication: die Schülerin
+- indication: 'die Schülerin • plural: die Schülerinnen'
   result: schoolgirl
   clue: Noun
-- indication: die Disziplin
+- indication: 'die Disziplin • plural: die Disziplinnen'
   result: discipline
   clue: Noun
-- indication: das Individuum, Individuen
+- indication: 'das Individuum • plural: die Individuen'
   result: individual
   clue: Noun
-- indication: die Opposition, -en
+- indication: 'die Opposition • plural: die Oppositionen'
   result: opposition
   clue: Noun
-- indication: die Seele, -n
+- indication: 'die Seele • plural: die Seelen'
   result: soul, mind
   clue: Noun
-- indication: die Wahrnehmung, -en
+- indication: 'die Wahrnehmung • plural: die Wahrnehmungen'
   result: perception
   clue: Noun
-- indication: die Gründung, -en
+- indication: 'die Gründung • plural: die Gründungen'
   result: foundation
   clue: Noun
-- indication: die Sammlung, -en
+- indication: 'die Sammlung • plural: die Sammlungen'
   result: collection
   clue: Noun
-- indication: der Fernseher / die Fernseherin, er/-innen
+- indication: der Fernseher
   result: television
   clue: Noun
-- indication: der Einwohner / die Einwohnerin, er/-innen
+- indication: der Einwohner
   result: inhabitant
   clue: Noun
-- indication: die Hütte, -n
+- indication: 'die Hütte • plural: die Hütten'
   result: hut, cabin
   clue: Noun
 - indication: die Tour
   result: tour, trip
   clue: Noun
-- indication: die Trennung, -en
+- indication: 'die Trennung • plural: die Trennungen'
   result: separation
   clue: Noun
 - indication: das Gewissen
@@ -67,34 +67,34 @@
 - indication: der Halt
   result: stop, hold
   clue: Noun
-- indication: die Revolution, -en
+- indication: 'die Revolution • plural: die Revolutionen'
   result: revolution
   clue: Noun
 - indication: die Konferenz
   result: conference
   clue: Noun
-- indication: die Freundschaft, -en
+- indication: 'die Freundschaft • plural: die Freundschaften'
   result: friendship
   clue: Noun
-- indication: die Überzeugung, -en
+- indication: 'die Überzeugung • plural: die Überzeugungen'
   result: conviction
   clue: Noun
-- indication: die Abhängigkeit, -en
+- indication: 'die Abhängigkeit • plural: die Abhängigkeiten'
   result: dependence
   clue: Noun
-- indication: die Strafe, -n
+- indication: 'die Strafe • plural: die Strafen'
   result: punishment
   clue: Noun
-- indication: der Übersetzer / die Übersetzerin, er/-innen
+- indication: der Übersetzer
   result: translator
   clue: Noun
 - indication: die Differenz
   result: difference
   clue: Noun
-- indication: die Ernährung, -en
+- indication: 'die Ernährung • plural: die Ernährungen'
   result: food, diet
   clue: Noun
-- indication: der Konkurrent / die Konkurrentin, enten/-innen
+- indication: der Konkurrent
   result: competitor
   clue: Noun
 - indication: die Statistik
@@ -103,67 +103,67 @@
 - indication: das Turnier
   result: tournament
   clue: Noun
-- indication: die Verarbeitung, -en
+- indication: 'die Verarbeitung • plural: die Verarbeitungen'
   result: processing
   clue: Noun
-- indication: die Herstellung, -en
+- indication: 'die Herstellung • plural: die Herstellungen'
   result: production
   clue: Noun
 - indication: die Kammer
   result: small room
   clue: Noun
-- indication: die Philosophie, -n
+- indication: 'die Philosophie • plural: die Philosophien'
   result: philosophy
   clue: Noun
-- indication: die Anpassung, -en
+- indication: 'die Anpassung • plural: die Anpassungen'
   result: adaptation
   clue: Noun
-- indication: die Kiste, -n
+- indication: 'die Kiste • plural: die Kisten'
   result: box, crate
   clue: Noun
-- indication: die Reflexion, -en
+- indication: 'die Reflexion • plural: die Reflexionen'
   result: reflection
   clue: Noun
 - indication: das Labor
   result: laboratory
   clue: Noun
-- indication: das Märchen
+- indication: 'das Märchen • plural: die Märchen'
   result: fairy tale
   clue: Noun
-- indication: die Moderne, -n
+- indication: 'die Moderne • plural: die Modernen'
   result: modern age
   clue: Noun
 - indication: die Solidarität
   result: solidarity
   clue: Noun
-- indication: die Begeisterung, -en
+- indication: 'die Begeisterung • plural: die Begeisterungen'
   result: enthusiasm
   clue: Noun
-- indication: die Einladung, -en
+- indication: 'die Einladung • plural: die Einladungen'
   result: invitation
   clue: Noun
-- indication: das Gemüse, -n
+- indication: 'das Gemüse • plural: die Gemüsen'
   result: vegetables
   clue: Noun
-- indication: das Praktikum, Praktiken
+- indication: 'das Praktikum • plural: die Praktiken'
   result: internship
   clue: Noun
-- indication: das Antibiotikum, Antibiotiken
+- indication: 'das Antibiotikum • plural: die Antibiotiken'
   result: antibiotic
   clue: Noun
 - indication: der Kompromiss
   result: compromise
   clue: Noun
-- indication: die Achse, -n
+- indication: 'die Achse • plural: die Achsen'
   result: axle, axis
   clue: Noun
-- indication: die Aufregung, -en
+- indication: 'die Aufregung • plural: die Aufregungen'
   result: excitement
   clue: Noun
 - indication: die Haustür
   result: front door
   clue: Noun
-- indication: die Hypothese, -n
+- indication: 'die Hypothese • plural: die Hypothesen'
   result: hypothesis
   clue: Noun
 - indication: der Kasten
@@ -172,43 +172,43 @@
 - indication: die Kreativität
   result: creativity
   clue: Noun
-- indication: der Spezialist / die Spezialistin, isten/-innen
+- indication: der Spezialist
   result: specialist
   clue: Noun
-- indication: die Motivation, -en
+- indication: 'die Motivation • plural: die Motivationen'
   result: motivation
   clue: Noun
 - indication: die Wut
   result: rage, fury
   clue: Noun
-- indication: die Zeit
+- indication: 'die Zeit • plural: die Zeiten'
   result: time (hour)
   clue: Noun
-- indication: die Möglichkeit, -en
+- indication: 'die Möglichkeit • plural: die Möglichkeiten'
   result: possibility
   clue: Noun
 - indication: die Form
   result: form, shape
   clue: Noun
-- indication: die Entwicklung, -en
+- indication: 'die Entwicklung • plural: die Entwicklungen'
   result: development
   clue: Noun
 - indication: der Raum
   result: room, space
   clue: Noun
-- indication: die Weise, -n
+- indication: 'die Weise • plural: die Weisen'
   result: way, manner
   clue: Noun
-- indication: die Stimme, -n
+- indication: 'die Stimme • plural: die Stimmen'
   result: voice, vote
   clue: Noun
-- indication: die Information, -en
+- indication: 'die Information • plural: die Informationen'
   result: information
   clue: Noun
 - indication: die Bank
   result: bank, bench
   clue: Noun
-- indication: die Einheit, -en
+- indication: 'die Einheit • plural: die Einheiten'
   result: unity, unit
   clue: Noun
 - indication: das Konzept
@@ -223,7 +223,7 @@
 - indication: der Antrag
   result: application
   clue: Noun
-- indication: die Erklärung, -en
+- indication: 'die Erklärung • plural: die Erklärungen'
   result: explanation
   clue: Noun
 - indication: der/die Vorsitzende
@@ -238,25 +238,25 @@
 - indication: das Blatt
   result: sheet, leaf
   clue: Noun
-- indication: die Gelegenheit, -en
+- indication: 'die Gelegenheit • plural: die Gelegenheiten'
   result: opportunity
   clue: Noun
 - indication: die Zusammenarbeit
   result: cooperation
   clue: Noun
-- indication: die Masse, -n
+- indication: 'die Masse • plural: die Massen'
   result: mass, crowd
   clue: Noun
 - indication: der Stein
   result: rock, stone
   clue: Noun
-- indication: die Institution, -en
+- indication: 'die Institution • plural: die Institutionen'
   result: institution
   clue: Noun
 - indication: die Konsequenz
   result: consequence
   clue: Noun
-- indication: die Stufe, -n
+- indication: 'die Stufe • plural: die Stufen'
   result: step, level
   clue: Noun
 - indication: das Fleisch
@@ -265,13 +265,13 @@
 - indication: der Schmerz
   result: pain, grief
   clue: Noun
-- indication: die Tasche, -n
+- indication: 'die Tasche • plural: die Taschen'
   result: pocket, bag
   clue: Noun
 - indication: der Wettbewerb
   result: competition
   clue: Noun
-- indication: die Alternative, -n
+- indication: 'die Alternative • plural: die Alternativen'
   result: alternative
   clue: Noun
 - indication: die Temperatur
@@ -280,10 +280,10 @@
 - indication: die Fahrt
   result: drive, trip
   clue: Noun
-- indication: die Landwirtschaft, -en
+- indication: 'die Landwirtschaft • plural: die Landwirtschaften'
   result: agriculture
   clue: Noun
-- indication: der Teilnehmer / die Teilnehmerin, er/-innen
+- indication: der Teilnehmer
   result: participant
   clue: Noun
 - indication: die Konkurrenz
@@ -292,109 +292,109 @@
 - indication: die Mathematik
   result: mathematics
   clue: Noun
-- indication: die Verhandlung, -en
+- indication: 'die Verhandlung • plural: die Verhandlungen'
   result: negotiation
   clue: Noun
-- indication: die Gewerkschaft, -en
+- indication: 'die Gewerkschaft • plural: die Gewerkschaften'
   result: trade union
   clue: Noun
-- indication: die Beschreibung, -en
+- indication: 'die Beschreibung • plural: die Beschreibungen'
   result: description
   clue: Noun
-- indication: die Erwartung, -en
+- indication: 'die Erwartung • plural: die Erwartungen'
   result: expectation
   clue: Noun
-- indication: die Fotografie, -n
+- indication: 'die Fotografie • plural: die Fotografien'
   result: photography
   clue: Noun
-- indication: die Kombination, -en
+- indication: 'die Kombination • plural: die Kombinationen'
   result: combination
   clue: Noun
-- indication: die Integration, -en
+- indication: 'die Integration • plural: die Integrationen'
   result: integration
   clue: Noun
-- indication: die Verbesserung, -en
+- indication: 'die Verbesserung • plural: die Verbesserungen'
   result: improvement
   clue: Noun
-- indication: die Beobachtung, -en
+- indication: 'die Beobachtung • plural: die Beobachtungen'
   result: observation
   clue: Noun
-- indication: die Taste, -n
+- indication: 'die Taste • plural: die Tasten'
   result: key, button
   clue: Noun
-- indication: die Vorbereitung, -en
+- indication: 'die Vorbereitung • plural: die Vorbereitungen'
   result: preparation
   clue: Noun
 - indication: der Aktionär
   result: shareholder
   clue: Noun
-- indication: die Katastrophe, -n
+- indication: 'die Katastrophe • plural: die Katastrophen'
   result: catastrophe
   clue: Noun
 - indication: die Auskunft
   result: information
   clue: Noun
-- indication: die Tonne, -n
+- indication: 'die Tonne • plural: die Tonnen'
   result: ton, barrel
   clue: Noun
 - indication: die Aufwendungen
   result: expenditure
   clue: Noun
-- indication: die Berechnung, -en
+- indication: 'die Berechnung • plural: die Berechnungen'
   result: calculation
   clue: Noun
-- indication: die Kooperation, -en
+- indication: 'die Kooperation • plural: die Kooperationen'
   result: cooperation
   clue: Noun
 - indication: das Geschlecht
   result: sex, gender
   clue: Noun
-- indication: die Nebenwirkung, -en
+- indication: 'die Nebenwirkung • plural: die Nebenwirkungen'
   result: side effect
   clue: Noun
-- indication: die Anerkennung, -en
+- indication: 'die Anerkennung • plural: die Anerkennungen'
   result: recognition
   clue: Noun
 - indication: das Ufer
   result: shore, bank
   clue: Noun
-- indication: die City
+- indication: 'die City • plural: die Citys'
   result: city center
   clue: Noun
 - indication: die Großmutter
   result: grandmother
   clue: Noun
-- indication: die Note, -n
+- indication: 'die Note • plural: die Noten'
   result: note, grade
   clue: Noun
-- indication: die Veröffentlichung, -en
+- indication: 'die Veröffentlichung • plural: die Veröffentlichungen'
   result: publication
   clue: Noun
-- indication: die Einschränkung, -en
+- indication: 'die Einschränkung • plural: die Einschränkungen'
   result: restriction
   clue: Noun
-- indication: die Übersetzung, -en
+- indication: 'die Übersetzung • plural: die Übersetzungen'
   result: translation
   clue: Noun
-- indication: die Werbung, -en
+- indication: 'die Werbung • plural: die Werbungen'
   result: advertising
   clue: Noun
-- indication: die Bereitschaft, -en
+- indication: 'die Bereitschaft • plural: die Bereitschaften'
   result: willingness
   clue: Noun
-- indication: die Formulierung, -en
+- indication: 'die Formulierung • plural: die Formulierungen'
   result: formulation
   clue: Noun
 - indication: das Kunstwerk
   result: work of art
   clue: Noun
-- indication: die Wechselwirkung, -en
+- indication: 'die Wechselwirkung • plural: die Wechselwirkungen'
   result: interaction
   clue: Noun
-- indication: die Aufführung, -en
+- indication: 'die Aufführung • plural: die Aufführungen'
   result: performance
   clue: Noun
-- indication: die Erfüllung, -en
+- indication: 'die Erfüllung • plural: die Erfüllungen'
   result: fulfillment
   clue: Noun
 - indication: das Mittelalter
@@ -406,22 +406,22 @@
 - indication: der Rücktritt
   result: resignation
   clue: Noun
-- indication: die Unsicherheit, -en
+- indication: 'die Unsicherheit • plural: die Unsicherheiten'
   result: uncertainty
   clue: Noun
-- indication: die Orientierung, -en
+- indication: 'die Orientierung • plural: die Orientierungen'
   result: orientation
   clue: Noun
-- indication: die Wahrscheinlichkeit, -en
+- indication: 'die Wahrscheinlichkeit • plural: die Wahrscheinlichkeiten'
   result: probability
   clue: Noun
 - indication: die Zwiebel
   result: onion, bulb
   clue: Noun
-- indication: der Großvater / die Großvaterin, er/-innen
+- indication: der Großvater
   result: grandfather
   clue: Noun
-- indication: die Anweisung, -en
+- indication: 'die Anweisung • plural: die Anweisungen'
   result: instruction
   clue: Noun
 - indication: der Aufstieg
@@ -433,22 +433,22 @@
 - indication: der Kreislauf
   result: circulation
   clue: Noun
-- indication: das Tempo
+- indication: 'das Tempo • plural: die Tempos'
   result: pace, speed
   clue: Noun
 - indication: das Wohnzimmer
   result: living room
   clue: Noun
-- indication: die Zerstörung, -en
+- indication: 'die Zerstörung • plural: die Zerstörungen'
   result: destruction
   clue: Noun
-- indication: die Zusammensetzung, -en
+- indication: 'die Zusammensetzung • plural: die Zusammensetzungen'
   result: composition
   clue: Noun
 - indication: der Chip
   result: chip, crisp
   clue: Noun
-- indication: der Dolmetscher / die Dolmetscherin, er/-innen
+- indication: der Dolmetscher
   result: interpreter
   clue: Noun
 - indication: der Graf
@@ -457,16 +457,16 @@
 - indication: das Menschenrecht
   result: human right
   clue: Noun
-- indication: die Partnerschaft, -en
+- indication: 'die Partnerschaft • plural: die Partnerschaften'
   result: partnership
   clue: Noun
-- indication: die Beschränkung, -en
+- indication: 'die Beschränkung • plural: die Beschränkungen'
   result: restriction
   clue: Noun
 - indication: die Jagd
   result: hunt, chase
   clue: Noun
-- indication: der Vorgänger / die Vorgängerin, er/-innen
+- indication: der Vorgänger
   result: predecessor
   clue: Noun
 - indication: die Feier
@@ -475,7 +475,7 @@
 - indication: der Philosoph
   result: philosopher
   clue: Noun
-- indication: die Schlange, -n
+- indication: 'die Schlange • plural: die Schlangen'
   result: snake, line
   clue: Noun
 - indication: der Bereich
@@ -490,7 +490,7 @@
 - indication: der Preis
   result: price, prize
   clue: Noun
-- indication: die Abbildung, -en
+- indication: 'die Abbildung • plural: die Abbildungen'
   result: illustration
   clue: Noun
 - indication: das Verhältnis
@@ -502,16 +502,16 @@
 - indication: der Dank
   result: gratefulness
   clue: Noun
-- indication: die Ebene, -n
+- indication: 'die Ebene • plural: die Ebenen'
   result: plane, level
   clue: Noun
-- indication: die Größe, -n
+- indication: 'die Größe • plural: die Größen'
   result: size, height
   clue: Noun
-- indication: die Organisation, -en
+- indication: 'die Organisation • plural: die Organisationen'
   result: organization
   clue: Noun
-- indication: die Rede, -n
+- indication: 'die Rede • plural: die Reden'
   result: speech, talk
   clue: Noun
 - indication: der Beitrag
@@ -523,7 +523,7 @@
 - indication: das Netz
   result: net, network
   clue: Noun
-- indication: die Umgebung, -en
+- indication: 'die Umgebung • plural: die Umgebungen'
   result: surroundings
   clue: Noun
 - indication: die Gegend
@@ -535,7 +535,7 @@
 - indication: das Band
   result: ribbon, tape
   clue: Noun
-- indication: der Geist / die Geistin, isten/-innen
+- indication: der Geist
   result: mind, spirit
   clue: Noun
 - indication: der Stand
@@ -544,16 +544,16 @@
 - indication: das Schloss
   result: lock, castle
   clue: Noun
-- indication: die Belastung, -en
+- indication: 'die Belastung • plural: die Belastungen'
   result: load, strain
   clue: Noun
-- indication: die Einführung, -en
+- indication: 'die Einführung • plural: die Einführungen'
   result: introduction
   clue: Noun
 - indication: das Vertrauen
   result: trust, faith
   clue: Noun
-- indication: die Pause, -n
+- indication: 'die Pause • plural: die Pausen'
   result: pause, break
   clue: Noun
 - indication: die Hauptstadt
@@ -568,16 +568,16 @@
 - indication: der Nachteil
   result: disadvantage
   clue: Noun
-- indication: die Tabelle, -n
+- indication: 'die Tabelle • plural: die Tabellen'
   result: table, chart
   clue: Noun
 - indication: der Bedarf
   result: need, demand
   clue: Noun
-- indication: die Arbeitslosigkeit, -en
+- indication: 'die Arbeitslosigkeit • plural: die Arbeitslosigkeiten'
   result: unemployment
   clue: Noun
-- indication: die Truppe, -n
+- indication: 'die Truppe • plural: die Truppen'
   result: troops, unit
   clue: Noun
 - indication: das Grundstück
@@ -589,34 +589,34 @@
 - indication: die Bundeswehr
   result: Armed Forces
   clue: Noun
-- indication: die Versorgung, -en
+- indication: 'die Versorgung • plural: die Versorgungen'
   result: supply, care
   clue: Noun
 - indication: das Ausmaß
   result: extent, size
   clue: Noun
-- indication: die Handlung, -en
+- indication: 'die Handlung • plural: die Handlungen'
   result: action, plot
   clue: Noun
 - indication: das Café
   result: coffee house
   clue: Noun
-- indication: der Dichter / die Dichterin, er/-innen
+- indication: der Dichter
   result: writer, poet
   clue: Noun
-- indication: die Verfassung, -en
+- indication: 'die Verfassung • plural: die Verfassungen'
   result: constitution
   clue: Noun
-- indication: die Börse, -n
+- indication: 'die Börse • plural: die Börsen'
   result: stock market
   clue: Noun
-- indication: die Rechtsprechung, -en
+- indication: 'die Rechtsprechung • plural: die Rechtsprechungen'
   result: jurisdiction
   clue: Noun
 - indication: das Geräusch
   result: sound, noise
   clue: Noun
-- indication: die Marke, -n
+- indication: 'die Marke • plural: die Marken'
   result: brand, stamp
   clue: Noun
 - indication: der Arbeitsmarkt

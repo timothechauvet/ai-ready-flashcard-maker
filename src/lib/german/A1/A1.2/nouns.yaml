@@ -4,19 +4,19 @@
 - indication: der Verkauf
   result: sale
   clue: Noun
-- indication: die Halle, -n
+- indication: 'die Halle • plural: die Hallen'
   result: hall
   clue: Noun
 - indication: die Norm
   result: norm
   clue: Noun
-- indication: der Schnee, -n
+- indication: 'der Schnee • plural: die Schneen'
   result: snow
   clue: Noun
-- indication: die Träne, -n
+- indication: 'die Träne • plural: die Tränen'
   result: tear
   clue: Noun
-- indication: der Benutzer / die Benutzerin, er/-innen
+- indication: der Benutzer
   result: user
   clue: Noun
 - indication: der Hinblick
@@ -49,7 +49,7 @@
 - indication: der Ring
   result: ring
   clue: Noun
-- indication: die Zeile, -n
+- indication: 'die Zeile • plural: die Zeilen'
   result: line
   clue: Noun
 - indication: das Gold
@@ -58,19 +58,19 @@
 - indication: die Hut
   result: care
   clue: Noun
-- indication: die Miete, -n
+- indication: 'die Miete • plural: die Mieten'
   result: rent
   clue: Noun
-- indication: die Betreuung, -en
+- indication: 'die Betreuung • plural: die Betreuungen'
   result: care
   clue: Noun
-- indication: die Bombe, -n
+- indication: 'die Bombe • plural: die Bomben'
   result: bomb
   clue: Noun
 - indication: das Gen
   result: gene
   clue: Noun
-- indication: die Hitze, -n
+- indication: 'die Hitze • plural: die Hitzen'
   result: heat
   clue: Noun
 - indication: der Leib
@@ -79,13 +79,13 @@
 - indication: die Milch
   result: milk
   clue: Noun
-- indication: das Baby
+- indication: 'das Baby • plural: die Babys'
   result: baby
   clue: Noun
 - indication: der Schuss
   result: shot
   clue: Noun
-- indication: das Taxi
+- indication: 'das Taxi • plural: die Taxis'
   result: taxi
   clue: Noun
 - indication: der Witz
@@ -94,13 +94,13 @@
 - indication: der Held
   result: hero
   clue: Noun
-- indication: der Nutzer / die Nutzerin, er/-innen
+- indication: der Nutzer
   result: user
   clue: Noun
 - indication: der Saal
   result: hall
   clue: Noun
-- indication: der Sprung
+- indication: 'der Sprung • plural: die Sprungen'
   result: jump
   clue: Noun
 - indication: das Zelt
@@ -112,28 +112,28 @@
 - indication: die Wurzel
   result: root
   clue: Noun
-- indication: die Droge, -n
+- indication: 'die Droge • plural: die Drogen'
   result: drug
   clue: Noun
 - indication: das Gramm
   result: gram
   clue: Noun
-- indication: der Knochen
+- indication: 'der Knochen • plural: die Knochen'
   result: bone
   clue: Noun
-- indication: die Partie, -n
+- indication: 'die Partie • plural: die Partien'
   result: game
   clue: Noun
 - indication: die Show
   result: show
   clue: Noun
-- indication: die Zone, -n
+- indication: 'die Zone • plural: die Zonen'
   result: zone
   clue: Noun
 - indication: der Bär
   result: bear
   clue: Noun
-- indication: die Pflege, -n
+- indication: 'die Pflege • plural: die Pflegen'
   result: care
   clue: Noun
 - indication: der Staub
@@ -154,13 +154,13 @@
 - indication: die Faust
   result: fist
   clue: Noun
-- indication: die Höhle, -n
+- indication: 'die Höhle • plural: die Höhlen'
   result: cave
   clue: Noun
-- indication: die Kohle, -n
+- indication: 'die Kohle • plural: die Kohlen'
   result: coal
   clue: Noun
-- indication: die Münze, -n
+- indication: 'die Münze • plural: die Münzen'
   result: coin
   clue: Noun
 - indication: der Sack
@@ -181,34 +181,34 @@
 - indication: das Darlehen
   result: loan
   clue: Noun
-- indication: das Datum, Daten
+- indication: 'das Datum • plural: die Daten'
   result: date
   clue: Noun
 - indication: der Flügel
   result: wing
   clue: Noun
-- indication: die Lampe, -n
+- indication: 'die Lampe • plural: die Lampen'
   result: lamp
   clue: Noun
-- indication: die Linse, -n
+- indication: 'die Linse • plural: die Linsen'
   result: lens
   clue: Noun
-- indication: der Ordner / die Ordnerin, er/-innen
+- indication: der Ordner
   result: file
   clue: Noun
-- indication: die Rose, -n
+- indication: 'die Rose • plural: die Rosen'
   result: rose
   clue: Noun
-- indication: die Akte, -n
+- indication: 'die Akte • plural: die Akten'
   result: file
   clue: Noun
-- indication: die Fahne, -n
+- indication: 'die Fahne • plural: die Fahnen'
   result: flag
   clue: Noun
 - indication: der Koch
   result: cook
   clue: Noun
-- indication: die Laune, -n
+- indication: 'die Laune • plural: die Launen'
   result: mood
   clue: Noun
 - indication: das Nahrungsmittel
@@ -226,7 +226,7 @@
 - indication: das Wasser
   result: water
   clue: Noun
-- indication: die Stelle, -n
+- indication: 'die Stelle • plural: die Stellen'
   result: place
   clue: Noun
 - indication: der Monat
@@ -241,7 +241,7 @@
 - indication: das Ding
   result: thing
   clue: Noun
-- indication: die Gruppe, -n
+- indication: 'die Gruppe • plural: die Gruppen'
   result: group
   clue: Noun
 - indication: der Wert
@@ -250,7 +250,7 @@
 - indication: das Stück
   result: piece
   clue: Noun
-- indication: der Meter / die Meterin, er/-innen
+- indication: der Meter
   result: meter
   clue: Noun
 - indication: die Musik
@@ -265,7 +265,7 @@
 - indication: der Zug
   result: train
   clue: Noun
-- indication: die Klasse, -n
+- indication: 'die Klasse • plural: die Klassen'
   result: class
   clue: Noun
 - indication: das Mittel
@@ -298,13 +298,13 @@
 - indication: der Mund
   result: mouth
   clue: Noun
-- indication: die Farbe, -n
+- indication: 'die Farbe • plural: die Farben'
   result: color
   clue: Noun
 - indication: das Papier
   result: paper
   clue: Noun
-- indication: die Grundlage, -n
+- indication: 'die Grundlage • plural: die Grundlagen'
   result: basis
   clue: Noun
 - indication: das Glas
@@ -316,7 +316,7 @@
 - indication: der Titel
   result: title
   clue: Noun
-- indication: die Sorge, -n
+- indication: 'die Sorge • plural: die Sorgen'
   result: worry
   clue: Noun
 - indication: der Besuch
@@ -328,13 +328,13 @@
 - indication: das Hotel
   result: hotel
   clue: Noun
-- indication: die Studie, -n
+- indication: 'die Studie • plural: die Studien'
   result: study
   clue: Noun
 - indication: das Ereignis
   result: event
   clue: Noun
-- indication: die Wahrheit, -en
+- indication: 'die Wahrheit • plural: die Wahrheiten'
   result: truth
   clue: Noun
 - indication: der Norden/Nord
@@ -343,19 +343,19 @@
 - indication: der Traum
   result: dream
   clue: Noun
-- indication: die Union, -en
+- indication: 'die Union • plural: die Unionen'
   result: union
   clue: Noun
-- indication: die Ursache, -n
+- indication: 'die Ursache • plural: die Ursachen'
   result: cause
   clue: Noun
 - indication: die Pflanzen
   result: plant
   clue: Noun
-- indication: die Bühne, -n
+- indication: 'die Bühne • plural: die Bühnen'
   result: stage
   clue: Noun
-- indication: die Mama
+- indication: 'die Mama • plural: die Mamas'
   result: mamma
   clue: Noun
 - indication: die Basis
@@ -364,16 +364,16 @@
 - indication: die Bürgermeister
   result: mayor
   clue: Noun
-- indication: die Phase, -n
+- indication: 'die Phase • plural: die Phasen'
   result: phase
   clue: Noun
-- indication: die Veranstaltung, -en
+- indication: 'die Veranstaltung • plural: die Veranstaltungen'
   result: event
   clue: Noun
-- indication: das Hobby
+- indication: 'das Hobby • plural: die Hobbys'
   result: hobby
   clue: Noun
-- indication: die Runde, -n
+- indication: 'die Runde • plural: die Runden'
   result: round
   clue: Noun
 - indication: der Frieden
@@ -382,7 +382,7 @@
 - indication: das Pferd
   result: horse
   clue: Noun
-- indication: die Szene, -n
+- indication: 'die Szene • plural: die Szenen'
   result: scene
   clue: Noun
 - indication: das Blut
@@ -391,22 +391,22 @@
 - indication: der Süden/Süd
   result: south
   clue: Noun
-- indication: die Aktie, -n
+- indication: 'die Aktie • plural: die Aktien'
   result: share
   clue: Noun
 - indication: der Fluss
   result: river
   clue: Noun
-- indication: die Geschwindigkeit, -en
+- indication: 'die Geschwindigkeit • plural: die Geschwindigkeiten'
   result: speed
   clue: Noun
-- indication: der Trainer / die Trainerin, er/-innen
+- indication: der Trainer
   result: coach
   clue: Noun
 - indication: der Zweifel
   result: doubt
   clue: Noun
-- indication: der Richter / die Richterin, er/-innen
+- indication: der Richter
   result: judge
   clue: Noun
 - indication: die Jugend
@@ -415,7 +415,7 @@
 - indication: die Schuld
   result: guilt
   clue: Noun
-- indication: die Ware, -n
+- indication: 'die Ware • plural: die Waren'
   result: goods
   clue: Noun
 - indication: das Kleid
@@ -424,10 +424,10 @@
 - indication: das Brot
   result: bread
   clue: Noun
-- indication: der Käufer / die Käuferin, er/-innen
+- indication: der Käufer
   result: buyer
   clue: Noun
-- indication: die Weile, -n
+- indication: 'die Weile • plural: die Weilen'
   result: while
   clue: Noun
 - indication: das Drittel

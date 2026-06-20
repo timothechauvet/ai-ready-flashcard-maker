@@ -1,10 +1,10 @@
 - indication: das Dokument
   result: document
   clue: Noun
-- indication: der Investor / die Investorin, oren/-innen
+- indication: der Investor
   result: investor
   clue: Noun
-- indication: der Komponist / die Komponistin, isten/-innen
+- indication: der Komponist
   result: composer
   clue: Noun
 - indication: der Landkreis
@@ -22,7 +22,7 @@
 - indication: das Dunkel
   result: darkness
   clue: Noun
-- indication: der Durchmesser / die Durchmesserin, er/-innen
+- indication: der Durchmesser
   result: diameter
   clue: Noun
 - indication: der Friedhof
@@ -31,64 +31,64 @@
 - indication: der Ingenieur
   result: engineer
   clue: Noun
-- indication: das Universum, Universen
+- indication: 'das Universum • plural: die Universen'
   result: universe
   clue: Noun
-- indication: die Zunahme, -n
+- indication: 'die Zunahme • plural: die Zunahmen'
   result: increase
   clue: Noun
-- indication: der Beobachter / die Beobachterin, er/-innen
+- indication: der Beobachter
   result: observer
   clue: Noun
-- indication: der Betrachter / die Betrachterin, er/-innen
+- indication: der Betrachter
   result: observer
   clue: Noun
-- indication: das Ensemble, -n
+- indication: 'das Ensemble • plural: die Ensemblen'
   result: ensemble
   clue: Noun
 - indication: das Festival
   result: festival
   clue: Noun
-- indication: der Konsument / die Konsumentin, enten/-innen
+- indication: der Konsument
   result: consumer
   clue: Noun
 - indication: das Lokal
   result: pub, bar
   clue: Noun
-- indication: die Malerei
+- indication: 'die Malerei • plural: die Malereis'
   result: painting
   clue: Noun
 - indication: der Unsinn
   result: nonsense
   clue: Noun
-- indication: der Champion
+- indication: 'der Champion • plural: die Championen'
   result: champion
   clue: Noun
 - indication: das Heft
   result: notebook
   clue: Noun
-- indication: die Lieferung, -en
+- indication: 'die Lieferung • plural: die Lieferungen'
   result: delivery
   clue: Noun
-- indication: das Olympia
+- indication: 'das Olympia • plural: die Olympias'
   result: Olympics
   clue: Noun
-- indication: das Spektrum, Spektren
+- indication: 'das Spektrum • plural: die Spektren'
   result: spectrum
   clue: Noun
 - indication: das Vergnügen
   result: pleasure
   clue: Noun
-- indication: die Verhaltensweise, -n
+- indication: 'die Verhaltensweise • plural: die Verhaltensweisen'
   result: behavior
   clue: Noun
-- indication: der Vermieter / die Vermieterin, er/-innen
+- indication: der Vermieter
   result: landlord
   clue: Noun
-- indication: die Anwesenheit, -en
+- indication: 'die Anwesenheit • plural: die Anwesenheiten'
   result: presence
   clue: Noun
-- indication: der Europäer / die Europäerin, er/-innen
+- indication: der Europäer
   result: European
   clue: Noun
 - indication: die Geduld
@@ -97,19 +97,19 @@
 - indication: das Militär
   result: military
   clue: Noun
-- indication: die Minderheit, -en
+- indication: 'die Minderheit • plural: die Minderheiten'
   result: minority
   clue: Noun
-- indication: die Steigerung, -en
+- indication: 'die Steigerung • plural: die Steigerungen'
   result: increase
   clue: Noun
 - indication: die Übersicht
   result: overview
   clue: Noun
-- indication: der Absolvent / die Absolventin, enten/-innen
+- indication: der Absolvent
   result: graduate
   clue: Noun
-- indication: die Währung, -en
+- indication: 'die Währung • plural: die Währungen'
   result: currency
   clue: Noun
 - indication: der Zuwachs
@@ -124,34 +124,34 @@
 - indication: der Anfang
   result: beginning
   clue: Noun
-- indication: die Wohnung, -en
+- indication: 'die Wohnung • plural: die Wohnungen'
   result: apartment
   clue: Noun
-- indication: die Situation, -en
+- indication: 'die Situation • plural: die Situationen'
   result: situation
   clue: Noun
-- indication: die Richtung, -en
+- indication: 'die Richtung • plural: die Richtungen'
   result: direction
   clue: Noun
-- indication: der Präsident / die Präsidentin, enten/-innen
+- indication: der Präsident
   result: president
   clue: Noun
-- indication: die Zeitung, -en
+- indication: 'die Zeitung • plural: die Zeitungen'
   result: newspaper
   clue: Noun
-- indication: der Kollege, -n
+- indication: 'der Kollege • plural: die Kollegen'
   result: colleague
   clue: Noun
-- indication: der Kilometer / die Kilometerin, er/-innen
+- indication: der Kilometer
   result: kilometer
   clue: Noun
 - indication: der Beginn
   result: beginning
   clue: Noun
-- indication: der Professor / die Professorin, oren/-innen
+- indication: der Professor
   result: professor
   clue: Noun
-- indication: die Reihe, -n
+- indication: 'die Reihe • plural: die Reihen'
   result: row, line
   clue: Noun
 - indication: das Institut
@@ -169,34 +169,34 @@
 - indication: der Einfluss
   result: influence
   clue: Noun
-- indication: die Aussage, -n
+- indication: 'die Aussage • plural: die Aussagen'
   result: statement
   clue: Noun
 - indication: die Kenntnis
   result: knowledge
   clue: Noun
-- indication: die Behandlung, -en
+- indication: 'die Behandlung • plural: die Behandlungen'
   result: treatment
   clue: Noun
-- indication: die Geographie, -n
+- indication: 'die Geographie • plural: die Geographien'
   result: geography
   clue: Noun
-- indication: der Zuschauer / die Zuschauerin, er/-innen
+- indication: der Zuschauer
   result: spectator
   clue: Noun
-- indication: die Bildung, -en
+- indication: 'die Bildung • plural: die Bildungen'
   result: education
   clue: Noun
 - indication: das Interview
   result: interview
   clue: Noun
-- indication: die Tradition, -en
+- indication: 'die Tradition • plural: die Traditionen'
   result: tradition
   clue: Noun
-- indication: das Kriterium, Kriterien
+- indication: 'das Kriterium • plural: die Kriterien'
   result: criterion
   clue: Noun
-- indication: die Ausnahme, -n
+- indication: 'die Ausnahme • plural: die Ausnahmen'
   result: exception
   clue: Noun
 - indication: der Nachmittag
@@ -205,7 +205,7 @@
 - indication: der Kandidat
   result: candidate
   clue: Noun
-- indication: der Ausländer / die Ausländerin, er/-innen
+- indication: der Ausländer
   result: foreigner
   clue: Noun
 - indication: das Telefon
@@ -214,28 +214,28 @@
 - indication: der Terrorismus
   result: terrorism
   clue: Noun
-- indication: der Terrorist / die Terroristin, isten/-innen
+- indication: der Terrorist
   result: terrorist
   clue: Noun
-- indication: die Koalition, -en
+- indication: 'die Koalition • plural: die Koalitionen'
   result: coalition
   clue: Noun
 - indication: der Weltkrieg
   result: world war
   clue: Noun
-- indication: die Gemeinschaft, -en
+- indication: 'die Gemeinschaft • plural: die Gemeinschaften'
   result: community
   clue: Noun
 - indication: der Verdacht
   result: suspicion
   clue: Noun
-- indication: der Polizist / die Polizistin, isten/-innen
+- indication: der Polizist
   result: policeman
   clue: Noun
-- indication: die Demokratie, -n
+- indication: 'die Demokratie • plural: die Demokratien'
   result: democracy
   clue: Noun
-- indication: die Dimension, -en
+- indication: 'die Dimension • plural: die Dimensionen'
   result: dimension
   clue: Noun
 - indication: die Substanz
@@ -244,19 +244,19 @@
 - indication: der Grundsatz
   result: principle
   clue: Noun
-- indication: die Komponente, -n
+- indication: 'die Komponente • plural: die Komponenten'
   result: component
   clue: Noun
-- indication: die Sendung, -en
+- indication: 'die Sendung • plural: die Sendungen'
   result: broadcast
   clue: Noun
-- indication: die Zigarette, -n
+- indication: 'die Zigarette • plural: die Zigaretten'
   result: cigarette
   clue: Noun
-- indication: der Charakter / die Charakterin, er/-innen
+- indication: der Charakter
   result: character
   clue: Noun
-- indication: die Herausforderung, -en
+- indication: 'die Herausforderung • plural: die Herausforderungen'
   result: challenge
   clue: Noun
 - indication: die Existenz
@@ -265,13 +265,13 @@
 - indication: das Grundgesetz
   result: basic law
   clue: Noun
-- indication: die Vereinbarung, -en
+- indication: 'die Vereinbarung • plural: die Vereinbarungen'
   result: agreement
   clue: Noun
-- indication: die Datei
+- indication: 'die Datei • plural: die Dateis'
   result: data file
   clue: Noun
-- indication: die Operation, -en
+- indication: 'die Operation • plural: die Operationen'
   result: operation
   clue: Noun
 - indication: die Vielfalt
@@ -280,7 +280,7 @@
 - indication: die Vielzahl
   result: multitude
   clue: Noun
-- indication: die Finanzierung, -en
+- indication: 'die Finanzierung • plural: die Finanzierungen'
   result: financing
   clue: Noun
 - indication: die Absicht
@@ -289,13 +289,13 @@
 - indication: der Architekt
   result: architect
   clue: Noun
-- indication: die Aufmerksamkeit, -en
+- indication: 'die Aufmerksamkeit • plural: die Aufmerksamkeiten'
   result: attention
   clue: Noun
-- indication: die Infektion, -en
+- indication: 'die Infektion • plural: die Infektionen'
   result: infection
   clue: Noun
-- indication: der Kontinent / die Kontinentin, enten/-innen
+- indication: der Kontinent
   result: continent
   clue: Noun
 - indication: das Marketing
@@ -304,76 +304,76 @@
 - indication: das Orchester
   result: orchestra
   clue: Noun
-- indication: die Richtlinie, -n
+- indication: 'die Richtlinie • plural: die Richtlinien'
   result: guideline
   clue: Noun
-- indication: die Chemie, -n
+- indication: 'die Chemie • plural: die Chemien'
   result: chemistry
   clue: Noun
-- indication: die Notwendigkeit, -en
+- indication: 'die Notwendigkeit • plural: die Notwendigkeiten'
   result: necessity
   clue: Noun
 - indication: das Frühstück
   result: breakfast
   clue: Noun
-- indication: die Prognose, -n
+- indication: 'die Prognose • plural: die Prognosen'
   result: prognosis
   clue: Noun
-- indication: die Vorgabe, -n
+- indication: 'die Vorgabe • plural: die Vorgaben'
   result: guideline
   clue: Noun
 - indication: das/die Weihnachten
   result: Christmas
   clue: Noun
-- indication: die Kindheit, -en
+- indication: 'die Kindheit • plural: die Kindheiten'
   result: childhood
   clue: Noun
 - indication: der Empfang
   result: reception
   clue: Noun
-- indication: der Empfänger / die Empfängerin, er/-innen
+- indication: der Empfänger
   result: recipient
   clue: Noun
-- indication: der Nachfolger / die Nachfolgerin, er/-innen
+- indication: der Nachfolger
   result: successor
   clue: Noun
 - indication: das Potenzial
   result: potential
   clue: Noun
-- indication: die Strahlung, -en
+- indication: 'die Strahlung • plural: die Strahlungen'
   result: radiation
   clue: Noun
-- indication: die Beurteilung, -en
+- indication: 'die Beurteilung • plural: die Beurteilungen'
   result: judgement
   clue: Noun
-- indication: der Bewerber / die Bewerberin, er/-innen
+- indication: der Bewerber
   result: applicant
   clue: Noun
-- indication: der Passagier / die Passagierin, er/-innen
+- indication: der Passagier
   result: passenger
   clue: Noun
-- indication: die Einigung, -en
+- indication: 'die Einigung • plural: die Einigungen'
   result: agreement
   clue: Noun
 - indication: der Katalog
   result: catalogue
   clue: Noun
-- indication: die Schnittstelle, -n
+- indication: 'die Schnittstelle • plural: die Schnittstellen'
   result: interface
   clue: Noun
 - indication: der Tipp
   result: tip, hint
   clue: Noun
-- indication: die Beschwerde, -n
+- indication: 'die Beschwerde • plural: die Beschwerden'
   result: complaint
   clue: Noun
 - indication: das Rathaus
   result: town hall
   clue: Noun
-- indication: die Kollegin
+- indication: 'die Kollegin • plural: die Kolleginnen'
   result: colleague
   clue: Noun
-- indication: die Sekretärin
+- indication: 'die Sekretärin • plural: die Sekretärinnen'
   result: secretary
   clue: Noun
 - indication: die Stabilität
@@ -382,13 +382,13 @@
 - indication: das Abenteuer
   result: adventure
   clue: Noun
-- indication: die Diagnose, -n
+- indication: 'die Diagnose • plural: die Diagnosen'
   result: diagnosis
   clue: Noun
-- indication: die Fülle, -n
+- indication: 'die Fülle • plural: die Füllen'
   result: abundance
   clue: Noun
-- indication: das Gebirge, -n
+- indication: 'das Gebirge • plural: die Gebirgen'
   result: mountains
   clue: Noun
 - indication: der Personenkraftwagen
@@ -397,61 +397,61 @@
 - indication: die Unterlagen
   result: documents
   clue: Noun
-- indication: die Bakterie, -n
+- indication: 'die Bakterie • plural: die Bakterien'
   result: bacterium
   clue: Noun
-- indication: die Entdeckung, -en
+- indication: 'die Entdeckung • plural: die Entdeckungen'
   result: discovery
   clue: Noun
-- indication: die Erfindung, -en
+- indication: 'die Erfindung • plural: die Erfindungen'
   result: invention
   clue: Noun
 - indication: das Milligramm
   result: milligram
   clue: Noun
-- indication: die Rezession, -en
+- indication: 'die Rezession • plural: die Rezessionen'
   result: recession
   clue: Noun
-- indication: die Schwangerschaft, -en
+- indication: 'die Schwangerschaft • plural: die Schwangerschaften'
   result: pregnancy
   clue: Noun
 - indication: die Unterschrift
   result: signature
   clue: Noun
-- indication: das Gremium, Gremien
+- indication: 'das Gremium • plural: die Gremien'
   result: committee
   clue: Noun
 - indication: das Abkommen
   result: agreement
   clue: Noun
-- indication: der Assistent / die Assistentin, enten/-innen
+- indication: der Assistent
   result: assistant
   clue: Noun
 - indication: die Frequenz
   result: frequency
   clue: Noun
-- indication: der Physiker / die Physikerin, er/-innen
+- indication: der Physiker
   result: physicist
   clue: Noun
 - indication: der Therapeut
   result: therapist
   clue: Noun
-- indication: der Veranstalter / die Veranstalterin, er/-innen
+- indication: der Veranstalter
   result: organizer
   clue: Noun
 - indication: der Strahl
   result: ray, beam
   clue: Noun
-- indication: der Fall
+- indication: 'der Fall • plural: die Fälle'
   result: fall, case
   clue: Noun
-- indication: die Stadt
+- indication: 'die Stadt • plural: die Städte'
   result: city, town
   clue: Noun
 - indication: das Recht
   result: right, law
   clue: Noun
-- indication: die Seite, -n
+- indication: 'die Seite • plural: die Seiten'
   result: side, page
   clue: Noun
 - indication: die Art
@@ -460,7 +460,7 @@
 - indication: die Universität
   result: university
   clue: Noun
-- indication: die Erfahrung, -en
+- indication: 'die Erfahrung • plural: die Erfahrungen'
   result: experience
   clue: Noun
 - indication: der Vergleich
@@ -469,7 +469,7 @@
 - indication: der Unterschied
   result: difference
   clue: Noun
-- indication: die Schwierigkeit, -en
+- indication: 'die Schwierigkeit • plural: die Schwierigkeiten'
   result: difficulty
   clue: Noun
 - indication: der Eindruck
@@ -487,13 +487,13 @@
 - indication: das Meer
   result: sea, ocean
   clue: Noun
-- indication: der Politiker / die Politikerin, er/-innen
+- indication: der Politiker
   result: politician
   clue: Noun
 - indication: das Fernsehen
   result: television
   clue: Noun
-- indication: die Produktion, -en
+- indication: 'die Produktion • plural: die Produktionen'
   result: production
   clue: Noun
 - indication: der Schutz
@@ -502,10 +502,10 @@
 - indication: die Freizeit
   result: spare time
   clue: Noun
-- indication: die Kontrolle, -n
+- indication: 'die Kontrolle • plural: die Kontrollen'
   result: inspection
   clue: Noun
-- indication: die Ausstellung, -en
+- indication: 'die Ausstellung • plural: die Ausstellungen'
   result: exhibition
   clue: Noun
 - indication: der Hintergrund
@@ -514,19 +514,19 @@
 - indication: das Instrument
   result: instrument
   clue: Noun
-- indication: der Zentimeter / die Zentimeterin, er/-innen
+- indication: der Zentimeter
   result: centimeter
   clue: Noun
-- indication: die Generation, -en
+- indication: 'die Generation • plural: die Generationen'
   result: generation
   clue: Noun
-- indication: die Definition, -en
+- indication: 'die Definition • plural: die Definitionen'
   result: definition
   clue: Noun
-- indication: das Foto
+- indication: 'das Foto • plural: die Fotos'
   result: photograph
   clue: Noun
-- indication: die Mannschaft, -en
+- indication: 'die Mannschaft • plural: die Mannschaften'
   result: crew, team
   clue: Noun
 - indication: der Vorgang
@@ -541,27 +541,27 @@
 - indication: das Phänomen
   result: phenomenon
   clue: Noun
-- indication: der Kanzler / die Kanzlerin, er/-innen
+- indication: der Kanzler
   result: chancellor
   clue: Noun
 - indication: das Management
   result: management
   clue: Noun
-- indication: der Millimeter / die Millimeterin, er/-innen
+- indication: der Millimeter
   result: millimeter
   clue: Noun
-- indication: die Investition, -en
+- indication: 'die Investition • plural: die Investitionen'
   result: investment
   clue: Noun
 - indication: der Anschluss
   result: connection
   clue: Noun
-- indication: die Atmosphäre, -n
+- indication: 'die Atmosphäre • plural: die Atmosphären'
   result: atmosphere
   clue: Noun
-- indication: die Abteilung, -en
+- indication: 'die Abteilung • plural: die Abteilungen'
   result: department
   clue: Noun
-- indication: der Forscher / die Forscherin, er/-innen
+- indication: der Forscher
   result: researcher
   clue: Noun

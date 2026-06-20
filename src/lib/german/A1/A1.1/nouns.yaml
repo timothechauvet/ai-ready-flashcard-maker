@@ -1,49 +1,49 @@
-- indication: der Hund
+- indication: 'der Hund • plural: die Hunde'
   result: the dog
   clue: Noun
-- indication: die Katze, -n
+- indication: 'die Katze • plural: die Katzen'
   result: the cat
   clue: Noun
-- indication: das Buch
+- indication: 'das Buch • plural: die Bücher'
   result: the book
   clue: Noun
-- indication: der Apfel
+- indication: 'der Apfel • plural: die Äpfel'
   result: the apple
   clue: Noun
-- indication: das Haus
+- indication: 'das Haus • plural: die Häuser'
   result: the house
   clue: Noun
-- indication: der Tisch
+- indication: 'der Tisch • plural: die Tische'
   result: the table
   clue: Noun
-- indication: der Stuhl
+- indication: 'der Stuhl • plural: die Stühle'
   result: the chair
   clue: Noun
-- indication: das Kind
+- indication: 'das Kind • plural: die Kinder'
   result: the child
   clue: Noun
-- indication: die Schule, -n
+- indication: 'die Schule • plural: die Schulen'
   result: the school
   clue: Noun
-- indication: das Auto
+- indication: 'das Auto • plural: die Autos'
   result: automobile, car
   clue: Noun
-- indication: die CD
+- indication: 'die CD • plural: die CDs'
   result: CD
   clue: Noun
-- indication: das TV
+- indication: 'das TV • plural: die TVs'
   result: TV
   clue: Noun
-- indication: der Tag
+- indication: 'der Tag • plural: die Tage'
   result: day
   clue: Noun
-- indication: der Mann / die Frau, Männer
+- indication: 'der Mann / die Frau • plural: die Männer'
   result: man
   clue: Noun
-- indication: das Ende, -n
+- indication: 'das Ende • plural: die Enden'
   result: end
   clue: Noun
-- indication: das Auge, -n
+- indication: 'das Auge • plural: die Augen'
   result: eye
   clue: Noun
 - indication: der Krieg
@@ -64,7 +64,7 @@
 - indication: der Arm
   result: arm
   clue: Noun
-- indication: der Junge, -n
+- indication: 'der Junge • plural: die Jungen'
   result: boy
   clue: Noun
 - indication: die Luft
@@ -82,31 +82,31 @@
 - indication: das Bein
   result: leg
   clue: Noun
-- indication: die Sonne, -n
+- indication: 'die Sonne • plural: die Sonnen'
   result: sun
   clue: Noun
-- indication: die Freude, -n
+- indication: 'die Freude • plural: die Freuden'
   result: joy
   clue: Noun
 - indication: der Job
   result: job
   clue: Noun
-- indication: die See, -n
+- indication: 'die See • plural: die Seen'
   result: sea
   clue: Noun
 - indication: das Ohr
   result: ear
   clue: Noun
-- indication: die Nutzung, -en
+- indication: 'die Nutzung • plural: die Nutzungen'
   result: use
   clue: Noun
 - indication: der Bus
   result: bus
   clue: Noun
-- indication: die Summe, -n
+- indication: 'die Summe • plural: die Summen'
   result: sum
   clue: Noun
-- indication: die Verwendung, -en
+- indication: 'die Verwendung • plural: die Verwendungen'
   result: use
   clue: Noun
 - indication: die Steuer
@@ -115,13 +115,13 @@
 - indication: der Gebrauch
   result: use
   clue: Noun
-- indication: die Lippe, -n
+- indication: 'die Lippe • plural: die Lippen'
   result: lip
   clue: Noun
 - indication: der Schlüssel
   result: key
   clue: Noun
-- indication: das Ei
+- indication: 'das Ei • plural: die Eis'
   result: egg
   clue: Noun
 - indication: der Hut
@@ -130,19 +130,19 @@
 - indication: das Öl
   result: oil
   clue: Noun
-- indication: der Tee, -n
+- indication: 'der Tee • plural: die Teen'
   result: tea
   clue: Noun
 - indication: das Gas
   result: gas
   clue: Noun
-- indication: die Benutzung, -en
+- indication: 'die Benutzung • plural: die Benutzungen'
   result: use
   clue: Noun
 - indication: das Top
   result: top
   clue: Noun
-- indication: der Bude, -n
+- indication: 'der Bude • plural: die Buden'
   result: boy
   clue: Noun
 - indication: der Nebel
@@ -157,7 +157,7 @@
 - indication: der Akt
   result: act
   clue: Noun
-- indication: die Tasse, -n
+- indication: 'die Tasse • plural: die Tassen'
   result: cup
   clue: Noun
 - indication: die Gebühr
@@ -169,28 +169,28 @@
 - indication: die Bar
   result: bar
   clue: Noun
-- indication: die Lücke, -n
+- indication: 'die Lücke • plural: die Lücken'
   result: gap
   clue: Noun
 - indication: das Schwein
   result: pig
   clue: Noun
-- indication: das Jahr
+- indication: 'das Jahr • plural: die Jahre'
   result: year
   clue: Noun
-- indication: das Mal
+- indication: 'das Mal • plural: die Male'
   result: time
   clue: Noun
-- indication: die Arbeit
+- indication: 'die Arbeit • plural: die Arbeiten'
   result: work
   clue: Noun
-- indication: die Hand
+- indication: 'die Hand • plural: die Hände'
   result: hand
   clue: Noun
 - indication: der/das Teil
   result: part
   clue: Noun
-- indication: die Woche, -n
+- indication: 'die Woche • plural: die Wochen'
   result: week
   clue: Noun
 - indication: das Leben
@@ -199,22 +199,22 @@
 - indication: das Wort
   result: word
   clue: Noun
-- indication: die Stunde, -n
+- indication: 'die Stunde • plural: die Stunden'
   result: hour
   clue: Noun
-- indication: der Name, -n
+- indication: 'der Name • plural: die Namen'
   result: name
   clue: Noun
 - indication: der Kopf
   result: head
   clue: Noun
-- indication: der Euro
+- indication: 'der Euro • plural: die Euros'
   result: euro
   clue: Noun
 - indication: das Gesicht
   result: face
   clue: Noun
-- indication: die Rolle, -n
+- indication: 'die Rolle • plural: die Rollen'
   result: role
   clue: Noun
 - indication: die Tür
@@ -238,10 +238,10 @@
 - indication: der Film
   result: film
   clue: Noun
-- indication: das Mädchen
+- indication: 'das Mädchen • plural: die Mädchen'
   result: girl
   clue: Noun
-- indication: das Zuhause, -n
+- indication: 'das Zuhause • plural: die Zuhausen'
   result: home
   clue: Noun
 - indication: das Zimmer
@@ -250,13 +250,13 @@
 - indication: der Fuß
   result: foot
   clue: Noun
-- indication: der Körper / die Körperin, er/-innen
+- indication: der Körper
   result: body
   clue: Noun
-- indication: die Idee, -n
+- indication: 'die Idee • plural: die Ideen'
   result: idea
   clue: Noun
-- indication: die Hilfe, -n
+- indication: 'die Hilfe • plural: die Hilfen'
   result: help
   clue: Noun
 - indication: der Westen/West
@@ -268,16 +268,16 @@
 - indication: das Haar
   result: hair
   clue: Noun
-- indication: das Risiko
+- indication: 'das Risiko • plural: die Risikos'
   result: risk
   clue: Noun
 - indication: die Daten
   result: data
   clue: Noun
-- indication: die Liebe, -n
+- indication: 'die Liebe • plural: die Lieben'
   result: love
   clue: Noun
-- indication: die Linie, -n
+- indication: 'die Linie • plural: die Linien'
   result: line
   clue: Noun
 - indication: der Wunsch
@@ -286,13 +286,13 @@
 - indication: der Rücken
   result: back
   clue: Noun
-- indication: die Zelle, -n
+- indication: 'die Zelle • plural: die Zellen'
   result: cell
   clue: Noun
 - indication: die Wand
   result: wall
   clue: Noun
-- indication: die Hälfte, -n
+- indication: 'die Hälfte • plural: die Hälften'
   result: half
   clue: Noun
 - indication: der Plan
@@ -310,16 +310,16 @@
 - indication: das Team
   result: team
   clue: Noun
-- indication: das Zeichen
+- indication: 'das Zeichen • plural: die Zeichen'
   result: sign
   clue: Noun
-- indication: die Tatsache, -n
+- indication: 'die Tatsache • plural: die Tatsachen'
   result: fact
   clue: Noun
 - indication: der Wind
   result: wind
   clue: Noun
-- indication: der See, -n
+- indication: 'der See • plural: die Seen'
   result: lake
   clue: Noun
 - indication: der Typ
@@ -328,10 +328,10 @@
 - indication: das Schiff
   result: ship
   clue: Noun
-- indication: die Hoffnung, -en
+- indication: 'die Hoffnung • plural: die Hoffnungen'
   result: hope
   clue: Noun
-- indication: der König, -e
+- indication: der König
   result: king
   clue: Noun
 - indication: die Tat
@@ -340,13 +340,13 @@
 - indication: der Rand
   result: edge
   clue: Noun
-- indication: die Vergangenheit, -en
+- indication: 'die Vergangenheit • plural: die Vergangenheiten'
   result: past
   clue: Noun
 - indication: der Verlust
   result: loss
   clue: Noun
-- indication: die Dame, -n
+- indication: 'die Dame • plural: die Damen'
   result: lady
   clue: Noun
 - indication: das Dach
@@ -364,7 +364,7 @@
 - indication: das Feuer
   result: fire
   clue: Noun
-- indication: die Nase, -n
+- indication: 'die Nase • plural: die Nasen'
   result: nose
   clue: Noun
 - indication: der Club
@@ -376,13 +376,13 @@
 - indication: der Wein
   result: wine
   clue: Noun
-- indication: die Welle, -n
+- indication: 'die Welle • plural: die Wellen'
   result: wave
   clue: Noun
 - indication: das Bedürfnis
   result: need
   clue: Noun
-- indication: die Tante, -n
+- indication: 'die Tante • plural: die Tanten'
   result: aunt
   clue: Noun
 - indication: das Loch
@@ -403,13 +403,13 @@
 - indication: die Pflicht
   result: duty
   clue: Noun
-- indication: der Wille, -n
+- indication: 'der Wille • plural: die Willen'
   result: will
   clue: Noun
 - indication: der Vogel
   result: bird
   clue: Noun
-- indication: die Armee, -n
+- indication: 'die Armee • plural: die Armeen'
   result: army
   clue: Noun
 - indication: das Boot
@@ -421,10 +421,10 @@
 - indication: das Holz
   result: wood
   clue: Noun
-- indication: das Knie, -n
+- indication: 'das Knie • plural: die Knien'
   result: knee
   clue: Noun
-- indication: die Liste, -n
+- indication: 'die Liste • plural: die Listen'
   result: list
   clue: Noun
 - indication: das Schicksal

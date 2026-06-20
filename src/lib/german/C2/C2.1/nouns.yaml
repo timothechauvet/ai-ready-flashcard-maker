@@ -7,7 +7,7 @@
 - indication: die Rücksicht
   result: consideration / respect (considerate)
   clue: Noun
-- indication: die Aufforderung, -en
+- indication: 'die Aufforderung • plural: die Aufforderungen'
   result: request / instruction / call to do something
   clue: Noun
 - indication: der Sarkasmus
@@ -18,11 +18,11 @@
   result: curiosity
   clue: Noun
   pronunciation: '[diː ˈnɔʏ̯ɡiːɐ̯]'
-- indication: die Solarenergie, -n
+- indication: 'die Solarenergie • plural: die Solarenergien'
   result: solar energy
   clue: Noun
   pronunciation: '[diː zoˈlaːɐ̯ʔeːnɛʁˌɡiː]'
-- indication: die Ganztagsbetreuung, -en
+- indication: 'die Ganztagsbetreuung • plural: die Ganztagsbetreuungen'
   result: all-day care
   clue: Noun
   pronunciation: '[diː ˈɡant͡staːksbəˌtʁɔʏ̯ʊŋ]'
@@ -30,7 +30,7 @@
   result: duty of care
   clue: Noun
   pronunciation: '[diː ˈfyːɐ̯zɔʁɡəˌp͡flɪçt]'
-- indication: die Patientenversorgung, -en
+- indication: 'die Patientenversorgung • plural: die Patientenversorgungen'
   result: patient care
   clue: Noun
   pronunciation: '[diː paˈt͡si̯ɛntn̩fɛɐ̯ˌzɔʁɡʊŋ]'
@@ -38,7 +38,7 @@
   result: end in itself
   clue: Noun
   pronunciation: '[deːɐ̯ ˈzɛlpstˌt͡svɛk]'
-- indication: die Nachhaltigkeit, -en
+- indication: 'die Nachhaltigkeit • plural: die Nachhaltigkeiten'
   result: sustainability
   clue: Noun
   pronunciation: '[diː ˈnaːxhaltɪçkaɪ̯t]'
@@ -58,7 +58,7 @@
   result: suffering / sorrow
   clue: Noun
   pronunciation: '[das laɪ̯t]'
-- indication: die Spracherziehung, -en
+- indication: 'die Spracherziehung • plural: die Spracherziehungen'
   result: language education
   clue: Noun
   pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
@@ -66,15 +66,15 @@
   result: rules / regulations
   clue: Noun
   pronunciation: '[diː ʁeɡuˈlaːʁi̯ən]'
-- indication: die Erschöpfung, -en
+- indication: 'die Erschöpfung • plural: die Erschöpfungen'
   result: exhaustion / fatigue
   clue: Noun
   pronunciation: '[diː ɛɐ̯ˈʃœp͡fʊŋ]'
-- indication: der Ausbau
+- indication: 'der Ausbau • plural: die Ausbaus'
   result: expansion / extension
   clue: Noun
   pronunciation: '[deːɐ̯ ˈaʊ̯sˌbaʊ̯]'
-- indication: der Anbau
+- indication: 'der Anbau • plural: die Anbaus'
   result: cultivation / growing
   clue: Noun
   pronunciation: '[deːɐ̯ ˈanˌbaʊ̯]'
@@ -82,15 +82,15 @@
   result: living space / housing
   clue: Noun
   pronunciation: '[deːɐ̯ ˈvoːnˌʁaʊ̯m]'
-- indication: das Neugeborene, -n
+- indication: 'das Neugeborene • plural: die Neugeborenen'
   result: newborn (infant / baby)
   clue: Noun
   pronunciation: '[das ˈnɔɪ̯ɡəˌboːʁənə]'
-- indication: der Einheitsbrei
+- indication: 'der Einheitsbrei • plural: die Einheitsbreis'
   result: monotony / uniform mush
   clue: Noun
   pronunciation: '[deːɐ̯ ˈaɪ̯nhaɪ̯tsˌbʁaɪ̯]'
-- indication: die Windenergie, -n
+- indication: 'die Windenergie • plural: die Windenergien'
   result: wind energy / wind power
   clue: Noun
   pronunciation: '[diː ˈvɪntʔeːnɛʁˌɡiː]'
@@ -106,23 +106,23 @@
   result: environment / surroundings
   clue: Noun
   pronunciation: '[das ˈʊmfɛlt]'
-- indication: die Verlässlichkeit, -en
+- indication: 'die Verlässlichkeit • plural: die Verlässlichkeiten'
   result: reliability / dependability
   clue: Noun
   pronunciation: '[diː fɛɐ̯ˈlɛslɪçkaɪ̯t]'
-- indication: die Zelle, -n
+- indication: 'die Zelle • plural: die Zellen'
   result: cell
   clue: Noun
   pronunciation: '[diː ˈtsɛlə]'
-- indication: der Knochen, -
+- indication: 'der Knochen • plural: die Knochen'
   result: bone
   clue: Noun
   pronunciation: '[deːɐ̯ ˈknɔxn̩]'
-- indication: die Studie, -n
+- indication: 'die Studie • plural: die Studien'
   result: study
   clue: Noun
   pronunciation: '[diː ˈʃtuːdi̯ə]'
-- indication: das Genre, -s
+- indication: 'das Genre • plural: die Genren'
   result: genre
   clue: Noun
   pronunciation: '[das ˈʒɑ̃ːʁə]'
@@ -130,11 +130,11 @@
   result: drama / dramatic nature / tension
   clue: Noun
   pronunciation: '[diː dʁaˈmaːtɪk]'
-- indication: das Biogas, -e
+- indication: das Biogas
   result: biogas
   clue: Noun
   pronunciation: '[das ˈbiːoːˌɡaːs]'
-- indication: die Hungersnot, "-e
+- indication: die Hungersnot
   result: famine
   clue: Noun
   pronunciation: '[diː ˈhʊŋɐsˌnoːt]'
@@ -146,107 +146,107 @@
   result: perseverance / stamina / endurance
   clue: Noun
   pronunciation: '[das ˈdʊʁçhaltəfɛɐ̯ˌmøːɡn̩]'
-- indication: die Geothermie, -n
+- indication: 'die Geothermie • plural: die Geothermien'
   result: geothermal energy / geothermal heat
   clue: Noun
   pronunciation: '[diː ɡeoːtɛʁˈmiː]'
-- indication: das Hormon, -e
+- indication: das Hormon
   result: hormone
   clue: Noun
   pronunciation: '[das hɔʁˈmoːn]'
-- indication: die Anekdote, -n
+- indication: 'die Anekdote • plural: die Anekdoten'
   result: anecdote
   clue: Noun
   pronunciation: '[diː anɛkˈdoːtə]'
-- indication: der Rezeptor, -en
+- indication: der Rezeptor
   result: receptor
   clue: Noun
   pronunciation: '[deːɐ̯ ʁeˈt͡sɛptoːɐ̯]'
-- indication: die Reduktion, -en
+- indication: 'die Reduktion • plural: die Reduktionen'
   result: reduction
   clue: Noun
   pronunciation: '[diː ʁedʊkˈt͡sjoːn]'
-- indication: die Mentalität, -en
+- indication: die Mentalität
   result: mentality
   clue: Noun
   pronunciation: '[diː mɛntaliˈtɛːt]'
-- indication: die Skulptur, -en
+- indication: die Skulptur
   result: sculpture
   clue: Noun
   pronunciation: '[diː skʊlpˈtuːɐ̯]'
-- indication: der Diskurs, -e
+- indication: der Diskurs
   result: discourse
   clue: Noun
   pronunciation: '[deːɐ̯ dɪsˈkuːɐ̯s]'
-- indication: die Erwerbstätigkeit, -en
+- indication: 'die Erwerbstätigkeit • plural: die Erwerbstätigkeiten'
   result: gainful employment / economic activity
   clue: Noun
   pronunciation: '[diː ɛɐ̯ˈvɛʁpstɛːtɪçkaɪ̯t (ˈzɪŋɡulaːɐ̯)]'
-- indication: die Kriminalitätsrate, -n
+- indication: 'die Kriminalitätsrate • plural: die Kriminalitätsraten'
   result: crime rate
   clue: Noun
   pronunciation: '[diː kʁiminaliˈtɛːtsˌʁaːtə]'
-- indication: der Stoffwechsel, -
+- indication: der Stoffwechsel
   result: metabolism
   clue: Noun
   pronunciation: '[deːɐ̯ ˈʃtɔfˌvɛksl̩]'
-- indication: die Seifenoper, -n
+- indication: die Seifenoper
   result: soap opera
   clue: Noun
   pronunciation: '[diː ˈzaɪ̯fn̩ˌʔoːpɐ]'
-- indication: die Geborgenheit, -en
+- indication: 'die Geborgenheit • plural: die Geborgenheiten'
   result: security / sense of security and warmth
   clue: Noun
   pronunciation: '[diː ɡəˈbɔʁɡn̩haɪ̯t]'
-- indication: die Genossenschaft, -en
+- indication: 'die Genossenschaft • plural: die Genossenschaften'
   result: cooperative
   clue: Noun
   pronunciation: '[diː ɡəˈnɔsn̩ʃaft]'
-- indication: die Konsequenz, -en
+- indication: die Konsequenz
   result: consequence
   clue: Noun
   pronunciation: '[diː kɔnseˈkvɛnt͡s]'
-- indication: die Knolle, -n
+- indication: 'die Knolle • plural: die Knollen'
   result: bulb / tuber
   clue: Noun
   pronunciation: '[diː ˈknɔlə]'
-- indication: die Konversation, -en
+- indication: 'die Konversation • plural: die Konversationen'
   result: conversation
   clue: Noun
   pronunciation: '[diː kɔnvɛʁzaˈtsjoːnən]'
-- indication: die Kündigungsfrist, -en
+- indication: die Kündigungsfrist
   result: notice period
   clue: Noun
   pronunciation: '[diː ˈkʏndɪɡʊŋsˌfʁɪst, -en]'
-- indication: die Reichweite, -n
+- indication: 'die Reichweite • plural: die Reichweiten'
   result: range / reach
   clue: Noun
   pronunciation: '[diː ˈʁaɪ̯çˌvaɪ̯tə]'
-- indication: die Vaterfigur, -en
+- indication: die Vaterfigur
   result: father figure
   clue: Noun
   pronunciation: '[diː ˈfaːtɐfiˌɡuːɐ̯]'
-- indication: das Eigenheim, -e
+- indication: das Eigenheim
   result: one's own home
   clue: Noun
   pronunciation: '[das ˈaɪ̯ɡn̩ˌhaɪ̯m]'
-- indication: das Treibhausgas, -e
+- indication: das Treibhausgas
   result: greenhouse gas
   clue: Noun
   pronunciation: '[das ˈtʁaɪ̯phaʊ̯sˌɡaːs]'
-- indication: die Facette, -n
+- indication: 'die Facette • plural: die Facetten'
   result: facet / aspect
   clue: Noun
   pronunciation: '[diː faˈsɛtə, faˈsɛtn̩]'
-- indication: der Geschmackssinn, -e
+- indication: der Geschmackssinn
   result: sense of taste
   clue: Noun
   pronunciation: '[deːɐ̯ ɡəˈʃmaksˌzɪn]'
-- indication: das Schicksal, -e
+- indication: das Schicksal
   result: fate / destiny
   clue: Noun
   pronunciation: '[das ˈʃɪkzaːl]'
-- indication: der Niedriglohnsektor, -en
+- indication: der Niedriglohnsektor
   result: low-wage sector
   clue: Noun
   pronunciation: '[deːɐ̯ ˈniːdʁɪçloːnˌzɛktoːɐ̯, ˈniːdʁɪçloːnˌzɛktoːʁən]'
@@ -254,15 +254,15 @@
   result: donated funds (*funding through donations*)
   clue: Noun
   pronunciation: '[diː ˈʃpɛndn̩ˌɡɛldɐ]'
-- indication: der Humorist, -en
+- indication: der Humorist
   result: humorist (male)
   clue: Noun
   pronunciation: '[deːɐ̯ humoˈʁɪst]'
-- indication: der Aushang, "-e
+- indication: der Aushang
   result: notice / posting
   clue: Noun
   pronunciation: '[deːɐ̯ ˈaʊ̯sˌhaŋ]'
-- indication: der Bitterstoff, -e
+- indication: der Bitterstoff
   result: bitter substance
   clue: Noun
   pronunciation: '[deːɐ̯ ˈbɪtɐˌʃtɔf]'
