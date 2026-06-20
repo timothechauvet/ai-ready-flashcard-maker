@@ -13,6 +13,8 @@ export interface DeckDefinition {
 	id: string;
 	title: string;
 	description: string;
+	author?: string | null;
+	organization?: string | null;
 	folder?: string;
 	subfolder?: string;
 	level?: string;
@@ -23,7 +25,12 @@ export interface DeckDefinition {
 
 function parseDeck(rawYaml: string, label: string): Flashcard[] {
 	try {
-		return (yaml.load(rawYaml) as Flashcard[]) ?? [];
+		const data = yaml.load(rawYaml);
+		if (Array.isArray(data)) return data as Flashcard[];
+		if (data && typeof data === 'object' && 'cards' in data && Array.isArray((data as any).cards)) {
+			return (data as any).cards as Flashcard[];
+		}
+		return [];
 	} catch (e) {
 		console.error(`Failed to parse ${label} yaml`, e);
 		return [];

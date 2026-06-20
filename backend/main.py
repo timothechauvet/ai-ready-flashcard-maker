@@ -21,7 +21,6 @@ from typing import Optional
 import yaml
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
 
 # ---------------------------------------------------------------------------
 # Config
@@ -67,19 +66,31 @@ def _init_db():
         CREATE INDEX IF NOT EXISTS idx_decks_folder ON decks(folder);
         CREATE INDEX IF NOT EXISTS idx_decks_source ON decks(source);
     """)
+    
+    # Run migrations for new columns if they don't exist
+    try:
+        conn.execute("ALTER TABLE decks ADD COLUMN author TEXT")
+    except sqlite3.OperationalError:
+        pass  # Column already exists
+        
+    try:
+        conn.execute("ALTER TABLE decks ADD COLUMN organization TEXT")
+    except sqlite3.OperationalError:
+        pass  # Column already exists
+        
     conn.close()
 
 
 # ---------------------------------------------------------------------------
 # Bundled deck loader
 # ---------------------------------------------------------------------------
-def _parse_yaml_file(path: Path) -> list[dict]:
+def _parse_yaml_file(path: Path):
     try:
         with open(path) as f:
             data = yaml.safe_load(f)
-        return data if isinstance(data, list) else []
+        return data
     except Exception:
-        return []
+        return None
 
 
 def _capitalize(s: str) -> str:
@@ -114,7 +125,14 @@ def _load_bundled_decks():
             category = match.group(1)
             part_num = int(match.group(2)) if match.group(2) else None
 
-            cards = _parse_yaml_file(yaml_path)
+            data = _parse_yaml_file(yaml_path)
+            
+            cards = []
+            if isinstance(data, list):
+                cards = data
+            elif isinstance(data, dict) and "cards" in data and isinstance(data["cards"], list):
+                cards = data["cards"]
+                
             if not cards:
                 continue
 
@@ -124,8 +142,8 @@ def _load_bundled_decks():
 
             conn.execute(
                 """INSERT OR REPLACE INTO decks
-                   (id, title, description, folder, subfolder, level, category, part, cards_json, source)
-                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                   (id, title, description, folder, subfolder, level, category, part, cards_json, source, author, organization)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
                 (
                     deck_id,
                     f"German {sublevel} • {_capitalize(category)}{part_label}",
@@ -137,6 +155,8 @@ def _load_bundled_decks():
                     part_num,
                     json.dumps(cards),
                     "bundled",
+                    "YASSSF",
+                    None
                 ),
             )
 
@@ -147,13 +167,20 @@ def _load_bundled_decks():
     ]:
         path = BUNDLED_DECKS_DIR / legacy_file
         if path.exists():
-            cards = _parse_yaml_file(path)
-            conn.execute(
-                """INSERT OR REPLACE INTO decks
-                   (id, title, description, folder, subfolder, level, category, part, cards_json, source)
-                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
-                (deck_id, title, f"{len(cards)} cards • {desc}", None, None, None, None, None, json.dumps(cards), "bundled"),
-            )
+            data = _parse_yaml_file(path)
+            cards = []
+            if isinstance(data, list):
+                cards = data
+            elif isinstance(data, dict) and "cards" in data and isinstance(data["cards"], list):
+                cards = data["cards"]
+            
+            if cards:
+                conn.execute(
+                    """INSERT OR REPLACE INTO decks
+                       (id, title, description, folder, subfolder, level, category, part, cards_json, source, author, organization)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                    (deck_id, title, f"{len(cards)} cards • {desc}", None, None, None, None, None, json.dumps(cards), "bundled", "YASSSF", None),
+                )
 
     conn.commit()
     total = conn.execute("SELECT count(*) FROM decks WHERE source='bundled'").fetchone()[0]
@@ -201,7 +228,7 @@ async def health():
 @app.get("/decks")
 async def list_decks(folder: Optional[str] = None, source: Optional[str] = None):
     conn = _get_db()
-    query = "SELECT id, title, description, folder, subfolder, level, category, part, source FROM decks WHERE 1=1"
+    query = "SELECT id, title, description, folder, subfolder, level, category, part, source, author, organization FROM decks WHERE 1=1"
     params: list = []
     if folder:
         query += " AND folder = ?"
@@ -237,7 +264,7 @@ async def get_deck(deck_id: str):
 async def list_collections():
     conn = _get_db()
     rows = conn.execute(
-        """SELECT id, title, description, folder, subfolder, level, category, part, source,
+        """SELECT id, title, description, folder, subfolder, level, category, part, source, author, organization,
                   json_array_length(cards_json) as card_count
            FROM decks ORDER BY folder, subfolder, category, part"""
     ).fetchall()
@@ -266,6 +293,8 @@ async def list_collections():
             "id": r["id"],
             "title": r["title"],
             "description": r["description"],
+            "author": r["author"],
+            "organization": r["organization"],
             "part": r.get("part"),
             "card_count": r["card_count"],
         })
@@ -296,6 +325,20 @@ async def list_collections():
     return result
 
 
+def _clean_path(path: str) -> str:
+    """Sanitizes category/folder paths, allowing slashes up to depth 32."""
+    if not path:
+        return ""
+    # Only keep alphanumeric, spaces, hyphens, underscores, and slashes
+    cleaned = re.sub(r"[^\w\s\-_/]", "", path)
+    # Remove leading/trailing slashes and collapse multiple slashes
+    cleaned = re.sub(r"/+", "/", cleaned).strip("/")
+    parts = cleaned.split("/")
+    if len(parts) > 32:
+        parts = parts[:32]
+    return "/".join(parts)
+
+
 # ---------------------------------------------------------------------------
 # POST /decks/import — upload a YAML deck
 # ---------------------------------------------------------------------------
@@ -303,10 +346,6 @@ async def list_collections():
 async def import_deck(
     request: Request,
     file: UploadFile = File(...),
-    title: str = Form(""),
-    folder: str = Form(""),
-    subfolder: str = Form(""),
-    category: str = Form(""),
 ):
     global _last_import_ts
 
@@ -329,34 +368,58 @@ async def import_deck(
     try:
         data = yaml.safe_load(content.decode("utf-8"))
     except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Invalid YAML: {e}")
+        raise HTTPException(status_code=400, detail=f"Invalid YAML parsing error: {e}")
 
-    if not isinstance(data, list):
-        raise HTTPException(status_code=400, detail="YAML must be a list of flashcard objects")
+    # Process structure: allow direct list or dict with 'cards' list and metadata
+    cards = []
+    meta = {}
+
+    if isinstance(data, list):
+        cards = data
+    elif isinstance(data, dict):
+        if "cards" not in data or not isinstance(data["cards"], list):
+            raise HTTPException(status_code=400, detail="YAML dictionary must contain a 'cards' list")
+        cards = data["cards"]
+        meta = data
+    else:
+        raise HTTPException(status_code=400, detail="YAML must be a list of flashcards or a dictionary with metadata and 'cards'")
 
     # Validate cards
-    for i, item in enumerate(data):
+    for i, item in enumerate(cards):
         if not isinstance(item, dict):
             raise HTTPException(status_code=400, detail=f"Card {i} is not an object")
         if "indication" not in item or "result" not in item:
             raise HTTPException(status_code=400, detail=f'Card {i} missing "indication" or "result"')
 
-    # Generate deck
-    final_title = title.strip() or (file.filename or "Untitled").rsplit(".", 1)[0]
+    # Extract metadata (either from the YAML or default to filename)
+    title = meta.get("title", "").strip() or meta.get("name", "").strip() or (file.filename or "Untitled").rsplit(".", 1)[0]
+    description = meta.get("description", "").strip() or f"{len(cards)} cards • Uploaded deck"
+    author = meta.get("author", "").strip() or None
+    organization = meta.get("organization", "").strip() or meta.get("org", "").strip() or None
+    
+    # Use clean_path for folder, subfolder, and category to prevent injection
+    folder = _clean_path(meta.get("folder", "").strip() or meta.get("collection", "").strip()) or None
+    subfolder = _clean_path(meta.get("subfolder", "").strip()) or None
+    
+    # Path inside category field allowed by user: "make category folder-like separated by / for depth"
+    category = _clean_path(meta.get("category", "").strip() or meta.get("path", "").strip()) or None
+
     deck_id = f"user-{uuid.uuid4().hex[:12]}"
 
     conn = _get_db()
     conn.execute(
-        """INSERT INTO decks (id, title, description, folder, subfolder, category, cards_json, source)
-           VALUES (?, ?, ?, ?, ?, ?, ?, 'upload')""",
+        """INSERT INTO decks (id, title, description, folder, subfolder, category, cards_json, source, author, organization)
+           VALUES (?, ?, ?, ?, ?, ?, ?, 'upload', ?, ?)""",
         (
             deck_id,
-            final_title,
-            f"{len(data)} cards • Uploaded deck",
-            folder.strip() or None,
-            subfolder.strip() or None,
-            category.strip() or None,
-            json.dumps(data),
+            title,
+            description,
+            folder,
+            subfolder,
+            category,
+            json.dumps(cards),
+            author,
+            organization
         ),
     )
     conn.commit()
@@ -366,9 +429,9 @@ async def import_deck(
 
     return {
         "id": deck_id,
-        "title": final_title,
-        "card_count": len(data),
-        "message": f'Successfully imported "{final_title}" with {len(data)} cards',
+        "title": title,
+        "card_count": len(cards),
+        "message": f'Successfully imported "{title}" with {len(cards)} cards',
     }
 
 

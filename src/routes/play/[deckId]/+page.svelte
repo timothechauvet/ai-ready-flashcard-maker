@@ -4,12 +4,17 @@
 	import { getDeckById, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
+	import { env } from '$env/dynamic/public';
 	import confetti from 'canvas-confetti';
+
+	const API_BASE = env.PUBLIC_API_URL || 'https://api.yasssf.com';
 
 	let deckId = $derived($page.params.deckId ?? '');
 
 	// Flashcard state
 	let cards = $state<Flashcard[]>([]);
+	let isLoading = $state(true);
+	let loadError = $state('');
 	let activeIndices = $state<number[]>([]);
 	let currentActivePointer = $state(0);
 	// We want to hold a separate display index that updates immediately on next card IF the card is NOT flipped.
@@ -46,11 +51,44 @@
 		);
 	});
 
-	onMount(() => {
-		const loadedCards = getDeckById(deckId);
-		cards = loadedCards;
-		activeIndices = loadedCards.map((_, i) => i);
+	$effect(() => {
+		// Reset state when deckId changes
+		isFlipped = false;
+		correctCount = 0;
+		incorrectCount = 0;
+		showFinishScreen = false;
+		history = [];
+		currentActivePointer = 0;
 		displayActivePointer = 0;
+		isLoading = true;
+		loadError = '';
+
+		let loadedCards = getDeckById(deckId);
+		
+		if (loadedCards.length > 0) {
+			cards = loadedCards;
+			activeIndices = loadedCards.map((_, i) => i);
+			displayActivePointer = 0;
+			isLoading = false;
+		} else {
+			// Fetch from backend
+			fetch(`${API_BASE}/decks/${deckId}`)
+				.then(res => {
+					if (!res.ok) throw new Error('Deck not found');
+					return res.json();
+				})
+				.then(data => {
+					cards = data.cards || [];
+					activeIndices = cards.map((_, i) => i);
+					displayActivePointer = 0;
+					isLoading = false;
+				})
+				.catch(err => {
+					console.error(err);
+					loadError = 'Could not load deck. It may have been deleted or is unavailable.';
+					isLoading = false;
+				});
+		}
 	});
 
 	const currentCardIndex = $derived(activeIndices[displayActivePointer] ?? -1);
@@ -249,12 +287,19 @@
 	<title>Play Flashcards - YASSSF</title>
 </svelte:head>
 
-{#if cards.length === 0}
-	<div
-		class="card"
-		style="max-width: 600px; margin: 0 auto; text-align: center; padding: 3rem 1.5rem;"
-	>
+{#if isLoading}
+	<div class="card" style="max-width: 600px; margin: 0 auto; text-align: center; padding: 3rem 1.5rem;">
 		<h3>Loading Deck...</h3>
+	</div>
+{:else if loadError}
+	<div class="card" style="max-width: 600px; margin: 0 auto; text-align: center; padding: 3rem 1.5rem;">
+		<h3 style="color: var(--danger-color);">{loadError}</h3>
+		<a href="{base}/explore" class="btn btn-primary" style="margin-top: 1.5rem;">Back to Explore</a>
+	</div>
+{:else if cards.length === 0}
+	<div class="card" style="max-width: 600px; margin: 0 auto; text-align: center; padding: 3rem 1.5rem;">
+		<h3>Deck empty or not found.</h3>
+		<a href="{base}/explore" class="btn btn-primary" style="margin-top: 1.5rem;">Back to Explore</a>
 	</div>
 {:else if showFinishScreen}
 	<div class="play-container animate-fade-in finish-screen">

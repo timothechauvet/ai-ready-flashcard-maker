@@ -5,9 +5,6 @@
 	const API_BASE = env.PUBLIC_API_URL || 'https://api.yasssf.com';
 
 	let fileInput: HTMLInputElement;
-	let deckTitle = $state('');
-	let deckFolder = $state('');
-	let deckCategory = $state('');
 	let rawYamlText = $state('');
 	let uploadMode = $state<'file' | 'text'>('file');
 	let errorMsg = $state('');
@@ -50,11 +47,18 @@
 		// Client-side YAML validation
 		try {
 			const data = yaml.load(yamlContent);
-			if (!Array.isArray(data)) {
-				errorMsg = 'YAML must contain a list of flashcard objects.';
+			let cardsArray: unknown[] = [];
+			
+			if (Array.isArray(data)) {
+				cardsArray = data;
+			} else if (typeof data === 'object' && data !== null && 'cards' in data && Array.isArray((data as any).cards)) {
+				cardsArray = (data as any).cards;
+			} else {
+				errorMsg = 'YAML must be a list of flashcards or a dictionary with a "cards" list.';
 				return;
 			}
-			const isValid = data.every((item: unknown) => {
+
+			const isValid = cardsArray.every((item: unknown) => {
 				if (typeof item !== 'object' || item === null) return false;
 				const obj = item as Record<string, unknown>;
 				return typeof obj.indication === 'string' && typeof obj.result === 'string';
@@ -75,9 +79,6 @@
 			const formData = new FormData();
 			const fileObj = new File([yamlContent], defaultTitle + '.yaml', { type: 'text/yaml' });
 			formData.append('file', fileObj);
-			if (deckTitle.trim()) formData.append('title', deckTitle.trim());
-			if (deckFolder.trim()) formData.append('folder', deckFolder.trim());
-			if (deckCategory.trim()) formData.append('category', deckCategory.trim());
 
 			const res = await fetch(`${API_BASE}/decks/import`, {
 				method: 'POST',
@@ -95,9 +96,6 @@
 
 			if (fileInput) fileInput.value = '';
 			rawYamlText = '';
-			deckTitle = '';
-			deckFolder = '';
-			deckCategory = '';
 		} catch (err) {
 			const uploadError = err as Error;
 			errorMsg = 'An unexpected error occurred: ' + uploadError.message;
@@ -107,16 +105,19 @@
 	}
 
 	const aiPrompt = `Act as an expert educator. Generate a high-quality flashcard deck in YAML format about [TOPIC].
-The output must be a valid YAML list of objects with these exact fields:
-- indication: (string, required) The question or front side of the card.
-- result: (string, required) The answer, meaning, or back side of the card.
-- picture_url: (string, optional) A direct URL to a relevant image.
+The output must be a valid YAML object containing metadata and a 'cards' list with exact fields:
 
-Example format:
-- indication: "What is the capital of Japan?"
-  result: "Tokyo"
-- indication: "What does HTML stand for?"
-  result: "HyperText Markup Language"
+title: "Your Deck Title"
+description: "A short description"
+author: "Your Name"
+organization: "Your Org"
+collection: "Main Collection Name"
+category: "Category/Subcategory"
+cards:
+  - indication: "What is the capital of Japan?"
+    result: "Tokyo"
+  - indication: "What does HTML stand for?"
+    result: "HyperText Markup Language"
 
 Ensure the YAML is clean and correctly indented. Total content must be under 2MB. DO NOT include code fences like \`\`\`yaml, just the raw text.`;
 
@@ -194,53 +195,13 @@ Ensure the YAML is clean and correctly indented. Total content must be under 2MB
 					<textarea
 						id="rawYaml"
 						rows="10"
-						placeholder="- indication: 'Front'\n  result: 'Back'"
+						placeholder="title: My Deck\ncards:\n  - indication: 'Front'\n    result: 'Back'"
 						bind:value={rawYamlText}
 						disabled={isUploading}
 						style="width: 100%; padding: 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border-color); font-family: monospace; resize: vertical;"
 					></textarea>
 				</div>
 			{/if}
-
-			<div class="form-group">
-				<label for="deckTitle" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
-					>Deck Title (Optional)</label
-				>
-				<input
-					type="text"
-					id="deckTitle"
-					placeholder="e.g. Japanese Kanji N5"
-					bind:value={deckTitle}
-					disabled={isUploading}
-				/>
-				<small class="text-muted">If left blank, the filename will be used.</small>
-			</div>
-
-			<div class="form-group">
-				<label for="deckFolder" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
-					>Collection / Folder (Optional)</label
-				>
-				<input
-					type="text"
-					id="deckFolder"
-					placeholder="e.g. Japanese"
-					bind:value={deckFolder}
-					disabled={isUploading}
-				/>
-			</div>
-
-			<div class="form-group">
-				<label for="deckCategory" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
-					>Category (Optional)</label
-				>
-				<input
-					type="text"
-					id="deckCategory"
-					placeholder="e.g. verbs, nouns, phrases"
-					bind:value={deckCategory}
-					disabled={isUploading}
-				/>
-			</div>
 
 			<button
 				class="btn btn-primary"
