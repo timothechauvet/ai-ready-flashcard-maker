@@ -22,26 +22,26 @@
 - indication: boxing
   result: k.o. schlagen
   clue: Phrase
-- indication: headguard
-  result: die Boxschuhe mpl
+- indication: die Boxschuhe mpl
+  result: the boxing shoes mpl
   clue: Phrase
-- indication: needle and thread
-  result: die Stricknadeln fpl
+- indication: die Stricknadeln fpl
+  result: the knitting needles fpl
   clue: Phrase
-- indication: sewing accessories
-  result: die Wasserfarben fpl
+- indication: die Wasserfarben fpl
+  result: the watercolors fpl
   clue: Phrase
-- indication: singer
-  result: die Noten fpl
+- indication: die Noten fpl
+  result: the grades fpl
   clue: Phrase
-- indication: ski suit
-  result: die Skier mpl
+- indication: die Skier mpl
+  result: the skis mpl
   clue: Phrase
 - indication: to listen to music
   result: singen
   clue: Phrase
-- indication: trombone
-  result: die kleine Trommel
+- indication: die kleine Trommel
+  result: the snare drum
   clue: Phrase
 - indication: über / unter Par
   result: over/under par

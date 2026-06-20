@@ -37,7 +37,8 @@
 - indication: brechen
   result: to set off / to depart (to set off on a trip around the world)
   clue: Verb
-  pronunciation: '[ˈaʊ̯fˌbʁɛçn̩ (bʁɪçt ˈaʊ̯f bʁaːx ˈaʊ̯f ɪst ˈaʊ̯fɡəˌbʁɔxn̩) (tsuː ˈaɪ̯nɐ ˈvɛltˌʁaɪ̯zə ˈaʊ̯fˌbʁɛçn̩)]'
+  pronunciation: '[ˈaʊ̯fˌbʁɛçn̩ (bʁɪçt ˈaʊ̯f bʁaːx ˈaʊ̯f ɪst ˈaʊ̯fɡəˌbʁɔxn̩) (tsuː
+    ˈaɪ̯nɐ ˈvɛltˌʁaɪ̯zə ˈaʊ̯fˌbʁɛçn̩)]'
 - indication: das Vertrauensverhältnis, -se
   result: relationship of trust
   clue: Noun
@@ -237,7 +238,8 @@
 - indication: kommen
   result: to meet someone halfway / to accommodate someone
   clue: Verb
-  pronunciation: '[ˈjeːmɑndm̩ ɛntˈɡeːɡn̩ˌkɔmən (kɔmt ɛntˈɡeːɡn̩, kaːm ɛntˈɡeːɡn̩, ɪst ɛntˈɡeːɡn̩ɡəˌkɔmən)]'
+  pronunciation: '[ˈjeːmɑndm̩ ɛntˈɡeːɡn̩ˌkɔmən (kɔmt ɛntˈɡeːɡn̩, kaːm ɛntˈɡeːɡn̩,
+    ɪst ɛntˈɡeːɡn̩ɡəˌkɔmən)]'
 - indication: der Vorstand, "-e
   result: board of directors / management board
   clue: Noun
@@ -279,7 +281,8 @@
   clue: Verb
   pronunciation: '[ˈanʔɛɐ̯ˌkɛnʊŋ fɛɐ̯ˈdiːnən]'
 - indication: vertrauen
-  result: to entrust someone with something (Whom do you entrust with your apartment keys?)
+  result: to entrust someone with something (Whom do you entrust with your apartment
+    keys?)
   clue: Verb
   pronunciation: '[ˈanfɛɐ̯ˌtʁaʊ̯ən]'
 - indication: die Arbeitsgruppe, -n
@@ -320,7 +323,8 @@
 - indication: lassen
   result: to get involved in a discussion / to engage in a debate
   clue: Verb
-  pronunciation: '[zɪç aʊ̯f ˈaɪ̯nə dɪskʊˈsjoːn ˈaɪ̯nˌlasn̩ (lɛst ˈaɪ̯n, liːs ˈaɪ̯n, hat ˈaɪ̯nɡəˌlasn̩)]'
+  pronunciation: '[zɪç aʊ̯f ˈaɪ̯nə dɪskʊˈsjoːn ˈaɪ̯nˌlasn̩ (lɛst ˈaɪ̯n, liːs ˈaɪ̯n,
+    hat ˈaɪ̯nɡəˌlasn̩)]'
 - indication: der Abstrich, -e
   result: swab / smear (medical); compromise / cutback
   clue: Noun
@@ -365,7 +369,7 @@
   result: to influence / affect / act on
   clue: Phrase
   pronunciation: '[ˈaɪ̯nˌvɪʁkn̩ aʊ̯f]'
-- indication: scheitern an
+- indication: to fail due to / to founder on
   result: to fail due to / to founder on
   clue: Phrase
   pronunciation: '[ˈʃaɪ̯tɐn an]'
@@ -405,7 +409,7 @@
   result: to bring in / to introduce (e.g. a proposal)
   clue: Phrase
   pronunciation: '[ˈaɪ̯nˌbʁɪŋən]'
-- indication: schwelen **
+- indication: to smolder / fester (conflicts smolder/fester)
   result: to smolder / fester (conflicts smolder/fester)
   clue: Phrase
   pronunciation: '[ˈʃveːlən]'
@@ -628,7 +632,8 @@
 - indication: gefallen lassen
   result: to put up with something / to tolerate something
   clue: Phrase
-  pronunciation: '[zɪç ˈɛtvas ɡəˈfaln̩ ˈlasn̩ (lɛst ɡəˈfaln̩, liːs ɡəˈfaln̩, hat ɡəˈfaln̩ ˈlasn̩)]'
+  pronunciation: '[zɪç ˈɛtvas ɡəˈfaln̩ ˈlasn̩ (lɛst ɡəˈfaln̩, liːs ɡəˈfaln̩, hat ɡəˈfaln̩
+    ˈlasn̩)]'
 - indication: jdn./ etw. überwachen
   result: to monitor / supervise / watch someone or something
   clue: Phrase
@@ -796,31 +801,42 @@
   result: This decision was made surreptitiously (secretly) behind closed doors.
   clue: Phrase
 - indication: Das geplante Bauprojekt wurde von den Behörden kurzerhand abgeschmettert.
-  result: The planned construction project was summarily rejected (turned down flat) by the authorities.
+  result: The planned construction project was summarily rejected (turned down flat)
+    by the authorities.
   clue: Noun
 - indication: Mit seiner provokanten Äußerung hat er ein Wespennest gestochen.
   result: With his provocative remark, he stirred up a hornet's nest.
   clue: Phrase
-- indication: Trotz intensiver Verhandlungen konnte kein greifbares Ergebnis erzielt werden.
+- indication: Trotz intensiver Verhandlungen konnte kein greifbares Ergebnis erzielt
+    werden.
   result: Despite intensive negotiations, no tangible result could be achieved.
   clue: Phrase
 - indication: Die neuen Sparmaßnahmen stießen bei der Belegschaft auf heftige Gegenliebe.
-  result: 'The new austerity measures met with fierce resistance (sarcastically: ''passionate approval'') from the workforce.'
+  result: 'The new austerity measures met with fierce resistance (sarcastically: ''passionate
+    approval'') from the workforce.'
   clue: Noun
 - indication: Es gilt, die bürokratischen Hürden auf ein absolutes Mindestmaß zu réduire.
   result: It is imperative to reduce the bureaucratic hurdles to an absolute minimum.
   clue: Phrase
-- indication: Seine Argumentation krankt daran, dass er von völlig falschen Voraussetzungen ausgeht.
-  result: His argument suffers from the fact that he is based on completely false assumptions.
+- indication: Seine Argumentation krankt daran, dass er von völlig falschen Voraussetzungen
+    ausgeht.
+  result: His argument suffers from the fact that he is based on completely false
+    assumptions.
   clue: Phrase
-- indication: Wir dürfen dieses heikle Thema nicht länger totschweigen, sondern müssen es offen ansprechen.
-  result: We can no longer give this sensitive topic the silent treatment (ignore it completely); we must address it openly.
+- indication: Wir dürfen dieses heikle Thema nicht länger totschweigen, sondern müssen
+    es offen ansprechen.
+  result: We can no longer give this sensitive topic the silent treatment (ignore
+    it completely); we must address it openly.
   clue: Phrase
-- indication: Es bricht mir kein Zacken aus der Krone, wenn ich mich für diesen Fehler aufrichtig entschuldige.
-  result: It won't hurt my pride (it's not beneath my dignity) to sincerely apologize for this mistake.
+- indication: Es bricht mir kein Zacken aus der Krone, wenn ich mich für diesen Fehler
+    aufrichtig entschuldige.
+  result: It won't hurt my pride (it's not beneath my dignity) to sincerely apologize
+    for this mistake.
   clue: Phrase
-- indication: Wählen Sie aus jedem Modul drei Wörter oder Ausdrücke und formulieren Sie je einen Satz zum Thema *Zusammenleben*.
-  result: Choose three words or expressions from each module and write one sentence for each on the topic of living together.
+- indication: Wählen Sie aus jedem Modul drei Wörter oder Ausdrücke und formulieren
+    Sie je einen Satz zum Thema *Zusammenleben*.
+  result: Choose three words or expressions from each module and write one sentence
+    for each on the topic of living together.
   clue: Noun
-  pronunciation: '[ˈvɛːlən ziː aʊ̯s ˈjeːdəm moˈduːl dʁaɪ̯ ˈvœʁtɐ ˈoːdɐ ˈaʊ̯sˌdʁʏkə ʊnt fɔʁmuˈliːʁən ziː jeː ˈaɪ̯nən ˈzat͡s
-    t͡sum ˈteːmaː t͡suˈzamənˌleːbən]'
+  pronunciation: '[ˈvɛːlən ziː aʊ̯s ˈjeːdəm moˈduːl dʁaɪ̯ ˈvœʁtɐ ˈoːdɐ ˈaʊ̯sˌdʁʏkə
+    ʊnt fɔʁmuˈliːʁən ziː jeː ˈaɪ̯nən ˈzat͡s t͡sum ˈteːmaː t͡suˈzamənˌleːbən]'

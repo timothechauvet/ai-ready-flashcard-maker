@@ -1,26 +1,26 @@
-- indication: sunglasses
-  result: der Schnorchel
+- indication: der Schnorchel
+  result: the snorkel
   clue: Adjective
-- indication: sunhat
-  result: die Sonnenbrille
+- indication: die Sonnenbrille
+  result: the sunglasses
   clue: Adjective
-- indication: suntan
-  result: das Badegebiet
+- indication: das Badegebiet
+  result: the bathing area
   clue: Adjective
-- indication: surfer
-  result: die Anglerin
+- indication: die Anglerin
+  result: the angler
   clue: Adjective
 - indication: swimming
   result: vocabulary
   clue: Adjective
-- indication: tennis ball
-  result: das Tennis
+- indication: das Tennis
+  result: the tennis
   clue: Adjective
-- indication: tennis court
-  result: der Tennisball
+- indication: der Tennisball
+  result: the tennis ball
   clue: Adjective
-- indication: tennis player
-  result: der Tennisplatz
+- indication: der Tennisplatz
+  result: the tennis court
   clue: Adjective
 - indication: the gym
   result: gehen
@@ -28,8 +28,8 @@
 - indication: the seaside
   result: schwimmen
   clue: Adjective
-- indication: theatre
-  result: das Restaurant
+- indication: das Restaurant
+  result: the restaurant
   clue: Adjective
 - indication: to block
   result: dribbeln

@@ -1,53 +1,53 @@
-- indication: pig
-  result: das Pferd
+- indication: das Pferd
+  result: the horse
   clue: Adjective
-- indication: pine
-  result: die Eiche
+- indication: die Eiche
+  result: the oak
   clue: Adjective
-- indication: plane
-  result: die Kiefer
+- indication: die Kiefer
+  result: the jaws
   clue: Adjective
-- indication: plants and trees
-  result: das Veilchen
+- indication: das Veilchen
+  result: the violet
   clue: Adjective
 - indication: Polar-
   result: polar
   clue: Adjective
-- indication: pond
-  result: der Berg
+- indication: der Berg
+  result: the mountain
   clue: Adjective
-- indication: pony
-  result: der Papagei
+- indication: der Papagei
+  result: the parrot
   clue: Adjective
-- indication: poplar
-  result: die Platane
+- indication: die Platane
+  result: the plane tree
   clue: Adjective
-- indication: puppy
-  result: die Herde
+- indication: die Herde
+  result: the herd
   clue: Adjective
-- indication: rabbit
-  result: das Pony
+- indication: das Pony
+  result: the pony
   clue: Adjective
-- indication: rat
-  result: das Kaninchen
+- indication: das Kaninchen
+  result: the rabbit
   clue: Adjective
-- indication: river
-  result: der Teich
+- indication: der Teich
+  result: the pond
   clue: Adjective
-- indication: rockpool
-  result: die Halbinsel
+- indication: die Halbinsel
+  result: the peninsula
   clue: Adjective
-- indication: rocks
-  result: der Fluss
+- indication: der Fluss
+  result: the river
   clue: Adjective
-- indication: rodent
-  result: die Amphibie
+- indication: die Amphibie
+  result: the amphibian
   clue: Adjective
-- indication: rose
-  result: die Mohnblume
+- indication: die Mohnblume
+  result: the poppy
   clue: Adjective
-- indication: salamander
-  result: der Wassermolch
+- indication: der Wassermolch
+  result: the newt
   clue: Adjective
 - indication: sämtlich
   result: all / complete

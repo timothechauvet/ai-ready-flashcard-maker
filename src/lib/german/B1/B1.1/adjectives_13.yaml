@@ -1,21 +1,21 @@
-- indication: wholemeal bread
-  result: das Brot
+- indication: das Brot
+  result: the bread
   clue: Adjective
 - indication: wiederverwendbare
   result: die
   clue: Adjective
-- indication: WiFi
-  result: das Internet
+- indication: das Internet
+  result: the internet
   clue: Adjective
 - indication: wild
   result: wild
   clue: Adjective
-- indication: wine waiter
-  result: das Trinkgeld
+- indication: das Trinkgeld
+  result: the tip
   clue: Adjective
-- indication: wireless router
-  result: das Tablet
+- indication: das Tablet
+  result: the tablet
   clue: Adjective
-- indication: yoghurt
-  result: die Sojamilch
+- indication: die Sojamilch
+  result: the soy milk
   clue: Adjective

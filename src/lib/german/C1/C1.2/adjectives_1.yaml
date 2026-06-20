@@ -1,5 +1,5 @@
-- indication: A&E
-  result: das Krankenhaus
+- indication: das Krankenhaus
+  result: the hospital
   clue: Adjective
 - indication: abartig
   result: disgusting / perverse / abnormal / gross
@@ -7,11 +7,11 @@
 - indication: acupuncture
   result: therapies
   clue: Adjective
-- indication: acupuncturist
-  result: die Chiropraktorin
+- indication: die Chiropraktorin
+  result: the chiropractor
   clue: Adjective
-- indication: ambulance
-  result: die Notaufnahme
+- indication: die Notaufnahme
+  result: the emergency room
   clue: Adjective
 - indication: angebracht
   result: appropriate / fitting / proper
@@ -49,12 +49,12 @@
 - indication: böse
   result: angry / evil / mean / badly
   clue: Adjective
-- indication: Caesarean section
-  result: die Geburt
+- indication: die Geburt
+  result: the birth
   clue: Adjective
-- indication: chinesische Medizin
-  result: die traditionelle
+- indication: die traditionelle
+  result: the traditional one
   clue: Adjective
-- indication: chiropractic
-  result: die Akupunktur
+- indication: die Akupunktur
+  result: the acupuncture
   clue: Adjective

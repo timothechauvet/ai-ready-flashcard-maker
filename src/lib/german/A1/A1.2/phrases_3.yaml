@@ -1,5 +1,5 @@
 - indication: Viertelstunde.
-  result: ... in einer
+  result: '... in einer'
   clue: Phrase
 - indication: Was für furchtbares
   result: Wetter!
@@ -13,8 +13,8 @@
 - indication: What a lovely day!
   result: Wird es regnen?
   clue: Phrase
-- indication: What time is it?
-  result: die Mitternacht
+- indication: die Mitternacht
+  result: the midnight
   clue: Phrase
 - indication: Wie ist das Wetter?
   result: How’s the weather?

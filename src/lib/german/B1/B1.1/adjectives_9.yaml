@@ -4,57 +4,57 @@
 - indication: rice
   result: mpl
   clue: Adjective
-- indication: rind
-  result: der Obstkern
+- indication: der Obstkern
+  result: the fruit core
   clue: Adjective
 - indication: roh
   result: raw
   clue: Adjective
-- indication: rye bread
-  result: der Orangensaft
+- indication: der Orangensaft
+  result: the orange juice
   clue: Adjective
 - indication: saisonbedingt
   result: seasonal
   clue: Adjective
-- indication: salt and pepper
-  result: die Serviette
+- indication: die Serviette
+  result: the napkin
   clue: Adjective
-- indication: scales
-  result: der Korb
+- indication: der Korb
+  result: the basket
   clue: Adjective
-- indication: scallop
-  result: die Garnele
+- indication: die Garnele
+  result: the shrimp
   clue: Adjective
 - indication: Schale
   result: shell
   clue: Adjective
-- indication: sea urchin
-  result: die Jakobsmuschel
+- indication: die Jakobsmuschel
+  result: the scallop
   clue: Adjective
-- indication: seed
-  result: die Schale
+- indication: die Schale
+  result: the shell
   clue: Adjective
-- indication: segment
-  result: der Kern
+- indication: der Kern
+  result: the core
   clue: Adjective
 - indication: selbstgemacht
   result: home-made
   clue: Adjective
-- indication: semi-skimmed milk
-  result: die Magermilch
+- indication: die Magermilch
+  result: the skimmed milk
   clue: Adjective
 - indication: set menu
   result: vocabulary
   clue: Adjective
-- indication: shop assistant
-  result: das Einkaufszentrum
+- indication: das Einkaufszentrum
+  result: the shopping center
   clue: Adjective
-- indication: shopping centre
-  result: der Supermarkt
+- indication: der Supermarkt
+  result: the supermarket
   clue: Adjective
-- indication: shrimp
-  result: der Seeigel
+- indication: der Seeigel
+  result: the sea urchin
   clue: Adjective
-- indication: SIM card
-  result: der Computer
+- indication: der Computer
+  result: the computer
   clue: Adjective

@@ -4,17 +4,17 @@
 - indication: to lose
   result: gewinnen
   clue: Adjective
-- indication: to play basketball
-  result: der Freiwurf
+- indication: der Freiwurf
+  result: the free throw
   clue: Adjective
-- indication: to play football
-  result: der Strafraum
+- indication: der Strafraum
+  result: the penalty area
   clue: Adjective
 - indication: to score
   result: teilnehmen
   clue: Adjective
-- indication: to socialize
-  result: die Kasse
+- indication: die Kasse
+  result: the cash register
   clue: Adjective
 - indication: to tackle
   result: kicken
@@ -25,20 +25,20 @@
 - indication: to win
   result: Punkte erzielen
   clue: Adjective
-- indication: toilet/shower block
-  result: der Stromanschluss
+- indication: der Stromanschluss
+  result: the power connection
   clue: Adjective
-- indication: top seed
-  result: das Doppel
+- indication: das Doppel
+  result: the double
   clue: Adjective
-- indication: torch
-  result: das Zelt
+- indication: das Zelt
+  result: the tent
   clue: Adjective
 - indication: Torwarthandschuhe
   result: die
   clue: Adjective
-- indication: tour guide
-  result: der Sightseeing-Bus
+- indication: der Sightseeing-Bus
+  result: the sightseeing bus
   clue: Adjective
 - indication: tourist
   result: vocabulary
@@ -49,11 +49,11 @@
 - indication: tournament
   result: vocabulary
   clue: Adjective
-- indication: travelling
-  result: der Sport
+- indication: der Sport
+  result: the sport
   clue: Adjective
-- indication: trophy
-  result: die Mannschaft
+- indication: die Mannschaft
+  result: the team
   clue: Adjective
 - indication: twin room
   result: mpl

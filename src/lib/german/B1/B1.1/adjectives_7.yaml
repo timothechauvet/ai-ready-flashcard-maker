@@ -1,60 +1,60 @@
-- indication: mouse mat
-  result: die Maus
+- indication: die Maus
+  result: the mouse
   clue: Adjective
-- indication: muesli
-  result: das Roggenbrot
+- indication: das Roggenbrot
+  result: the rye bread
   clue: Adjective
-- indication: multipack
-  result: das Einmachglas
+- indication: das Einmachglas
+  result: the preserving jar
   clue: Adjective
-- indication: mussel
-  result: der Hummer
+- indication: der Hummer
+  result: the lobster
   clue: Adjective
-- indication: napkin
-  result: die Speisekarte
+- indication: die Speisekarte
+  result: the menu
   clue: Adjective
-- indication: Netzwerke ntpl
-  result: die sozialen
+- indication: die sozialen
+  result: the social ones
   clue: Adjective
 - indication: nuts
   result: mpl
   clue: Adjective
-- indication: octopus
-  result: die Miesmuschel
+- indication: die Miesmuschel
+  result: the mussel
   clue: Adjective
-- indication: offal
-  result: das Schweinefleisch
+- indication: das Schweinefleisch
+  result: the pork
   clue: Adjective
-- indication: omelette
-  result: der Kebab
+- indication: der Kebab
+  result: the kebab
   clue: Adjective
-- indication: orange juice
-  result: die Marmelade
+- indication: die Marmelade
+  result: the jam
   clue: Adjective
 - indication: Orangenmarmelade
   result: die
   clue: Adjective
-- indication: organic
-  result: die Pastete
+- indication: die Pastete
+  result: the pie
   clue: Adjective
 - indication: örtlich
   result: local
   clue: Adjective
-- indication: oyster
-  result: der Kraken
+- indication: der Kraken
+  result: the octopus
   clue: Adjective
-- indication: packet
-  result: der Multipack
+- indication: der Multipack
+  result: the multipack
   clue: Adjective
-- indication: passion fruit
-  result: die Orange
+- indication: die Orange
+  result: the orange
   clue: Adjective
-- indication: pea soup
-  result: die Fritattensuppe
+- indication: die Fritattensuppe
+  result: the fry soup
   clue: Adjective
-- indication: peach
-  result: die Passionsfrucht
+- indication: die Passionsfrucht
+  result: the passion fruit
   clue: Adjective
-- indication: pear
-  result: der Pfirsich
+- indication: der Pfirsich
+  result: the peach
   clue: Adjective

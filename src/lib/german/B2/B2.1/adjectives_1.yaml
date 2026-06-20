@@ -1,44 +1,44 @@
-- indication: ace
-  result: das Netz
+- indication: das Netz
+  result: the network
   clue: Adjective
-- indication: activity
-  result: die Freizeit
+- indication: die Freizeit
+  result: the free time
   clue: Adjective
-- indication: album
-  result: das Lied
+- indication: das Lied
+  result: the song
   clue: Adjective
-- indication: assistent / die
-  result: der Schiedrichter-
+- indication: der Schiedrichter-
+  result: the referee
   clue: Adjective
 - indication: assistentin
   result: Schiedrichter-
   clue: Adjective
-- indication: backhand
-  result: der Aufschlag
+- indication: der Aufschlag
+  result: the serve
   clue: Adjective
 - indication: badminton
   result: badminton
   clue: Adjective
-- indication: badminton racket
-  result: das Badminton
+- indication: das Badminton
+  result: the badminton
   clue: Adjective
 - indication: Badmintonschläger
   result: der
   clue: Adjective
-- indication: bar
-  result: das Ballett
+- indication: das Ballett
+  result: the ballet
   clue: Adjective
-- indication: basketball
-  result: der Korb
+- indication: der Korb
+  result: the basket
   clue: Adjective
-- indication: basketball court
-  result: der Basketball
+- indication: der Basketball
+  result: the basketball
   clue: Adjective
-- indication: basketball game
-  result: das Basketballfeld
+- indication: das Basketballfeld
+  result: the basketball court
   clue: Adjective
-- indication: basketball player
-  result: das Basketball
+- indication: das Basketball
+  result: the basketball
   clue: Adjective
 - indication: basketball   |  basketball
   result: mpl
@@ -46,8 +46,8 @@
 - indication: Basketballspielerin
   result: die
   clue: Adjective
-- indication: beach towel
-  result: die Sonnenliege
+- indication: die Sonnenliege
+  result: the sun lounger
   clue: Adjective
 - indication: bed and breakfast
   result: vocabulary
@@ -55,6 +55,6 @@
 - indication: blue line
   result: vocabulary
   clue: Adjective
-- indication: box office
-  result: die Festspiele
+- indication: die Festspiele
+  result: the festival
   clue: Adjective

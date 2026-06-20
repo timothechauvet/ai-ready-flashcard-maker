@@ -1,26 +1,26 @@
-- indication: peas
-  result: die Zwiebel
+- indication: die Zwiebel
+  result: the onion
   clue: Adjective
-- indication: peel
-  result: das Blatt
+- indication: das Blatt
+  result: the leaf
   clue: Adjective
-- indication: phone call
-  result: das Festnetz
+- indication: das Festnetz
+  result: the landline
   clue: Adjective
-- indication: phone signal
-  result: die SMS
+- indication: die SMS
+  result: the sms
   clue: Adjective
-- indication: pip
-  result: die Schale
+- indication: die Schale
+  result: the shell
   clue: Adjective
-- indication: pizza
-  result: das Omelett
+- indication: das Omelett
+  result: the omelette
   clue: Adjective
-- indication: pork
-  result: das Putenfleisch
+- indication: das Putenfleisch
+  result: the turkey meat
   clue: Adjective
-- indication: pork knuckle with
-  result: die Erbsensuppe
+- indication: die Erbsensuppe
+  result: the pea soup
   clue: Adjective
 - indication: post
   result: vocabulary
@@ -28,33 +28,33 @@
 - indication: pot roast
   result: Sauerkraut
   clue: Adjective
-- indication: potato
-  result: die Erbsen
+- indication: die Erbsen
+  result: the peas
   clue: Adjective
-- indication: prawn
-  result: die Auster
+- indication: die Auster
+  result: the oyster
   clue: Adjective
 - indication: pretzel
   result: mpl
   clue: Adjective
-- indication: quark
-  result: das Marmeladenbrot
+- indication: das Marmeladenbrot
+  result: the jam bread
   clue: Adjective
-- indication: ravioli
-  result: der Sauerbraten
+- indication: der Sauerbraten
+  result: the sauerbraten
   clue: Adjective
-- indication: raw
-  result: der Kern
+- indication: der Kern
+  result: the core
   clue: Adjective
-- indication: red fruit compote
-  result: das Eis
+- indication: das Eis
+  result: the ice cream
   clue: Adjective
-- indication: red pepper
-  result: die Kartoffel
+- indication: die Kartoffel
+  result: the potato
   clue: Adjective
-- indication: red/white meat
-  result: das Fleisch
+- indication: das Fleisch
+  result: the meat
   clue: Adjective
-- indication: refund
-  result: der Umtausch
+- indication: der Umtausch
+  result: the exchange
   clue: Adjective

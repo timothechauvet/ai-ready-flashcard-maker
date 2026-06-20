@@ -1,8 +1,8 @@
-- indication: '72'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '73'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
 - indication: '74'
   result: hotel   |  im hotel
@@ -10,8 +10,8 @@
 - indication: '75'
   result: camping   |  campen
   clue: Phrase
-- indication: '83'
-  result: the basics   |  das wesentliche wellbeing   |  fitness
+- indication: the basics   |  das wesentliche wellbeing   |  fitness
+  result: the basics |  the essential wellbeing |  fitness
   clue: Phrase
 - indication: basket
   result: einen Spieler decken
@@ -19,42 +19,42 @@
 - indication: bathing zone
   result: „Baden verboten.“
   clue: Phrase
-- indication: boards
-  result: die blaue Linie
+- indication: die blaue Linie
+  result: the blue line
   clue: Phrase
-- indication: exercise class
-  result: der Personal Trainer
+- indication: der Personal Trainer
+  result: the personal trainer
   clue: Phrase
 - indication: Filme sehen
   result: fernsehen /
   clue: Phrase
-- indication: flippers
-  result: die Flip-Flops mpl
+- indication: die Flip-Flops mpl
+  result: the flip flops mpl
   clue: Phrase
-- indication: free throw
-  result: der Slam Dunk
+- indication: der Slam Dunk
+  result: the slam dunk
   clue: Phrase
-- indication: game, set and match
-  result: der Ballwechsel
+- indication: der Ballwechsel
+  result: the ball change
   clue: Phrase
-- indication: Karte
-  result: die gelbe / rote
+- indication: die gelbe / rote
+  result: the yellow/red one
   clue: Phrase
 - indication: Musik hören
   result: listening to music
   clue: Phrase
-- indication: parasol
-  result: die Wellen fpl
+- indication: die Wellen fpl
+  result: the waves fpl
   clue: Phrase
 - indication: pro Person pro
   result: per person per night
   clue: Phrase
-- indication: promenade
-  result: die Flossen fpl
+- indication: die Flossen fpl
+  result: the fins fpl
   clue: Phrase
 - indication: Rettungsschwimmerin
   result: schwimmer / die
   clue: Phrase
-- indication: seaweed
-  result: die Muscheln fpl
+- indication: die Muscheln fpl
+  result: the mussels fpl
   clue: Phrase

@@ -1,42 +1,42 @@
-- indication: tutorial
-  result: der Vortrag
+- indication: der Vortrag
+  result: the lecture
   clue: Adjective
 - indication: Übergrößen-
   result: plus-size
   clue: Adjective
-- indication: undergraduate
-  result: der Abschluss
+- indication: der Abschluss
+  result: the conclusion
   clue: Adjective
-- indication: university
-  result: die Hochschule
+- indication: die Hochschule
+  result: the university
   clue: Adjective
-- indication: upgrade
-  result: der Anhang
+- indication: der Anhang
+  result: the appendix
   clue: Adjective
-- indication: USB stick
-  result: das Telefon
+- indication: das Telefon
+  result: the phone
   clue: Adjective
-- indication: username
-  result: das Upgrade
+- indication: das Upgrade
+  result: the upgrade
   clue: Adjective
-- indication: vest
-  result: der Schneeanzug
+- indication: der Schneeanzug
+  result: the snowsuit
   clue: Adjective
-- indication: waistcoat
-  result: das T-Shirt
+- indication: das T-Shirt
+  result: the t-shirt
   clue: Adjective
-- indication: waterproof jacket
-  result: die Weste
+- indication: die Weste
+  result: the vest
   clue: Adjective
-- indication: wohnheime ntpl
-  result: die Studenten-
+- indication: die Studenten-
+  result: the student
   clue: Adjective
-- indication: womenswear
-  result: die Herrenbekleidung
+- indication: die Herrenbekleidung
+  result: the men's clothing
   clue: Adjective
 - indication: wool
   result: schick
   clue: Adjective
-- indication: wrench
-  result: die Tapete
+- indication: die Tapete
+  result: the wallpaper
   clue: Adjective

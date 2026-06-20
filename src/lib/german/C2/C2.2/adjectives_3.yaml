@@ -1,38 +1,38 @@
-- indication: public holiday
-  result: der Hochzeitstag
+- indication: der Hochzeitstag
+  result: the wedding day
   clue: Adjective
-- indication: Ramadan
-  result: der Maifeiertag
+- indication: der Maifeiertag
+  result: may day
   clue: Adjective
-- indication: religious holiday
-  result: der Feiertag
+- indication: der Feiertag
+  result: the holiday
   clue: Adjective
-- indication: relocation
-  result: die Scheidung
+- indication: die Scheidung
+  result: the divorce
   clue: Adjective
-- indication: retirement
-  result: der Umzug
+- indication: der Umzug
+  result: the move
   clue: Adjective
-- indication: Rose Monday
-  result: der Ramadan
+- indication: der Ramadan
+  result: the ramadan
   clue: Adjective
-- indication: Saint Nicholas and
-  result: das Silvester
+- indication: das Silvester
+  result: the new year's eve
   clue: Adjective
 - indication: Sankt Nikolaus und
   result: Knecht Ruprecht
   clue: Adjective
-- indication: Shrove Tuesday
-  result: die Fastenzeit
+- indication: die Fastenzeit
+  result: lent
   clue: Adjective
-- indication: streamers
-  result: die Party
+- indication: die Party
+  result: the party
   clue: Adjective
-- indication: surprise party
-  result: die Feier
+- indication: die Feier
+  result: the party
   clue: Adjective
-- indication: Thanksgiving
-  result: der Rosenmontag
+- indication: der Rosenmontag
+  result: rose monday
   clue: Adjective
 - indication: to celebrate
   result: Nachrichten
@@ -40,14 +40,14 @@
 - indication: Überraschungsparty
   result: die
   clue: Adjective
-- indication: Valentine’s Day
-  result: das Erntedankfest
+- indication: das Erntedankfest
+  result: the thanksgiving day
   clue: Adjective
-- indication: wedding
-  result: der Geburtstag
+- indication: der Geburtstag
+  result: the birthday
   clue: Adjective
-- indication: wedding anniversary
-  result: die Hochzeit
+- indication: die Hochzeit
+  result: the wedding
   clue: Adjective
 - indication: Weihnachtsbaum
   result: der
@@ -55,6 +55,6 @@
 - indication: Weihnachtsmann /
   result: der
   clue: Adjective
-- indication: Weihnachtstag
-  result: der erste
+- indication: der erste
+  result: the first
   clue: Adjective

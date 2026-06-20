@@ -1,41 +1,41 @@
-- indication: breaststroke
-  result: das Schwimmen
+- indication: das Schwimmen
+  result: the swimming
   clue: Adjective
 - indication: campsite
   result: vocabulary
   clue: Adjective
-- indication: carnival
-  result: die Bar
+- indication: die Bar
+  result: the bar
   clue: Adjective
-- indication: casino
-  result: der Karneval
+- indication: der Karneval
+  result: the carnival
   clue: Adjective
-- indication: castle
-  result: die Kamera
+- indication: die Kamera
+  result: the camera
   clue: Adjective
-- indication: CD
-  result: der DJ
+- indication: der DJ
+  result: the dj
   clue: Adjective
-- indication: champion
-  result: die Meisterschaft
+- indication: die Meisterschaft
+  result: the championship
   clue: Adjective
-- indication: check
-  result: die Bande
+- indication: die Bande
+  result: the gang
   clue: Adjective
-- indication: cinema
-  result: das Kasino
+- indication: das Kasino
+  result: the casino
   clue: Adjective
-- indication: comedy show
-  result: das Kino
+- indication: das Kino
+  result: the cinema
   clue: Adjective
-- indication: competition
-  result: das Turnier
+- indication: das Turnier
+  result: the tournament
   clue: Adjective
 - indication: competitor
   result: kameradin
   clue: Adjective
-- indication: cool box
-  result: der Wohnwagen
+- indication: der Wohnwagen
+  result: the caravan
   clue: Adjective
 - indication: corridor
   result: bestellen
@@ -49,8 +49,8 @@
 - indication: den Break holen
   result: serve
   clue: Adjective
-- indication: diver
-  result: die Schwimmerin
+- indication: die Schwimmerin
+  result: the swimmer
   clue: Adjective
 - indication: diving board
   result: mpl

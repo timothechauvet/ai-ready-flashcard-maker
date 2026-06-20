@@ -13,8 +13,8 @@
 - indication: Wo wohnen Sie?
   result: Where do you live?
   clue: Phrase
-- indication: Yes.
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
 - indication: Yes, please.
   result: Bitte.

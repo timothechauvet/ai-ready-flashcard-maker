@@ -1,8 +1,8 @@
 - indication: colour-blind
   result: blind
   clue: Adjective
-- indication: conjunctivitis
-  result: die Linse
+- indication: die Linse
+  result: the lens
   clue: Adjective
 - indication: contact lenses
   result: Kontaktlinsen tragen
@@ -10,14 +10,14 @@
 - indication: crutches
   result: entlassen werden
   clue: Adjective
-- indication: CT/MRI scan
-  result: die Operation
+- indication: die Operation
+  result: the operation
   clue: Adjective
-- indication: dentist’s drill
-  result: der Zahnarztstuhl
+- indication: der Zahnarztstuhl
+  result: the dentist chair
   clue: Adjective
-- indication: dentures
-  result: der Bohrer
+- indication: der Bohrer
+  result: the drill
   clue: Adjective
 - indication: due date
   result: tot geboren
@@ -44,17 +44,17 @@
 - indication: entzündung
   result: die Bindehaut­
   clue: Adjective
-- indication: epidural
-  result: die Nabelschnur
+- indication: die Nabelschnur
+  result: the umbilical cord
   clue: Adjective
 - indication: Epiduralanästhesie
   result: die
   clue: Adjective
-- indication: flea collar
-  result: der Elisabeth­Kragen
+- indication: der Elisabeth­Kragen
+  result: the elisabeth collar
   clue: Adjective
-- indication: foetus
-  result: das Neugeborene
+- indication: das Neugeborene
+  result: the newborn
   clue: Adjective
 - indication: gelitten
   result: suffered / endured

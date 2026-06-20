@@ -7,8 +7,8 @@
 - indication: glutenfrei
   result: gluten-free
   clue: Adjective
-- indication: goose
-  result: die Ente
+- indication: die Ente
+  result: the duck
   clue: Adjective
 - indication: goulash soup
   result: Sauerkraut
@@ -16,44 +16,44 @@
 - indication: greengrocer’s
   result: vocabulary
   clue: Adjective
-- indication: groceries
-  result: der Gutschein
+- indication: der Gutschein
+  result: the voucher
   clue: Adjective
-- indication: herbs
-  result: der Couscous
+- indication: der Couscous
+  result: the couscous
   clue: Adjective
-- indication: honey
-  result: das Croissant
+- indication: das Croissant
+  result: the croissant
   clue: Adjective
-- indication: hot chocolate
-  result: der Honig
+- indication: der Honig
+  result: the honey
   clue: Adjective
-- indication: ice cream
-  result: die Obsttorte
+- indication: die Obsttorte
+  result: the fruit cake
   clue: Adjective
-- indication: icing sugar
-  result: der Honig
+- indication: der Honig
+  result: the honey
   clue: Adjective
-- indication: icon
-  result: die Website
+- indication: die Website
+  result: the website
   clue: Adjective
-- indication: indoor market
-  result: der Flohmarkt
+- indication: der Flohmarkt
+  result: the flea market
   clue: Adjective
-- indication: instant coffee
-  result: der Puderzucker
+- indication: der Puderzucker
+  result: the powdered sugar
   clue: Adjective
-- indication: jar
-  result: der Pappkarton
+- indication: der Pappkarton
+  result: the cardboard box
   clue: Adjective
-- indication: Johannisbeere
-  result: die schwarze
+- indication: die schwarze
+  result: the black one
   clue: Adjective
-- indication: joint
-  result: die Innereien
+- indication: die Innereien
+  result: the innards
   clue: Adjective
-- indication: jug of water
-  result: das Fischmesser
+- indication: das Fischmesser
+  result: the fish knife
   clue: Adjective
 - indication: Käse
   result: croissant

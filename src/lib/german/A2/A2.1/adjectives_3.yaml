@@ -1,41 +1,41 @@
-- indication: coach
-  result: die Bushaltestelle
+- indication: die Bushaltestelle
+  result: the bus stop
   clue: Adjective
-- indication: coaster
-  result: das Set
+- indication: das Set
+  result: the set
   clue: Adjective
-- indication: cockpit
-  result: die Nase
+- indication: die Nase
+  result: the nose
   clue: Adjective
-- indication: coffee table
-  result: der Kamin
+- indication: der Kamin
+  result: the fireplace
   clue: Adjective
-- indication: collision
-  result: die Panne
+- indication: die Panne
+  result: the breakdown
   clue: Adjective
-- indication: cooker hood
-  result: der Gasherd
+- indication: der Gasherd
+  result: the gas stove
   clue: Adjective
-- indication: crockery
-  result: der Untersetzer
+- indication: der Untersetzer
+  result: the coaster
   clue: Adjective
-- indication: cruise control
-  result: die Kupplung
+- indication: die Kupplung
+  result: the clutch
   clue: Adjective
-- indication: cushion
-  result: der Teppich
+- indication: der Teppich
+  result: the carpet
   clue: Adjective
-- indication: cutlery
-  result: das Geschirr
+- indication: das Geschirr
+  result: the dishes
   clue: Adjective
-- indication: cycle lane
-  result: der Kindersitz
+- indication: der Kindersitz
+  result: the child seat
   clue: Adjective
-- indication: cycle path
-  result: der Fahrradweg
+- indication: der Fahrradweg
+  result: the bike path
   clue: Adjective
-- indication: cycling shorts
-  result: die Warnweste
+- indication: die Warnweste
+  result: the warning vest
   clue: Adjective
 - indication: cyclist
   result: vocabulary
@@ -49,12 +49,12 @@
 - indication: der
   result: roof rack
   clue: Adjective
-- indication: detached house
-  result: der Bungalow
+- indication: der Bungalow
+  result: the bungalow
   clue: Adjective
 - indication: dining table
   result: vocabulary
   clue: Adjective
-- indication: directions
-  result: der Taxistand
+- indication: der Taxistand
+  result: the taxi rank
   clue: Adjective

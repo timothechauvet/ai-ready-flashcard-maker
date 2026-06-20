@@ -1,41 +1,41 @@
-- indication: swivel chair
-  result: das Klebeband
+- indication: das Klebeband
+  result: the adhesive tape
   clue: Adjective
-- indication: T-shirt
-  result: die Hose
+- indication: die Hose
+  result: the pants
   clue: Adjective
 - indication: Tabellenkalkulation
   result: die
   clue: Adjective
-- indication: tablet/pill
-  result: die Sonnencreme
+- indication: die Sonnencreme
+  result: the sunscreen
   clue: Adjective
-- indication: talcum powder
-  result: der Zwieback
+- indication: der Zwieback
+  result: the rusks
   clue: Adjective
-- indication: tampon
-  result: die Seife
+- indication: die Seife
+  result: the soap
   clue: Adjective
-- indication: teacher
-  result: die Schulleiterin
+- indication: die Schulleiterin
+  result: the headmistress
   clue: Adjective
-- indication: teething ring
-  result: der Sportwagen
+- indication: der Sportwagen
+  result: the sports car
   clue: Adjective
-- indication: telephone
-  result: der Drehstuhl
+- indication: der Drehstuhl
+  result: the swivel chair
   clue: Adjective
-- indication: three-piece suit
-  result: der Badeanzug
+- indication: der Badeanzug
+  result: the swimsuit
   clue: Adjective
-- indication: tie
-  result: der Dreiteiler
+- indication: der Dreiteiler
+  result: the three-parter
   clue: Adjective
-- indication: tights
-  result: die Krawatte
+- indication: die Krawatte
+  result: the tie
   clue: Adjective
-- indication: to be teething
-  result: die Windeldermatitis
+- indication: die Windeldermatitis
+  result: diaper rash
   clue: Adjective
 - indication: to breast-feed
   result: zahnen
@@ -46,15 +46,15 @@
 - indication: to log on/off
   result: Maschine schreiben
   clue: Adjective
-- indication: to type
-  result: das Passwort
+- indication: das Passwort
+  result: the password
   clue: Adjective
-- indication: tobacco
-  result: die Briefmarke
+- indication: die Briefmarke
+  result: the stamp
   clue: Adjective
-- indication: toothbrush
-  result: der Tampon
+- indication: der Tampon
+  result: the tampon
   clue: Adjective
-- indication: trousers
-  result: die Strumpfhose
+- indication: die Strumpfhose
+  result: the tights
   clue: Adjective

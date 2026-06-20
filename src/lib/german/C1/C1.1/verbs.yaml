@@ -1,5 +1,5 @@
-- indication: abdomen
-  result: der Brustkorb
+- indication: der Brustkorb
+  result: the chest
   clue: Verb
 - indication: einnehmen
   result: Medikamente
@@ -13,8 +13,8 @@
 - indication: mit Zahnseide
   result: to floss
   clue: Verb
-- indication: oxygen
-  result: die Vene
+- indication: die Vene
+  result: the vein
   clue: Verb
 - indication: sich den Arm
   result: to break one’s arm

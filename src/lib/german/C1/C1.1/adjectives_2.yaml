@@ -1,59 +1,59 @@
-- indication: clinic
-  result: der Termin
+- indication: der Termin
+  result: the appointment
   clue: Adjective
-- indication: cold
-  result: das Virus
+- indication: das Virus
+  result: the virus
   clue: Adjective
-- indication: concussion
-  result: der Unfall
+- indication: der Unfall
+  result: the accident
   clue: Adjective
-- indication: constipation
-  result: der Durchfall
+- indication: der Durchfall
+  result: the diarrhea
   clue: Adjective
 - indication: CPR
   result: Seitenlage
   clue: Adjective
-- indication: cut
-  result: die Verbrennung
+- indication: die Verbrennung
+  result: the combustion
   clue: Adjective
-- indication: dental floss
-  result: die Zahnspange
+- indication: die Zahnspange
+  result: the braces
   clue: Adjective
-- indication: dental nurse
-  result: die Zahnseide
+- indication: die Zahnseide
+  result: the dental floss
   clue: Adjective
-- indication: diabetes
-  result: die Verstopfung
+- indication: die Verstopfung
+  result: the constipation
   clue: Adjective
-- indication: diarrhoea
-  result: das Erbrechen
+- indication: das Erbrechen
+  result: the vomiting
   clue: Adjective
-- indication: dizziness
-  result: das Asthma
+- indication: das Asthma
+  result: the asthma
   clue: Adjective
 - indication: doctor
   result: behandeln
   clue: Adjective
-- indication: dressing
-  result: der Verband
+- indication: der Verband
+  result: the association
   clue: Adjective
-- indication: ear
-  result: das Auge
+- indication: das Auge
+  result: the eye
   clue: Adjective
-- indication: ear infection
-  result: die Infektion
+- indication: die Infektion
+  result: the infection
   clue: Adjective
-- indication: earlobe
-  result: das Augenlid
+- indication: das Augenlid
+  result: the eyelid
   clue: Adjective
 - indication: einen Termin
   result: appointment
   clue: Adjective
-- indication: elbow
-  result: die Schulter
+- indication: die Schulter
+  result: the shoulder
   clue: Adjective
-- indication: epilepsy
-  result: der Diabetes
+- indication: der Diabetes
+  result: the diabetes
   clue: Adjective
 - indication: erschütterung
   result: die Gehirn­

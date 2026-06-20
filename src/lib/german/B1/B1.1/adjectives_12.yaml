@@ -4,23 +4,23 @@
 - indication: to work
   result: studieren
   clue: Adjective
-- indication: tomato
-  result: der Spinat
+- indication: der Spinat
+  result: the spinach
   clue: Adjective
-- indication: toothpicks
-  result: die Tischdecke
+- indication: die Tischdecke
+  result: the tablecloth
   clue: Adjective
-- indication: trader
-  result: der Stand
+- indication: der Stand
+  result: the stand
   clue: Adjective
-- indication: trolley
-  result: die Waage
+- indication: die Waage
+  result: the scales
   clue: Adjective
-- indication: turkey
-  result: das Lammfleisch
+- indication: das Lammfleisch
+  result: the lamb
   clue: Adjective
-- indication: UHT milk
-  result: die Margarine
+- indication: die Margarine
+  result: the margarine
   clue: Adjective
 - indication: unpasteurized milk
   result: Milch
@@ -31,30 +31,30 @@
 - indication: vegan
   result: vegetarisch
   clue: Adjective
-- indication: vegetables
-  result: die Wassermelone
+- indication: die Wassermelone
+  result: the watermelon
   clue: Adjective
-- indication: vegetarian
-  result: die Bardame
+- indication: die Bardame
+  result: the barmaid
   clue: Adjective
-- indication: vendor
-  result: das Streetfood
+- indication: das Streetfood
+  result: the street food
   clue: Adjective
 - indication: verfault
   result: rotten
   clue: Adjective
-- indication: voice mail
-  result: das Handy-Signal
+- indication: das Handy-Signal
+  result: the cell phone signal
   clue: Adjective
-- indication: watermelon
-  result: die Erdbeere
+- indication: die Erdbeere
+  result: the strawberry
   clue: Adjective
-- indication: website
-  result: das WLAN
+- indication: das WLAN
+  result: the wifi
   clue: Adjective
 - indication: Weinschaumcreme
   result: die
   clue: Adjective
-- indication: whole milk
-  result: die Rohmilch
+- indication: die Rohmilch
+  result: the raw milk
   clue: Adjective

@@ -1,8 +1,8 @@
-- indication: midnight
-  result: der Mittag
+- indication: der Mittag
+  result: the midday
   clue: Adjective
-- indication: mist
-  result: der Sturm
+- indication: der Sturm
+  result: the storm
   clue: Adjective
 - indication: neunzehn
   result: achtzehn
@@ -13,8 +13,8 @@
 - indication: nice
   result: Es ist…
   clue: Adjective
-- indication: night
-  result: der Abend
+- indication: der Abend
+  result: the evening
   clue: Adjective
 - indication: November
   result: Oktober
@@ -22,14 +22,14 @@
 - indication: October
   result: September
   clue: Adjective
-- indication: office
-  result: das Hotel
+- indication: das Hotel
+  result: the hotel
   clue: Adjective
-- indication: police officer
-  result: die Klempnerin
+- indication: die Klempnerin
+  result: the plumber
   clue: Adjective
-- indication: rain
-  result: die Sonne
+- indication: die Sonne
+  result: the sun
   clue: Adjective
 - indication: Saturday
   result: Freitag
@@ -37,8 +37,8 @@
 - indication: schön
   result: horrible
   clue: Adjective
-- indication: school
-  result: das Restaurant
+- indication: das Restaurant
+  result: the restaurant
   clue: Adjective
 - indication: schwül
   result: mild
@@ -46,8 +46,8 @@
 - indication: September
   result: August
   clue: Adjective
-- indication: shop
-  result: die Schule
+- indication: die Schule
+  result: the school
   clue: Adjective
 - indication: siebzehn
   result: sechzehn
@@ -55,6 +55,6 @@
 - indication: siebzig
   result: sechzig
   clue: Adjective
-- indication: snow
-  result: der Regen
+- indication: der Regen
+  result: the rain
   clue: Adjective

@@ -4,26 +4,26 @@
 - indication: kernlos
   result: seedless
   clue: Adjective
-- indication: ketchup
-  result: die Marmelade
+- indication: die Marmelade
+  result: the jam
   clue: Adjective
-- indication: keyboard
-  result: das Mauspad
+- indication: das Mauspad
+  result: the mouse pad
   clue: Adjective
-- indication: lamb
-  result: die Gans
+- indication: die Gans
+  result: the goose
   clue: Adjective
-- indication: landline
-  result: das Handy
+- indication: das Handy
+  result: the phone
   clue: Adjective
-- indication: leaf
-  result: der Saft
+- indication: der Saft
+  result: the juice
   clue: Adjective
-- indication: loaf
-  result: das Vollkornbrot
+- indication: das Vollkornbrot
+  result: the whole wheat bread
   clue: Adjective
-- indication: lobster
-  result: die Languste
+- indication: die Languste
+  result: the lobster
   clue: Adjective
 - indication: low-calorie
   result: fettarm
@@ -34,11 +34,11 @@
 - indication: marketplace
   result: vocabulary
   clue: Adjective
-- indication: marmalade
-  result: das Ketchup
+- indication: das Ketchup
+  result: the ketchup
   clue: Adjective
-- indication: meatballs
-  result: die Gulaschsuppe
+- indication: die Gulaschsuppe
+  result: the goulash soup
   clue: Adjective
 - indication: Meereswasser-
   result: saltwater
@@ -46,15 +46,15 @@
 - indication: milchfrei
   result: dairy-free
   clue: Adjective
-- indication: milk
-  result: das Ei
+- indication: das Ei
+  result: the egg
   clue: Adjective
-- indication: mineral water
-  result: der Fruchtsaft
+- indication: der Fruchtsaft
+  result: the fruit juice
   clue: Adjective
-- indication: monitor
-  result: der Touchscreen
+- indication: der Touchscreen
+  result: the touchscreen
   clue: Adjective
-- indication: mouse
-  result: das Icon
+- indication: das Icon
+  result: the icon
   clue: Adjective

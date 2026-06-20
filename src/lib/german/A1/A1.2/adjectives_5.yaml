@@ -1,5 +1,5 @@
-- indication: sun
-  result: die Temperatur
+- indication: die Temperatur
+  result: the temperature
   clue: Adjective
 - indication: Sunday
   result: Samstag
@@ -13,11 +13,11 @@
 - indication: the week before
   result: Donnerstag
   clue: Adjective
-- indication: thunder
-  result: der Nebel
+- indication: der Nebel
+  result: the fog
   clue: Adjective
-- indication: thunderstorm
-  result: der Blitz
+- indication: der Blitz
+  result: the lightning
   clue: Adjective
 - indication: Thursday
   result: Mittwoch
@@ -28,8 +28,8 @@
 - indication: verspätet
   result: soon
   clue: Adjective
-- indication: vet
-  result: die Lehrerin
+- indication: die Lehrerin
+  result: the teacher
   clue: Adjective
 - indication: vier
   result: drei
@@ -37,23 +37,23 @@
 - indication: Wednesday
   result: Dienstag
   clue: Adjective
-- indication: week
-  result: das Wochenende
+- indication: das Wochenende
+  result: the weekend
   clue: Adjective
-- indication: weekend
-  result: der Tag
+- indication: der Tag
+  result: the day
   clue: Adjective
-- indication: wind
-  result: das Eis
+- indication: das Eis
+  result: the ice cream
   clue: Adjective
-- indication: winter
-  result: der Herbst
+- indication: der Herbst
+  result: the autumn
   clue: Adjective
-- indication: work   |  arbeit
-  result: der Laden
+- indication: der Laden
+  result: the store
   clue: Adjective
-- indication: year
-  result: der Monat
+- indication: der Monat
+  result: the month
   clue: Adjective
 - indication: yearly
   result: monatlich

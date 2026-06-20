@@ -1,44 +1,44 @@
-- indication: '42'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '43'
-  result: the basics   |  das wesentliche supermarket   |  der supermarkt
+- indication: the basics   |  das wesentliche supermarket   |  der supermarkt
+  result: the basics |  the essential supermarket |  the supermarket
   clue: Phrase
-- indication: '44'
-  result: market   |  der markt
+- indication: market   |  der markt
+  result: market |  the market
   clue: Phrase
-- indication: '48'
-  result: butcher’s   |  die metzgerei
+- indication: butcher’s   |  die metzgerei
+  result: butcher's |  the butcher shop
   clue: Phrase
-- indication: '49'
-  result: butcher’s   |  die metzgerei
+- indication: butcher’s   |  die metzgerei
+  result: butcher's |  the butcher shop
   clue: Phrase
-- indication: '61'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '64'
-  result: fast food   |  das fastfood
+- indication: fast food   |  das fastfood
+  result: fast food |  the fast food
   clue: Phrase
-- indication: '65'
-  result: fast food   |  das fastfood
+- indication: fast food   |  das fastfood
+  result: fast food |  the fast food
   clue: Phrase
-- indication: a takeaway
+- indication: an order to go/
   result: an order to go/
   clue: Phrase
 - indication: beef olives
   result: classic german dishes
   clue: Phrase
-- indication: card reader
-  result: die Banknoten fpl
+- indication: die Banknoten fpl
+  result: the banknotes fpl
   clue: Phrase
-- indication: couscous
-  result: die Kekse mpl
+- indication: die Kekse mpl
+  result: the cookies mpl
   clue: Phrase
-- indication: cucumber salad
-  result: die Pommes ntpl
+- indication: die Pommes ntpl
+  result: the fries ntpl
   clue: Phrase
-- indication: delivery man/woman
-  result: die Lieferkosten pl
+- indication: die Lieferkosten pl
+  result: the delivery costs pl
   clue: Phrase
 - indication: eier und milchprodukte
   result: eggs and dairy products   |
@@ -52,9 +52,9 @@
 - indication: herring
   result: fried and marinated
   clue: Phrase
-- indication: jam
-  result: main meals   |  die hauptmahlzeiten
+- indication: main meals   |  die hauptmahlzeiten
+  result: main meals |  the main meals
   clue: Phrase
-- indication: Kreditkarte
-  result: die Bankkarte /
+- indication: die Bankkarte /
+  result: the bank card /
   clue: Phrase

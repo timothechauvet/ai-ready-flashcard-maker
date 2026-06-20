@@ -1,29 +1,29 @@
-- indication: highchair
-  result: der Schnuller
+- indication: der Schnuller
+  result: the pacifier
   clue: Adjective
-- indication: homework
-  result: das Tutorial
+- indication: das Tutorial
+  result: the tutorial
   clue: Adjective
-- indication: human resources
-  result: die Kollegin
+- indication: die Kollegin
+  result: the colleague
   clue: Adjective
-- indication: hygiene
-  result: die Tablette
+- indication: die Tablette
+  result: the tablet
   clue: Adjective
-- indication: interest
-  result: die Hypothek
+- indication: die Hypothek
+  result: the mortgage
   clue: Adjective
-- indication: jacket
-  result: die Latzhose
+- indication: die Latzhose
+  result: the dungarees
   clue: Adjective
-- indication: jeans
-  result: die Jacke
+- indication: die Jacke
+  result: the jacket
   clue: Adjective
-- indication: jewellery
-  result: der (Regen)schirm
+- indication: der (Regen)schirm
+  result: the (umbrella) umbrella
   clue: Adjective
-- indication: jumper
-  result: die Jogginghose
+- indication: die Jogginghose
+  result: the sweatpants
   clue: Adjective
 - indication: kleine Größe
   result: petite
@@ -43,18 +43,18 @@
 - indication: lässig
   result: smart
   clue: Adjective
-- indication: laundrette
-  result: das Hotel
+- indication: das Hotel
+  result: the hotel
   clue: Adjective
-- indication: leather
-  result: die Baumwolle
+- indication: die Baumwolle
+  result: the cotton
   clue: Adjective
-- indication: lecture hall
-  result: der Campus
+- indication: der Campus
+  result: the campus
   clue: Adjective
-- indication: leggings
-  result: der Pullover
+- indication: der Pullover
+  result: the sweater
   clue: Adjective
-- indication: letter
-  result: der Briefumschlag
+- indication: der Briefumschlag
+  result: the envelope
   clue: Adjective

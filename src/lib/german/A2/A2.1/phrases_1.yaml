@@ -1,5 +1,5 @@
-- indication: '19'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
 - indication: '22'
   result: bus   |  mit dem bus
@@ -7,17 +7,17 @@
 - indication: '23'
   result: bicycle   |  mit dem fahrrad
   clue: Phrase
-- indication: '30'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '31'
-  result: the basics   |  das wesentliche the house   |  das haus
+- indication: the basics   |  das wesentliche the house   |  das haus
+  result: the basics |  the essential the house |  the house
   clue: Phrase
-- indication: '32'
-  result: the entrance   |  der eingang
+- indication: the entrance   |  der eingang
+  result: the entrance |  the entrance
   clue: Phrase
-- indication: '33'
-  result: the lounge   |  das wohnzimmer
+- indication: the lounge   |  das wohnzimmer
+  result: the lounge |  the living room
   clue: Phrase
 - indication: apartment block
   result: types of building
@@ -28,8 +28,8 @@
 - indication: car wash
   result: car trouble   |  probleme mit dem auto
   clue: Phrase
-- indication: concession
-  result: der halbe Fahrpreis
+- indication: der halbe Fahrpreis
+  result: half the fare
   clue: Phrase
 - indication: Dachgepäckträger
   result: car   |  mit dem auto
@@ -37,24 +37,24 @@
 - indication: den Tisch abräumen
   result: the dining room   |  das esszimmer
   clue: Phrase
-- indication: die
-  result: der Verkehrspolizist /
+- indication: der Verkehrspolizist /
+  result: the traffic police officer /
   clue: Phrase
-- indication: half fare
-  result: der volle Fahrpreis
+- indication: der volle Fahrpreis
+  result: the full fare
   clue: Phrase
 - indication: Immobilienhändlerin
   result: händler / die
   clue: Phrase
-- indication: route
-  result: die Anweisungen fpl
+- indication: die Anweisungen fpl
+  result: the instructions fpl
   clue: Phrase
-- indication: suite
-  result: die Dielen fpl
+- indication: die Dielen fpl
+  result: the floorboards fpl
   clue: Phrase
 - indication: to brake
   result: den Motor anlassen
   clue: Phrase
-- indication: to break down
-  result: der platte Reifen
+- indication: der platte Reifen
+  result: the flat tire
   clue: Phrase

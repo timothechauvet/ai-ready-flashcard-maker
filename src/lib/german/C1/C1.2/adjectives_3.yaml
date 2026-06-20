@@ -4,27 +4,27 @@
 - indication: gespuckt
   result: spat / spit
   clue: Adjective
-- indication: glasses case
-  result: die Brille
+- indication: die Brille
+  result: the glasses
   clue: Adjective
-- indication: gnostiker /
-  result: der Ultraschalldia­
+- indication: der Ultraschalldia­
+  result: the ultrasound slide
   clue: Adjective
-- indication: gnostikerin
-  result: die Ultraschalldia­
+- indication: die Ultraschalldia­
+  result: the ultrasound slide
   clue: Adjective
-- indication: gums
-  result: der Zahnersatz
+- indication: der Zahnersatz
+  result: the dentures
   clue: Adjective
-- indication: hospital bed
-  result: der Tropf
+- indication: der Tropf
+  result: the drip
   clue: Adjective
 - indication: humoristisch
   result: humorous
   clue: Adjective
   pronunciation: '[humoˈʁɪstɪʃ]'
-- indication: hypnotherapy
-  result: die Chiropraktik
+- indication: die Chiropraktik
+  result: chiropractic
   clue: Adjective
 - indication: idealerweise
   result: ideally
@@ -43,21 +43,21 @@
 - indication: long-sighted
   result: kurzsichtig
   clue: Adjective
-- indication: massage
-  result: die Hypnotherapie
+- indication: die Hypnotherapie
+  result: the hypnotherapy
   clue: Adjective
-- indication: meditation
-  result: die Massage
+- indication: die Massage
+  result: the massage
   clue: Adjective
 - indication: mindfulness
   result: Reiki
   clue: Adjective
-- indication: miscarriage
-  result: der Kaiserschnitt
+- indication: der Kaiserschnitt
+  result: the cesarean section
   clue: Adjective
-- indication: morning sickness
-  result: der Geburtstermin
+- indication: der Geburtstermin
+  result: the date of birth
   clue: Adjective
-- indication: mouthwash
-  result: das Zahnfleisch
+- indication: das Zahnfleisch
+  result: the gums
   clue: Adjective

@@ -1,17 +1,17 @@
-- indication: '68'
-  result: der USB-Stick
+- indication: der USB-Stick
+  result: the usb stick
   clue: Adjective
-- indication: accessories
-  result: die Regenjacke
+- indication: die Regenjacke
+  result: the rain jacket
   clue: Adjective
-- indication: accounts
-  result: die Personalabteilung
+- indication: die Personalabteilung
+  result: the human resources department
   clue: Adjective
 - indication: address
   result: vocabulary
   clue: Adjective
-- indication: airmail
-  result: die Post
+- indication: die Post
+  result: the post
   clue: Adjective
 - indication: antihistamine
   result: mpl
@@ -22,38 +22,38 @@
 - indication: antique shop
   result: vocabulary
   clue: Adjective
-- indication: assembly hall
-  result: die Kantine
+- indication: die Kantine
+  result: the canteen
   clue: Adjective
-- indication: attachment
-  result: die Datei
+- indication: die Datei
+  result: the file
   clue: Adjective
 - indication: baby bath
   result: accessories
   clue: Adjective
-- indication: baby lotion
-  result: die Babynahrung
+- indication: die Babynahrung
+  result: the baby food
   clue: Adjective
-- indication: baby seat
-  result: die Babywanne
+- indication: die Babywanne
+  result: the baby bath
   clue: Adjective
-- indication: baby walker
-  result: die Babyschale
+- indication: die Babyschale
+  result: the baby seat
   clue: Adjective
-- indication: baby’s bottle
-  result: die Babylotion
+- indication: die Babylotion
+  result: the baby lotion
   clue: Adjective
 - indication: bandage
   result: Salbe
   clue: Adjective
-- indication: beauty
-  result: die Zahnpasta
+- indication: die Zahnpasta
+  result: the toothpaste
   clue: Adjective
 - indication: bikini
   result: clothing
   clue: Adjective
-- indication: blouse
-  result: der Bikini
+- indication: der Bikini
+  result: the bikini
   clue: Adjective
 - indication: boots
   result: footwear

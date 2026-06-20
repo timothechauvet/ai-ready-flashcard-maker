@@ -1,20 +1,20 @@
-- indication: tablet
-  result: das Smartphone
+- indication: das Smartphone
+  result: the smartphone
   clue: Adjective
-- indication: teabags
-  result: der Zucker
+- indication: der Zucker
+  result: the sugar
   clue: Adjective
-- indication: text message
-  result: der Anruf
+- indication: der Anruf
+  result: the call
   clue: Adjective
 - indication: till point
   result: Einkaufstasche
   clue: Adjective
-- indication: tinned
-  result: die Dose
+- indication: die Dose
+  result: the tin
   clue: Adjective
-- indication: tip
-  result: die Bedienung
+- indication: die Bedienung
+  result: the service
   clue: Adjective
 - indication: to arrive
   result: sich anziehen
@@ -28,8 +28,8 @@
 - indication: to eat out
   result: speisen
   clue: Adjective
-- indication: to eat/drink
-  result: der Digestif
+- indication: der Digestif
+  result: the digestif
   clue: Adjective
 - indication: to get dressed
   result: aufwachen

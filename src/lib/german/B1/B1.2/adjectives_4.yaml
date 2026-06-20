@@ -1,5 +1,5 @@
-- indication: dungarees
-  result: der Bademantel
+- indication: der Bademantel
+  result: the bathrobe
   clue: Adjective
 - indication: Elektrofachmarkt
   result: der
@@ -7,32 +7,32 @@
 - indication: Elektrowerkzeug
   result: das
   clue: Adjective
-- indication: envelope
-  result: die Schachtel
+- indication: die Schachtel
+  result: the box
   clue: Adjective
-- indication: escalator
-  result: die Theke
+- indication: die Theke
+  result: the counter
   clue: Adjective
-- indication: exam
-  result: die Aufgabe
+- indication: die Aufgabe
+  result: the task
   clue: Adjective
 - indication: exchange rate
   result: Kreditkarte
   clue: Adjective
-- indication: exercise book
-  result: der Radierer
+- indication: der Radierer
+  result: the eraser
   clue: Adjective
-- indication: figures
-  result: die Buchhaltung
+- indication: die Buchhaltung
+  result: the accounting
   clue: Adjective
 - indication: fitting room
   result: vocabulary
   clue: Adjective
-- indication: food and drink
-  result: die Mode
+- indication: die Mode
+  result: the fashion
   clue: Adjective
-- indication: formula milk
-  result: die Watte
+- indication: die Watte
+  result: the cotton wool
   clue: Adjective
 - indication: Fotokopiergerät
   result: das
@@ -40,21 +40,21 @@
 - indication: Gerichtsgebäude
   result: das
   clue: Adjective
-- indication: hairbrush
-  result: die Grundlage
+- indication: die Grundlage
+  result: the foundation
   clue: Adjective
-- indication: halls of residence
-  result: der Schulhof
+- indication: der Schulhof
+  result: the schoolyard
   clue: Adjective
 - indication: Hand-Waschlotion
   result: die
   clue: Adjective
-- indication: handle
-  result: die Tasse
+- indication: die Tasse
+  result: the cup
   clue: Adjective
 - indication: handlung
   result: Spirituosen–
   clue: Adjective
-- indication: handwash
-  result: das Schmerzmittel
+- indication: das Schmerzmittel
+  result: the painkiller
   clue: Adjective

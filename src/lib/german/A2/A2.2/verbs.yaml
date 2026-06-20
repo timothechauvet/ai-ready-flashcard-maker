@@ -16,11 +16,11 @@
 - indication: duschen
   result: to shower
   clue: Verb
-- indication: entwerten
-  result: eine Fahrkarte
+- indication: eine Fahrkarte
+  result: a ticket
   clue: Verb
-- indication: garden
-  result: der Blumenkasten
+- indication: der Blumenkasten
+  result: the flower box
   clue: Verb
 - indication: gießen
   result: to water

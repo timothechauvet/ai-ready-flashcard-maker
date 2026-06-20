@@ -1,60 +1,60 @@
-- indication: skimmed milk
-  result: die Vollmilch
+- indication: die Vollmilch
+  result: the whole milk
   clue: Adjective
-- indication: skin
-  result: der Schnitz
+- indication: der Schnitz
+  result: the carving
   clue: Adjective
-- indication: slice
-  result: das Croissant
+- indication: das Croissant
+  result: the croissant
   clue: Adjective
-- indication: smartphone
-  result: die SIM-Karte
+- indication: die SIM-Karte
+  result: the sim card
   clue: Adjective
-- indication: social media
-  result: der Beitrag
+- indication: der Beitrag
+  result: the contribution
   clue: Adjective
-- indication: sour cream
-  result: der Doppelrahm
+- indication: der Doppelrahm
+  result: the double frame
   clue: Adjective
-- indication: soymilk
-  result: die Milch
+- indication: die Milch
+  result: the milk
   clue: Adjective
-- indication: spirits
-  result: das Mineralwasser
+- indication: das Mineralwasser
+  result: the mineral water
   clue: Adjective
-- indication: squid
-  result: die Garnele
+- indication: die Garnele
+  result: the shrimp
   clue: Adjective
-- indication: stall
-  result: der Bauernmarkt
+- indication: der Bauernmarkt
+  result: the farmers market
   clue: Adjective
-- indication: stone
-  result: die Schale
+- indication: die Schale
+  result: the shell
   clue: Adjective
 - indication: strawberry
   result: Johannisbeere
   clue: Adjective
-- indication: street food
-  result: der Schnellimbiss
+- indication: der Schnellimbiss
+  result: the fast food joint
   clue: Adjective
-- indication: sugar
-  result: das Salz
+- indication: das Salz
+  result: the salt
   clue: Adjective
-- indication: supermarket
-  result: der Laden
+- indication: der Laden
+  result: the store
   clue: Adjective
-- indication: sushi
-  result: die Currywurst
+- indication: die Currywurst
+  result: the currywurst
   clue: Adjective
 - indication: Süßwasser-
   result: freshwater
   clue: Adjective
-- indication: sweets
-  result: das Popcorn
+- indication: das Popcorn
+  result: the popcorn
   clue: Adjective
-- indication: syllabub
-  result: der Kaiserschmarrn
+- indication: der Kaiserschmarrn
+  result: the kaiserschmarrn
   clue: Adjective
-- indication: tablecloth
-  result: der Tisch
+- indication: der Tisch
+  result: the table
   clue: Adjective

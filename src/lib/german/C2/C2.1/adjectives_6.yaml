@@ -2,26 +2,26 @@
   result: impulsive (to react impulsively)
   clue: Adjective
   pronunciation: '[ɪmpʊlˈziːf]'
-- indication: insect
-  result: das Nagetier
+- indication: das Nagetier
+  result: the rodent
   clue: Adjective
-- indication: insect bite
-  result: das Spinnennetz
+- indication: das Spinnennetz
+  result: the spider web
   clue: Adjective
-- indication: iris
-  result: die Hyazinthe
+- indication: die Hyazinthe
+  result: the hyacinth
   clue: Adjective
-- indication: ivy
-  result: der Weinstock
+- indication: der Weinstock
+  result: the vine
   clue: Adjective
-- indication: jellyfish
-  result: der Aal
+- indication: der Aal
+  result: the eel
   clue: Adjective
 - indication: kaltblütig
   result: warm-blooded
   clue: Adjective
-- indication: killer whale
-  result: die Qualle
+- indication: die Qualle
+  result: the jellyfish
   clue: Adjective
 - indication: klischeehaft
   result: clichéed / stereotypical
@@ -31,8 +31,8 @@
   result: entertaining / amusing / diverting
   clue: Adjective
   pronunciation: '[ˈkʊʁtsˌvaɪ̯lɪç]'
-- indication: ladybird
-  result: die Heuschrecke
+- indication: die Heuschrecke
+  result: the grasshopper
   clue: Adjective
 - indication: ländlich
   result: rural
@@ -48,17 +48,17 @@
   result: lengthy / protracted
   clue: Adjective
   pronunciation: '[ˈlaŋˌviːʁɪç]'
-- indication: lily
-  result: die Iris
+- indication: die Iris
+  result: the iris
   clue: Adjective
-- indication: lily-of-the-valley
-  result: die Lilie
+- indication: die Lilie
+  result: the lily
   clue: Adjective
-- indication: lizard
-  result: der Leguan
+- indication: der Leguan
+  result: the iguana
   clue: Adjective
-- indication: mammal
-  result: die Spezies
+- indication: die Spezies
+  result: the species
   clue: Adjective
 - indication: mammals   |  säugetiere
   result: '111'

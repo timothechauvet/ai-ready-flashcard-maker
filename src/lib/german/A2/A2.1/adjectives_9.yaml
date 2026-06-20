@@ -1,47 +1,47 @@
 - indication: street
   result: vocabulary
   clue: Adjective
-- indication: studio flat
-  result: das Doppelhaus
+- indication: das Doppelhaus
+  result: the semi-detached house
   clue: Adjective
-- indication: suburb
-  result: die Adresse
+- indication: die Adresse
+  result: the address
   clue: Adjective
-- indication: table lamp
-  result: das Schlafsofa
+- indication: das Schlafsofa
+  result: the sofa bed
   clue: Adjective
-- indication: tail
-  result: das Cockpit
+- indication: das Cockpit
+  result: the cockpit
   clue: Adjective
-- indication: tap
-  result: der Schrank
+- indication: der Schrank
+  result: the cupboard
   clue: Adjective
 - indication: taxi
   result: Verkehrsmittel ntpl
   clue: Adjective
-- indication: taxi rank
-  result: das Taxi
+- indication: das Taxi
+  result: the taxi
   clue: Adjective
-- indication: tenant
-  result: die Vermieterin
+- indication: die Vermieterin
+  result: the landlady
   clue: Adjective
 - indication: terraced house
   result: vocabulary
   clue: Adjective
-- indication: the kitchen
-  result: der Treteimer
+- indication: der Treteimer
+  result: the pedal bin
   clue: Adjective
-- indication: timetable
-  result: die Fahrkarte
+- indication: die Fahrkarte
+  result: the ticket
   clue: Adjective
-- indication: tin opener
-  result: der Spachtel
+- indication: der Spachtel
+  result: the spatula
   clue: Adjective
-- indication: to cook
-  result: die Abzugshaube
+- indication: die Abzugshaube
+  result: the extractor hood
   clue: Adjective
-- indication: to cycle
-  result: die Radlerhose
+- indication: die Radlerhose
+  result: the cycling shorts
   clue: Adjective
 - indication: to drive
   result: gehen

@@ -4,26 +4,26 @@
 - indication: '25'
   result: motorbike   |  mit dem motorrad
   clue: Phrase
-- indication: '36'
-  result: the bedroom   |  das schlafzimmer
+- indication: the bedroom   |  das schlafzimmer
+  result: the bedroom |  the bedroom
   clue: Phrase
-- indication: '37'
-  result: the bathroom   |  das bad
+- indication: the bathroom   |  das bad
+  result: the bathroom |  the bathroom
   clue: Phrase
-- indication: '38'
-  result: the garden   |  der garten
+- indication: the garden   |  der garten
+  result: the garden |  the garden
   clue: Phrase
-- indication: '39'
-  result: the garden   |  der garten
+- indication: the garden   |  der garten
+  result: the garden |  the garden
   clue: Phrase
-- indication: bedroom
-  result: die Laken ntpl
+- indication: die Laken ntpl
+  result: the sheets ntpl
   clue: Phrase
-- indication: patio
-  result: die Blumen fpl
+- indication: die Blumen fpl
+  result: the flowers fpl
   clue: Phrase
-- indication: runway
-  result: der Pilot / die Pilotin
+- indication: der Pilot / die Pilotin
+  result: the pilot
   clue: Phrase
 - indication: to brush one’s teeth
   result: waschen
@@ -34,6 +34,6 @@
 - indication: to validate a ticket
   result: umsteigen
   clue: Phrase
-- indication: Untertasse
-  result: die Tasse und die
+- indication: die Tasse und die
+  result: the cup and the
   clue: Phrase

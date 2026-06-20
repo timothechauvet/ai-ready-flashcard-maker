@@ -1,35 +1,35 @@
-- indication: fence
-  result: das Tor
+- indication: das Tor
+  result: the gate
   clue: Adjective
 - indication: ferry crossing
   result: vocabulary
   clue: Adjective
-- indication: first-class
-  result: das Online-Ticket
+- indication: das Online-Ticket
+  result: the online ticket
   clue: Adjective
-- indication: flowerbed
-  result: das Unkraut
+- indication: das Unkraut
+  result: the weeds
   clue: Adjective
-- indication: flowerpot
-  result: die Terrasse
+- indication: die Terrasse
+  result: the terrace
   clue: Adjective
-- indication: flowers
-  result: der Pfad
+- indication: der Pfad
+  result: the path
   clue: Adjective
 - indication: Flugbegleitpersonal
   result: das
   clue: Adjective
-- indication: funnel
-  result: das Deck
+- indication: das Deck
+  result: the deck
   clue: Adjective
-- indication: fuselage
-  result: die Maschine
+- indication: die Maschine
+  result: the machine
   clue: Adjective
 - indication: garden shed
   result: mpl
   clue: Adjective
-- indication: gardener
-  result: der Kleingarten
+- indication: der Kleingarten
+  result: the allotment garden
   clue: Adjective
 - indication: Gartenhandschuhe
   result: die
@@ -40,20 +40,20 @@
 - indication: Gepäck
   result: das aufgegebene
   clue: Adjective
-- indication: grass
-  result: die Erde
+- indication: die Erde
+  result: the earth
   clue: Adjective
-- indication: greenhouse
-  result: das Gartenhaus
+- indication: das Gartenhaus
+  result: the garden house
   clue: Adjective
-- indication: guard
-  result: der Anzeigetafel
+- indication: der Anzeigetafel
+  result: the scoreboard
   clue: Adjective
 - indication: Gummihandschuhe
   result: die
   clue: Adjective
-- indication: hairdryer
-  result: die Frisierkommode
+- indication: die Frisierkommode
+  result: the dressing table
   clue: Adjective
 - indication: Hauptschlafzimmer
   result: das

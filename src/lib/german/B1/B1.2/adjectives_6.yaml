@@ -1,60 +1,60 @@
-- indication: library
-  result: die Dozentin
+- indication: die Dozentin
+  result: the lecturer
   clue: Adjective
-- indication: lingerie
-  result: die Beleuchtung
+- indication: die Beleuchtung
+  result: the lighting
   clue: Adjective
-- indication: lip balm
-  result: das Haarspray
+- indication: das Haarspray
+  result: the hairspray
   clue: Adjective
-- indication: lipstick
-  result: der Lippenbalsam
+- indication: der Lippenbalsam
+  result: the lip balm
   clue: Adjective
 - indication: Luftpolstertasche
   result: die
   clue: Adjective
-- indication: mail
-  result: der Kurier
+- indication: der Kurier
+  result: the courier
   clue: Adjective
 - indication: manager
   result: vocabulary
   clue: Adjective
-- indication: map
-  result: die Zeitschrift
+- indication: die Zeitschrift
+  result: the magazine
   clue: Adjective
-- indication: mascara
-  result: der Lippenstift
+- indication: der Lippenstift
+  result: the lipstick
   clue: Adjective
-- indication: meeting
-  result: der Bericht
+- indication: der Bericht
+  result: the report
   clue: Adjective
-- indication: menswear
-  result: die Abteilung
+- indication: die Abteilung
+  result: the department
   clue: Adjective
 - indication: mittens
   result: ntpl
   clue: Adjective
-- indication: mobile
-  result: der Hochstuhl
+- indication: der Hochstuhl
+  result: the high chair
   clue: Adjective
-- indication: mortgage
-  result: das Darlehen
+- indication: das Darlehen
+  result: the loan
   clue: Adjective
-- indication: Moses basket
-  result: das Mobile
+- indication: das Mobile
+  result: the mobile
   clue: Adjective
-- indication: mosque
-  result: die Bibliothek
+- indication: die Bibliothek
+  result: the library
   clue: Adjective
-- indication: nail varnish
-  result: die Mascara
+- indication: die Mascara
+  result: the mascara
   clue: Adjective
-- indication: nappy
-  result: die Formel
+- indication: die Formel
+  result: the formula
   clue: Adjective
-- indication: nappy cream
-  result: die Windel
+- indication: die Windel
+  result: the diaper
   clue: Adjective
-- indication: nappy rash
-  result: das Schaumbad
+- indication: das Schaumbad
+  result: the bubble bath
   clue: Adjective

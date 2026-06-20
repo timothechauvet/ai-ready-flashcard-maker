@@ -1,11 +1,11 @@
-- indication: toad
-  result: die Schlange
+- indication: die Schlange
+  result: the snake
   clue: Adjective
 - indication: tropisch
   result: tropical
   clue: Adjective
-- indication: tulip
-  result: die Sonnenblume
+- indication: die Sonnenblume
+  result: the sunflower
   clue: Adjective
 - indication: übergenau
   result: overly precise / fastidious
@@ -39,8 +39,8 @@
   result: underrepresented
   clue: Adjective
   pronunciation: '[ˈʊntɐʁeːpʁezɛnˌtiːɐ̯t]'
-- indication: valley
-  result: der Bach
+- indication: der Bach
+  result: the stream
   clue: Adjective
 - indication: verhältnismäßig
   result: relatively / comparatively / proportional
@@ -62,11 +62,11 @@
   result: reprehensible / morally objectionable
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
-- indication: violet
-  result: die Tulpe
+- indication: die Tulpe
+  result: the tulip
   clue: Adjective
-- indication: volcano
-  result: das Tal
+- indication: das Tal
+  result: the valley
   clue: Adjective
 - indication: vorhersehbar
   result: predictable (*predictable results*)

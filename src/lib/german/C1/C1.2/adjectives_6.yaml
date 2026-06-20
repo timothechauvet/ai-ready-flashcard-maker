@@ -23,9 +23,9 @@
 - indication: vorzeitig
   result: premature / early / ahead of time
   clue: Adjective
-- indication: wheelchair
-  result: die Station
+- indication: die Station
+  result: the station
   clue: Adjective
-- indication: X-ray
-  result: der Rollstuhl
+- indication: der Rollstuhl
+  result: the wheelchair
   clue: Adjective

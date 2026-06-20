@@ -1,5 +1,5 @@
-- indication: '12'
-  result: time   |  die uhrzeit
+- indication: time   |  die uhrzeit
+  result: time |  the time
   clue: Phrase
 - indication: dreißig.
   result: When...?
@@ -40,19 +40,19 @@
 - indication: im Frühling / Winter
   result: Monday
   clue: Phrase
-- indication: ... in 60 seconds/
+- indication: '... in 60 seconds/'
   result: Wann…?
   clue: Phrase
-- indication: ... in 60 Sekunden /
+- indication: '... in 60 Sekunden /'
   result: two minutes.
   clue: Phrase
-- indication: ... in an hour/
+- indication: '... in an hour/'
   result: zwei Minuten.
   clue: Phrase
-- indication: ... in einer Stunde /
+- indication: '... in einer Stunde /'
   result: half an hour.
   clue: Phrase
-- indication: ... in quarter of an hour.
+- indication: '... in quarter of an hour.'
   result: halben Stunde.
   clue: Phrase
 - indication: Is it going to rain?

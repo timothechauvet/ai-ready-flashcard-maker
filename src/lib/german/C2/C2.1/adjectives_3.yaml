@@ -1,54 +1,54 @@
-- indication: cobweb
-  result: die Kolonie
+- indication: die Kolonie
+  result: the colony
   clue: Adjective
-- indication: cold-blooded
-  result: der Schnabel
+- indication: der Schnabel
+  result: the beak
   clue: Adjective
-- indication: colony
-  result: der Schwarm
+- indication: der Schwarm
+  result: the swarm
   clue: Adjective
 - indication: coral
   result: vocabulary
   clue: Adjective
-- indication: crane
-  result: der Bussard
+- indication: der Bussard
+  result: the buzzard
   clue: Adjective
-- indication: crocodile
-  result: der Alligator
+- indication: der Alligator
+  result: the alligator
   clue: Adjective
-- indication: crow
-  result: der Kranich
+- indication: der Kranich
+  result: the crane
   clue: Adjective
-- indication: daffodil
-  result: die Chrysantheme
+- indication: die Chrysantheme
+  result: the chrysanthemum
   clue: Adjective
-- indication: daisy
-  result: die Osterglocke
+- indication: die Osterglocke
+  result: the daffodil
   clue: Adjective
-- indication: deer
-  result: das Wildschwein
+- indication: das Wildschwein
+  result: the wild boar
   clue: Adjective
 - indication: detailreich
   result: detailed / rich in detail
   clue: Adjective
   pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
-- indication: dog
-  result: die Katze
+- indication: die Katze
+  result: the cat
   clue: Adjective
-- indication: donkey
-  result: die Kuh
+- indication: die Kuh
+  result: the cow
   clue: Adjective
-- indication: dove
-  result: der Rabe
+- indication: der Rabe
+  result: the raven
   clue: Adjective
-- indication: dragonfly
-  result: die Grille
+- indication: die Grille
+  result: the cricket
   clue: Adjective
-- indication: eagle
-  result: die Taube
+- indication: die Taube
+  result: the pigeon
   clue: Adjective
-- indication: earthworm
-  result: die Libelle
+- indication: die Libelle
+  result: the dragonfly
   clue: Adjective
 - indication: einfühlsam
   result: empathetic / sensitive

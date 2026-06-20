@@ -1,20 +1,20 @@
-- indication: train station
-  result: der Zug
+- indication: der Zug
+  result: the train
   clue: Adjective
-- indication: tram
-  result: der Bahnhof
+- indication: der Bahnhof
+  result: the station
   clue: Adjective
-- indication: tray table
-  result: der Gang
+- indication: der Gang
+  result: the aisle
   clue: Adjective
 - indication: tree
   result: vocabulary
   clue: Adjective
-- indication: trowel
-  result: der Spaten
+- indication: der Spaten
+  result: the spade
   clue: Adjective
-- indication: tumble drier
-  result: das Geschirrtuch
+- indication: das Geschirrtuch
+  result: the tea towel
   clue: Adjective
 - indication: Unkrautvernichter
   result: der
@@ -22,33 +22,33 @@
 - indication: utility room
   result: vocabulary
   clue: Adjective
-- indication: vegetable oil
-  result: das Brot
+- indication: das Brot
+  result: the bread
   clue: Adjective
-- indication: wardrobe
-  result: das Bett
+- indication: das Bett
+  result: the bed
   clue: Adjective
 - indication: Wäscheklammern fpl
   result: die
   clue: Adjective
-- indication: washing line
-  result: der Staubsauger
+- indication: der Staubsauger
+  result: the vacuum cleaner
   clue: Adjective
-- indication: watering can
-  result: die Kelle
+- indication: die Kelle
+  result: the trowel
   clue: Adjective
-- indication: weed
-  result: die Pflanze
+- indication: die Pflanze
+  result: the plant
   clue: Adjective
 - indication: wheelbarrow
   result: mpl
   clue: Adjective
-- indication: windowbox
-  result: der Schubkarren
+- indication: der Schubkarren
+  result: the wheelbarrow
   clue: Adjective
-- indication: wine glass
-  result: das Trinkglas
+- indication: das Trinkglas
+  result: the drinking glass
   clue: Adjective
-- indication: wing
-  result: der Sicherheitsgurt
+- indication: der Sicherheitsgurt
+  result: the seat belt
   clue: Adjective

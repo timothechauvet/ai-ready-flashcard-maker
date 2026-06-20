@@ -13,7 +13,7 @@
 - indication: Santa Claus
   result: Father Christmas/
   clue: Phrase
-- indication: scheitern an
+- indication: to fail due to / to founder on
   result: to fail due to / to founder on
   clue: Phrase
   pronunciation: '[ˈʃaɪ̯tɐn an]'
@@ -25,7 +25,7 @@
   result: to see things in black and white
   clue: Phrase
   pronunciation: '[ˈɛtvas ˌʃvaʁtsˈvaɪ̯s ˈzeːən]'
-- indication: schwelen **
+- indication: to smolder / fester (conflicts smolder/fester)
   result: to smolder / fester (conflicts smolder/fester)
   clue: Phrase
   pronunciation: '[ˈʃveːlən]'
@@ -33,8 +33,10 @@
   result: elusive / hard to grasp
   clue: Phrase
   pronunciation: '[ʃveːɐ̯ ˈfasbaːɐ̯]'
-- indication: Seine Argumentation krankt daran, dass er von völlig falschen Voraussetzungen ausgeht.
-  result: His argument suffers from the fact that he is based on completely false assumptions.
+- indication: Seine Argumentation krankt daran, dass er von völlig falschen Voraussetzungen
+    ausgeht.
+  result: His argument suffers from the fact that he is based on completely false
+    assumptions.
   clue: Phrase
 - indication: selbst verwirklichen
   result: to realize one's potential / self-actualize
@@ -55,10 +57,11 @@
 - indication: to throw a party
   result: feiern
   clue: Phrase
-- indication: to toast something
-  result: eine Party geben
+- indication: eine Party geben
+  result: have a party
   clue: Phrase
-- indication: Trotz intensiver Verhandlungen konnte kein greifbares Ergebnis erzielt werden.
+- indication: Trotz intensiver Verhandlungen konnte kein greifbares Ergebnis erzielt
+    werden.
   result: Despite intensive negotiations, no tangible result could be achieved.
   clue: Phrase
 - indication: tun mit

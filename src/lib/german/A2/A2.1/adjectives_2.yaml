@@ -1,60 +1,60 @@
 - indication: boot
   result: exterior
   clue: Adjective
-- indication: brake
-  result: die Batterie
+- indication: die Batterie
+  result: the battery
   clue: Adjective
-- indication: breakdown
-  result: der Unfall
+- indication: der Unfall
+  result: the accident
   clue: Adjective
-- indication: Breathalyser®
-  result: das Getriebe
+- indication: das Getriebe
+  result: the gearbox
   clue: Adjective
-- indication: building
-  result: die Villa
+- indication: die Villa
+  result: the villa
   clue: Adjective
-- indication: bungalow
-  result: der Wohnblock
+- indication: der Wohnblock
+  result: the apartment block
   clue: Adjective
-- indication: bus lane
-  result: die Buslinie
+- indication: die Buslinie
+  result: the bus route
   clue: Adjective
 - indication: bus route
   result: vocabulary
   clue: Adjective
-- indication: bus shelter
-  result: der Bus
+- indication: der Bus
+  result: the bus
   clue: Adjective
-- indication: bus station
-  result: die Busspur
+- indication: die Busspur
+  result: the bus lane
   clue: Adjective
-- indication: car insurance
-  result: der Fahrzeugschein
+- indication: der Fahrzeugschein
+  result: the vehicle registration document
   clue: Adjective
 - indication: carpet
   result: vocabulary
   clue: Adjective
-- indication: ceiling
-  result: der Dachboden
+- indication: der Dachboden
+  result: the attic
   clue: Adjective
-- indication: ceiling fan
-  result: der Boiler
+- indication: der Boiler
+  result: the boiler
   clue: Adjective
-- indication: cellar
-  result: das Zimmer
+- indication: das Zimmer
+  result: the room
   clue: Adjective
-- indication: central heating
-  result: die Klimaanlage
+- indication: die Klimaanlage
+  result: the air conditioning
   clue: Adjective
-- indication: chain
-  result: das Pedal
+- indication: das Pedal
+  result: the pedal
   clue: Adjective
-- indication: chimney
-  result: das Dach
+- indication: das Dach
+  result: the roof
   clue: Adjective
-- indication: clingfilm
-  result: der Brotkasten
+- indication: der Brotkasten
+  result: the bread box
   clue: Adjective
-- indication: clutch
-  result: die Klimaanlage
+- indication: die Klimaanlage
+  result: the air conditioning
   clue: Adjective

@@ -1,11 +1,11 @@
-- indication: music   |  musik
-  result: der Hip-Hop
+- indication: der Hip-Hop
+  result: the hip hop
   clue: Adjective
-- indication: musical
-  result: der Jahrmarkt
+- indication: der Jahrmarkt
+  result: the fair
   clue: Adjective
-- indication: nature reserve
-  result: der Ausflug
+- indication: der Ausflug
+  result: the excursion
   clue: Adjective
 - indication: Naturschutzgebiet
   result: das
@@ -13,48 +13,48 @@
 - indication: net
   result: vocabulary
   clue: Adjective
-- indication: nightclub
-  result: das Musical
+- indication: das Musical
+  result: the musical
   clue: Adjective
-- indication: official
-  result: die Medaille
+- indication: die Medaille
+  result: the medal
   clue: Adjective
-- indication: offside
-  result: das Foul
+- indication: das Foul
+  result: the foul
   clue: Adjective
-- indication: open water
-  result: der Badeanzug
+- indication: der Badeanzug
+  result: the swimsuit
   clue: Adjective
-- indication: opera
-  result: der Nachtclub
+- indication: der Nachtclub
+  result: the nightclub
   clue: Adjective
-- indication: penalty kick
-  result: das Abseits
+- indication: das Abseits
+  result: the offside
   clue: Adjective
-- indication: penalty shot
-  result: die Eiszeit
+- indication: die Eiszeit
+  result: the ice age
   clue: Adjective
 - indication: personal trainer
   result: im Fitnessstudio
   clue: Adjective
-- indication: picnic blanket
-  result: der Camper
+- indication: der Camper
+  result: the camper
   clue: Adjective
-- indication: Pilates
-  result: der Fitnesskurs
+- indication: der Fitnesskurs
+  result: the fitness course
   clue: Adjective
-- indication: pitch
-  result: der Campingplatz
+- indication: der Campingplatz
+  result: the campsite
   clue: Adjective
-- indication: points
-  result: das Spiel
+- indication: das Spiel
+  result: the game
   clue: Adjective
 - indication: pool
   result: fischen
   clue: Adjective
-- indication: pop
-  result: der Gig
+- indication: der Gig
+  result: the gig
   clue: Adjective
-- indication: powerplay
-  result: das Drittel
+- indication: das Drittel
+  result: the third
   clue: Adjective

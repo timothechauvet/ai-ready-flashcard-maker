@@ -1,47 +1,47 @@
-- indication: shin
-  result: das Knie
+- indication: das Knie
+  result: the knee
   clue: Adjective
-- indication: sicherung
-  result: die Krankenver­
+- indication: die Krankenver­
+  result: the health insurance companies
   clue: Adjective
-- indication: skeleton
-  result: der Sauerstoff
+- indication: der Sauerstoff
+  result: the oxygen
   clue: Adjective
-- indication: sleeping pill
-  result: die Pille
+- indication: die Pille
+  result: the pill
   clue: Adjective
-- indication: sling
-  result: das Pflaster
+- indication: das Pflaster
+  result: the pavement
   clue: Adjective
-- indication: sting
-  result: der Splitter
+- indication: der Splitter
+  result: the splinter
   clue: Adjective
-- indication: stomach
-  result: die Leber
+- indication: die Leber
+  result: the liver
   clue: Adjective
-- indication: stroke
-  result: der Herzinfarkt
+- indication: der Herzinfarkt
+  result: the heart attack
   clue: Adjective
-- indication: sunburn
-  result: der Stich
+- indication: der Stich
+  result: the stitch
   clue: Adjective
-- indication: tendon
-  result: der Muskel
+- indication: der Muskel
+  result: the muscle
   clue: Adjective
-- indication: test
-  result: die Untersuchung
+- indication: die Untersuchung
+  result: the investigation
   clue: Adjective
-- indication: thigh
-  result: die Hand
+- indication: die Hand
+  result: the hand
   clue: Adjective
 - indication: throat
   result: vocabulary
   clue: Adjective
-- indication: tissue
-  result: die Sehne
+- indication: die Sehne
+  result: the tendon
   clue: Adjective
-- indication: to be unconscious
-  result: die HLW
+- indication: die HLW
+  result: the cpr
   clue: Adjective
 - indication: to cough
   result: Blutdruck haben

@@ -4,57 +4,57 @@
 - indication: hohen / niedrigen
   result: blood pressure
   clue: Adjective
-- indication: home visit
-  result: das Rezept
+- indication: das Rezept
+  result: the recipe
   clue: Adjective
-- indication: ice pack
-  result: der Verbandskasten
+- indication: der Verbandskasten
+  result: the first aid kit
   clue: Adjective
-- indication: illness
-  result: der Schmerz
+- indication: der Schmerz
+  result: the pain
   clue: Adjective
-- indication: incisor
-  result: der Backenzahn
+- indication: der Backenzahn
+  result: the molar
   clue: Adjective
-- indication: infection
-  result: der Schlaganfall
+- indication: der Schlaganfall
+  result: the stroke
   clue: Adjective
-- indication: inhaler
-  result: die Schwindligkeit
+- indication: die Schwindligkeit
+  result: the dizziness
   clue: Adjective
 - indication: injuries
   result: brechen
   clue: Adjective
-- indication: intestines
-  result: die Niere
+- indication: die Niere
+  result: the kidney
   clue: Adjective
-- indication: itching
-  result: das Fieber
+- indication: das Fieber
+  result: the fever
   clue: Adjective
-- indication: jaw
-  result: der Mund
+- indication: der Mund
+  result: the mouth
   clue: Adjective
-- indication: kidney
-  result: der Magen
+- indication: der Magen
+  result: the stomach
   clue: Adjective
-- indication: knee
-  result: das Bein
+- indication: das Bein
+  result: the leg
   clue: Adjective
-- indication: leg
-  result: der Oberschenkel
+- indication: der Oberschenkel
+  result: the thigh
   clue: Adjective
-- indication: ligament
-  result: das Gewebe
+- indication: das Gewebe
+  result: the tissue
   clue: Adjective
-- indication: liver
-  result: die Lunge
+- indication: die Lunge
+  result: the lungs
   clue: Adjective
-- indication: lung
-  result: das Herz
+- indication: das Herz
+  result: the heart
   clue: Adjective
-- indication: medication
-  result: die Impfung
+- indication: die Impfung
+  result: the vaccination
   clue: Adjective
-- indication: mental health
-  result: die Krankheit
+- indication: die Krankheit
+  result: the disease
   clue: Adjective

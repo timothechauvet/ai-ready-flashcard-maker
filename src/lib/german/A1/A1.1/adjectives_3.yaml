@@ -1,5 +1,5 @@
-- indication: teenager
-  result: das Kind
+- indication: das Kind
+  result: the child
   clue: Adjective
 - indication: überrascht
   result: annoyed
@@ -19,8 +19,8 @@
 - indication: white
   result: schwarz
   clue: Adjective
-- indication: wife
-  result: der Ehemann
+- indication: der Ehemann
+  result: the husband
   clue: Adjective
 - indication: worried
   result: traurig

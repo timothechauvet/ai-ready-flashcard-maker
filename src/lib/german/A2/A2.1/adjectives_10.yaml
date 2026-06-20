@@ -10,50 +10,50 @@
 - indication: to stir-fry
   result: braten
   clue: Adjective
-- indication: to walk
-  result: die Strecke
+- indication: die Strecke
+  result: the route
   clue: Adjective
 - indication: to watch TV
   result: sich setzen
   clue: Adjective
-- indication: toaster
-  result: der Kessel
+- indication: der Kessel
+  result: the boiler
   clue: Adjective
-- indication: tour bus
-  result: der Flughafenbus
+- indication: der Flughafenbus
+  result: the airport bus
   clue: Adjective
-- indication: townhouse
-  result: das Reihenhaus
+- indication: das Reihenhaus
+  result: the terraced house
   clue: Adjective
 - indication: traffic cone
   result: keitskamera
   clue: Adjective
-- indication: traffic jam
-  result: der Verkehr
+- indication: der Verkehr
+  result: the traffic
   clue: Adjective
-- indication: traffic lights
-  result: der Pylon
+- indication: der Pylon
+  result: the pylon
   clue: Adjective
-- indication: traffic warden
-  result: die Verkehrsampel
+- indication: die Verkehrsampel
+  result: the traffic lights
   clue: Adjective
-- indication: transmission
-  result: das Schaltgetriebe
+- indication: das Schaltgetriebe
+  result: the manual transmission
   clue: Adjective
-- indication: transport  |  verkehrsmittel
-  result: das Heck
+- indication: das Heck
+  result: the rear
   clue: Adjective
-- indication: trolley bus
-  result: der Kleinbus
+- indication: der Kleinbus
+  result: the minibus
   clue: Adjective
 - indication: tunnel
   result: Verkehrspolizistin
   clue: Adjective
-- indication: TV stand
-  result: die Anrichte
+- indication: die Anrichte
+  result: the sideboard
   clue: Adjective
-- indication: tyre
-  result: das Rad
+- indication: das Rad
+  result: the wheel
   clue: Adjective
 - indication: Urlaubsvermietung
   result: die

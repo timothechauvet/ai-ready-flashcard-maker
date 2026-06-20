@@ -1,8 +1,8 @@
-- indication: '114'
-  result: die Weide
+- indication: die Weide
+  result: the pasture
   clue: Adjective
-- indication: '116'
-  result: die Sonne
+- indication: die Sonne
+  result: the sun
   clue: Adjective
 - indication: alligator
   result: vocabulary
@@ -10,8 +10,8 @@
 - indication: alpin
   result: alpine
   clue: Adjective
-- indication: amphibian
-  result: das Reptil
+- indication: das Reptil
+  result: the reptile
   clue: Adjective
 - indication: animal
   result: vocabulary
@@ -23,8 +23,8 @@
 - indication: ant
   result: stechen
   clue: Adjective
-- indication: atmosphere
-  result: die Luft
+- indication: die Luft
+  result: the air
   clue: Adjective
 - indication: auffällig
   result: (in)conspicuous / (un)obtrusive / (un)noticeable
@@ -41,18 +41,18 @@
 - indication: badger
   result: vocabulary
   clue: Adjective
-- indication: bat
-  result: der Dachs
+- indication: der Dachs
+  result: the badger
   clue: Adjective
 - indication: bedürftig
   result: needy / in need
   clue: Adjective
   pronunciation: '[bəˈdʏʁftɪç]'
-- indication: bee
-  result: die Ameise
+- indication: die Ameise
+  result: the ant
   clue: Adjective
-- indication: beetle
-  result: die Biene
+- indication: die Biene
+  result: the bee
   clue: Adjective
 - indication: begehrt
   result: highly sought-after / in-demand / coveted

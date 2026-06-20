@@ -5,25 +5,25 @@
 - indication: Wasserschildkröte
   result: die
   clue: Adjective
-- indication: water
-  result: der Schlamm
+- indication: der Schlamm
+  result: the mud
   clue: Adjective
-- indication: waterfall
-  result: der Vulkan
+- indication: der Vulkan
+  result: the volcano
   clue: Adjective
 - indication: wertschätzend
   result: appreciative / respectful
   clue: Adjective
   pronunciation: '[ˈveːɐ̯tˌʃɛt͡sənt]'
-- indication: willow
-  result: die Pappel
+- indication: die Pappel
+  result: the poplar
   clue: Adjective
 - indication: wirklichkeitsnah
   result: realistic / true-to-life
   clue: Adjective
   pronunciation: '[ˈvɪʁklɪçkaɪ̯tsˌnaː]'
-- indication: wood
-  result: die Blumenzwiebel
+- indication: die Blumenzwiebel
+  result: the flower bulb
   clue: Adjective
 - indication: würdigend
   result: appreciative / honoring
@@ -33,8 +33,8 @@
   result: expedient / goal-oriented / constructive / productivity
   clue: Adjective
   pronunciation: '[ˈtsiːlˌfyːʁənt]'
-- indication: zoo
-  result: die Landschaft
+- indication: die Landschaft
+  result: the landscape
   clue: Adjective
 - indication: zufolge
   result: according to

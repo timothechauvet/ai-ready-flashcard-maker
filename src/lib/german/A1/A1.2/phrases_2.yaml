@@ -31,11 +31,11 @@
 - indication: It’s windy.
   result: Es regnet / schneit.
   clue: Phrase
-- indication: January
-  result: time   |  die uhrzeit
+- indication: time   |  die uhrzeit
+  result: time |  the time
   clue: Phrase
-- indication: month
-  result: die zwei Wochen
+- indication: die zwei Wochen
+  result: the two weeks
   clue: Phrase
 - indication: monthly
   result: alle zwei Wochen
@@ -52,8 +52,8 @@
 - indication: tage, monate und jahreszeiten
   result: days, months, and seasons   |
   clue: Phrase
-- indication: the week after
-  result: die vorletzte Woche
+- indication: die vorletzte Woche
+  result: the week before last
   clue: Phrase
 - indication: today/tomorrow?
   result: What’s the forecast for

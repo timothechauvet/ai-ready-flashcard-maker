@@ -1,11 +1,11 @@
 - indication: (unter Rühren) kurz
   result: anbraten
   clue: Adjective
-- indication: '21'
-  result: der Zebrastreifen
+- indication: der Zebrastreifen
+  result: the zebra crossing
   clue: Adjective
-- indication: accelerator
-  result: die Bremse
+- indication: die Bremse
+  result: the brake
   clue: Adjective
 - indication: accessible parking space
   result: fpl
@@ -13,48 +13,48 @@
 - indication: accident
   result: vocabulary
   clue: Adjective
-- indication: adaptor
-  result: der Stecker
+- indication: der Stecker
+  result: the plug
   clue: Adjective
-- indication: aerial
-  result: der Schornstein
+- indication: der Schornstein
+  result: the chimney
   clue: Adjective
-- indication: air conditioning
-  result: das Gaspedal
+- indication: das Gaspedal
+  result: the accelerator pedal
   clue: Adjective
-- indication: airport bus
-  result: der Schulbus
+- indication: der Schulbus
+  result: the school bus
   clue: Adjective
 - indication: aluminium foil
   result: miscellaneous items
   clue: Adjective
-- indication: armchair
-  result: das Regal
+- indication: das Regal
+  result: the shelf
   clue: Adjective
-- indication: attic
-  result: der Keller
+- indication: der Keller
+  result: the cellar
   clue: Adjective
 - indication: Autowaschanlage
   result: die
   clue: Adjective
-- indication: back door
-  result: die Veranda
+- indication: die Veranda
+  result: the porch
   clue: Adjective
-- indication: battery
-  result: der Motor
+- indication: der Motor
+  result: the engine
   clue: Adjective
 - indication: bell
   result: accessories
   clue: Adjective
-- indication: bike lock
-  result: die Klingel
+- indication: die Klingel
+  result: the bell
   clue: Adjective
-- indication: bin bag
-  result: die Alufolie
+- indication: die Alufolie
+  result: the aluminum foil
   clue: Adjective
 - indication: boiler
   result: inside
   clue: Adjective
-- indication: bonnet
-  result: der Autoreifen
+- indication: der Autoreifen
+  result: the car tire
   clue: Adjective

@@ -1,38 +1,38 @@
 - indication: molar
   result: vocabulary
   clue: Adjective
-- indication: mouth
-  result: die Nase
+- indication: die Nase
+  result: the nose
   clue: Adjective
-- indication: muscle
-  result: der Knochen
+- indication: der Knochen
+  result: the bone
   clue: Adjective
-- indication: nausea
-  result: der Juckreiz
+- indication: der Juckreiz
+  result: the itching
   clue: Adjective
-- indication: neck
-  result: das Gesicht
+- indication: das Gesicht
+  result: the face
   clue: Adjective
-- indication: neck brace
-  result: der Eisbeutel
+- indication: der Eisbeutel
+  result: the ice pack
   clue: Adjective
-- indication: nerve
-  result: die Zelle
+- indication: die Zelle
+  result: the cell
   clue: Adjective
-- indication: nose
-  result: die Wange
+- indication: die Wange
+  result: the cheek
   clue: Adjective
 - indication: Ohrenentzündung
   result: die
   clue: Adjective
-- indication: ointment
-  result: die Halskrause
+- indication: die Halskrause
+  result: the ruff
   clue: Adjective
 - indication: organ
   result: vocabulary
   clue: Adjective
-- indication: organe ntpl
-  result: die Geschlechts­
+- indication: die Geschlechts­
+  result: the gender
   clue: Adjective
 - indication: paramedic
   result: vocabulary
@@ -40,21 +40,21 @@
 - indication: patient
   result: vocabulary
   clue: Adjective
-- indication: period pain
-  result: der Inhalator
+- indication: der Inhalator
+  result: the inhaler
   clue: Adjective
-- indication: pharmacy
-  result: die Apothekerin
+- indication: die Apothekerin
+  result: the pharmacist
   clue: Adjective
-- indication: prescription
-  result: die Schlaftablette
+- indication: die Schlaftablette
+  result: the sleeping pill
   clue: Adjective
-- indication: runny nose
-  result: der Ausschlag
+- indication: der Ausschlag
+  result: the rash
   clue: Adjective
 - indication: Schleudertrauma
   result: das
   clue: Adjective
-- indication: sense of touch
-  result: der Geschmack
+- indication: der Geschmack
+  result: the taste
   clue: Adjective

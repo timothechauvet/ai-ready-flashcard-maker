@@ -1,60 +1,60 @@
 - indication: airline
   result: vocabulary
   clue: Adjective
-- indication: airport
-  result: das Flugzeug
+- indication: das Flugzeug
+  result: the plane
   clue: Adjective
-- indication: allotment
-  result: der Kompost
+- indication: der Kompost
+  result: the compost
   clue: Adjective
 - indication: Ankünfte / Abflüge
   result: security
   clue: Adjective
-- indication: Arrivals/Departures
-  result: der Terminal
+- indication: der Terminal
+  result: the terminal
   clue: Adjective
-- indication: baggage reclaim
-  result: der Flughafen
+- indication: der Flughafen
+  result: the airport
   clue: Adjective
-- indication: balcony
-  result: das Fenster
+- indication: das Fenster
+  result: the window
   clue: Adjective
-- indication: basin
-  result: die Hausarbeit
+- indication: die Hausarbeit
+  result: the housework
   clue: Adjective
-- indication: bed
-  result: die Kommode
+- indication: die Kommode
+  result: the dresser
   clue: Adjective
-- indication: bedside table
-  result: die Matratze
+- indication: die Matratze
+  result: the mattress
   clue: Adjective
-- indication: birdbox
-  result: der Zaun
+- indication: der Zaun
+  result: the fence
   clue: Adjective
-- indication: bleach
-  result: der Papierkorb
+- indication: der Papierkorb
+  result: the trash can
   clue: Adjective
-- indication: boats
-  result: der Anlegeplatz
+- indication: der Anlegeplatz
+  result: the berth
   clue: Adjective
 - indication: bowl
   result: table settings
   clue: Adjective
-- indication: bunk beds
-  result: die Decke
+- indication: die Decke
+  result: the ceiling
   clue: Adjective
-- indication: cabin
-  result: die Bordkarte
+- indication: die Bordkarte
+  result: the boarding pass
   clue: Adjective
-- indication: cabin crew
-  result: die Zollabfertigung
+- indication: die Zollabfertigung
+  result: customs clearance
   clue: Adjective
-- indication: canal
-  result: der Jachthafen
+- indication: der Jachthafen
+  result: the marina
   clue: Adjective
-- indication: check-in desk
-  result: die Kabine
+- indication: die Kabine
+  result: the cabin
   clue: Adjective
-- indication: chest of drawers
-  result: der Spiegel
+- indication: der Spiegel
+  result: the mirror
   clue: Adjective

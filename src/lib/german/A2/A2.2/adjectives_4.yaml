@@ -1,60 +1,60 @@
-- indication: headlight
-  result: die Lenkstange
+- indication: die Lenkstange
+  result: the handlebar
   clue: Adjective
-- indication: high-speed train
-  result: das Eisenbahnnetz
+- indication: das Eisenbahnnetz
+  result: the railway network
   clue: Adjective
-- indication: hold
-  result: der Rumpf
+- indication: der Rumpf
+  result: the hull
   clue: Adjective
-- indication: hold luggage
-  result: der Frachtraum
+- indication: der Frachtraum
+  result: the cargo hold
   clue: Adjective
-- indication: iron
-  result: die Kehrschaufel
+- indication: die Kehrschaufel
+  result: the dustpan
   clue: Adjective
-- indication: jetty
-  result: der Hafen
+- indication: der Hafen
+  result: the port
   clue: Adjective
-- indication: lawnmower
-  result: die Hacke
+- indication: die Hacke
+  result: the hoe
   clue: Adjective
 - indication: leather jacket
   result: mpl
   clue: Adjective
-- indication: left luggage
-  result: die U-Bahnstation
+- indication: die U-Bahnstation
+  result: the subway station
   clue: Adjective
-- indication: lifebuoy
-  result: der Hafendamm
+- indication: der Hafendamm
+  result: the harbor embankment
   clue: Adjective
-- indication: lifejacket
-  result: der Rettungsring
+- indication: der Rettungsring
+  result: the lifebuoy
   clue: Adjective
-- indication: line
-  result: der Wagen
+- indication: der Wagen
+  result: the car
   clue: Adjective
-- indication: lock
-  result: die Schwimmweste
+- indication: die Schwimmweste
+  result: the life jacket
   clue: Adjective
-- indication: marina
-  result: der Hafen
+- indication: der Hafen
+  result: the port
   clue: Adjective
-- indication: master bedroom
-  result: das Doppelbett
+- indication: das Doppelbett
+  result: the double bed
   clue: Adjective
-- indication: mattress
-  result: das Kopfkissen
+- indication: das Kopfkissen
+  result: the pillow
   clue: Adjective
-- indication: metro station
-  result: die Linie
+- indication: die Linie
+  result: the line
   clue: Adjective
 - indication: mirror
   result: bathroom
   clue: Adjective
-- indication: mooring
-  result: die Schleuse
+- indication: die Schleuse
+  result: the lock
   clue: Adjective
-- indication: motorbike
-  result: die Lederjacke
+- indication: die Lederjacke
+  result: the leather jacket
   clue: Adjective

@@ -1,8 +1,8 @@
 - indication: day
   result: Dezember
   clue: Adjective
-- indication: decade
-  result: das Jahr
+- indication: das Jahr
+  result: the year
   clue: Adjective
 - indication: December
   result: November
@@ -13,23 +13,23 @@
 - indication: elf
   result: zehn
   clue: Adjective
-- indication: evening
-  result: der Nachmittag
+- indication: der Nachmittag
+  result: the afternoon
   clue: Adjective
 - indication: every Sunday
   result: montags
   clue: Adjective
-- indication: factory
-  result: die Baustelle
+- indication: die Baustelle
+  result: the construction site
   clue: Adjective
 - indication: February
   result: Januar
   clue: Adjective
-- indication: fog
-  result: der Dunst
+- indication: der Dunst
+  result: the haze
   clue: Adjective
-- indication: fortnight
-  result: die Woche
+- indication: die Woche
+  result: the week
   clue: Adjective
 - indication: Friday
   result: Donnerstag
@@ -46,14 +46,14 @@
 - indication: fünfzig
   result: vierzig
   clue: Adjective
-- indication: gale
-  result: der Wind
+- indication: der Wind
+  result: the wind
   clue: Adjective
-- indication: government
-  result: die Fabrik
+- indication: die Fabrik
+  result: the factory
   clue: Adjective
-- indication: hail
-  result: der Schnee
+- indication: der Schnee
+  result: the snow
   clue: Adjective
 - indication: heiß
   result: warm

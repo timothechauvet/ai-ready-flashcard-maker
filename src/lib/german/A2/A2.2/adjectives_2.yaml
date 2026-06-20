@@ -1,53 +1,53 @@
 - indication: chores
   result: ntpl
   clue: Adjective
-- indication: clock radio
-  result: das Etagenbett
+- indication: das Etagenbett
+  result: the bunk bed
   clue: Adjective
-- indication: clothes horse
-  result: der Lappen
+- indication: der Lappen
+  result: the rag
   clue: Adjective
-- indication: coastguard
-  result: der Kanal
+- indication: der Kanal
+  result: the channel
   clue: Adjective
-- indication: coat hanger
-  result: der Radiowecker
+- indication: der Radiowecker
+  result: the clock radio
   clue: Adjective
-- indication: compost
-  result: das Blumenbeet
+- indication: das Blumenbeet
+  result: the flowerbed
   clue: Adjective
-- indication: couchette
-  result: der Wagen
+- indication: der Wagen
+  result: the car
   clue: Adjective
-- indication: curtains
-  result: die Bettdecke
+- indication: die Bettdecke
+  result: the bed cover
   clue: Adjective
-- indication: customs
-  result: die Passkontrolle
+- indication: die Passkontrolle
+  result: passport control
   clue: Adjective
-- indication: deck
-  result: das Autodeck
+- indication: das Autodeck
+  result: the car deck
   clue: Adjective
-- indication: departure board
-  result: der Liegeplatz
+- indication: der Liegeplatz
+  result: the berth
   clue: Adjective
 - indication: Desinfektionsmittel
   result: das
   clue: Adjective
-- indication: digkeitszug
-  result: der Hochgeschwin-
+- indication: der Hochgeschwin-
+  result: the high speed
   clue: Adjective
-- indication: disinfectant
-  result: die Bleiche
+- indication: die Bleiche
+  result: the bleach
   clue: Adjective
-- indication: double bed
-  result: das Einzelbett
+- indication: das Einzelbett
+  result: the single bed
   clue: Adjective
 - indication: Duschabtrennung
   result: die
   clue: Adjective
-- indication: duvet
-  result: der Kleiderschrank
+- indication: der Kleiderschrank
+  result: the wardrobe
   clue: Adjective
 - indication: Fahrkartenschalter
   result: der

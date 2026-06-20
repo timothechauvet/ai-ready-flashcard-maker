@@ -1,29 +1,29 @@
-- indication: '51'
-  result: pharmacy   |  die apotheke
+- indication: pharmacy   |  die apotheke
+  result: pharmacy |  the pharmacy
   clue: Phrase
-- indication: '53'
-  result: newsagent   |  der zeitungsladen
+- indication: newsagent   |  der zeitungsladen
+  result: newsagent |  the newsagent
   clue: Phrase
-- indication: '54'
-  result: department store   |  das kaufhaus
+- indication: department store   |  das kaufhaus
+  result: department store |  the department store
   clue: Phrase
 - indication: '55'
   result: clothing and footwear   |  kleidung und schuhe
   clue: Phrase
-- indication: '57'
-  result: diy store   |  der baumarkt
+- indication: diy store   |  der baumarkt
+  result: diy store |  the hardware store
   clue: Phrase
-- indication: '66'
-  result: education   |  die bildung
+- indication: education   |  die bildung
+  result: education |  the education
   clue: Phrase
-- indication: '67'
-  result: education   |  die bildung
+- indication: education   |  die bildung
+  result: education |  the education
   clue: Phrase
-- indication: '69'
-  result: the bank   |  auf der bank
+- indication: the bank   |  auf der bank
+  result: the bank |  on the bench
   clue: Phrase
-- indication: assignment
-  result: die Hausaufgaben fpl
+- indication: die Hausaufgaben fpl
+  result: the homework fpl
   clue: Phrase
 - indication: Ausgänge
   result: Eingänge /
@@ -31,30 +31,30 @@
 - indication: baby food
   result: health and hygiene
   clue: Phrase
-- indication: bra
-  result: die Boxershorts pl
+- indication: die Boxershorts pl
+  result: boxer shorts pl
   clue: Phrase
 - indication: café
   result: places of importance
   clue: Phrase
-- indication: client
-  result: die Mitarbeiter mpl
+- indication: die Mitarbeiter mpl
+  result: the employees mpl
   clue: Phrase
-- indication: court shoes
-  result: die Stiefel mpl
+- indication: die Stiefel mpl
+  result: the boots mpl
   clue: Phrase
-- indication: eraser
-  result: die Farbstifte mpl
+- indication: die Farbstifte mpl
+  result: the colored pencils mpl
   clue: Phrase
-- indication: footwear
-  result: die Lebensmittel ntpl
+- indication: die Lebensmittel ntpl
+  result: the food ntpl
   clue: Phrase
-- indication: furniture
-  result: die Schuhe mpl
+- indication: die Schuhe mpl
+  result: the shoes mpl
   clue: Phrase
-- indication: high heels
-  result: die Pumps mpl
+- indication: die Pumps mpl
+  result: the pumps mpl
   clue: Phrase
-- indication: insect repellent
-  result: die Tropfen mpl
+- indication: die Tropfen mpl
+  result: the drops mpl
   clue: Phrase

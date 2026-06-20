@@ -1,60 +1,60 @@
-- indication: parking meter
-  result: die Autobahn
+- indication: die Autobahn
+  result: the highway
   clue: Adjective
-- indication: parking space
-  result: die Parkuhr
+- indication: die Parkuhr
+  result: the parking meter
   clue: Adjective
-- indication: parkplatz
-  result: der Behinderten-
+- indication: der Behinderten-
+  result: the disabled
   clue: Adjective
-- indication: passenger
-  result: die Fahrerin
+- indication: die Fahrerin
+  result: the driver
   clue: Adjective
-- indication: pedal
-  result: der Rahmen
+- indication: der Rahmen
+  result: the frame
   clue: Adjective
-- indication: picture
-  result: das Sofa
+- indication: das Sofa
+  result: the sofa
   clue: Adjective
-- indication: place mat
-  result: der Esstisch
+- indication: der Esstisch
+  result: the dining table
   clue: Adjective
-- indication: plug
-  result: die Batterie
+- indication: die Batterie
+  result: the battery
   clue: Adjective
-- indication: porch
-  result: der Boden
+- indication: der Boden
+  result: the floor
   clue: Adjective
-- indication: pothole
-  result: die Tankstelle
+- indication: die Tankstelle
+  result: the gas station
   clue: Adjective
-- indication: power cut
-  result: die Parabolantenne
+- indication: die Parabolantenne
+  result: the parabolic antenna
   clue: Adjective
-- indication: puncture repair kit
-  result: der Radweg
+- indication: der Radweg
+  result: the bike path
   clue: Adjective
 - indication: radio
   result: Blu­ray­Player®
   clue: Adjective
-- indication: remote control
-  result: das Radio
+- indication: das Radio
+  result: the radio
   clue: Adjective
-- indication: rental agreement
-  result: die Miete
+- indication: die Miete
+  result: the rent
   clue: Adjective
-- indication: road
-  result: das Schlagloch
+- indication: das Schlagloch
+  result: the pothole
   clue: Adjective
-- indication: roof
-  result: der Kofferraum
+- indication: der Kofferraum
+  result: the trunk
   clue: Adjective
 - indication: room
   result: vocabulary
   clue: Adjective
-- indication: rug
-  result: der Schemel
+- indication: der Schemel
+  result: the stool
   clue: Adjective
-- indication: rush hour
-  result: der Verkehrsstau
+- indication: der Verkehrsstau
+  result: the traffic jam
   clue: Adjective

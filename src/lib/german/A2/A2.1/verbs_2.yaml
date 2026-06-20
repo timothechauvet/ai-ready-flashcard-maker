@@ -10,8 +10,8 @@
 - indication: umziehen
   result: to move house
   clue: Verb
-- indication: windscreen
-  result: die Motorhaube
+- indication: die Motorhaube
+  result: the hood
   clue: Verb
 - indication: wohnen
   result: to live

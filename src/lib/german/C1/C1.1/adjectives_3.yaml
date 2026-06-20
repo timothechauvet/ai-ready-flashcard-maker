@@ -1,60 +1,60 @@
-- indication: examination
-  result: die Klinik
+- indication: die Klinik
+  result: the clinic
   clue: Adjective
-- indication: extraction
-  result: der Abszess
+- indication: der Abszess
+  result: the abscess
   clue: Adjective
-- indication: eye
-  result: die Stirn
+- indication: die Stirn
+  result: the forehead
   clue: Adjective
-- indication: eyebrow
-  result: die Wimper
+- indication: die Wimper
+  result: the eyelash
   clue: Adjective
-- indication: eyelash
-  result: die Brust
+- indication: die Brust
+  result: the chest
   clue: Adjective
-- indication: eyelid
-  result: die Augenbraue
+- indication: die Augenbraue
+  result: the eyebrow
   clue: Adjective
-- indication: face
-  result: der Kopf
+- indication: der Kopf
+  result: the head
   clue: Adjective
-- indication: fainting
-  result: das Husten
+- indication: das Husten
+  result: the coughing
   clue: Adjective
-- indication: fever
-  result: der Ohnmachtsanfall
+- indication: der Ohnmachtsanfall
+  result: the fainting spell
   clue: Adjective
-- indication: first aid
-  result: der Sonnenbrand
+- indication: der Sonnenbrand
+  result: the sunburn
   clue: Adjective
-- indication: foot
-  result: das Schienbein
+- indication: das Schienbein
+  result: the shinbone
   clue: Adjective
-- indication: forehead
-  result: das Haar
+- indication: das Haar
+  result: the hair
   clue: Adjective
-- indication: fracture
-  result: die Schnittverletzung
+- indication: die Schnittverletzung
+  result: the cut injury
   clue: Adjective
-- indication: genitals
-  result: die Achsel
+- indication: die Achsel
+  result: the armpit
   clue: Adjective
-- indication: Gesundheit
-  result: die geistige
+- indication: die geistige
+  result: the spiritual
   clue: Adjective
-- indication: graze
-  result: der Bruch
+- indication: der Bruch
+  result: the break
   clue: Adjective
-- indication: hand
-  result: der Unterleib
+- indication: der Unterleib
+  result: the abdomen
   clue: Adjective
-- indication: health insurance
-  result: die Behandlung
+- indication: die Behandlung
+  result: the treatment
   clue: Adjective
 - indication: healthy
   result: ungskarte
   clue: Adjective
-- indication: heart
-  result: das Gehirn
+- indication: das Gehirn
+  result: the brain
   clue: Adjective

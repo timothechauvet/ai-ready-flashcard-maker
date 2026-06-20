@@ -1,14 +1,14 @@
-- indication: fisherman
-  result: die Feuerwehrfrau
+- indication: die Feuerwehrfrau
+  result: the firefighter
   clue: Adjective
-- indication: girlfriend
-  result: der Freund
+- indication: der Freund
+  result: the friend
   clue: Adjective
 - indication: glücklich
   result: excited
   clue: Adjective
-- indication: grandfather
-  result: die Schwester
+- indication: die Schwester
+  result: the sister
   clue: Adjective
 - indication: happy
   result: Sie sind…
@@ -22,26 +22,26 @@
 - indication: Irish
   result: englisch
   clue: Adjective
-- indication: joiner
-  result: die Informatikerin
+- indication: die Informatikerin
+  result: the computer scientist
   clue: Adjective
-- indication: mother
-  result: der Vater
+- indication: der Vater
+  result: the father
   clue: Adjective
-- indication: nephew
-  result: die Tante
+- indication: die Tante
+  result: the aunt
   clue: Adjective
-- indication: niece
-  result: der Neffe
+- indication: der Neffe
+  result: the nephew
   clue: Adjective
-- indication: nurse
-  result: die Mechanikerin
+- indication: die Mechanikerin
+  result: the mechanic
   clue: Adjective
-- indication: parents
-  result: die Tochter
+- indication: die Tochter
+  result: the daughter
   clue: Adjective
-- indication: partner
-  result: die Freundin
+- indication: die Freundin
+  result: the girlfriend
   clue: Adjective
 - indication: Scottish
   result: Ich bin…
@@ -49,11 +49,11 @@
 - indication: Sie fühlen sich…
   result: well
   clue: Adjective
-- indication: sister
-  result: der Bruder
+- indication: der Bruder
+  result: the brother
   clue: Adjective
-- indication: son
-  result: die Verlobte
+- indication: die Verlobte
+  result: the fiancée
   clue: Adjective
 - indication: surprised
   result: ruhig

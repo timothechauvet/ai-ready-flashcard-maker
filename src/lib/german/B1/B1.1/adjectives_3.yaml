@@ -4,29 +4,29 @@
 - indication: coffee
   result: pl
   clue: Adjective
-- indication: coins
-  result: der Kartenleser
+- indication: der Kartenleser
+  result: the card reader
   clue: Adjective
-- indication: contactless
-  result: das Wechselgeld
+- indication: das Wechselgeld
+  result: the change
   clue: Adjective
-- indication: crab
-  result: die Venusmuschel
+- indication: die Venusmuschel
+  result: the clam
   clue: Adjective
-- indication: crayfish
-  result: die Krabbe
+- indication: die Krabbe
+  result: the crab
   clue: Adjective
-- indication: cream
-  result: die Butter
+- indication: die Butter
+  result: the butter
   clue: Adjective
-- indication: crisps
-  result: die Schokolade
+- indication: die Schokolade
+  result: the chocolate
   clue: Adjective
-- indication: croissant
-  result: das Baguette
+- indication: das Baguette
+  result: the baguette
   clue: Adjective
-- indication: daily specials
-  result: die Tageskarte
+- indication: die Tageskarte
+  result: the day ticket
   clue: Adjective
 - indication: dairy
   result: tiefgefroren
@@ -34,26 +34,26 @@
 - indication: dairy-free
   result: aus Freilandhaltung
   clue: Adjective
-- indication: data
-  result: die App
+- indication: die App
+  result: the app
   clue: Adjective
 - indication: delivery charge
   result: zum Mitnehmen
   clue: Adjective
-- indication: desserts
-  result: das Schnitzel
+- indication: das Schnitzel
+  result: the schnitzel
   clue: Adjective
-- indication: double cream
-  result: das Eigelb
+- indication: das Eigelb
+  result: the egg yolk
   clue: Adjective
-- indication: drink
-  result: das Essen
+- indication: das Essen
+  result: the food
   clue: Adjective
-- indication: duck
-  result: das Wild
+- indication: das Wild
+  result: the game
   clue: Adjective
-- indication: egg
-  result: die Sahne
+- indication: die Sahne
+  result: the cream
   clue: Adjective
 - indication: egg white
   result: vocabulary

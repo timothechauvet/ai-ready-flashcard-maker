@@ -1,8 +1,8 @@
 - indication: entgrätet
   result: deboned
   clue: Adjective
-- indication: farmer’s market
-  result: die Markthalle
+- indication: die Markthalle
+  result: the market hall
   clue: Adjective
 - indication: fast-food chain
   result: vocabulary
@@ -13,41 +13,41 @@
 - indication: fishmonger
   result: vocabulary
   clue: Adjective
-- indication: fizzy drink
-  result: das Bier
+- indication: das Bier
+  result: the beer
   clue: Adjective
-- indication: flea market
-  result: der Marktplatz
+- indication: der Marktplatz
+  result: the marketplace
   clue: Adjective
 - indication: food
   result: vocabulary
   clue: Adjective
-- indication: food stall
-  result: die Fastfood-Kette
+- indication: die Fastfood-Kette
+  result: the fast food chain
   clue: Adjective
-- indication: fpl
-  result: die Rinderrouladen
+- indication: die Rinderrouladen
+  result: the beef roulades
   clue: Adjective
 - indication: fresh
   result: konserviert
   clue: Adjective
-- indication: fried eggs
-  result: der Quark
+- indication: der Quark
+  result: the quark
   clue: Adjective
-- indication: fried potatoes
-  result: der Gurkensalat
+- indication: der Gurkensalat
+  result: the cucumber salad
   clue: Adjective
-- indication: fries
-  result: der Hamburger
+- indication: der Hamburger
+  result: the hamburger
   clue: Adjective
 - indication: frisch
   result: fresh
   clue: Adjective
-- indication: fruit juice
-  result: die Limo
+- indication: die Limo
+  result: the limo
   clue: Adjective
-- indication: gammon with
-  result: der Brathering
+- indication: der Brathering
+  result: the fried herring
   clue: Adjective
 - indication: geräuchert
   result: smoked

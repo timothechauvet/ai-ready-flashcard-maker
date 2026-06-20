@@ -1,8 +1,8 @@
 - indication: Boulevardzeitung
   result: die
   clue: Adjective
-- indication: boxer shorts
-  result: die Bluse
+- indication: die Bluse
+  result: the blouse
   clue: Adjective
 - indication: branch
   result: vocabulary
@@ -13,48 +13,48 @@
 - indication: broadsheet
   result: vocabulary
   clue: Adjective
-- indication: bubble bath
-  result: die Wegwerfwindel
+- indication: die Wegwerfwindel
+  result: the disposable diaper
   clue: Adjective
 - indication: cafeteria
   result: higher education
   clue: Adjective
-- indication: campus
-  result: die Cafeteria
+- indication: die Cafeteria
+  result: the cafeteria
   clue: Adjective
-- indication: capsule
-  result: der Verband
+- indication: der Verband
+  result: the association
   clue: Adjective
-- indication: cashier
-  result: die Zweigstelle
+- indication: die Zweigstelle
+  result: the branch
   clue: Adjective
-- indication: cathedral
-  result: das Café
+- indication: das Café
+  result: the cafe
   clue: Adjective
-- indication: changing bag
-  result: die Babyflasche
+- indication: die Babyflasche
+  result: the baby bottle
   clue: Adjective
-- indication: church
-  result: die Kathedrale
+- indication: die Kathedrale
+  result: cathedral
   clue: Adjective
-- indication: cigar
-  result: das Buch
+- indication: das Buch
+  result: the book
   clue: Adjective
-- indication: cigarette
-  result: die Zigarre
+- indication: die Zigarre
+  result: the cigar
   clue: Adjective
-- indication: classroom
-  result: die Hausmeisterin
+- indication: die Hausmeisterin
+  result: the caretaker
   clue: Adjective
-- indication: clothes/clothing
-  result: die Umkleidekabine
+- indication: die Umkleidekabine
+  result: the changing room
   clue: Adjective
 - indication: clothing
   result: stillen
   clue: Adjective
-- indication: coat
-  result: die Strickjacke
+- indication: die Strickjacke
+  result: the cardigan
   clue: Adjective
-- indication: coffee with milk
-  result: die Untertasse
+- indication: die Untertasse
+  result: the saucer
   clue: Adjective

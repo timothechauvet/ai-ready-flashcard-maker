@@ -1,53 +1,53 @@
-- indication: postal van
-  result: die Adresse
+- indication: die Adresse
+  result: the address
   clue: Adjective
-- indication: postbox
-  result: die Postangestellte
+- indication: die Postangestellte
+  result: the postal worker
   clue: Adjective
-- indication: postcard
-  result: der Bleistift
+- indication: der Bleistift
+  result: the pencil
   clue: Adjective
-- indication: powder
-  result: der Nagellack
+- indication: der Nagellack
+  result: the nail polish
   clue: Adjective
-- indication: power tool
-  result: das Werkzeug
+- indication: das Werkzeug
+  result: the tool
   clue: Adjective
-- indication: pram
-  result: der Moseskorb
+- indication: der Moseskorb
+  result: the moses basket
   clue: Adjective
-- indication: primary school
-  result: die Vorschule
+- indication: die Vorschule
+  result: the preschool
   clue: Adjective
-- indication: pupil
-  result: die Lehrerin
+- indication: die Lehrerin
+  result: the teacher
   clue: Adjective
-- indication: pushchair
-  result: der Kinderwagen
+- indication: der Kinderwagen
+  result: the stroller
   clue: Adjective
-- indication: puzzle book
-  result: die Postkarte
+- indication: die Postkarte
+  result: the postcard
   clue: Adjective
-- indication: pyjamas
-  result: die Unterhose
+- indication: die Unterhose
+  result: the underpants
   clue: Adjective
-- indication: report
-  result: der Vortrag
+- indication: der Vortrag
+  result: the lecture
   clue: Adjective
-- indication: rusk
-  result: die Windelcreme
+- indication: die Windelcreme
+  result: the diaper cream
   clue: Adjective
-- indication: safety deposit box
-  result: der Wechselkurs
+- indication: der Wechselkurs
+  result: the exchange rate
   clue: Adjective
-- indication: saucer
-  result: der Henkel
+- indication: der Henkel
+  result: the handle
   clue: Adjective
-- indication: saw
-  result: die Zange
+- indication: die Zange
+  result: the pliers
   clue: Adjective
-- indication: scent
-  result: der Schmuck
+- indication: der Schmuck
+  result: the jewelry
   clue: Adjective
 - indication: Schraubenschlüssel
   result: der
@@ -55,6 +55,6 @@
 - indication: Schreibtischlampe
   result: die
   clue: Adjective
-- indication: schutzmittel
-  result: das Insekten-
+- indication: das Insekten-
+  result: the insect
   clue: Adjective

@@ -1,60 +1,60 @@
-- indication: jogging bottoms
-  result: die Jeans pl
+- indication: die Jeans pl
+  result: jeans pl
   clue: Phrase
-- indication: lighting
-  result: die Lederwaren fpl
+- indication: die Lederwaren fpl
+  result: the leather goods fpl
   clue: Phrase
-- indication: pants
-  result: die Leggings pl
+- indication: die Leggings pl
+  result: leggings pl
   clue: Phrase
-- indication: sandals
-  result: die Strandschuhe mpl
+- indication: die Strandschuhe mpl
+  result: the beach shoes mpl
   clue: Phrase
-- indication: second-class
-  result: in town   |  in der stadt
+- indication: in town   |  in der stadt
+  result: in town |  in the city
   clue: Phrase
-- indication: skirt
-  result: die Shorts pl
+- indication: die Shorts pl
+  result: shorts pl
   clue: Phrase
-- indication: slippers
-  result: die Sandalen fpl
+- indication: die Sandalen fpl
+  result: the sandals fpl
   clue: Phrase
-- indication: spanner
-  result: die Schrauben fpl
+- indication: die Schrauben fpl
+  result: the screws fpl
   clue: Phrase
-- indication: spreadsheet
-  result: die Zahlen fpl
+- indication: die Zahlen fpl
+  result: the numbers fpl
   clue: Phrase
-- indication: staff
-  result: der Chef / die Chefin
+- indication: der Chef / die Chefin
+  result: the boss
   clue: Phrase
-- indication: suit
-  result: die Socken fpl
+- indication: die Socken fpl
+  result: the socks fpl
   clue: Phrase
 - indication: to be in the sale
   result: verkauft werden
   clue: Phrase
-- indication: to be on sale
-  result: der Ausverkauf
+- indication: der Ausverkauf
+  result: the sellout
   clue: Phrase
-- indication: to borrow
-  result: die Zinsen pl
+- indication: die Zinsen pl
+  result: interest pl
   clue: Phrase
 - indication: to hold a meeting
   result: halten
   clue: Phrase
-- indication: toys
-  result: die Wohntextilien fpl
+- indication: die Wohntextilien fpl
+  result: the home textiles fpl
   clue: Phrase
-- indication: trainers
-  result: die Pantoffeln fpl
+- indication: die Pantoffeln fpl
+  result: the slippers fpl
   clue: Phrase
-- indication: underwear
-  result: die Schuhe mpl
+- indication: die Schuhe mpl
+  result: the shoes mpl
   clue: Phrase
-- indication: wallpaper
-  result: die Fliesen fpl
+- indication: die Fliesen fpl
+  result: the tiles fpl
   clue: Phrase
-- indication: Wellington boots
-  result: die Sportschuhe mpl
+- indication: die Sportschuhe mpl
+  result: the sports shoes mpl
   clue: Phrase

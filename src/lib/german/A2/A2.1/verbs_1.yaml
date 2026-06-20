@@ -37,8 +37,8 @@
 - indication: kochen
   result: to boil
   clue: Verb
-- indication: machen
-  result: eine Fahrradfahrt
+- indication: eine Fahrradfahrt
+  result: a bike ride
   clue: Verb
 - indication: mieten
   result: to rent

@@ -1,60 +1,60 @@
-- indication: satellite dish
-  result: die Zentralheizung
+- indication: die Zentralheizung
+  result: the central heating
   clue: Adjective
-- indication: school bus
-  result: der Shuttlebus
+- indication: der Shuttlebus
+  result: the shuttle bus
   clue: Adjective
-- indication: seatbelt
-  result: das Navi
+- indication: das Navi
+  result: the navigation system
   clue: Adjective
-- indication: semi-detached house
-  result: der Bauernhof
+- indication: der Bauernhof
+  result: the farm
   clue: Adjective
-- indication: shelves
-  result: das Ornament
+- indication: das Ornament
+  result: the ornament
   clue: Adjective
-- indication: shutter
-  result: das Fenster
+- indication: das Fenster
+  result: the window
   clue: Adjective
-- indication: shuttle bus
-  result: der Nachtbus
+- indication: der Nachtbus
+  result: the night bus
   clue: Adjective
 - indication: sich die Füße
   result: abtreten
   clue: Adjective
-- indication: sideboard
-  result: die Fernbedienung
+- indication: die Fernbedienung
+  result: the remote control
   clue: Adjective
-- indication: skylight
-  result: der Balkon
+- indication: der Balkon
+  result: the balcony
   clue: Adjective
-- indication: slip road
-  result: die Ausfahrt
+- indication: die Ausfahrt
+  result: the exit
   clue: Adjective
-- indication: socket
-  result: der Adapter
+- indication: der Adapter
+  result: the adapter
   clue: Adjective
-- indication: sofa
-  result: der Couchtisch
+- indication: der Couchtisch
+  result: the coffee table
   clue: Adjective
-- indication: sofa bed
-  result: die Garnitur
+- indication: die Garnitur
+  result: the set
   clue: Adjective
-- indication: spatula
-  result: das Sieb
+- indication: das Sieb
+  result: the sieve
   clue: Adjective
-- indication: speed limit
-  result: die Parkbucht
+- indication: die Parkbucht
+  result: the parking bay
   clue: Adjective
-- indication: speedometer
-  result: der Sicherheitsgurt
+- indication: der Sicherheitsgurt
+  result: the seat belt
   clue: Adjective
-- indication: staircase
-  result: das Treppenhaus
+- indication: das Treppenhaus
+  result: the stairwell
   clue: Adjective
-- indication: stairwell
-  result: der Treppenabsatz
+- indication: der Treppenabsatz
+  result: the landing
   clue: Adjective
-- indication: steering wheel
-  result: der Tachometer
+- indication: der Tachometer
+  result: the speedometer
   clue: Adjective

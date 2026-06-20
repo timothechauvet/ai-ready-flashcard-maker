@@ -1,11 +1,11 @@
-- indication: box
-  result: die Flasche
+- indication: die Flasche
+  result: the bottle
   clue: Adjective
-- indication: bread and jam
-  result: das Butterbrot
+- indication: das Butterbrot
+  result: the bread and butter
   clue: Adjective
-- indication: bread basket
-  result: die Rechnung
+- indication: die Rechnung
+  result: the bill
   clue: Adjective
 - indication: bread rolls
   result: ntpl
@@ -13,8 +13,8 @@
 - indication: breakfast bar
   result: vocabulary
   clue: Adjective
-- indication: burger
-  result: die Bratwurst
+- indication: die Bratwurst
+  result: the bratwurst
   clue: Adjective
 - indication: butcher
   result: vocabulary
@@ -22,35 +22,35 @@
 - indication: butter
   result: milchfrei
   clue: Adjective
-- indication: button
-  result: der Bildschirm
+- indication: der Bildschirm
+  result: the screen
   clue: Adjective
-- indication: cable
-  result: der Akku
+- indication: der Akku
+  result: the battery
   clue: Adjective
-- indication: caged
-  result: die Halbfettmilch
+- indication: die Halbfettmilch
+  result: the semi-skimmed milk
   clue: Adjective
-- indication: carton
-  result: die Schachtel
+- indication: die Schachtel
+  result: the box
   clue: Adjective
-- indication: cash
-  result: der Markt
+- indication: der Markt
+  result: the market
   clue: Adjective
-- indication: chair
-  result: der Brotkorb
+- indication: der Brotkorb
+  result: the bread basket
   clue: Adjective
-- indication: champagne flute
-  result: der Stuhl
+- indication: der Stuhl
+  result: the chair
   clue: Adjective
-- indication: change
-  result: das Bargeld
+- indication: das Bargeld
+  result: the cash
   clue: Adjective
 - indication: charger
   result: ausschalten
   clue: Adjective
-- indication: cheese knife
-  result: das Sektglas
+- indication: das Sektglas
+  result: the champagne glass
   clue: Adjective
 - indication: chips
   result: sides

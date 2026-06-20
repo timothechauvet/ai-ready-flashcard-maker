@@ -1,60 +1,60 @@
-- indication: margarine
-  result: die saure Sahne
+- indication: die saure Sahne
+  result: the sour cream
   clue: Phrase
-- indication: menu
-  result: der Krug Wasser
+- indication: der Krug Wasser
+  result: the jug of water
   clue: Phrase
-- indication: mobile phone
-  result: die Daten ntpl
+- indication: die Daten ntpl
+  result: the data ntpl
   clue: Phrase
-- indication: ntpl
-  result: die verlorene Eier
+- indication: die verlorene Eier
+  result: the lost eggs
   clue: Phrase
-- indication: pancake soup
-  result: die Frikadellen fpl
+- indication: die Frikadellen fpl
+  result: the meatballs fpl
   clue: Phrase
-- indication: pasta
-  result: die Nudeln fpl
+- indication: die Nudeln fpl
+  result: the noodles fpl
   clue: Phrase
-- indication: pepper
-  result: die Nudeln fpl
+- indication: die Nudeln fpl
+  result: the noodles fpl
   clue: Phrase
-- indication: Pfeffer
-  result: das Salz und der
+- indication: das Salz und der
+  result: the salt and the
   clue: Phrase
-- indication: poached eggs
-  result: die Spiegeleier ntpl
+- indication: die Spiegeleier ntpl
+  result: the fried eggs ntpl
   clue: Phrase
-- indication: popcorn
-  result: die Oliven fpl
+- indication: die Oliven fpl
+  result: the olives fpl
   clue: Phrase
-- indication: potato fritters
-  result: die Kartoffeln fpl
+- indication: die Kartoffeln fpl
+  result: the potatoes fpl
   clue: Phrase
-- indication: potatoes
-  result: die Nudeln fpl
+- indication: die Nudeln fpl
+  result: the noodles fpl
   clue: Phrase
 - indication: sauce
   result: sausage with curry
   clue: Phrase
-- indication: schnitzel
-  result: die Kohlrouladen fpl
+- indication: die Kohlrouladen fpl
+  result: the cabbage rolls fpl
   clue: Phrase
-- indication: service charge
-  result: die Tagesgerichte ntpl
+- indication: die Tagesgerichte ntpl
+  result: the daily specials ntpl
   clue: Phrase
-- indication: spinach
-  result: der rote Paprika
+- indication: der rote Paprika
+  result: the red pepper
   clue: Phrase
 - indication: starters
   result: zum Essen ausgehen
   clue: Phrase
-- indication: stuffed cabbage leaves
-  result: die Maultaschen fpl
+- indication: die Maultaschen fpl
+  result: the maultaschen fpl
   clue: Phrase
 - indication: to ask for the bill
   result: bestellen
   clue: Phrase
-- indication: to browse
-  result: die Lebensmittel ntpl
+- indication: die Lebensmittel ntpl
+  result: the food ntpl
   clue: Phrase

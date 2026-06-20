@@ -1,36 +1,36 @@
-- indication: Venetian blind
-  result: der Fernsehschrank
+- indication: der Fernsehschrank
+  result: the tv cabinet
   clue: Adjective
 - indication: Verlängerungskabel
   result: das
   clue: Adjective
-- indication: versicherung
-  result: die Kraftfahrzeug-
+- indication: die Kraftfahrzeug-
+  result: the motor vehicle
   clue: Adjective
-- indication: villa
-  result: das Stadthaus
+- indication: das Stadthaus
+  result: the townhouse
   clue: Adjective
-- indication: vocabulary
-  result: der Zeitplan
+- indication: der Zeitplan
+  result: the schedule
   clue: Adjective
-- indication: wall
-  result: die Decke
+- indication: die Decke
+  result: the ceiling
   clue: Adjective
-- indication: wheel
-  result: das Fenster
+- indication: das Fenster
+  result: the window
   clue: Adjective
-- indication: window
-  result: das Dach
+- indication: das Dach
+  result: the roof
   clue: Adjective
-- indication: window cleaner
-  result: der Stromausfall
+- indication: der Stromausfall
+  result: the power outage
   clue: Adjective
 - indication: Windschutzscheibe
   result: die
   clue: Adjective
-- indication: worktop
-  result: die Schublade
+- indication: die Schublade
+  result: the drawer
   clue: Adjective
-- indication: zebra crossing
-  result: der Tunnel
+- indication: der Tunnel
+  result: the tunnel
   clue: Adjective

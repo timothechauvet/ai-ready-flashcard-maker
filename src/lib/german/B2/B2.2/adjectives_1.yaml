@@ -1,35 +1,35 @@
 - indication: accordion
   result: musical instruments
   clue: Adjective
-- indication: acoustic guitar
-  result: das Akkordeon
+- indication: das Akkordeon
+  result: the accordion
   clue: Adjective
 - indication: American football
   result: vocabulary
   clue: Adjective
-- indication: athletics   |  athletik
-  result: die Spur
+- indication: die Spur
+  result: the trail
   clue: Adjective
-- indication: avalanche
-  result: das Eis
+- indication: das Eis
+  result: the ice cream
   clue: Adjective
-- indication: avalanche risk
-  result: die Lawine
+- indication: die Lawine
+  result: the avalanche
   clue: Adjective
-- indication: bass drum
-  result: die Akustikgitarre
+- indication: die Akustikgitarre
+  result: the acoustic guitar
   clue: Adjective
 - indication: Bluetooth® speaker
   result: equipment
   clue: Adjective
-- indication: boxer
-  result: der Kampf
+- indication: der Kampf
+  result: the fight
   clue: Adjective
 - indication: boxing ring
   result: mpl
   clue: Adjective
-- indication: boxing shoes
-  result: der Boxring
+- indication: der Boxring
+  result: the boxing ring
   clue: Adjective
 - indication: camera lens
   result: heranzoomen
@@ -37,24 +37,24 @@
 - indication: canvas
   result: art materials
   clue: Adjective
-- indication: cello
-  result: der E-Bass
+- indication: der E-Bass
+  result: the electric bass
   clue: Adjective
-- indication: clarinet
-  result: das Cello
+- indication: das Cello
+  result: the cello
   clue: Adjective
-- indication: clubhouse
-  result: das Loch
+- indication: das Loch
+  result: the hole
   clue: Adjective
-- indication: compact camera
-  result: das Objektiv
+- indication: das Objektiv
+  result: the lens
   clue: Adjective
-- indication: conductor
-  result: der Chor
+- indication: der Chor
+  result: the choir
   clue: Adjective
-- indication: craft fair
-  result: das Kunsthandwerk
+- indication: das Kunsthandwerk
+  result: the handicrafts
   clue: Adjective
-- indication: cymbals
-  result: die Klarinette
+- indication: die Klarinette
+  result: the clarinet
   clue: Adjective

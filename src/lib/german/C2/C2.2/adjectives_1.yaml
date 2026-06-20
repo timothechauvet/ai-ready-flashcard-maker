@@ -1,5 +1,5 @@
-- indication: April Fool’s Day
-  result: der Vatertag
+- indication: der Vatertag
+  result: father's day
   clue: Adjective
 - indication: auf etwas anstoßen
   result: bouquet
@@ -7,47 +7,47 @@
 - indication: baptism
   result: vocabulary
   clue: Adjective
-- indication: bar mitzvah
-  result: die Taufe
+- indication: die Taufe
+  result: the baptism
   clue: Adjective
-- indication: beleuchtung
-  result: die Weihnachts-
+- indication: die Weihnachts-
+  result: the christmas
   clue: Adjective
-- indication: birth
-  result: die Babyparty
+- indication: die Babyparty
+  result: the baby shower
   clue: Adjective
-- indication: birthday
-  result: die Gelegenheit
+- indication: die Gelegenheit
+  result: the opportunity
   clue: Adjective
-- indication: box of chocolates
-  result: das Bukett
+- indication: das Bukett
+  result: the bouquet
   clue: Adjective
-- indication: champagne
-  result: der Kuchen
+- indication: der Kuchen
+  result: the cake
   clue: Adjective
-- indication: childhood
-  result: die Geburt
+- indication: die Geburt
+  result: the birth
   clue: Adjective
-- indication: christening
-  result: die Taufe
+- indication: die Taufe
+  result: the baptism
   clue: Adjective
-- indication: Christmas Day
-  result: der Heiligabend
+- indication: der Heiligabend
+  result: christmas eve
   clue: Adjective
 - indication: Christmas Eve
   result: vocabulary
   clue: Adjective
-- indication: Christmas lights
-  result: die Neujahrskarte
+- indication: die Neujahrskarte
+  result: the new year card
   clue: Adjective
-- indication: confetti
-  result: der Champagner
+- indication: der Champagner
+  result: the champagne
   clue: Adjective
-- indication: decorations
-  result: das Konfetti
+- indication: das Konfetti
+  result: the confetti
   clue: Adjective
-- indication: divorce
-  result: die Ehe
+- indication: die Ehe
+  result: the marriage
   clue: Adjective
 - indication: Diwali
   result: Allerheiligen

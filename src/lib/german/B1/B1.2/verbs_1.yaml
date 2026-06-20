@@ -10,14 +10,14 @@
 - indication: ausloggen
   result: einloggen /
   clue: Verb
-- indication: canteen
-  result: die Graduierte
+- indication: die Graduierte
+  result: the graduate
   clue: Verb
 - indication: ein Paket
   result: to return a package
   clue: Verb
-- indication: einberufen
-  result: eine Sitzung
+- indication: eine Sitzung
+  result: a meeting
   clue: Verb
 - indication: eine Prüfung
   result: to sit an exam
@@ -49,8 +49,8 @@
 - indication: passen
   result: to fit
   clue: Verb
-- indication: pen
-  result: das Notizbuch
+- indication: das Notizbuch
+  result: the notebook
   clue: Verb
 - indication: Post bekommen
   result: to receive mail

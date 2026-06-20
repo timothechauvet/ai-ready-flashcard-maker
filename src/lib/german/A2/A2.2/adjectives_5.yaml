@@ -1,59 +1,59 @@
 - indication: motorcyclist
   result: vocabulary
   clue: Adjective
-- indication: mpl
-  result: die Toilettenartikel
+- indication: die Toilettenartikel
+  result: the toiletries
   clue: Adjective
-- indication: mudguard
-  result: der Scheinwerfer
+- indication: der Scheinwerfer
+  result: the headlight
   clue: Adjective
-- indication: overhead locker
-  result: der Klapptisch
+- indication: der Klapptisch
+  result: the folding table
   clue: Adjective
-- indication: passport control
-  result: der Sicherheitsdienst
+- indication: der Sicherheitsdienst
+  result: the security service
   clue: Adjective
-- indication: pillow
-  result: der Teppich
+- indication: der Teppich
+  result: the carpet
   clue: Adjective
-- indication: plant
-  result: das Gras
+- indication: das Gras
+  result: the grass
   clue: Adjective
-- indication: plant pot
-  result: der Sonnenschirm
+- indication: der Sonnenschirm
+  result: the parasol
   clue: Adjective
 - indication: plate
   result: Gabel
   clue: Adjective
-- indication: porter
-  result: der Bahnsteig
+- indication: der Bahnsteig
+  result: the platform
   clue: Adjective
-- indication: porthole
-  result: der Schornstein
+- indication: der Schornstein
+  result: the chimney
   clue: Adjective
 - indication: prioritär
   result: quiet coach
   clue: Adjective
-- indication: pruners
-  result: der Blumentopf
+- indication: der Blumentopf
+  result: the flower pot
   clue: Adjective
 - indication: rail network
   result: vocabulary
   clue: Adjective
-- indication: recycling bin
-  result: das Becken
+- indication: das Becken
+  result: the basin
   clue: Adjective
 - indication: return ticket
   result: Fahrkarte
   clue: Adjective
-- indication: rubber gloves
-  result: der Mop
+- indication: der Mop
+  result: the mop
   clue: Adjective
-- indication: schaftsraum
-  result: der Hauswirt­
+- indication: der Hauswirt­
+  result: the landlord
   clue: Adjective
-- indication: Schalter
-  result: der Check-in-
+- indication: der Check-in-
+  result: the check-in
   clue: Adjective
 - indication: scourer
   result: mpl

@@ -4,8 +4,8 @@
 - indication: '102'
   result: the hospital   |  im krankenhaus
   clue: Phrase
-- indication: '103'
-  result: pregnancy   |  die schwangerschaft
+- indication: pregnancy   |  die schwangerschaft
+  result: pregnancy |  the pregnancy
   clue: Phrase
 - indication: '104'
   result: alternative therapies   |  alternative therapien
@@ -13,14 +13,14 @@
 - indication: '105'
   result: the vet   |  beim tierarzt
   clue: Phrase
-- indication: contact lens case
-  result: die Kontaktlinsen fpl
+- indication: die Kontaktlinsen fpl
+  result: the contact lenses fpl
   clue: Phrase
 - indication: dentist’s chair
   result: the dentist’s surgery   |  beim zahnarzt
   clue: Phrase
-- indication: Kontaktlinsen fpl
-  result: die harten / weichen
+- indication: die harten / weichen
+  result: the hard/soft ones
   clue: Phrase
 - indication: lenses
   result: hard/soft contact
@@ -31,12 +31,12 @@
 - indication: to put to sleep
   result: kastrieren
   clue: Phrase
-- indication: to take his/her pulse
-  result: der Puls
+- indication: der Puls
+  result: the pulse
   clue: Phrase
-- indication: to use contacts
-  result: eine Brille tragen
+- indication: eine Brille tragen
+  result: wear glasses
   clue: Phrase
-- indication: Untersuchung
-  result: die CT­ / MRT­
+- indication: die CT­ / MRT­
+  result: the ct / mri
   clue: Phrase

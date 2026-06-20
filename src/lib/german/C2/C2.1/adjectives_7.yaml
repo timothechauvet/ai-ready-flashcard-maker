@@ -1,5 +1,5 @@
-- indication: marsh
-  result: der See
+- indication: der See
+  result: the lake
   clue: Adjective
 - indication: massiv
   result: 'massive (here: severe / strong)'
@@ -9,20 +9,20 @@
   result: expressing an opinion
   clue: Adjective
   pronunciation: '[ˈmaɪ̯nʊŋsˌʔɔʏ̯sɐnt]'
-- indication: mole
-  result: der Igel
+- indication: der Igel
+  result: the hedgehog
   clue: Adjective
-- indication: mosquito
-  result: die Eintagsfliege
+- indication: die Eintagsfliege
+  result: the mayfly
   clue: Adjective
-- indication: moss
-  result: der Efeu
+- indication: der Efeu
+  result: the ivy
   clue: Adjective
-- indication: mountain
-  result: der Sumpf
+- indication: der Sumpf
+  result: the swamp
   clue: Adjective
-- indication: mud
-  result: die Erde
+- indication: die Erde
+  result: the earth
   clue: Adjective
 - indication: nebenberuflich
   result: part-time / on the side / secondary (job)
@@ -32,11 +32,11 @@
   result: novel / new type of
   clue: Adjective
   pronunciation: '[ˈnɔɪ̯ˌʔaːɐ̯tɪç]'
-- indication: newt
-  result: die Eidechse
+- indication: die Eidechse
+  result: the lizard
   clue: Adjective
-- indication: oak
-  result: das Moos
+- indication: das Moos
+  result: the moss
   clue: Adjective
 - indication: ordinär
   result: vulgar / low / common
@@ -46,21 +46,21 @@
   result: original / creative
   clue: Adjective
   pronunciation: '[oʁiɡiˈnɛl]'
-- indication: other common mammals
-  result: der Wolf
+- indication: der Wolf
+  result: the wolf
   clue: Adjective
-- indication: otter
-  result: die Maus
+- indication: die Maus
+  result: the mouse
   clue: Adjective
-- indication: pansy
-  result: die Orchidee
+- indication: die Orchidee
+  result: the orchid
   clue: Adjective
-- indication: parrot
-  result: der Hamster
+- indication: der Hamster
+  result: the hamster
   clue: Adjective
-- indication: peninsula
-  result: die Insel
+- indication: die Insel
+  result: the island
   clue: Adjective
-- indication: petal
-  result: das Blatt
+- indication: das Blatt
+  result: the leaf
   clue: Adjective

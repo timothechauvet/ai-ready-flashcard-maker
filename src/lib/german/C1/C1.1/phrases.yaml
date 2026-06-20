@@ -1,20 +1,20 @@
-- indication: '94'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '96'
-  result: the skeleton   |  das skelett
+- indication: the skeleton   |  das skelett
+  result: the skeleton |  the skeleton
   clue: Phrase
-- indication: '97'
-  result: injury   |  die verletzung
+- indication: injury   |  die verletzung
+  result: injuries |  the injury
   clue: Phrase
-- indication: '98'
-  result: illness   |  die krankheit
+- indication: illness   |  die krankheit
+  result: illness |  the disease
   clue: Phrase
-- indication: '99'
-  result: illness   |  die krankheit the doctor’s surgery   |  beim arzt
+- indication: illness   |  die krankheit the doctor’s surgery   |  beim arzt
+  result: illness |  the disease the doctor’s surgery |  at the doctor
   clue: Phrase
-- indication: burn
-  result: der blaue Fleck
+- indication: der blaue Fleck
+  result: the bruise
   clue: Phrase
 - indication: coughing
   result: in Ohnmacht fallen
@@ -22,11 +22,11 @@
 - indication: shoulder
   result: body – back
   clue: Phrase
-- indication: sneezing
-  result: eine laufende Nase
+- indication: eine laufende Nase
+  result: a runny nose
   clue: Phrase
-- indication: the pill
-  result: die Antibiotika ntpl
+- indication: die Antibiotika ntpl
+  result: the antibiotics ntpl
   clue: Phrase
 - indication: to be on medication
   result: untersuchen
@@ -34,6 +34,6 @@
 - indication: to lose one’s balance
   result: schmecken
   clue: Phrase
-- indication: tongue
-  result: die Lippen fpl
+- indication: die Lippen fpl
+  result: the lips fpl
   clue: Phrase

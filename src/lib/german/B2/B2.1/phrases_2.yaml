@@ -1,20 +1,20 @@
 - indication: singles
   result: Spiel, Satz und Sieg
   clue: Phrase
-- indication: sportsperson
-  result: die Zuschauer mpl
+- indication: die Zuschauer mpl
+  result: the spectators mpl
   clue: Phrase
 - indication: stören“-Schild
   result: das „Bitte nicht
   clue: Phrase
-- indication: to be interested in
-  result: das Hobby
+- indication: das Hobby
+  result: the hobby
   clue: Phrase
 - indication: to be keen on doing
   result: interessierien
   clue: Phrase
-- indication: to coach
-  result: die Punkte mpl
+- indication: die Punkte mpl
+  result: the points mpl
   clue: Phrase
 - indication: to mark a player
   result: blockieren
@@ -25,8 +25,8 @@
 - indication: to pass the ball
   result: angreifen
   clue: Phrase
-- indication: to play ice hockey
-  result: das Powerplay
+- indication: das Powerplay
+  result: the power play
   clue: Phrase
 - indication: to score a goal
   result: den Ball abgeben
@@ -34,9 +34,9 @@
 - indication: to see a show
   result: zu trinken bestellen
   clue: Phrase
-- indication: to swim
-  result: in der Sonne liegen
+- indication: in der Sonne liegen
+  result: sunbathe
   clue: Phrase
-- indication: “do not disturb” sign
-  result: der Korridor
+- indication: der Korridor
+  result: the corridor
   clue: Phrase

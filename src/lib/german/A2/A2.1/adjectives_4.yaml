@@ -1,29 +1,29 @@
-- indication: district
-  result: der Vorort
+- indication: der Vorort
+  result: the suburb
   clue: Adjective
 - indication: document
   result: car registration
   clue: Adjective
-- indication: door
-  result: das Rad
+- indication: das Rad
+  result: the wheel
   clue: Adjective
-- indication: doormat
-  result: der Aufzug
+- indication: der Aufzug
+  result: the elevator
   clue: Adjective
-- indication: draining board
-  result: der Wasserhahn
+- indication: der Wasserhahn
+  result: the faucet
   clue: Adjective
-- indication: drainpipe
-  result: die Regenrinne
+- indication: die Regenrinne
+  result: the rain gutter
   clue: Adjective
-- indication: drawer
-  result: das Abtropfbrett
+- indication: das Abtropfbrett
+  result: the draining board
   clue: Adjective
-- indication: driver
-  result: die Pendlerin
+- indication: die Pendlerin
+  result: the commuter
   clue: Adjective
-- indication: driveway
-  result: das Tor
+- indication: das Tor
+  result: the gate
   clue: Adjective
 - indication: dual carriageway
   result: vocabulary
@@ -31,30 +31,30 @@
 - indication: Einzimmerwohnung
   result: die
   clue: Adjective
-- indication: electric cooker
-  result: der Toaster
+- indication: der Toaster
+  result: the toaster
   clue: Adjective
-- indication: electricity
-  result: die Steckdose
+- indication: die Steckdose
+  result: the socket
   clue: Adjective
 - indication: emergency phone
   result: Frostschutzmittel
   clue: Adjective
-- indication: Entertainment­
-  result: das Home­
+- indication: das Home­
+  result: the home
   clue: Adjective
-- indication: exhaust (pipe)
-  result: der Tempomat
+- indication: der Tempomat
+  result: the cruise control
   clue: Adjective
-- indication: exit
-  result: die Ecke
+- indication: die Ecke
+  result: the corner
   clue: Adjective
-- indication: extension cable
-  result: der Deckenventilator
+- indication: der Deckenventilator
+  result: the ceiling fan
   clue: Adjective
-- indication: fare
-  result: der Busbahnhof
+- indication: der Busbahnhof
+  result: the bus station
   clue: Adjective
-- indication: farmhouse
-  result: das Einzelhaus
+- indication: das Einzelhaus
+  result: the single house
   clue: Adjective

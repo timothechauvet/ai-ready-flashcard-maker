@@ -1,8 +1,8 @@
-- indication: sheets
-  result: die Bettdecke
+- indication: die Bettdecke
+  result: the bed cover
   clue: Adjective
-- indication: shower
-  result: das Waschbecken
+- indication: das Waschbecken
+  result: the wash basin
   clue: Adjective
 - indication: shower curtain
   result: vocabulary
@@ -13,17 +13,17 @@
 - indication: single bed
   result: vocabulary
   clue: Adjective
-- indication: sink
-  result: der Spiegel
+- indication: der Spiegel
+  result: the mirror
   clue: Adjective
-- indication: soil
-  result: der Baum
+- indication: der Baum
+  result: the tree
   clue: Adjective
-- indication: spade
-  result: die Gartenschere
+- indication: die Gartenschere
+  result: the garden shears
   clue: Adjective
-- indication: spoon
-  result: der Teller
+- indication: der Teller
+  result: the dish
   clue: Adjective
 - indication: spülmaschine
   result: dustbin
@@ -31,14 +31,14 @@
 - indication: Spülmaschinentab
   result: das
   clue: Adjective
-- indication: suitcase
-  result: die Landebahn
+- indication: die Landebahn
+  result: the runway
   clue: Adjective
-- indication: tea towel
-  result: der Topfreiniger
+- indication: der Topfreiniger
+  result: the scourer
   clue: Adjective
-- indication: terminal
-  result: die Fluglinie
+- indication: die Fluglinie
+  result: the airline
   clue: Adjective
 - indication: to change trains
   result: reservierung
@@ -46,15 +46,15 @@
 - indication: to dock
   result: auslaufen
   clue: Adjective
-- indication: toilet
-  result: die Dusche
+- indication: die Dusche
+  result: the shower
   clue: Adjective
-- indication: toiletries
-  result: der Duschvorhang
+- indication: der Duschvorhang
+  result: the shower curtain
   clue: Adjective
-- indication: Toilettenpapier
-  result: die Rolle
+- indication: die Rolle
+  result: the role
   clue: Adjective
-- indication: towel rail
-  result: die Toilette
+- indication: die Toilette
+  result: the toilet
   clue: Adjective

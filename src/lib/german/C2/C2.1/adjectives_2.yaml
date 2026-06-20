@@ -13,52 +13,52 @@
 - indication: blackbird
   result: vocabulary
   clue: Adjective
-- indication: boar
-  result: die Fledermaus
+- indication: die Fledermaus
+  result: the bat
   clue: Adjective
 - indication: brutto
   result: gross (vs. net)
   clue: Adjective
   pronunciation: '[ˈbʁʊto]'
-- indication: bud
-  result: das Gras
+- indication: das Gras
+  result: the grass
   clue: Adjective
 - indication: budgerigar
   result: pets
   clue: Adjective
-- indication: bulb
-  result: die Knospe
+- indication: die Knospe
+  result: the bud
   clue: Adjective
 - indication: buttercup
   result: flowers
   clue: Adjective
-- indication: buzzard
-  result: die Amsel
+- indication: die Amsel
+  result: the blackbird
   clue: Adjective
-- indication: canary
-  result: der Wellensittich
+- indication: der Wellensittich
+  result: the budgie
   clue: Adjective
-- indication: carnation
-  result: die Butterblume
+- indication: die Butterblume
+  result: the buttercup
   clue: Adjective
-- indication: cat
-  result: der Kanarienvogel
+- indication: der Kanarienvogel
+  result: the canary
   clue: Adjective
-- indication: cat litter
-  result: das Fischfutter
+- indication: das Fischfutter
+  result: the fish food
   clue: Adjective
-- indication: caterpillar
-  result: der Schmetterling
+- indication: der Schmetterling
+  result: the butterfly
   clue: Adjective
 - indication: cave
   result: land
   clue: Adjective
-- indication: centipede
-  result: die Raupe
+- indication: die Raupe
+  result: the caterpillar
   clue: Adjective
-- indication: chrysanthemum
-  result: die Nelke
+- indication: die Nelke
+  result: the carnation
   clue: Adjective
-- indication: claw
-  result: der Schwanz
+- indication: der Schwanz
+  result: the tail
   clue: Adjective

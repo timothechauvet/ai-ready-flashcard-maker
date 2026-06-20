@@ -1,5 +1,5 @@
-- indication: newborn
-  result: die Schwangere
+- indication: die Schwangere
+  result: the pregnant woman
   clue: Adjective
 - indication: obdachlos
   result: homeless
@@ -8,14 +8,14 @@
 - indication: ophthalmologist
   result: vocabulary
   clue: Adjective
-- indication: optician
-  result: das Brillenetui
+- indication: das Brillenetui
+  result: the glasses case
   clue: Adjective
-- indication: osteopathy
-  result: die Meditation
+- indication: die Meditation
+  result: the meditation
   clue: Adjective
-- indication: pet carrier
-  result: das Flohhalsband
+- indication: das Flohhalsband
+  result: the flea collar
   clue: Adjective
 - indication: pet passport
   result: Behandlung
@@ -26,26 +26,26 @@
 - indication: pregnant woman
   result: vocabulary
   clue: Adjective
-- indication: public/private hospital
-  result: der Rettungswagen
+- indication: der Rettungswagen
+  result: the ambulance
   clue: Adjective
-- indication: pulse
-  result: die Diagnose
+- indication: die Diagnose
+  result: the diagnosis
   clue: Adjective
-- indication: quarantine
-  result: der Heimtierausweis
+- indication: der Heimtierausweis
+  result: the pet passport
   clue: Adjective
-- indication: radiographer
-  result: die Physiotherapeutin
+- indication: die Physiotherapeutin
+  result: the physiotherapist
   clue: Adjective
-- indication: reflexology
-  result: die Osteopathie
+- indication: die Osteopathie
+  result: osteopathy
   clue: Adjective
-- indication: reiki
-  result: das Heilmittel
+- indication: das Heilmittel
+  result: the remedy
   clue: Adjective
-- indication: remedy
-  result: die Reflexologin
+- indication: die Reflexologin
+  result: the reflexologist
   clue: Adjective
 - indication: Röntgenassistentin
   result: surgeon

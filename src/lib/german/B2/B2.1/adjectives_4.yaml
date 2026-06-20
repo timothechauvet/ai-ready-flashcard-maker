@@ -1,32 +1,32 @@
-- indication: gig
-  result: die Livemusik
+- indication: die Livemusik
+  result: the live music
   clue: Adjective
-- indication: goalkeeper
-  result: das Tor
+- indication: das Tor
+  result: the gate
   clue: Adjective
-- indication: guidebook
-  result: der Garten
+- indication: der Garten
+  result: the garden
   clue: Adjective
 - indication: gym
   result: vocabulary
   clue: Adjective
-- indication: gym instructor
-  result: das Fitnessstudio
+- indication: das Fitnessstudio
+  result: the gym
   clue: Adjective
 - indication: helmet cage
   result: Eishockey spielen
   clue: Adjective
-- indication: hip-hop
-  result: der Rock
+- indication: der Rock
+  result: the skirt
   clue: Adjective
 - indication: holiday
   result: vocabulary
   clue: Adjective
-- indication: ice hockey player
-  result: das Gitter
+- indication: das Gitter
+  result: the grid
   clue: Adjective
-- indication: ice time
-  result: der Abschlag
+- indication: der Abschlag
+  result: the tee
   clue: Adjective
 - indication: kehrsbüro
   result: vocabulary
@@ -34,27 +34,27 @@
 - indication: layup
   result: vocabulary
   clue: Adjective
-- indication: league
-  result: der Wettbewerb
+- indication: der Wettbewerb
+  result: the competition
   clue: Adjective
 - indication: leisure centre
   result: spielen
   clue: Adjective
-- indication: length
-  result: die Spur
+- indication: die Spur
+  result: the trail
   clue: Adjective
-- indication: live music
-  result: die Band
+- indication: die Band
+  result: the band
   clue: Adjective
-- indication: matches
-  result: der Campingstuhl
+- indication: der Campingstuhl
+  result: the camping chair
   clue: Adjective
-- indication: medal
-  result: das Freizeitzentrum
+- indication: das Freizeitzentrum
+  result: the leisure center
   clue: Adjective
-- indication: microphone
-  result: die Schallplatte
+- indication: die Schallplatte
+  result: the record
   clue: Adjective
-- indication: museum
-  result: das Denkmal
+- indication: das Denkmal
+  result: the monument
   clue: Adjective

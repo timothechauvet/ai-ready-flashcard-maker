@@ -1,8 +1,8 @@
 - indication: to recover
   result: gesund
   clue: Adjective
-- indication: to see
-  result: das Gleichgewicht
+- indication: das Gleichgewicht
+  result: the balance
   clue: Adjective
 - indication: to smell
   result: sehen
@@ -13,11 +13,11 @@
 - indication: to vomit
   result: niesen
   clue: Adjective
-- indication: treatment
-  result: das Krankenhaus
+- indication: das Krankenhaus
+  result: the hospital
   clue: Adjective
-- indication: tweezers
-  result: die Schlinge
+- indication: die Schlinge
+  result: the noose
   clue: Adjective
 - indication: Untersuchungsraum
   result: der
@@ -25,11 +25,11 @@
 - indication: Untersuchungstisch
   result: der
   clue: Adjective
-- indication: vaccination
-  result: der Hausbesuch
+- indication: der Hausbesuch
+  result: the home visit
   clue: Adjective
-- indication: vein
-  result: die Arterie
+- indication: die Arterie
+  result: the artery
   clue: Adjective
 - indication: Verdauungssystem
   result: das
@@ -37,8 +37,8 @@
 - indication: vomiting
   result: vergiftung
   clue: Adjective
-- indication: wisdom teeth
-  result: der Eckzahn
+- indication: der Eckzahn
+  result: the canine
   clue: Adjective
 - indication: Wurzelbehandlung
   result: die

@@ -1,20 +1,20 @@
-- indication: newspaper
-  result: die Landkarte
+- indication: die Landkarte
+  result: the landkarte
   clue: Adjective
-- indication: notebook
-  result: die Zeitung
+- indication: die Zeitung
+  result: the newspaper
   clue: Adjective
 - indication: nursery school
   result: vocabulary
   clue: Adjective
-- indication: office block
-  result: die Moschee
+- indication: die Moschee
+  result: the mosque
   clue: Adjective
-- indication: package
-  result: der Brief
+- indication: der Brief
+  result: the letter
   clue: Adjective
-- indication: padded envelope
-  result: das Paket
+- indication: das Paket
+  result: the package
   clue: Adjective
 - indication: painkiller
   result: Mittel
@@ -22,39 +22,39 @@
 - indication: paint
   result: Bolzen pl
   clue: Adjective
-- indication: paint roller
-  result: der Pinsel
+- indication: der Pinsel
+  result: the brush
   clue: Adjective
-- indication: paintbrush
-  result: die Farbe
+- indication: die Farbe
+  result: the color
   clue: Adjective
-- indication: painting
-  result: das DIY
+- indication: das DIY
+  result: the diy
   clue: Adjective
-- indication: paper
-  result: das Heft
+- indication: das Heft
+  result: the booklet
   clue: Adjective
-- indication: password
-  result: der Benutzername
+- indication: der Benutzername
+  result: the username
   clue: Adjective
-- indication: pencil
-  result: der Kugelschreiber
+- indication: der Kugelschreiber
+  result: the ballpoint pen
   clue: Adjective
 - indication: pharmacist
   result: vocabulary
   clue: Adjective
-- indication: plaster
-  result: die Medizin
+- indication: die Medizin
+  result: the medicine
   clue: Adjective
-- indication: playground
-  result: das Spielfeld
+- indication: das Spielfeld
+  result: the playing field
   clue: Adjective
-- indication: playing field
-  result: die Aula
+- indication: die Aula
+  result: the auditorium
   clue: Adjective
-- indication: pliers
-  result: der Farbroller
+- indication: der Farbroller
+  result: the paint roller
   clue: Adjective
-- indication: plumbing
-  result: das Tapezieren
+- indication: das Tapezieren
+  result: the wallpapering
   clue: Adjective

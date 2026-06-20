@@ -1,5 +1,5 @@
-- indication: abholen
-  result: die Bestellung
+- indication: die Bestellung
+  result: the order
   clue: Verb
 - indication: anklicken
   result: to click on
@@ -16,8 +16,8 @@
 - indication: bestellen
   result: to place an order
   clue: Verb
-- indication: delicatessen
-  result: der Gang
+- indication: der Gang
+  result: the aisle
   clue: Verb
 - indication: eine Bestellung
   result: to phone in an order

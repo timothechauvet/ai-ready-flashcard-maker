@@ -1,5 +1,5 @@
-- indication: abbrechen
-  result: ein Zelt aufschlagen /
+- indication: ein Zelt aufschlagen /
+  result: pitch a tent /
   clue: Verb
 - indication: Aufschlag haben
   result: to serve

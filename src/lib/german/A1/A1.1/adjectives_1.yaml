@@ -4,11 +4,11 @@
 - indication: Are you married/
   result: britisch
   clue: Adjective
-- indication: aunt
-  result: der Onkel
+- indication: der Onkel
+  result: the uncle
   clue: Adjective
-- indication: baby
-  result: die Kollegin
+- indication: die Kollegin
+  result: the colleague
   clue: Adjective
 - indication: better
   result: unwohl
@@ -16,14 +16,14 @@
 - indication: black
   result: blau
   clue: Adjective
-- indication: boyfriend
-  result: die Ehefrau
+- indication: die Ehefrau
+  result: the wife
   clue: Adjective
 - indication: British
   result: walisisch
   clue: Adjective
-- indication: brother
-  result: die Mutter
+- indication: die Mutter
+  result: the mother
   clue: Adjective
 - indication: builder
   result: Ich bin…
@@ -31,30 +31,30 @@
 - indication: calm
   result: aufgeregt
   clue: Adjective
-- indication: child
-  result: das Baby
+- indication: das Baby
+  result: the baby
   clue: Adjective
-- indication: colleague
-  result: die Freundin
+- indication: die Freundin
+  result: the girlfriend
   clue: Adjective
-- indication: cousin
-  result: die Nichte
+- indication: die Nichte
+  result: the niece
   clue: Adjective
 - indication: danke.
   result: Nicht schlecht,
   clue: Adjective
-- indication: daughter
-  result: der Sohn
+- indication: der Sohn
+  result: the son
   clue: Adjective
-- indication: dentist
-  result: die Beamtin
+- indication: die Beamtin
+  result: the officer
   clue: Adjective
-- indication: engineer
-  result: die Elektrikerin
+- indication: die Elektrikerin
+  result: the electrician
   clue: Adjective
 - indication: English
   result: schottisch
   clue: Adjective
-- indication: father
-  result: die Eltern
+- indication: die Eltern
+  result: the parents
   clue: Adjective

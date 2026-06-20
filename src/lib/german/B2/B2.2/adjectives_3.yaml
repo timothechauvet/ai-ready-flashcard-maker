@@ -1,5 +1,5 @@
-- indication: golf club
-  result: der Golf-Buggy
+- indication: der Golf-Buggy
+  result: the golf buggy
   clue: Adjective
 - indication: golfer
   result: vocabulary
@@ -7,54 +7,54 @@
 - indication: handicrafts
   result: vocabulary
   clue: Adjective
-- indication: heptathlon
-  result: der Dreisprung
+- indication: der Dreisprung
+  result: the triple jump
   clue: Adjective
-- indication: hole-in-one
-  result: das Klubhaus
+- indication: das Klubhaus
+  result: the clubhouse
   clue: Adjective
-- indication: ink
-  result: die Staffelei
+- indication: die Staffelei
+  result: the easel
   clue: Adjective
-- indication: jewellery-making
-  result: die Stickerei
+- indication: die Stickerei
+  result: the embroidery
   clue: Adjective
 - indication: klassisch
   result: classical
   clue: Adjective
-- indication: knitting needles
-  result: die Stoffschere
+- indication: die Stoffschere
+  result: the fabric scissors
   clue: Adjective
-- indication: lane
-  result: der Staffellauf
+- indication: der Staffellauf
+  result: the relay race
   clue: Adjective
-- indication: Lautsprecher
-  result: der Bluetooth®-
+- indication: der Bluetooth®-
+  result: the bluetooth®
   clue: Adjective
-- indication: marathon
-  result: das Rennen
+- indication: das Rennen
+  result: the race
   clue: Adjective
-- indication: mountain rescue
-  result: die Skilehrerin
+- indication: die Skilehrerin
+  result: the ski instructor
   clue: Adjective
-- indication: mouthguard
-  result: der Kopfschutz
+- indication: der Kopfschutz
+  result: the head protection
   clue: Adjective
-- indication: oil paint
-  result: die Tinte
+- indication: die Tinte
+  result: the ink
   clue: Adjective
-- indication: other combat sports
-  result: der Sandsack
+- indication: der Sandsack
+  result: the sandbag
   clue: Adjective
-- indication: palette
-  result: der Pinsel
+- indication: der Pinsel
+  result: the brush
   clue: Adjective
-- indication: pastels
-  result: das Papier
+- indication: das Papier
+  result: the paper
   clue: Adjective
 - indication: photo
   result: vocabulary
   clue: Adjective
-- indication: photographer
-  result: das Foto
+- indication: das Foto
+  result: the photo
   clue: Adjective

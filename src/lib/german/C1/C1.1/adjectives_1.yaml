@@ -1,38 +1,38 @@
-- indication: (body) hair
-  result: die Zunge
+- indication: die Zunge
+  result: the tongue
   clue: Adjective
 - indication: abscess
   result: mpl
   clue: Adjective
-- indication: antibiotics
-  result: der Test
+- indication: der Test
+  result: the test
   clue: Adjective
 - indication: appointment
   result: vocabulary
   clue: Adjective
-- indication: arm
-  result: der Hals
+- indication: der Hals
+  result: the neck
   clue: Adjective
-- indication: armpit
-  result: der Hals
+- indication: der Hals
+  result: the neck
   clue: Adjective
-- indication: artery
-  result: der Nerv
+- indication: der Nerv
+  result: the nerve
   clue: Adjective
-- indication: asthma
-  result: die Epilepsie
+- indication: die Epilepsie
+  result: the epilepsy
   clue: Adjective
-- indication: back
-  result: der Ellbogen
+- indication: der Ellbogen
+  result: the elbow
   clue: Adjective
-- indication: balance
-  result: der Tastsinn
+- indication: der Tastsinn
+  result: the sense of touch
   clue: Adjective
 - indication: Blutdruckmessgerät
   result: das
   clue: Adjective
-- indication: BMI
-  result: das Gewicht
+- indication: das Gewicht
+  result: the weight
   clue: Adjective
 - indication: body – front
   result: verlieren
@@ -40,21 +40,21 @@
 - indication: braces
   result: reinigen
   clue: Adjective
-- indication: brain
-  result: das Organ
+- indication: das Organ
+  result: the organ
   clue: Adjective
-- indication: bruise
-  result: die Blase
+- indication: die Blase
+  result: the bladder
   clue: Adjective
-- indication: canine
-  result: der Schneidezahn
+- indication: der Schneidezahn
+  result: the incisor
   clue: Adjective
-- indication: cheek
-  result: das Ohr
+- indication: das Ohr
+  result: the ear
   clue: Adjective
-- indication: chest
-  result: der Arm
+- indication: der Arm
+  result: the arm
   clue: Adjective
-- indication: chin
-  result: der Kiefer
+- indication: der Kiefer
+  result: the jaw
   clue: Adjective

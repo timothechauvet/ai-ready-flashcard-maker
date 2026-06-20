@@ -1,8 +1,8 @@
-- indication: '118'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
-- indication: '119'
-  result: the basics   |  das wesentliche
+- indication: the basics   |  das wesentliche
+  result: the basics |  the essential
   clue: Phrase
 - indication: abbaubar **
   result: degradable / biodegradable (e.g. The material is fully degradable.)
@@ -16,8 +16,8 @@
   result: apart from / except for
   clue: Phrase
   pronunciation: '[ˈapɡəˌzeːən fɔn plʊs ˈdaːtiːf]'
-- indication: All Saints’ Day
-  result: der erste April
+- indication: der erste April
+  result: the first of april
   clue: Phrase
 - indication: anders formuliert
   result: formulated differently / put another way
@@ -63,11 +63,11 @@
   result: to be exposed to something
   clue: Phrase
   pronunciation: '[ˈɛtvas ˈaʊ̯sɡəˌzɛtst zaɪ̯n]'
-- indication: baby shower
-  result: die Bat Mitzwa
+- indication: die Bat Mitzwa
+  result: the bat mitzvah
   clue: Phrase
-- indication: bat mitzvah
-  result: der Bar Mitzwa
+- indication: der Bar Mitzwa
+  result: the bar mitzvah
   clue: Phrase
 - indication: bekommen **
   result: to notice / to realize (e.g. You have surely noticed.)

@@ -1,17 +1,17 @@
-- indication: photography   |  fotografie
-  result: das Blatt
+- indication: das Blatt
+  result: the leaf
   clue: Adjective
 - indication: player
   result: vocabulary
   clue: Adjective
-- indication: punchbag
-  result: der Zahnschutz
+- indication: der Zahnschutz
+  result: the mouthguard
   clue: Adjective
-- indication: putter
-  result: der Golfklub
+- indication: der Golfklub
+  result: the golf club
   clue: Adjective
-- indication: relay
-  result: der Sprint
+- indication: der Sprint
+  result: the sprint
   clue: Adjective
 - indication: rope
   result: mpl
@@ -19,42 +19,42 @@
 - indication: runner
   result: vocabulary
   clue: Adjective
-- indication: saxophone
-  result: das Klavier
+- indication: das Klavier
+  result: the piano
   clue: Adjective
 - indication: Schmuckherstellung
   result: die
   clue: Adjective
-- indication: SD card
-  result: die DSLR-Kamera
+- indication: die DSLR-Kamera
+  result: the dslr camera
   clue: Adjective
 - indication: SD-Speicherkarte
   result: die
   clue: Adjective
-- indication: sheet music
-  result: das Orchester
+- indication: das Orchester
+  result: the orchestra
   clue: Adjective
-- indication: sketchpad
-  result: der Bleistift
+- indication: der Bleistift
+  result: the pencil
   clue: Adjective
 - indication: ski goggles
   result: mpl
   clue: Adjective
-- indication: ski helmet
-  result: die Skibrille
+- indication: die Skibrille
+  result: the ski goggles
   clue: Adjective
-- indication: ski jacket
-  result: der Skihelm
+- indication: der Skihelm
+  result: the ski helmet
   clue: Adjective
-- indication: ski poles
-  result: die Skijacke
+- indication: die Skijacke
+  result: the ski jacket
   clue: Adjective
 - indication: skier
   result: vocabulary
   clue: Adjective
-- indication: skiing and snowboarding
-  result: der Schlitten
+- indication: der Schlitten
+  result: the sleigh
   clue: Adjective
-- indication: sledge
-  result: das Seil
+- indication: das Seil
+  result: the rope
   clue: Adjective

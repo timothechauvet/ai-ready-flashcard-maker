@@ -1,5 +1,5 @@
-- indication: doubles
-  result: das Einzel
+- indication: das Einzel
+  result: the individual
   clue: Adjective
 - indication: ein Glas
   result: a drink
@@ -13,8 +13,8 @@
 - indication: Eishockeyspielerin
   result: die
   clue: Adjective
-- indication: electricity hook-up
-  result: der Platz
+- indication: der Platz
+  result: the space
   clue: Adjective
 - indication: Empfangsbereich
   result: der
@@ -25,36 +25,36 @@
 - indication: extra time
   result: Spielzeit
   clue: Adjective
-- indication: face-off
-  result: der Check
+- indication: der Check
+  result: the check
   clue: Adjective
-- indication: fault
-  result: die Vorhand
+- indication: die Vorhand
+  result: the forehand
   clue: Adjective
-- indication: festival
-  result: der Film
+- indication: der Film
+  result: the film
   clue: Adjective
-- indication: flip-flops
-  result: der Liegestuhl
+- indication: der Liegestuhl
+  result: the deck chair
   clue: Adjective
-- indication: folk music
-  result: der Pop
+- indication: der Pop
+  result: the pop
   clue: Adjective
 - indication: football match
   result: mpl
   clue: Adjective
-- indication: football player
-  result: das Spielfeld
+- indication: das Spielfeld
+  result: the playing field
   clue: Adjective
-- indication: foul
-  result: die Abwehr
+- indication: die Abwehr
+  result: the defense
   clue: Adjective
-- indication: free kick
-  result: die Nachspielzeit
+- indication: die Nachspielzeit
+  result: the injury time
   clue: Adjective
 - indication: Frühstückspension
   result: die
   clue: Adjective
-- indication: funfair
-  result: das Konzert
+- indication: das Konzert
+  result: the concert
   clue: Adjective

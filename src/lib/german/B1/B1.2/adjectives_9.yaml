@@ -1,32 +1,32 @@
-- indication: screws
-  result: der Schraubenzieher
+- indication: der Schraubenzieher
+  result: the screwdriver
   clue: Adjective
-- indication: secondary school
-  result: die Grundschule
+- indication: die Grundschule
+  result: the elementary school
   clue: Adjective
 - indication: sein
   result: im (Sonder)angebot
   clue: Adjective
-- indication: shirt
-  result: der Schlafanzug
+- indication: der Schlafanzug
+  result: the pajamas
   clue: Adjective
-- indication: shoes/footwear
-  result: die Kleidung
+- indication: die Kleidung
+  result: the clothing
   clue: Adjective
-- indication: shorts
-  result: das Hemd
+- indication: das Hemd
+  result: the shirt
   clue: Adjective
-- indication: silk
-  result: das Leder
+- indication: das Leder
+  result: the leather
   clue: Adjective
-- indication: size
-  result: die Seide
+- indication: die Seide
+  result: the silk
   clue: Adjective
 - indication: snowsuit
   result: mpl
   clue: Adjective
-- indication: socks
-  result: der Rock
+- indication: der Rock
+  result: the skirt
   clue: Adjective
 - indication: sore throat
   result: mpl
@@ -34,8 +34,8 @@
 - indication: Spielwarengeschäft
   result: das
   clue: Adjective
-- indication: stamp
-  result: das Rubbellos
+- indication: das Rubbellos
+  result: the scratch card
   clue: Adjective
 - indication: sticky tape
   result: fpl
@@ -43,18 +43,18 @@
 - indication: stomachache
   result: mpl
   clue: Adjective
-- indication: student
-  result: die Bibliothek
+- indication: die Bibliothek
+  result: the library
   clue: Adjective
 - indication: Studentenausweis
   result: der
   clue: Adjective
-- indication: suntan lotion
-  result: das Pflaster
+- indication: das Pflaster
+  result: the pavement
   clue: Adjective
-- indication: supplier
-  result: die Kundin
+- indication: die Kundin
+  result: the customer
   clue: Adjective
-- indication: swimsuit
-  result: das Sweatshirt
+- indication: das Sweatshirt
+  result: the sweatshirt
   clue: Adjective

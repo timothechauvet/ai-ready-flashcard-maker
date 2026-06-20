@@ -1,32 +1,32 @@
-- indication: snare drum
-  result: das Saxophon
+- indication: das Saxophon
+  result: the saxophone
   clue: Adjective
-- indication: snowboard
-  result: der Skianzug
+- indication: der Skianzug
+  result: the ski suit
   clue: Adjective
-- indication: snowboarding boots
-  result: das Snowboard
+- indication: das Snowboard
+  result: the snowboard
   clue: Adjective
 - indication: Snowboardschuhe
   result: die
   clue: Adjective
-- indication: sprint
-  result: der Marathon
+- indication: der Marathon
+  result: the marathon
   clue: Adjective
-- indication: start line
-  result: der Fehlstart
+- indication: der Fehlstart
+  result: the false start
   clue: Adjective
-- indication: starter’s gun
-  result: der Zehnkampf
+- indication: der Zehnkampf
+  result: the decathlon
   clue: Adjective
-- indication: syringe
-  result: die Tablette
+- indication: die Tablette
+  result: the tablet
   clue: Adjective
-- indication: tee
-  result: der Putter
+- indication: der Putter
+  result: the putter
   clue: Adjective
-- indication: to do athletics
-  result: der Startschuss
+- indication: der Startschuss
+  result: the starting signal
   clue: Adjective
 - indication: to fence
   result: sparren
@@ -43,8 +43,8 @@
 - indication: to sing
   result: spielen
   clue: Adjective
-- indication: to ski
-  result: die Lawinengefahr
+- indication: die Lawinengefahr
+  result: the danger of avalanches
   clue: Adjective
 - indication: to ski off-piste
   result: skifahren

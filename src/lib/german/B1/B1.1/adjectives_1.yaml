@@ -1,38 +1,38 @@
-- indication: after-dinner drink
-  result: der Aperitif
+- indication: der Aperitif
+  result: the aperitif
   clue: Adjective
 - indication: aisle
   result: vocabulary
   clue: Adjective
-- indication: aperitif
-  result: das Rezept
+- indication: das Rezept
+  result: the recipe
   clue: Adjective
-- indication: app
-  result: die Tastatur
+- indication: die Tastatur
+  result: the keyboard
   clue: Adjective
 - indication: apple strudel
   result: backen
   clue: Adjective
-- indication: apricot
-  result: der Apfel
+- indication: der Apfel
+  result: the apple
   clue: Adjective
 - indication: aus Käfighaltung
   result: free-range
   clue: Adjective
-- indication: baguette
-  result: der Brotlaib
+- indication: der Brotlaib
+  result: the loaf of bread
   clue: Adjective
 - indication: baker
   result: vocabulary
   clue: Adjective
-- indication: banana
-  result: die Aprikose
+- indication: die Aprikose
+  result: the apricot
   clue: Adjective
 - indication: banknotes
   result: einkaufen gehen
   clue: Adjective
-- indication: bill
-  result: die Bar
+- indication: die Bar
+  result: the bar
   clue: Adjective
 - indication: bio
   result: organic
@@ -40,14 +40,14 @@
 - indication: biscuits
   result: groceries
   clue: Adjective
-- indication: black forest gateau
-  result: der Apfelstrudel
+- indication: der Apfelstrudel
+  result: the apple strudel
   clue: Adjective
-- indication: blackberry
-  result: die Banane
+- indication: die Banane
+  result: the banana
   clue: Adjective
-- indication: blackcurrant
-  result: die Brombeere
+- indication: die Brombeere
+  result: the blackberry
   clue: Adjective
 - indication: Blauschimmelkäse
   result: der
@@ -55,6 +55,6 @@
 - indication: blue cheese
   result: vocabulary
   clue: Adjective
-- indication: bottle
-  result: das Fertiggericht
+- indication: das Fertiggericht
+  result: the ready meal
   clue: Adjective

@@ -37,24 +37,24 @@
 - indication: acht
   result: sieben
   clue: Adjective
-- indication: afternoon
-  result: der Morgen
+- indication: der Morgen
+  result: the morning
   clue: Adjective
 - indication: August
   result: Juli
   clue: Adjective
-- indication: autumn
-  result: der Sommer
+- indication: der Sommer
+  result: the summer
   clue: Adjective
-- indication: cloud
-  result: das Gewitter
+- indication: das Gewitter
+  result: the thunderstorm
   clue: Adjective
-- indication: construction site
-  result: die Firma
+- indication: die Firma
+  result: the company
   clue: Adjective
 - indication: cool
   result: warm
   clue: Adjective
-- indication: daily
-  result: das Jahrzehnt
+- indication: das Jahrzehnt
+  result: the decade
   clue: Adjective

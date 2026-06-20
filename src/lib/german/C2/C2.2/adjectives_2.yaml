@@ -4,56 +4,56 @@
 - indication: Fastnachtsdienstag
   result: der
   clue: Adjective
-- indication: Father’s Day
-  result: der Muttertag
+- indication: der Muttertag
+  result: mother's day
   clue: Adjective
-- indication: funeral
-  result: der Ruhestand
+- indication: der Ruhestand
+  result: the retirement
   clue: Adjective
-- indication: gift
-  result: das Feuerwerk
+- indication: das Feuerwerk
+  result: the fireworks
   clue: Adjective
 - indication: gingerbread biscuits
   result: Sankt Nikolaus
   clue: Adjective
-- indication: graduation
-  result: der Schulanfang
+- indication: der Schulanfang
+  result: the start of school
   clue: Adjective
-- indication: greetings card
-  result: das Geschenk
+- indication: das Geschenk
+  result: the gift
   clue: Adjective
 - indication: Hanukkah
   result: Halloween
   clue: Adjective
-- indication: headdress
-  result: die Maske
+- indication: die Maske
+  result: the mask
   clue: Adjective
-- indication: Lent
-  result: der Kopfschmuck
+- indication: der Kopfschmuck
+  result: the headdress
   clue: Adjective
 - indication: Martinmas
   result: Chanukka
   clue: Adjective
-- indication: mask
-  result: die Kinderschminke
+- indication: die Kinderschminke
+  result: the children's make-up
   clue: Adjective
-- indication: May Day
-  result: der Martinstag
+- indication: der Martinstag
+  result: st. martin's day
   clue: Adjective
-- indication: Mother’s Day
-  result: die Beerdigung
+- indication: die Beerdigung
+  result: the funeral
   clue: Adjective
-- indication: Nativity scene
-  result: das Krippenspiel
+- indication: das Krippenspiel
+  result: the nativity play
   clue: Adjective
-- indication: New Year’s card
-  result: der Neujahrstag
+- indication: der Neujahrstag
+  result: new year's day
   clue: Adjective
-- indication: New Year’s Day
-  result: das Geschenk
+- indication: das Geschenk
+  result: the gift
   clue: Adjective
-- indication: New Year’s Eve
-  result: die Weihnachtskrippe
+- indication: die Weihnachtskrippe
+  result: the christmas crib
   clue: Adjective
 - indication: occasion
   result: vocabulary

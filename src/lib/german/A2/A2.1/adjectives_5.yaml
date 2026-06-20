@@ -1,60 +1,60 @@
-- indication: fireplace
-  result: der Fernseher
+- indication: der Fernseher
+  result: the tv
   clue: Adjective
-- indication: floor
-  result: die Wand
+- indication: die Wand
+  result: the wall
   clue: Adjective
-- indication: floorboards
-  result: der Teppich
+- indication: der Teppich
+  result: the carpet
   clue: Adjective
-- indication: footstool
-  result: der Sessel
+- indication: der Sessel
+  result: the armchair
   clue: Adjective
-- indication: fridge-freezer
-  result: der Mikrowellenherd
+- indication: der Mikrowellenherd
+  result: the microwave oven
   clue: Adjective
-- indication: front door
-  result: die Auffahrt
+- indication: die Auffahrt
+  result: the driveway
   clue: Adjective
-- indication: front light
-  result: das Fahrradschloss
+- indication: das Fahrradschloss
+  result: the bike lock
   clue: Adjective
 - indication: Frontscheinwerfer
   result: der
   clue: Adjective
-- indication: fuel gauge
-  result: das Armaturenbrett
+- indication: das Armaturenbrett
+  result: the dashboard
   clue: Adjective
-- indication: fuel tank
-  result: das Auspuffrohr
+- indication: das Auspuffrohr
+  result: the exhaust pipe
   clue: Adjective
-- indication: full fare
-  result: der Fahrpreis
+- indication: der Fahrpreis
+  result: the fare
   clue: Adjective
-- indication: gable
-  result: das Abflussrohr
+- indication: das Abflussrohr
+  result: the drain pipe
   clue: Adjective
-- indication: gas cooker
-  result: der Elektroherd
+- indication: der Elektroherd
+  result: the electric stove
   clue: Adjective
-- indication: gate
-  result: der Fensterladen
+- indication: der Fensterladen
+  result: the shutter
   clue: Adjective
-- indication: gearbox
-  result: der Benzintank
+- indication: der Benzintank
+  result: the gasoline tank
   clue: Adjective
-- indication: gearstick
-  result: die Tankanzeige
+- indication: die Tankanzeige
+  result: the fuel gauge
   clue: Adjective
-- indication: glassware
-  result: das Besteck
+- indication: das Besteck
+  result: the cutlery
   clue: Adjective
-- indication: gutter
-  result: die Antenne
+- indication: die Antenne
+  result: the antenna
   clue: Adjective
-- indication: hallway/corridor
-  result: der Eingang
+- indication: der Eingang
+  result: the entrance
   clue: Adjective
-- indication: handbrake
-  result: das Handschuhfach
+- indication: das Handschuhfach
+  result: the glove compartment
   clue: Adjective

@@ -4,21 +4,21 @@
 - indication: to have lunch
   result: essen / trinken
   clue: Phrase
-- indication: to make a phone call
-  result: das Kabel
+- indication: das Kabel
+  result: the cable
   clue: Phrase
 - indication: to send a text/an
   result: anrufen
   clue: Phrase
-- indication: vinegar and oil
-  result: die Zahnstocher mpl
+- indication: die Zahnstocher mpl
+  result: the toothpicks mpl
   clue: Phrase
 - indication: weiße Fleisch
   result: das rote /
   clue: Phrase
-- indication: wine
-  result: die Spirituosen pl
+- indication: die Spirituosen pl
+  result: spirits pl
   clue: Phrase
-- indication: wrap
-  result: die Sushis ntpl
+- indication: die Sushis ntpl
+  result: the sushis ntpl
   clue: Phrase

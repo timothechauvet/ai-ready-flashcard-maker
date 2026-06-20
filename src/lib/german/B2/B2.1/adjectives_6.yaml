@@ -1,26 +1,26 @@
-- indication: press-ups
-  result: das Yoga
+- indication: das Yoga
+  result: the yoga
   clue: Adjective
 - indication: puck
   result: mpl
   clue: Adjective
-- indication: rally
-  result: der Fehler
+- indication: der Fehler
+  result: the error
   clue: Adjective
-- indication: restaurant
-  result: die Oper
+- indication: die Oper
+  result: the opera
   clue: Adjective
-- indication: rock
-  result: die Folkmusik
+- indication: die Folkmusik
+  result: the folk music
   clue: Adjective
-- indication: safe
-  result: die Empfangschefin
+- indication: die Empfangschefin
+  result: the receptionist
   clue: Adjective
-- indication: sandcastle
-  result: die Promenade
+- indication: die Promenade
+  result: the promenade
   clue: Adjective
-- indication: save
-  result: der Kopfball
+- indication: der Kopfball
+  result: the header
   clue: Adjective
 - indication: Schienbeinschützer
   result: die
@@ -28,23 +28,23 @@
 - indication: Schwimmunterricht
   result: der
   clue: Adjective
-- indication: scoreboard
-  result: die Schiedsrichterin
+- indication: die Schiedsrichterin
+  result: the referee
   clue: Adjective
-- indication: sea
-  result: der Sand
+- indication: der Sand
+  result: the sand
   clue: Adjective
-- indication: seashells
-  result: die Sandburg
+- indication: die Sandburg
+  result: the sand castle
   clue: Adjective
-- indication: serve
-  result: das Ass
+- indication: das Ass
+  result: the ace
   clue: Adjective
 - indication: shin pads
   result: mpl
   clue: Adjective
-- indication: show
-  result: die Party
+- indication: die Party
+  result: the party
   clue: Adjective
 - indication: sich amüsieren
   result: ballet
@@ -55,6 +55,6 @@
 - indication: sich für etwas
   result: something
   clue: Adjective
-- indication: sightseeing bus
-  result: das Museum
+- indication: das Museum
+  result: the museum
   clue: Adjective

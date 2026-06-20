@@ -1,60 +1,60 @@
 - indication: Hauptverkehrszeit
   result: die
   clue: Adjective
-- indication: headrest
-  result: die Handbremse
+- indication: die Handbremse
+  result: the handbrake
   clue: Adjective
-- indication: hob
-  result: der Backofen
+- indication: der Backofen
+  result: the oven
   clue: Adjective
-- indication: holiday let
-  result: der Mietvertrag
+- indication: der Mietvertrag
+  result: the rental agreement
   clue: Adjective
-- indication: home entertainment
-  result: die Tischlampe
+- indication: die Tischlampe
+  result: the table lamp
   clue: Adjective
 - indication: Kartoffelstampfer
   result: der
   clue: Adjective
-- indication: keitsbegrenzung
-  result: die Geschwindig-
+- indication: die Geschwindig-
+  result: the speed
   clue: Adjective
 - indication: kettle
   result: vocabulary
   clue: Adjective
-- indication: kitchen roll
-  result: die Frischhaltefolie
+- indication: die Frischhaltefolie
+  result: the cling film
   clue: Adjective
-- indication: landing
-  result: der Flur
+- indication: der Flur
+  result: the corridor
   clue: Adjective
-- indication: landlady
-  result: der Vermieter
+- indication: der Vermieter
+  result: the landlord
   clue: Adjective
 - indication: Landstraße
   result: die einspurige
   clue: Adjective
-- indication: letting agent
-  result: der Bezirk
+- indication: der Bezirk
+  result: the district
   clue: Adjective
-- indication: lift
-  result: die Treppe
+- indication: die Treppe
+  result: the stairs
   clue: Adjective
-- indication: lounge
-  result: die Jalousie
+- indication: die Jalousie
+  result: the blinds
   clue: Adjective
 - indication: mechanic
   result: ntpl
   clue: Adjective
-- indication: microwave
-  result: das Kochfeld
+- indication: das Kochfeld
+  result: the hob
   clue: Adjective
-- indication: minibus
-  result: der Reisebus
+- indication: der Reisebus
+  result: the coach
   clue: Adjective
-- indication: night bus
-  result: der Rollstuhlzugang
+- indication: der Rollstuhlzugang
+  result: wheelchair access
   clue: Adjective
-- indication: ornament
-  result: das Bild
+- indication: das Bild
+  result: the picture
   clue: Adjective

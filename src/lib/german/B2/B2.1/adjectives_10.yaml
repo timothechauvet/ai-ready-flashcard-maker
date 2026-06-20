@@ -1,26 +1,26 @@
 - indication: Videospiele spielen
   result: gaming
   clue: Adjective
-- indication: vinyl record
-  result: die CD
+- indication: die CD
+  result: the cd
   clue: Adjective
-- indication: walking
-  result: das Reisen
+- indication: das Reisen
+  result: the traveling
   clue: Adjective
-- indication: watching TV/films
-  result: das Laufen
+- indication: das Laufen
+  result: the running
   clue: Adjective
-- indication: waves
-  result: das Meer
+- indication: das Meer
+  result: the sea
   clue: Adjective
 - indication: whistle
   result: mpl
   clue: Adjective
-- indication: yellow/red card
-  result: die Pfeife
+- indication: die Pfeife
+  result: the whistle
   clue: Adjective
-- indication: yoga
-  result: das Pilates
+- indication: das Pilates
+  result: the pilates
   clue: Adjective
 - indication: “No swimming.”
   result: vocabulary

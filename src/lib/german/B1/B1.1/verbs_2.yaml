@@ -1,17 +1,17 @@
 - indication: schälen
   result: to peel
   clue: Verb
-- indication: Schinken
-  result: der Spargel mit
+- indication: der Spargel mit
+  result: the asparagus with
   clue: Verb
 - indication: Schokoladenkuchen
   result: der
   clue: Verb
-- indication: stollen
-  result: die Brezel
+- indication: die Brezel
+  result: the pretzel
   clue: Verb
-- indication: touchscreen
-  result: die Voicemail
+- indication: die Voicemail
+  result: the voicemail
   clue: Verb
 - indication: treffen
   result: sich mit Freunden
@@ -19,8 +19,8 @@
 - indication: überspringen
   result: das Frühstück
   clue: Verb
-- indication: verlangen
-  result: die Rechnung
+- indication: die Rechnung
+  result: the bill
   clue: Verb
 - indication: würfeln
   result: to dice

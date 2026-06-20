@@ -1,60 +1,60 @@
-- indication: sightseeing   |  besichtigungen
-  result: die Rundfahrt
+- indication: die Rundfahrt
+  result: the tour
   clue: Adjective
-- indication: singer-songwriter
-  result: das Album
+- indication: das Album
+  result: the album
   clue: Adjective
-- indication: single room
-  result: der Tresor
+- indication: der Tresor
+  result: the safe
   clue: Adjective
-- indication: skates
-  result: der Puck
+- indication: der Puck
+  result: the puck
   clue: Adjective
-- indication: slam dunk
-  result: der Korbleger
+- indication: der Korbleger
+  result: the layup
   clue: Adjective
-- indication: sleeping bag
-  result: die Picknick-Decke
+- indication: die Picknick-Decke
+  result: the picnic blanket
   clue: Adjective
-- indication: snorkel
-  result: der Seetang
+- indication: der Seetang
+  result: the seaweed
   clue: Adjective
-- indication: song
-  result: das Mikrofon
+- indication: das Mikrofon
+  result: the microphone
   clue: Adjective
-- indication: Songwriter /
-  result: der Singer-
+- indication: der Singer-
+  result: the singer
   clue: Adjective
-- indication: Songwriterin
-  result: die Singer-
+- indication: die Singer-
+  result: the singer
   clue: Adjective
-- indication: spare time
-  result: der Urlaub
+- indication: der Urlaub
+  result: the holidays
   clue: Adjective
-- indication: spectators
-  result: die Anzeigetafel
+- indication: die Anzeigetafel
+  result: the scoreboard
   clue: Adjective
-- indication: Spieler /
-  result: der topgesetzte
+- indication: der topgesetzte
+  result: the top seed
   clue: Adjective
-- indication: Spielerin
-  result: die topgesetzte
+- indication: die topgesetzte
+  result: the top seed
   clue: Adjective
 - indication: squash
   result: squash
   clue: Adjective
-- indication: squash ball
-  result: das Squash
+- indication: das Squash
+  result: the squash
   clue: Adjective
-- indication: squash racket
-  result: der Squashball
+- indication: der Squashball
+  result: the squash ball
   clue: Adjective
-- indication: stands
-  result: das Stadion
+- indication: das Stadion
+  result: the stadium
   clue: Adjective
 - indication: Stätte
   result: guided tour
   clue: Adjective
-- indication: sunbed
-  result: der Sonnenschirm
+- indication: der Sonnenschirm
+  result: the parasol
   clue: Adjective
