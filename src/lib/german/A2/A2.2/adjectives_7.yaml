@@ -1,0 +1,54 @@
+- indication: train station
+  result: der Zug
+  clue: Adjective
+- indication: tram
+  result: der Bahnhof
+  clue: Adjective
+- indication: tray table
+  result: der Gang
+  clue: Adjective
+- indication: tree
+  result: vocabulary
+  clue: Adjective
+- indication: trowel
+  result: der Spaten
+  clue: Adjective
+- indication: tumble drier
+  result: das Geschirrtuch
+  clue: Adjective
+- indication: Unkrautvernichter
+  result: der
+  clue: Adjective
+- indication: utility room
+  result: vocabulary
+  clue: Adjective
+- indication: vegetable oil
+  result: das Brot
+  clue: Adjective
+- indication: wardrobe
+  result: das Bett
+  clue: Adjective
+- indication: Wäscheklammern fpl
+  result: die
+  clue: Adjective
+- indication: washing line
+  result: der Staubsauger
+  clue: Adjective
+- indication: watering can
+  result: die Kelle
+  clue: Adjective
+- indication: weed
+  result: die Pflanze
+  clue: Adjective
+- indication: wheelbarrow
+  result: mpl
+  clue: Adjective
+- indication: windowbox
+  result: der Schubkarren
+  clue: Adjective
+- indication: wine glass
+  result: das Trinkglas
+  clue: Adjective
+- indication: wing
+  result: der Sicherheitsgurt
+  clue: Adjective

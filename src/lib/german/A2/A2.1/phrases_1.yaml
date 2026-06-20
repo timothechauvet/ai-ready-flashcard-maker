@@ -1,0 +1,60 @@
+- indication: '19'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '22'
+  result: bus   |  mit dem bus
+  clue: Phrase
+- indication: '23'
+  result: bicycle   |  mit dem fahrrad
+  clue: Phrase
+- indication: '30'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '31'
+  result: the basics   |  das wesentliche the house   |  das haus
+  clue: Phrase
+- indication: '32'
+  result: the entrance   |  der eingang
+  clue: Phrase
+- indication: '33'
+  result: the lounge   |  das wohnzimmer
+  clue: Phrase
+- indication: apartment block
+  result: types of building
+  clue: Phrase
+- indication: bus
+  result: den Bus nehmen
+  clue: Phrase
+- indication: car wash
+  result: car trouble   |  probleme mit dem auto
+  clue: Phrase
+- indication: concession
+  result: der halbe Fahrpreis
+  clue: Phrase
+- indication: Dachgepäckträger
+  result: car   |  mit dem auto
+  clue: Phrase
+- indication: den Tisch abräumen
+  result: the dining room   |  das esszimmer
+  clue: Phrase
+- indication: die
+  result: der Verkehrspolizist /
+  clue: Phrase
+- indication: half fare
+  result: der volle Fahrpreis
+  clue: Phrase
+- indication: Immobilienhändlerin
+  result: händler / die
+  clue: Phrase
+- indication: route
+  result: die Anweisungen fpl
+  clue: Phrase
+- indication: suite
+  result: die Dielen fpl
+  clue: Phrase
+- indication: to brake
+  result: den Motor anlassen
+  clue: Phrase
+- indication: to break down
+  result: der platte Reifen
+  clue: Phrase

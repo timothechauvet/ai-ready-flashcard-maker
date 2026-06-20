@@ -1,0 +1,60 @@
+- indication: 'die Angabe • plural: die Angaben'
+  result: information, statement
+  clue: Noun
+- indication: 'die Anleihe • plural: die Anleihen'
+  result: loan, bond, borrowing
+  clue: Noun
+- indication: die Arbeitskraft
+  result: work capacity, worker
+  clue: Noun
+- indication: die Arzthelferin
+  result: der Arzthelfer /
+  clue: Noun
+- indication: 'die Aufgabe • plural: die Aufgaben'
+  result: task, assignment, job
+  clue: Noun
+- indication: 'die Ausbildung • plural: die Ausbildungen'
+  result: training, development
+  clue: Noun
+- indication: 'die Auseinandersetzung • plural: die Auseinandersetzungen'
+  result: argument, quarrel
+  clue: Noun
+- indication: 'die Ausführung • plural: die Ausführungen'
+  result: implementation, type
+  clue: Noun
+- indication: die Auswahl
+  result: choice, selection
+  clue: Noun
+- indication: 'die Auswertung • plural: die Auswertungen'
+  result: evaluation, analysis
+  clue: Noun
+- indication: die Autobahn
+  result: expressway, motorway
+  clue: Noun
+- indication: die Bahn
+  result: train, railway, way
+  clue: Noun
+- indication: 'die Bearbeitung • plural: die Bearbeitungen'
+  result: working, handling
+  clue: Noun
+- indication: 'die Bedeutung • plural: die Bedeutungen'
+  result: meaning, significance
+  clue: Noun
+- indication: 'die Bedingung • plural: die Bedingungen'
+  result: condition, stipulation
+  clue: Noun
+- indication: 'die Begegnung • plural: die Begegnungen'
+  result: encounter, meeting
+  clue: Noun
+- indication: 'die Behinderung • plural: die Behinderungen'
+  result: obstruction, handicap
+  clue: Noun
+- indication: 'die Bekämpfung • plural: die Bekämpfungen'
+  result: fighting, controlling
+  clue: Noun
+- indication: 'die Bestellung • plural: die Bestellungen'
+  result: order, reservation
+  clue: Noun
+- indication: 'die Bevölkerung • plural: die Bevölkerungen'
+  result: population, people
+  clue: Noun

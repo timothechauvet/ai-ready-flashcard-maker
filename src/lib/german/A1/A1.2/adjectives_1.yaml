@@ -1,0 +1,60 @@
+- indication: 1 000 000
+  result: 1 000
+  clue: Adjective
+- indication: '100'
+  result: '90'
+  clue: Adjective
+- indication: '11'
+  result: '10'
+  clue: Adjective
+- indication: '13'
+  result: '12'
+  clue: Adjective
+- indication: '14'
+  result: '13'
+  clue: Adjective
+- indication: '15'
+  result: '14'
+  clue: Adjective
+- indication: '16'
+  result: '15'
+  clue: Adjective
+- indication: '18'
+  result: '17'
+  clue: Adjective
+- indication: '20'
+  result: '19'
+  clue: Adjective
+- indication: '40'
+  result: '30'
+  clue: Adjective
+- indication: '60'
+  result: '50'
+  clue: Adjective
+- indication: '80'
+  result: '70'
+  clue: Adjective
+- indication: acht
+  result: sieben
+  clue: Adjective
+- indication: afternoon
+  result: der Morgen
+  clue: Adjective
+- indication: August
+  result: Juli
+  clue: Adjective
+- indication: autumn
+  result: der Sommer
+  clue: Adjective
+- indication: cloud
+  result: das Gewitter
+  clue: Adjective
+- indication: construction site
+  result: die Firma
+  clue: Adjective
+- indication: cool
+  result: warm
+  clue: Adjective
+- indication: daily
+  result: das Jahrzehnt
+  clue: Adjective

@@ -1,0 +1,24 @@
+- indication: Sicherungskasten
+  result: der
+  clue: Verb
+- indication: überholen
+  result: to park
+  clue: Verb
+- indication: umdrehen
+  result: to turn
+  clue: Verb
+- indication: umziehen
+  result: to move house
+  clue: Verb
+- indication: windscreen
+  result: die Motorhaube
+  clue: Verb
+- indication: wohnen
+  result: to live
+  clue: Verb
+- indication: zurückkehren
+  result: to cross
+  clue: Verb
+- indication: zurücksetzen
+  result: to slow down
+  clue: Verb

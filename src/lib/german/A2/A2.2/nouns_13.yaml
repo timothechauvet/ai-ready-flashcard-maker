@@ -1,0 +1,60 @@
+- indication: 'die Maßnahme • plural: die Maßnahmen'
+  result: measure
+  clue: Noun
+- indication: 'die Materie • plural: die Materien'
+  result: matter
+  clue: Noun
+- indication: 'die Meinung • plural: die Meinungen'
+  result: opinion
+  clue: Noun
+- indication: 'die Meldung • plural: die Meldungen'
+  result: report
+  clue: Noun
+- indication: 'die Milliarde • plural: die Milliarden'
+  result: billion
+  clue: Noun
+- indication: 'die Million • plural: die Millionen'
+  result: million
+  clue: Noun
+- indication: die Motorradfahrerin
+  result: der Motorradfahrer /
+  clue: Noun
+- indication: 'die Nachfrage • plural: die Nachfragen'
+  result: demand
+  clue: Noun
+- indication: die Nachttischlampe
+  result: bedside lamp
+  clue: Noun
+- indication: 'die Niederlage • plural: die Niederlagen'
+  result: defeat
+  clue: Noun
+- indication: 'die Option • plural: die Optionen'
+  result: option
+  clue: Noun
+- indication: 'die Periode • plural: die Perioden'
+  result: period
+  clue: Noun
+- indication: die Pfeffermühle
+  result: pepper mill
+  clue: Noun
+- indication: 'die Pistole • plural: die Pistolen'
+  result: pistol
+  clue: Noun
+- indication: die Qualität
+  result: quality
+  clue: Noun
+- indication: die Reform
+  result: reform
+  clue: Noun
+- indication: die Reisetasche
+  result: holdall
+  clue: Noun
+- indication: die Reparatur
+  result: repair
+  clue: Noun
+- indication: die Rückfahrkarte
+  result: e-ticket
+  clue: Noun
+- indication: die Rückkehr
+  result: return
+  clue: Noun

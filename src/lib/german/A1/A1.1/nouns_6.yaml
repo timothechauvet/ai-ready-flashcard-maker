@@ -1,0 +1,60 @@
+- indication: 'der Tag • plural: die Tage'
+  result: day
+  clue: Noun
+- indication: 'der Tee • plural: die Teen'
+  result: tea
+  clue: Noun
+- indication: der Test
+  result: test
+  clue: Noun
+- indication: der Text
+  result: text
+  clue: Noun
+- indication: 'der Tisch • plural: die Tische'
+  result: the table
+  clue: Noun
+- indication: der Topf
+  result: pot
+  clue: Noun
+- indication: der Typ
+  result: type
+  clue: Noun
+- indication: der Verlobte /
+  result: fiancé/fiancée
+  clue: Noun
+- indication: der Verlust
+  result: loss
+  clue: Noun
+- indication: der Vogel
+  result: bird
+  clue: Noun
+- indication: der Wein
+  result: wine
+  clue: Noun
+- indication: der Westen/West
+  result: west
+  clue: Noun
+- indication: 'der Wille • plural: die Willen'
+  result: will
+  clue: Noun
+- indication: der Wind
+  result: wind
+  clue: Noun
+- indication: der Wunsch
+  result: wish
+  clue: Noun
+- indication: der/das Teil
+  result: part
+  clue: Noun
+- indication: 'die Arbeit • plural: die Arbeiten'
+  result: work
+  clue: Noun
+- indication: 'die Armee • plural: die Armeen'
+  result: army
+  clue: Noun
+- indication: die Bar
+  result: bar
+  clue: Noun
+- indication: die Bäuerin
+  result: der Bauer /
+  clue: Noun

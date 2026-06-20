@@ -1,0 +1,60 @@
+- indication: afraid
+  result: besorgt
+  clue: Adjective
+- indication: Are you married/
+  result: britisch
+  clue: Adjective
+- indication: aunt
+  result: der Onkel
+  clue: Adjective
+- indication: baby
+  result: die Kollegin
+  clue: Adjective
+- indication: better
+  result: unwohl
+  clue: Adjective
+- indication: black
+  result: blau
+  clue: Adjective
+- indication: boyfriend
+  result: die Ehefrau
+  clue: Adjective
+- indication: British
+  result: walisisch
+  clue: Adjective
+- indication: brother
+  result: die Mutter
+  clue: Adjective
+- indication: builder
+  result: Ich bin…
+  clue: Adjective
+- indication: calm
+  result: aufgeregt
+  clue: Adjective
+- indication: child
+  result: das Baby
+  clue: Adjective
+- indication: colleague
+  result: die Freundin
+  clue: Adjective
+- indication: cousin
+  result: die Nichte
+  clue: Adjective
+- indication: danke.
+  result: Nicht schlecht,
+  clue: Adjective
+- indication: daughter
+  result: der Sohn
+  clue: Adjective
+- indication: dentist
+  result: die Beamtin
+  clue: Adjective
+- indication: engineer
+  result: die Elektrikerin
+  clue: Adjective
+- indication: English
+  result: schottisch
+  clue: Adjective
+- indication: father
+  result: die Eltern
+  clue: Adjective

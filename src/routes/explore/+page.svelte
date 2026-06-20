@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 	import { browser } from '$app/environment';
 	import { onMount } from 'svelte';
-	import { getGermanSubfolderDefinitions, publicDecks } from '$lib/deck_loader';
+	import { getGermanSubfolderDefinitions, publicDecks, type DeckDefinition } from '$lib/deck_loader';
 
 	const germanSubfolders = getGermanSubfolderDefinitions();
 	const otherDecks = publicDecks.filter((deck) => deck.folder !== 'German');
@@ -11,6 +11,20 @@
 		level,
 		subfolders: germanSubfolders.filter((group) => group.subfolder.startsWith(`${level}/`))
 	}));
+
+	function groupByCategory(decks: DeckDefinition[]): { category: string; parts: DeckDefinition[] }[] {
+		const map = new Map<string, DeckDefinition[]>();
+		for (const deck of decks) {
+			const cat = deck.category ?? 'other';
+			map.set(cat, [...(map.get(cat) ?? []), deck]);
+		}
+		return [...map.entries()].map(([category, parts]) => ({
+			category,
+			parts: parts.sort((a, b) => (a.part ?? 0) - (b.part ?? 0))
+		}));
+	}
+
+	const totalDeckCount = germanSubfolders.reduce((sum, sf) => sum + sf.decks.length, 0);
 
 	type ProgressMap = Record<string, { correct: number; total: number }>;
 	let progressMap = $state<ProgressMap>({});
@@ -58,7 +72,7 @@
 		<div class="german-folder-header">
 			<div>
 				<h3>German</h3>
-				<p class="text-muted">6 levels • 12 subfolders • 60 category decks • {overallTotal} cards total</p>
+					<p class="text-muted">6 levels • 12 subfolders • {totalDeckCount} decks (max 20 cards each) • {overallTotal} cards total</p>
 			</div>
 			<div class="progress-summary">
 				<span>{overallCorrect} / {overallTotal}</span>
@@ -101,20 +115,27 @@
 								</div>
 
 								<div class="category-list">
-									{#each subfolder.decks as deck}
-										<div class="deck-row">
-											<div class="deck-row-copy">
-												<h6>{deck.category}</h6>
-												<p class="text-muted">{deck.cards.length} cards</p>
-											</div>
-											<div class="deck-row-actions">
-												<div class="mini-progress">
-													<span>{progressMap[deck.id]?.correct ?? 0} / {deck.cards.length}</span>
-													<div class="mini-progress-track">
-														<div class="mini-progress-fill" style={`width: ${Math.round(((progressMap[deck.id]?.correct ?? 0) / deck.cards.length) * 100)}%`}></div>
+									{#each groupByCategory(subfolder.decks) as catGroup}
+										<div class="category-group">
+											<h6 class="category-heading">{catGroup.category}</h6>
+											<div class="category-parts">
+												{#each catGroup.parts as deck}
+													<div class="deck-row">
+														<div class="deck-row-copy">
+															<span class="part-label">{deck.part != null ? `Part ${deck.part}` : catGroup.category}</span>
+															<p class="text-muted">{deck.cards.length} cards</p>
+														</div>
+														<div class="deck-row-actions">
+															<div class="mini-progress">
+																<span>{progressMap[deck.id]?.correct ?? 0} / {deck.cards.length}</span>
+																<div class="mini-progress-track">
+																	<div class="mini-progress-fill" style={`width: ${Math.round(((progressMap[deck.id]?.correct ?? 0) / deck.cards.length) * 100)}%`}></div>
+																</div>
+															</div>
+															<a href={`${base}/play/${deck.id}`} class="btn btn-primary">Play</a>
+														</div>
 													</div>
-												</div>
-												<a href={`${base}/play/${deck.id}`} class="btn btn-primary">Play</a>
+												{/each}
 											</div>
 										</div>
 									{/each}
@@ -245,6 +266,33 @@
 		display: flex;
 		flex-direction: column;
 		gap: 0.75rem;
+	}
+
+	.category-group {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.category-heading {
+		text-transform: capitalize;
+		font-size: 0.85rem;
+		font-weight: 700;
+		color: var(--accent-color);
+		margin: 0.5rem 0 0;
+		padding-bottom: 0.25rem;
+		border-bottom: 1px solid var(--border-color);
+	}
+
+	.category-parts {
+		display: flex;
+		flex-direction: column;
+		gap: 0.4rem;
+	}
+
+	.part-label {
+		font-size: 0.85rem;
+		font-weight: 600;
 	}
 
 	.deck-row {

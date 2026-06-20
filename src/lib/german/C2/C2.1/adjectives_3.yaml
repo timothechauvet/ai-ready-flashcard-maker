@@ -1,0 +1,64 @@
+- indication: cobweb
+  result: die Kolonie
+  clue: Adjective
+- indication: cold-blooded
+  result: der Schnabel
+  clue: Adjective
+- indication: colony
+  result: der Schwarm
+  clue: Adjective
+- indication: coral
+  result: vocabulary
+  clue: Adjective
+- indication: crane
+  result: der Bussard
+  clue: Adjective
+- indication: crocodile
+  result: der Alligator
+  clue: Adjective
+- indication: crow
+  result: der Kranich
+  clue: Adjective
+- indication: daffodil
+  result: die Chrysantheme
+  clue: Adjective
+- indication: daisy
+  result: die Osterglocke
+  clue: Adjective
+- indication: deer
+  result: das Wildschwein
+  clue: Adjective
+- indication: detailreich
+  result: detailed / rich in detail
+  clue: Adjective
+  pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
+- indication: dog
+  result: die Katze
+  clue: Adjective
+- indication: donkey
+  result: die Kuh
+  clue: Adjective
+- indication: dove
+  result: der Rabe
+  clue: Adjective
+- indication: dragonfly
+  result: die Grille
+  clue: Adjective
+- indication: eagle
+  result: die Taube
+  clue: Adjective
+- indication: earthworm
+  result: die Libelle
+  clue: Adjective
+- indication: einfühlsam
+  result: empathetic / sensitive
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌfyːlzaːm]'
+- indication: eingeschränkt
+  result: restricted / limited
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nɡəˌʃʁɛŋkt]'
+- indication: einleuchtend
+  result: plausible / logical / obvious
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌlɔʏ̯çtn̩t]'

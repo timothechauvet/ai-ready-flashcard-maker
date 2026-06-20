@@ -1,0 +1,60 @@
+- indication: 'die Beschränkung • plural: die Beschränkungen'
+  result: restriction
+  clue: Noun
+- indication: 'die Beschreibung • plural: die Beschreibungen'
+  result: description
+  clue: Noun
+- indication: 'die Bewertung • plural: die Bewertungen'
+  result: assessment
+  clue: Noun
+- indication: 'die Bezeichnung • plural: die Bezeichnungen'
+  result: name, term
+  clue: Noun
+- indication: 'die Börse • plural: die Börsen'
+  result: stock market
+  clue: Noun
+- indication: die Bundeswehr
+  result: Armed Forces
+  clue: Noun
+- indication: die Camperin
+  result: der Camper /
+  clue: Noun
+- indication: die Cheftrainerin
+  result: der Cheftrainer /
+  clue: Noun
+- indication: 'die City • plural: die Citys'
+  result: city center
+  clue: Noun
+- indication: die Differenz
+  result: difference
+  clue: Noun
+- indication: 'die Disziplin • plural: die Disziplinnen'
+  result: discipline
+  clue: Noun
+- indication: 'die Ebene • plural: die Ebenen'
+  result: plane, level
+  clue: Noun
+- indication: 'die Einführung • plural: die Einführungen'
+  result: introduction
+  clue: Noun
+- indication: 'die Einheit • plural: die Einheiten'
+  result: unity, unit
+  clue: Noun
+- indication: 'die Einladung • plural: die Einladungen'
+  result: invitation
+  clue: Noun
+- indication: 'die Einschränkung • plural: die Einschränkungen'
+  result: restriction
+  clue: Noun
+- indication: 'die Entwicklung • plural: die Entwicklungen'
+  result: development
+  clue: Noun
+- indication: 'die Erfüllung • plural: die Erfüllungen'
+  result: fulfillment
+  clue: Noun
+- indication: 'die Erklärung • plural: die Erklärungen'
+  result: explanation
+  clue: Noun
+- indication: 'die Ernährung • plural: die Ernährungen'
+  result: food, diet
+  clue: Noun

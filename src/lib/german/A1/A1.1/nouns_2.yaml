@@ -1,0 +1,60 @@
+- indication: 'das Jahr • plural: die Jahre'
+  result: year
+  clue: Noun
+- indication: 'das Kind • plural: die Kinder'
+  result: the child
+  clue: Noun
+- indication: 'das Knie • plural: die Knien'
+  result: knee
+  clue: Noun
+- indication: das Leben
+  result: life
+  clue: Noun
+- indication: das Lebensmittel
+  result: food
+  clue: Noun
+- indication: das Lied
+  result: song
+  clue: Noun
+- indication: das Loch
+  result: hole
+  clue: Noun
+- indication: 'das Mädchen • plural: die Mädchen'
+  result: girl
+  clue: Noun
+- indication: 'das Mal • plural: die Male'
+  result: time
+  clue: Noun
+- indication: das Ohr
+  result: ear
+  clue: Noun
+- indication: das Öl
+  result: oil
+  clue: Noun
+- indication: das Rennen
+  result: race
+  clue: Noun
+- indication: 'das Risiko • plural: die Risikos'
+  result: risk
+  clue: Noun
+- indication: das Schicksal
+  result: fate
+  clue: Noun
+- indication: das Schiff
+  result: ship
+  clue: Noun
+- indication: das Schwein
+  result: pig
+  clue: Noun
+- indication: Das sind meine…
+  result: These are my...
+  clue: Noun
+- indication: das Spiel
+  result: game
+  clue: Noun
+- indication: das Team
+  result: team
+  clue: Noun
+- indication: das Top
+  result: top
+  clue: Noun

@@ -1,0 +1,60 @@
+- indication: heute Abend
+  result: tonight
+  clue: Adjective
+- indication: hospital
+  result: die Regierung
+  clue: Adjective
+- indication: hot
+  result: schlecht
+  clue: Adjective
+- indication: hotel
+  result: das Krankenhaus
+  clue: Adjective
+- indication: humid
+  result: nass
+  clue: Adjective
+- indication: ice
+  result: der Hagel
+  clue: Adjective
+- indication: im Februar
+  result: in February
+  clue: Adjective
+- indication: in 2019
+  result: in 2019
+  clue: Adjective
+- indication: in spring/winter
+  result: der Winter
+  clue: Adjective
+- indication: jährlich
+  result: on Mondays
+  clue: Adjective
+- indication: July
+  result: Juni
+  clue: Adjective
+- indication: June
+  result: Mai
+  clue: Adjective
+- indication: kühl
+  result: wet
+  clue: Adjective
+- indication: last/next Thursday
+  result: jeden Sonntag
+  clue: Adjective
+- indication: later
+  result: bald
+  clue: Adjective
+- indication: lightning
+  result: der Donner
+  clue: Adjective
+- indication: March
+  result: Februar
+  clue: Adjective
+- indication: März
+  result: April
+  clue: Adjective
+- indication: May
+  result: April
+  clue: Adjective
+- indication: midday
+  result: die Nacht
+  clue: Adjective

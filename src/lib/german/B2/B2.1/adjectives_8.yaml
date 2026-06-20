@@ -1,0 +1,60 @@
+- indication: sunglasses
+  result: der Schnorchel
+  clue: Adjective
+- indication: sunhat
+  result: die Sonnenbrille
+  clue: Adjective
+- indication: suntan
+  result: das Badegebiet
+  clue: Adjective
+- indication: surfer
+  result: die Anglerin
+  clue: Adjective
+- indication: swimming
+  result: vocabulary
+  clue: Adjective
+- indication: tennis ball
+  result: das Tennis
+  clue: Adjective
+- indication: tennis court
+  result: der Tennisball
+  clue: Adjective
+- indication: tennis player
+  result: der Tennisplatz
+  clue: Adjective
+- indication: the gym
+  result: gehen
+  clue: Adjective
+- indication: the seaside
+  result: schwimmen
+  clue: Adjective
+- indication: theatre
+  result: das Restaurant
+  clue: Adjective
+- indication: to block
+  result: dribbeln
+  clue: Adjective
+- indication: to catch
+  result: Basketball spielen
+  clue: Adjective
+- indication: to check in
+  result: Nacht
+  clue: Adjective
+- indication: to check out
+  result: einchecken
+  clue: Adjective
+- indication: to compete
+  result: trainieren
+  clue: Adjective
+- indication: to draw
+  result: verlieren
+  clue: Adjective
+- indication: to dribble
+  result: werfen
+  clue: Adjective
+- indication: to enjoy oneself
+  result: tanzen gehen
+  clue: Adjective
+- indication: to fish
+  result: segeln
+  clue: Adjective

@@ -1,0 +1,54 @@
+- indication: 'die Treppe • plural: die Treppen'
+  result: stairs
+  clue: Noun
+- indication: die U-Bahn
+  result: metro
+  clue: Noun
+- indication: die Überfahrt
+  result: ferry terminal
+  clue: Noun
+- indication: 'die Umfrage • plural: die Umfragen'
+  result: survey
+  clue: Noun
+- indication: 'die Unterstützung • plural: die Unterstützungen'
+  result: support
+  clue: Noun
+- indication: 'die Verbreitung • plural: die Verbreitungen'
+  result: spread
+  clue: Noun
+- indication: 'die Verletzung • plural: die Verletzungen'
+  result: injury
+  clue: Noun
+- indication: die Vernunft
+  result: reason
+  clue: Noun
+- indication: 'die Waffe • plural: die Waffen'
+  result: weapon
+  clue: Noun
+- indication: die Wäsche waschen
+  result: to do the laundry
+  clue: Noun
+- indication: die Wäscheleine
+  result: washing machine
+  clue: Noun
+- indication: 'die Wende • plural: die Wenden'
+  result: change
+  clue: Noun
+- indication: 'die Wiese • plural: die Wiesen'
+  result: meadow
+  clue: Noun
+- indication: 'die Wirklichkeit • plural: die Wirklichkeiten'
+  result: reality
+  clue: Noun
+- indication: 'die Wissenschaft • plural: die Wissenschaften'
+  result: science
+  clue: Noun
+- indication: 'die Wüste • plural: die Wüsten'
+  result: desert
+  clue: Noun
+- indication: 'die Zunge • plural: die Zungen'
+  result: tongue
+  clue: Noun
+- indication: die/das E-Mail
+  result: e-mail
+  clue: Noun

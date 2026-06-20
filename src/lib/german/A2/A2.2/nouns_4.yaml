@@ -1,0 +1,60 @@
+- indication: das Symbol
+  result: symbol
+  clue: Noun
+- indication: das Tal
+  result: valley
+  clue: Noun
+- indication: das Talent
+  result: talent
+  clue: Noun
+- indication: das Tennis
+  result: tennis
+  clue: Noun
+- indication: das Theater
+  result: theater
+  clue: Noun
+- indication: das Ticket
+  result: ticket
+  clue: Noun
+- indication: das Übergepäck
+  result: excess baggage
+  clue: Noun
+- indication: das Vogelhäuschen
+  result: patio furniture
+  clue: Noun
+- indication: das Vorgehen
+  result: action
+  clue: Noun
+- indication: das Waschmittel
+  result: laundry detergent
+  clue: Noun
+- indication: das Wetter
+  result: weather
+  clue: Noun
+- indication: 'das Wochenende • plural: die Wochenenden'
+  result: weekend
+  clue: Noun
+- indication: der Abend
+  result: evening
+  clue: Noun
+- indication: der Abfluss
+  result: drain
+  clue: Noun
+- indication: der Anker
+  result: anchor
+  clue: Noun
+- indication: der Anschlussflug
+  result: connecting flight
+  clue: Noun
+- indication: der Arbeiter
+  result: worker
+  clue: Noun
+- indication: der Artikel
+  result: article
+  clue: Noun
+- indication: der Atem
+  result: breath
+  clue: Noun
+- indication: der Benzintank
+  result: fuel tank
+  clue: Noun

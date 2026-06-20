@@ -1,0 +1,60 @@
+- indication: fireplace
+  result: der Fernseher
+  clue: Adjective
+- indication: floor
+  result: die Wand
+  clue: Adjective
+- indication: floorboards
+  result: der Teppich
+  clue: Adjective
+- indication: footstool
+  result: der Sessel
+  clue: Adjective
+- indication: fridge-freezer
+  result: der Mikrowellenherd
+  clue: Adjective
+- indication: front door
+  result: die Auffahrt
+  clue: Adjective
+- indication: front light
+  result: das Fahrradschloss
+  clue: Adjective
+- indication: Frontscheinwerfer
+  result: der
+  clue: Adjective
+- indication: fuel gauge
+  result: das Armaturenbrett
+  clue: Adjective
+- indication: fuel tank
+  result: das Auspuffrohr
+  clue: Adjective
+- indication: full fare
+  result: der Fahrpreis
+  clue: Adjective
+- indication: gable
+  result: das Abflussrohr
+  clue: Adjective
+- indication: gas cooker
+  result: der Elektroherd
+  clue: Adjective
+- indication: gate
+  result: der Fensterladen
+  clue: Adjective
+- indication: gearbox
+  result: der Benzintank
+  clue: Adjective
+- indication: gearstick
+  result: die Tankanzeige
+  clue: Adjective
+- indication: glassware
+  result: das Besteck
+  clue: Adjective
+- indication: gutter
+  result: die Antenne
+  clue: Adjective
+- indication: hallway/corridor
+  result: der Eingang
+  clue: Adjective
+- indication: handbrake
+  result: das Handschuhfach
+  clue: Adjective

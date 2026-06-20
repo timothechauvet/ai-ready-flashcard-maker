@@ -1,0 +1,24 @@
+- indication: Wie geht es Ihnen?
+  result: How are you?
+  clue: Phrase
+- indication: Wie geht’s?
+  result: How’s it going?
+  clue: Phrase
+- indication: Wo arbeiten Sie?
+  result: Where do you work?
+  clue: Phrase
+- indication: Wo kommen Sie her?
+  result: Where are you from?
+  clue: Phrase
+- indication: Wo wohnen Sie?
+  result: Where do you live?
+  clue: Phrase
+- indication: Yes.
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: Yes, please.
+  result: Bitte.
+  clue: Phrase
+- indication: You’re welcome.
+  result: Einverstanden!
+  clue: Phrase

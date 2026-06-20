@@ -1,0 +1,60 @@
+- indication: clam
+  result: seafood
+  clue: Adjective
+- indication: coffee
+  result: pl
+  clue: Adjective
+- indication: coins
+  result: der Kartenleser
+  clue: Adjective
+- indication: contactless
+  result: das Wechselgeld
+  clue: Adjective
+- indication: crab
+  result: die Venusmuschel
+  clue: Adjective
+- indication: crayfish
+  result: die Krabbe
+  clue: Adjective
+- indication: cream
+  result: die Butter
+  clue: Adjective
+- indication: crisps
+  result: die Schokolade
+  clue: Adjective
+- indication: croissant
+  result: das Baguette
+  clue: Adjective
+- indication: daily specials
+  result: die Tageskarte
+  clue: Adjective
+- indication: dairy
+  result: tiefgefroren
+  clue: Adjective
+- indication: dairy-free
+  result: aus Freilandhaltung
+  clue: Adjective
+- indication: data
+  result: die App
+  clue: Adjective
+- indication: delivery charge
+  result: zum Mitnehmen
+  clue: Adjective
+- indication: desserts
+  result: das Schnitzel
+  clue: Adjective
+- indication: double cream
+  result: das Eigelb
+  clue: Adjective
+- indication: drink
+  result: das Essen
+  clue: Adjective
+- indication: duck
+  result: das Wild
+  clue: Adjective
+- indication: egg
+  result: die Sahne
+  clue: Adjective
+- indication: egg white
+  result: vocabulary
+  clue: Adjective

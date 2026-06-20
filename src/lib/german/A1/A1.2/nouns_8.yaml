@@ -1,0 +1,57 @@
+- indication: 'die Sorge • plural: die Sorgen'
+  result: worry
+  clue: Noun
+- indication: 'die Stelle • plural: die Stellen'
+  result: place
+  clue: Noun
+- indication: 'die Studie • plural: die Studien'
+  result: study
+  clue: Noun
+- indication: 'die Szene • plural: die Szenen'
+  result: scene
+  clue: Noun
+- indication: die Tierärztin
+  result: der Tierarzt /
+  clue: Noun
+- indication: 'die Träne • plural: die Tränen'
+  result: tear
+  clue: Noun
+- indication: die übernächste
+  result: Woche
+  clue: Noun
+- indication: 'die Union • plural: die Unionen'
+  result: union
+  clue: Noun
+- indication: 'die Ursache • plural: die Ursachen'
+  result: cause
+  clue: Noun
+- indication: 'die Veranstaltung • plural: die Veranstaltungen'
+  result: event
+  clue: Noun
+- indication: die Verkäuferin
+  result: der Verkäufer /
+  clue: Noun
+- indication: 'die Wahrheit • plural: die Wahrheiten'
+  result: truth
+  clue: Noun
+- indication: 'die Ware • plural: die Waren'
+  result: goods
+  clue: Noun
+- indication: 'die Weile • plural: die Weilen'
+  result: while
+  clue: Noun
+- indication: die Welt
+  result: world
+  clue: Noun
+- indication: die Wissenschaftlerin
+  result: der Wissenschaftler /
+  clue: Noun
+- indication: die Wurzel
+  result: root
+  clue: Noun
+- indication: 'die Zeile • plural: die Zeilen'
+  result: line
+  clue: Noun
+- indication: 'die Zone • plural: die Zonen'
+  result: zone
+  clue: Noun

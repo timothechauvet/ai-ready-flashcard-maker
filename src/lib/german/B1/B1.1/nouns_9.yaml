@@ -1,0 +1,60 @@
+- indication: der Satz
+  result: sentence
+  clue: Noun
+- indication: der Schellfisch
+  result: haddock
+  clue: Noun
+- indication: der Schinken
+  result: ham
+  clue: Noun
+- indication: der Seeteufel
+  result: monkfish
+  clue: Noun
+- indication: der Sellerie
+  result: celery
+  clue: Noun
+- indication: der Senf
+  result: mustard
+  clue: Noun
+- indication: 'der Service • plural: die Servicen'
+  result: service
+  clue: Noun
+- indication: der Skandal
+  result: scandal
+  clue: Noun
+- indication: der Spargel
+  result: asparagus
+  clue: Noun
+- indication: der Speck
+  result: bacon
+  clue: Noun
+- indication: der Sportler
+  result: athlete
+  clue: Noun
+- indication: der Standard
+  result: standard
+  clue: Noun
+- indication: der Teig
+  result: dough
+  clue: Noun
+- indication: der Thunfisch
+  result: tuna
+  clue: Noun
+- indication: der Tilsiter
+  result: Tilsit cheese
+  clue: Noun
+- indication: der Tourismus
+  result: tourism
+  clue: Noun
+- indication: der Unfall
+  result: accident
+  clue: Noun
+- indication: der Unternehmer
+  result: employer
+  clue: Noun
+- indication: der Verbraucher
+  result: consumer
+  clue: Noun
+- indication: der Verkäufer
+  result: salesman
+  clue: Noun

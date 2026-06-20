@@ -1,0 +1,60 @@
+- indication: clinic
+  result: der Termin
+  clue: Adjective
+- indication: cold
+  result: das Virus
+  clue: Adjective
+- indication: concussion
+  result: der Unfall
+  clue: Adjective
+- indication: constipation
+  result: der Durchfall
+  clue: Adjective
+- indication: CPR
+  result: Seitenlage
+  clue: Adjective
+- indication: cut
+  result: die Verbrennung
+  clue: Adjective
+- indication: dental floss
+  result: die Zahnspange
+  clue: Adjective
+- indication: dental nurse
+  result: die Zahnseide
+  clue: Adjective
+- indication: diabetes
+  result: die Verstopfung
+  clue: Adjective
+- indication: diarrhoea
+  result: das Erbrechen
+  clue: Adjective
+- indication: dizziness
+  result: das Asthma
+  clue: Adjective
+- indication: doctor
+  result: behandeln
+  clue: Adjective
+- indication: dressing
+  result: der Verband
+  clue: Adjective
+- indication: ear
+  result: das Auge
+  clue: Adjective
+- indication: ear infection
+  result: die Infektion
+  clue: Adjective
+- indication: earlobe
+  result: das Augenlid
+  clue: Adjective
+- indication: einen Termin
+  result: appointment
+  clue: Adjective
+- indication: elbow
+  result: die Schulter
+  clue: Adjective
+- indication: epilepsy
+  result: der Diabetes
+  clue: Adjective
+- indication: erschütterung
+  result: die Gehirn­
+  clue: Adjective

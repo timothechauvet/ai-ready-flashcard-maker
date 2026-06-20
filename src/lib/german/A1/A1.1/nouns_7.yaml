@@ -1,0 +1,60 @@
+- indication: 'die Benutzung • plural: die Benutzungen'
+  result: use
+  clue: Noun
+- indication: 'die CD • plural: die CDs'
+  result: CD
+  clue: Noun
+- indication: die Cousine
+  result: der Cousin /
+  clue: Noun
+- indication: 'die Dame • plural: die Damen'
+  result: lady
+  clue: Noun
+- indication: die Daten
+  result: data
+  clue: Noun
+- indication: die Dozentin
+  result: der Dozent /
+  clue: Noun
+- indication: die Enkelin
+  result: granddaughter
+  clue: Noun
+- indication: die Fahrerin
+  result: der Fahrer /
+  clue: Noun
+- indication: die Fischerin
+  result: der Fischer /
+  clue: Noun
+- indication: 'die Freude • plural: die Freuden'
+  result: joy
+  clue: Noun
+- indication: die Gebühr
+  result: fee
+  clue: Noun
+- indication: die Großfamilie
+  result: extended family
+  clue: Noun
+- indication: 'die Hälfte • plural: die Hälften'
+  result: half
+  clue: Noun
+- indication: 'die Hand • plural: die Hände'
+  result: hand
+  clue: Noun
+- indication: die Haut
+  result: skin
+  clue: Noun
+- indication: 'die Hilfe • plural: die Hilfen'
+  result: help
+  clue: Noun
+- indication: 'die Hoffnung • plural: die Hoffnungen'
+  result: hope
+  clue: Noun
+- indication: 'die Idee • plural: die Ideen'
+  result: idea
+  clue: Noun
+- indication: die Ingenieurin
+  result: der Ingenieur /
+  clue: Noun
+- indication: die Journalistin
+  result: der Journalist /
+  clue: Noun

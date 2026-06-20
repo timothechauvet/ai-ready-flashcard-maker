@@ -1,0 +1,60 @@
+- indication: die Badewanne
+  result: bath
+  clue: Noun
+- indication: die Bahnbeamtin
+  result: der Bahnbeamte /
+  clue: Noun
+- indication: die Bahnkarte
+  result: railcard
+  clue: Noun
+- indication: die Banane
+  result: banana
+  clue: Noun
+- indication: 'die Bedrohung • plural: die Bedrohungen'
+  result: threat
+  clue: Noun
+- indication: 'die Bemühung • plural: die Bemühungen'
+  result: effort
+  clue: Noun
+- indication: die Besatzung
+  result: crew
+  clue: Noun
+- indication: die Bettwäsche
+  result: bedding
+  clue: Noun
+- indication: die Bibliothek
+  result: library
+  clue: Noun
+- indication: 'die Bitte • plural: die Bitten'
+  result: request
+  clue: Noun
+- indication: 'die Blume • plural: die Blumen'
+  result: flower
+  clue: Noun
+- indication: die Boje
+  result: buoy
+  clue: Noun
+- indication: 'die Brücke • plural: die Brücken'
+  result: bridge
+  clue: Noun
+- indication: die Burg
+  result: castle
+  clue: Noun
+- indication: die Business Class
+  result: business class
+  clue: Noun
+- indication: die Butter
+  result: butter
+  clue: Noun
+- indication: 'die Debatte • plural: die Debatten'
+  result: debate
+  clue: Noun
+- indication: 'die Eigenschaft • plural: die Eigenschaften'
+  result: quality
+  clue: Noun
+- indication: die einfache
+  result: single ticket
+  clue: Noun
+- indication: 'die Einzelheit • plural: die Einzelheiten'
+  result: detail
+  clue: Noun
