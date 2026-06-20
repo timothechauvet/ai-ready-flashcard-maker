@@ -150,3 +150,222 @@
 
 - indication: 'Vorwurf'
   result: 'accusation / reproach / blame'
+
+- indication: 'Schminken'
+  result: 'to put on makeup / apply makeup'
+
+- indication: 'Ausgeschaltet'
+  result: 'switched off / turned off / shut down'
+
+- indication: 'Eingeschaltet'
+  result: 'switched on / turned on / activated'
+
+- indication: 'Anwesend'
+  result: 'present / in attendance'
+
+- indication: 'Verschwunden'
+  result: 'disappeared / gone'
+
+- indication: 'Vorwurf'
+  result: 'accusation / reproach / allegation'
+
+- indication: 'Aufforderung'
+  result: 'request / instruction / call to do something'
+
+- indication: 'Verlockend'
+  result: 'tempting / enticing / attractive'
+
+- indication: 'Verpassen'
+  result: 'to miss / fail to catch / miss out on'
+
+- indication: 'Zeitschaltur'
+  result: 'timer switch / time switch (likely: Zeitschaltuhr)'
+
+- indication: 'Erfahren'
+  result: 'to find out / to learn / experienced'
+
+- indication: 'Vorzeitigen'
+  result: 'premature / early / ahead of time'
+
+- indication: 'Abteilungen'
+  result: 'departments / divisions'
+
+- indication: 'Vorgestellt'
+  result: 'introduced / presented / imagined'
+
+- indication: 'Abfindung'
+  result: 'severance pay / compensation'
+
+- indication: 'Unhaltbar'
+  result: 'untenable / unsustainable / indefensible'
+
+- indication: 'Kampflos'
+  result: 'without a fight / without resistance'
+
+- indication: 'Bloßen'
+  result: 'mere / pure / bare'
+
+- indication: 'Segeln'
+  result: 'to sail / sailing'
+
+- indication: 'Fallsspringfalls'
+  result: 'unclear term / likely misspelled entry'
+
+- indication: 'Verkraften'
+  result: 'to cope with / to handle / to get over'
+
+- indication: 'Blitzen'
+  result: 'to flash / lightning / to speed-trap'
+
+- indication: 'Geflasskleme'
+  result: 'unclear term / likely misspelled entry'
+
+- indication: 'Überlegen'
+  result: 'to consider / superior / to think about'
+
+- indication: 'Läuten'
+  result: 'to ring / to toll / to sound'
+
+- indication: 'Verschwinden'
+  result: 'to disappear / vanish'
+
+- indication: 'Übergibt'
+  result: 'hands over / transfers / passes on'
+
+- indication: 'Gelitten'
+  result: 'suffered / endured'
+
+- indication: 'Stein bestellt'
+  result: 'ordered stone / stone commissioned'
+
+- indication: 'Vorführen'
+  result: 'to demonstrate / present / lead in / show up'
+
+- indication: 'Angetan'
+  result: 'impressed / fond of / done to / put on'
+
+- indication: 'Ankämpfen'
+  result: 'to fight against / struggle against'
+
+- indication: 'Angeklungen'
+  result: 'hinted at / resonated / sounded'
+
+- indication: 'Totengräber'
+  result: 'gravedigger / undertaker'
+
+- indication: 'Bemerkten'
+  result: 'noticed / observed / remarked'
+
+- indication: 'Flüchten'
+  result: 'to flee / escape / take refuge'
+
+- indication: 'Durchstehen'
+  result: 'to withstand / get through / endure'
+
+- indication: 'Albenheit'
+  result: 'silliness / foolishness (likely: Albernheit)'
+
+- indication: 'Böse'
+  result: 'angry / evil / mean / badly'
+
+- indication: 'Entlassen'
+  result: 'to dismiss / fire / release / discharge'
+
+- indication: 'Kämpfen'
+  result: 'to fight / struggle'
+
+- indication: 'Festhalten'
+  result: 'to hold on to / detain / record / stick to'
+
+- indication: 'Aufgeregt'
+  result: 'excited / upset / agitated / nervous'
+
+- indication: 'Strafbar'
+  result: 'punishable / criminal / liable to prosecution'
+
+- indication: 'Fachkräftemangel'
+  result: 'shortage of skilled workers'
+
+- indication: 'Vorgeworfen'
+  result: 'accused / reproached / blamed for'
+
+- indication: 'einsichtig'
+  result: 'reasonable / showing insight / compliant'
+
+- indication: 'Flecken sehen'
+  result: 'to see spots / to notice stains'
+
+- indication: 'Schrecklich'
+  result: 'terrible / awful / dreadful'
+
+- indication: 'Umgehen'
+  result: 'to deal with / avoid / bypass / go around'
+
+- indication: 'Versetzen'
+  result: 'to move / transfer / relocate / put into'
+
+- indication: 'runtermachen'
+  result: 'to put down / insult / badmouth'
+
+- indication: 'Vorzeiger'
+  result: 'showpiece / model example'
+
+- indication: 'Angegangen'
+  result: 'approached / tackled / gone at / addressed'
+
+- indication: 'Untasbar'
+  result: 'untouchable / inviolable (likely: unantastbar)'
+
+- indication: 'Umfeld'
+  result: 'environment / surroundings / circle'
+
+- indication: 'Geprägt'
+  result: 'shaped / influenced / characterized / stamped'
+
+- indication: 'Taufen'
+  result: 'to baptize / christen / name'
+
+- indication: 'Aufkleben'
+  result: 'to stick on / paste on / attach'
+
+- indication: 'Abartig'
+  result: 'disgusting / perverse / abnormal / gross'
+
+- indication: 'Stich'
+  result: 'stab / sting / stitch / engraving'
+
+- indication: 'Einschätzen'
+  result: 'to assess / estimate / evaluate'
+
+- indication: 'Gespuckt'
+  result: 'spat / spit'
+
+- indication: 'Puschen'
+  result: 'slippers / to push or hype (context-dependent)'
+
+- indication: 'niederzuschlagen'
+  result: 'to beat down / suppress / strike down'
+
+- indication: 'Mitlaufen'
+  result: 'to go along with / run along / tag along'
+
+- indication: 'darstellen'
+  result: 'to portray / represent / depict / present'
+
+- indication: 'zusammenschlagen'
+  result: 'to beat up / smash together / fold shut'
+
+- indication: 'Urteil'
+  result: 'judgment / verdict / opinion'
+
+- indication: 'Hinterkopf halten'
+  result: 'to keep in the back of one’s mind'
+
+- indication: 'Eklig'
+  result: 'disgusting / gross'
+
+- indication: 'Auszurasten'
+  result: 'to freak out / lose control / snap'
+
+- indication: 'Knastt'
+  result: 'jail / prison (likely: Knast)'
