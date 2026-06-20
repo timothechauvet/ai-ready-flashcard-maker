@@ -119,7 +119,7 @@
 		}
 	}
 
-	const aiPrompt = `Act as an expert educator. Generate a high-quality flashcard deck in YAML format about [TOPIC].
+	const aiPrompt = `Act as an expert educator. Generate a high-quality flashcard deck in YAML format.
 The output must be a valid YAML list of objects with these exact fields:
 - indication: (string, required) The question or front side of the card.
 - result: (string, required) The answer, meaning, or back side of the card.
@@ -131,7 +131,9 @@ Example format:
 - indication: "What does HTML stand for?"
   result: "HyperText Markup Language"
 
-Ensure the YAML is clean and correctly indented. Total content must be under 2MB. DO NOT include code fences like \`\`\`yaml, just the raw text.`;
+Ensure the YAML is clean and correctly indented. DO NOT include code fences like \`\`\`yaml or any other text/indication, just the raw YAML list itself.
+
+Topic: `;
 
 	async function copyPrompt() {
 		try {
@@ -207,7 +209,7 @@ Ensure the YAML is clean and correctly indented. Total content must be under 2MB
 					<textarea
 						id="rawYaml"
 						rows="10"
-						placeholder="- indication: 'Front'\n  result: 'Back'"
+						placeholder="- indication: 'Front'&#10;  result: 'Back'"
 						bind:value={rawYamlText}
 						disabled={isUploading}
 						style="width: 100%; padding: 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border-color); font-family: monospace; resize: vertical;"
