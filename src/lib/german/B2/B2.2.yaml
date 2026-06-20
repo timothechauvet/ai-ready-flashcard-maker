@@ -1,0 +1,440 @@
+- indication: die Bestellung
+  result: order, reservation
+- indication: der Bude
+  result: boy
+- indication: das Bündnis
+  result: alliance
+- indication: die Burg
+  result: castle
+- indication: der Dialekt
+  result: dialect
+- indication: die Durchführung
+  result: carrying out
+- indication: die Einigung
+  result: agreement
+- indication: die Einsicht
+  result: view, insight
+- indication: das Gedächtnis
+  result: memory
+- indication: das Gefängnis
+  result: gesture
+- indication: die Gleichung
+  result: equation
+- indication: die Herrschaft
+  result: power, reign
+- indication: die Infrastruktur
+  result: infrastructure
+- indication: der Katalog
+  result: catalogue
+- indication: die Meldung
+  result: report
+- indication: die Mission
+  result: mission
+- indication: die Mitteilung
+  result: communication, announcement
+- indication: die Nahrung
+  result: nourishment, food
+- indication: der Nebel
+  result: fog
+- indication: der Offizier
+  result: officer
+- indication: die Oma
+  result: grandma
+- indication: die Philosophie
+  result: philosophy
+- indication: die Realisierung
+  result: implementation
+- indication: der Schein
+  result: light, appearance, certificate
+- indication: der Schnitt
+  result: cut
+- indication: die Schnittstelle
+  result: interface
+- indication: die Schulden
+  result: debt
+- indication: die Sehnsucht
+  result: longing
+- indication: der Skandal
+  result: scandal
+- indication: das Stadion
+  result: stadium
+- indication: der Tipp
+  result: tip, hint
+- indication: das Wiedersehen
+  result: reunion
+- indication: die Wunde
+  result: wound
+- indication: die Wurzel
+  result: root
+- indication: die Zeuge
+  result: witness
+- indication: das Zeugnis
+  result: report, testimonial
+- indication: der Anblick
+  result: sight
+- indication: das Anliegen
+  result: request
+- indication: die Anpassung
+  result: adaptation
+- indication: der Anstieg
+  result: rise, increase
+- indication: das Arbeitsamt
+  result: employment office
+- indication: der Befehl
+  result: order
+- indication: die Bereitschaft
+  result: willingness
+- indication: die Beschwerde
+  result: complaint
+- indication: der Bogen
+  result: bow, arc, sheet
+- indication: die Bundesliga
+  result: national sports division
+- indication: die Droge
+  result: drug
+- indication: die Ehre
+  result: honor
+- indication: das Eigentum
+  result: property
+- indication: der Einzelfall
+  result: individual, case
+- indication: die Epoche
+  result: epoch
+- indication: der Erreger
+  result: agent, virus, germ
+- indication: die Feststellung
+  result: observation, remark
+- indication: die Formulierung
+  result: formulation
+- indication: das Gelände
+  result: ground, site
+- indication: der/die Geliebte
+  result: lover
+- indication: die Geschwister
+  result: siblings
+- indication: das Gramm
+  result: gram
+- indication: die Inszenierung
+  result: production, staging
+- indication: der Kapitän
+  result: captain
+- indication: die Kiste
+  result: box, crate
+- indication: der Knochen
+  result: bone
+- indication: der Kontext
+  result: context
+- indication: das Kunstwerk
+  result: work of art
+- indication: das Lebewesen
+  result: living being
+- indication: der Lastkraftwagen
+  result: truck
+- indication: der Lohn
+  result: wage, pay, reward
+- indication: der Magen
+  result: stomach
+- indication: die Mode
+  result: fashion
+- indication: der Mörder
+  result: murderer
+- indication: die Öffnung
+  result: opening, hole
+- indication: die Partie
+  result: game
+- indication: das Rathaus
+  result: town hall
+- indication: die Reflexion
+  result: reflection
+- indication: die Rente
+  result: pension
+- indication: die Show
+  result: show
+- indication: die Stiftung
+  result: foundation, institute, donation
+- indication: der Teller
+  result: plate
+- indication: die Unterscheidung
+  result: differentiation, distinction
+- indication: die Version
+  result: version
+- indication: der Wähler
+  result: voter
+- indication: die Wechselwirkung
+  result: interaction
+- indication: der Zettel
+  result: piece of paper, note
+- indication: der Zins
+  result: interest
+- indication: die Zone
+  result: zone
+- indication: der Abbau
+  result: reduction, decline, mining
+- indication: die Agentur
+  result: agency
+- indication: die Akademie
+  result: academy
+- indication: die Anfrage
+  result: inquiry, request
+- indication: die Aufführung
+  result: performance
+- indication: die Auflage
+  result: edition, condition, plating
+- indication: der Ausbau
+  result: extension, consolidation
+- indication: der Bär
+  result: bear
+- indication: das Bedenken
+  result: concern, doubt
+- indication: der Buchstabe
+  result: letter
+- indication: das Dokument
+  result: document
+- indication: die Einzelheit
+  result: detail
+- indication: die Erfüllung
+  result: fulfillment
+- indication: der Führer
+  result: leader, guide
+- indication: die Fusion
+  result: fusion, merger
+- indication: der Geruch
+  result: smell
+- indication: das Gleichgewicht
+  result: balance
+- indication: der Investor
+  result: investor
+- indication: der Kerl
+  result: fellow, bloke
+- indication: die Kollegin
+  result: colleague
+- indication: der Komponist
+  result: composer
+- indication: die Kurve
+  result: curve
+- indication: das Labor
+  result: laboratory
+- indication: der Landkreis
+  result: district
+- indication: das Märchen
+  result: fairy tale
+- indication: das Mittelalter
+  result: Middle Ages
+- indication: das Möbel
+  result: piece of furniture
+- indication: die Moderne
+  result: modern age
+- indication: der Nerv
+  result: nerve
+- indication: der Ofen
+  result: oven, stove
+- indication: die Pflege
+  result: care
+- indication: die Plattform
+  result: platform
+- indication: der Posten
+  result: post, position
+- indication: der Profi
+  result: pro, professional
+- indication: das Regime
+  result: regime
+- indication: der Rock
+  result: skirt, rock music
+- indication: der Rücktritt
+  result: resignation
+- indication: der Schrank
+  result: cabinet, wardrobe
+- indication: die Sekretärin
+  result: secretary
+- indication: die Solidarität
+  result: solidarity
+- indication: der Sportler
+  result: athlete
+- indication: die Stabilität
+  result: stability
+- indication: der Status
+  result: status
+- indication: der Staub
+  result: dust
+- indication: der Tanz
+  result: dance
+- indication: der Topf
+  result: pot
+- indication: der Überblick
+  result: view, overview
+- indication: die Unsicherheit
+  result: uncertainty
+- indication: der Vorhang
+  result: curtain
+- indication: der Winkel
+  result: angle, corner
+- indication: das Zitat
+  result: quotation, quote
+- indication: das Abenteuer
+  result: adventure
+- indication: die Abgrenzung
+  result: disassociation
+- indication: der Akt
+  result: act
+- indication: der Akteur
+  result: player, actor
+- indication: die Allianz
+  result: alliance
+- indication: die Armut
+  result: poverty
+- indication: der Ausgleich
+  result: balancing, compensation, change
+- indication: die Begeisterung
+  result: enthusiasm
+- indication: der Bezirk
+  result: district
+- indication: die Diagnose
+  result: diagnosis
+- indication: das Dunkel
+  result: darkness
+- indication: der Durchmesser
+  result: diameter
+- indication: die Einladung
+  result: invitation
+- indication: die Empfehlung
+  result: recommendation
+- indication: die Eröffnung
+  result: opening
+- indication: der Felsen
+  result: rock
+- indication: die Flüssigkeit
+  result: liquid
+- indication: das Fräulein
+  result: young lady, miss
+- indication: der Friedhof
+  result: cemetery
+- indication: die Front
+  result: front
+- indication: die Fülle
+  result: abundance
+- indication: das Gebirge
+  result: mountains
+- indication: das Geschäftsjahr
+  result: financial year
+- indication: das Gras
+  result: grass
+- indication: die Großstadt
+  result: city, large town
+- indication: der Hang
+  result: slope, inclination
+- indication: der Hügel
+  result: hill
+- indication: der Ingenieur
+  result: engineer
+- indication: der Kongress
+  result: congress, convention
+- indication: der Muskel
+  result: muscle
+- indication: der Nachweis
+  result: proof, evidence, certificate
+- indication: die Orientierung
+  result: orientation
+- indication: der Personenkraftwagen
+  result: car, auto
+- indication: der Rhythmus
+  result: rhythm
+- indication: die Rücksicht
+  result: consideration
+- indication: der Senat
+  result: senate
+- indication: die Steuerung
+  result: control, steering
+- indication: der Stolz
+  result: pride
+- indication: die Teilnahme
+  result: participation
+- indication: das Universum
+  result: universe
+- indication: die Unterhaltung
+  result: entertainment, conversation
+- indication: die Unterlagen
+  result: documents
+- indication: die Vereinigung
+  result: organization, association, unification
+- indication: die Vertretung
+  result: replacement, substitute
+- indication: die Volkshochschule
+  result: adult education center
+- indication: die Vorsicht
+  result: caution
+- indication: die Wahrscheinlichkeit
+  result: probability
+- indication: die Wange
+  result: cheek
+- indication: das Werkzeug
+  result: tool
+- indication: die Zeichnung
+  result: drawing
+- indication: die Zunahme
+  result: increase
+- indication: die Zwiebel
+  result: onion, bulb
+- indication: die Ablehnung
+  result: refusal, rejection
+- indication: die Abstimmung
+  result: vote, coordination
+- indication: die Anordnung
+  result: order
+- indication: die Anregung
+  result: stimulus, idea
+- indication: der Aufsatz
+  result: essay
+- indication: der Backofen
+  result: oven
+- indication: die Bakterie
+  result: bacterium
+- indication: der Befund
+  result: results
+- indication: die Bemühung
+  result: effort
+- indication: der Beobachter
+  result: observer
+- indication: der Berater
+  result: advisor, consultant
+- indication: der Betrachter
+  result: observer
+- indication: das Betriebssystem
+  result: operating system
+- indication: der Bildschirm
+  result: screen, monitor
+- indication: die Blüte
+  result: blossom
+- indication: die Brille
+  result: glasses
+- indication: die Datenverarbeitung
+  result: data processing
+- indication: der Eigentümer
+  result: owner
+- indication: die Eintragung
+  result: entry, registration
+- indication: das Ensemble
+  result: ensemble
+- indication: die Enttäuschung
+  result: disappointment
+- indication: die Faust
+  result: fist
+- indication: das Festival
+  result: festival
+- indication: die Galerie
+  result: gallery
+- indication: das Gemüse
+  result: vegetables
+- indication: die Genehmigung
+  result: approval, permit, permission
+- indication: der Großvater
+  result: grandfather
+- indication: die Grundschule
+  result: primary school
+- indication: der Hass
+  result: hatred
+- indication: die Höhle
+  result: cave
+- indication: die Innenstadt
+  result: town center, downtown
+- indication: das Kloster
+  result: monastery, convent

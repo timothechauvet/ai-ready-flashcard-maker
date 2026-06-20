@@ -1,0 +1,284 @@
+- indication: der Apfel
+  result: the apple
+- indication: das Auto
+  result: the car
+- indication: das Buch
+  result: the book
+- indication: der Hund
+  result: the dog
+- indication: die Katze
+  result: the cat
+- indication: das Haus
+  result: the house
+- indication: der Tisch
+  result: the table
+- indication: der Stuhl
+  result: the chair
+- indication: das Kind
+  result: the child
+- indication: die Schule
+  result: the school
+- indication: das Rot
+  result: red
+  pronunciation: '[das ʁoːt]'
+  clue: '#FF0000'
+- indication: das Blau
+  result: blue
+  pronunciation: '[das blaʊ̯]'
+  clue: '#0000FF'
+- indication: das Grün
+  result: green
+  pronunciation: '[das ɡʁyːn]'
+  clue: '#008000'
+- indication: das Gelb
+  result: yellow
+  pronunciation: '[das ɡɛlp]'
+  clue: '#FFFF00'
+- indication: das Schwarz
+  result: black
+  pronunciation: '[das ʃvaʁts]'
+  clue: '#000000'
+- indication: das Weiß
+  result: white
+  pronunciation: '[das vaɪ̯s]'
+  clue: '#FFFFFF'
+- indication: das Jahr
+  result: year
+- indication: das Mal
+  result: time
+- indication: das Beispiel
+  result: example
+- indication: die Zeit
+  result: time (hour)
+- indication: die Frau
+  result: woman, wife, Mrs.
+- indication: der Mensch
+  result: human being, man
+- indication: das Deutsch
+  result: German
+- indication: das Kind
+  result: child
+- indication: der Tag
+  result: day
+- indication: der Mann
+  result: man
+- indication: das Land
+  result: land, country, state
+- indication: die Frage
+  result: question
+- indication: das Haus
+  result: house
+- indication: der Fall
+  result: fall, case
+- indication: die Leute
+  result: people
+- indication: die Arbeit
+  result: work
+- indication: das Prozent
+  result: percent
+- indication: die Hand
+  result: hand
+- indication: die Stadt
+  result: city, town
+- indication: der Herr
+  result: man, Mr.
+- indication: der/das Teil
+  result: part
+- indication: das Problem
+  result: problem
+- indication: die Welt
+  result: world
+- indication: das Recht
+  result: right, law
+- indication: das Ende
+  result: end
+- indication: die Million
+  result: million
+- indication: die Schule
+  result: school
+- indication: die Woche
+  result: week
+- indication: der Vater
+  result: father
+- indication: die Seite
+  result: side, page
+- indication: das Leben
+  result: life
+- indication: die Mutter
+  result: mother
+- indication: der Grund
+  result: reason, basis
+- indication: das Auge
+  result: eye
+- indication: das Wort
+  result: word
+- indication: das Geld
+  result: money
+- indication: die Art
+  result: type, kind
+- indication: der Bereich
+  result: area, region
+- indication: der Weg
+  result: path, way
+- indication: die Stunde
+  result: hour
+- indication: der Name
+  result: name
+- indication: die Geschichte
+  result: history, story
+- indication: die Gesellschaft
+  result: society, company
+- indication: der Kopf
+  result: head
+- indication: das Paar
+  result: pair, couple
+- indication: die Möglichkeit
+  result: possibility
+- indication: das Unternehmen
+  result: enterprise, company
+- indication: das Bild
+  result: picture
+- indication: das Buch
+  result: book
+- indication: das Wasser
+  result: water
+- indication: die Stelle
+  result: place
+- indication: die Form
+  result: form, shape
+- indication: die Entwicklung
+  result: development
+- indication: der Monat
+  result: month
+- indication: die Familie
+  result: family
+- indication: der Morgen
+  result: morning
+- indication: der Abend
+  result: evening
+- indication: die Aufgabe
+  result: task, assignment, job
+- indication: die Universität
+  result: university
+- indication: der Sinn
+  result: sense, meaning
+- indication: der Staat
+  result: state
+- indication: das Ziel
+  result: destination, goal
+- indication: der Freund
+  result: friend
+- indication: das Thema
+  result: subject, topic, theme
+- indication: die Person
+  result: person
+- indication: der Euro
+  result: euro
+- indication: die Nacht
+  result: night
+- indication: das Ding
+  result: thing
+- indication: der Raum
+  result: room, space
+- indication: der Blick
+  result: look, view, glance
+- indication: der Platz
+  result: place, room, square
+- indication: die Zahl
+  result: number
+- indication: das System
+  result: system
+- indication: die Uhr
+  result: clock, watch, o'clock
+- indication: die Eltern
+  result: parents
+- indication: die Straße
+  result: street
+- indication: die Minute
+  result: minute
+- indication: die Gruppe
+  result: group
+- indication: der Wert
+  result: value
+- indication: das Gesicht
+  result: face
+- indication: die Sprache
+  result: language
+- indication: der Anfang
+  result: beginning
+- indication: der Ort
+  result: place, town, location
+- indication: der Moment
+  result: moment
+- indication: die Folge
+  result: result, consequence
+- indication: das Interesse
+  result: interest
+- indication: die Milliarde
+  result: billion
+- indication: die Rolle
+  result: role
+- indication: die Tür
+  result: door
+- indication: der Schüler
+  result: pupil, student
+- indication: die Bedeutung
+  result: meaning, significance
+- indication: der Text
+  result: text
+- indication: das Ergebnis
+  result: result
+- indication: der Krieg
+  result: war
+- indication: die Weise
+  result: way, manner
+- indication: die Regierung
+  result: rule, government
+- indication: das Stück
+  result: piece
+- indication: die Wohnung
+  result: apartment
+- indication: das Gespräch
+  result: conversation
+- indication: der Meter
+  result: meter
+- indication: der Punkt
+  result: dot, point, period
+- indication: die Situation
+  result: situation
+- indication: der Lehrer
+  result: teacher
+- indication: der Preis
+  result: price, prize
+- indication: die Abbildung
+  result: illustration
+- indication: der Begriff
+  result: concept, idea, term
+- indication: die Funktion
+  result: function
+- indication: der Boden
+  result: ground, floor, bottom
+- indication: das Jahrhundert
+  result: century
+- indication: der Sohn
+  result: son
+- indication: das Werk
+  result: work
+- indication: die Stimme
+  result: voice, vote
+- indication: der Rahmen
+  result: frame, framework
+- indication: die Richtung
+  result: direction
+- indication: das Programm
+  result: program
+- indication: die Angst
+  result: fear, anxiety
+- indication: die Information
+  result: information
+- indication: die Kunst
+  result: art
+- indication: die Musik
+  result: music
+- indication: die Politik
+  result: politics

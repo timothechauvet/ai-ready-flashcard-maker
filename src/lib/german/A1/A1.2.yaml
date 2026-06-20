@@ -1,0 +1,264 @@
+- indication: das Orange
+  result: orange
+  pronunciation: '[das oˈʁɑ̃ːʒə]'
+  clue: '#FFA500'
+- indication: das Rosa
+  result: pink
+  pronunciation: '[das ˈʁoːza]'
+  clue: '#FFC0CB'
+- indication: das Braun
+  result: brown
+  pronunciation: '[das bʁaʊ̯n]'
+  clue: '#A52A2A'
+- indication: das Grau
+  result: gray
+  pronunciation: '[das ɡʁaʊ̯]'
+  clue: '#808080'
+- indication: das Violett
+  result: violet
+  pronunciation: '[das vi.oˈlɛt]'
+  clue: '#EE82EE'
+- indication: das Türkis
+  result: turquoise
+  pronunciation: '[das tʏʁˈkiːs]'
+  clue: '#40E0D0'
+- indication: der Beruf
+  result: occupation, job, profession
+- indication: die Regel
+  result: rule
+- indication: der Schritt
+  result: step
+- indication: der Absatz
+  result: sales, paragraph, heel
+- indication: der Gott
+  result: god
+- indication: das Auto
+  result: automobile, car
+- indication: die Beziehung
+  result: relation, relationship
+- indication: die Erfahrung
+  result: experience
+- indication: der Tisch
+  result: table
+- indication: die Zukunft
+  result: future
+- indication: das Spiel
+  result: game
+- indication: das Gefühl
+  result: feeling
+- indication: das Licht
+  result: light
+- indication: der Präsident
+  result: president
+- indication: der Markt
+  result: market
+- indication: die Bank
+  result: bank, bench
+- indication: die Partei
+  result: political party
+- indication: die Tochter
+  result: daughter
+- indication: das Verhältnis
+  result: relationship
+- indication: die Kirche
+  result: church
+- indication: der Film
+  result: film
+- indication: der Gedanke
+  result: thought
+- indication: der Doktor
+  result: doctor
+- indication: das Mädchen
+  result: girl
+- indication: die Entscheidung
+  result: decision
+- indication: der Prozess
+  result: trial, process
+- indication: der Betrieb
+  result: business, operation
+- indication: der Zusammenhang
+  result: connection, context
+- indication: das Gesetz
+  result: law
+- indication: der Arm
+  result: arm
+- indication: die Firma
+  result: firm, company
+- indication: die Kraft
+  result: strength, power
+- indication: der Student
+  result: student
+- indication: das Zuhause
+  result: home
+- indication: die Chance
+  result: chance
+- indication: die Zeitung
+  result: newspaper
+- indication: der Erfolg
+  result: success
+- indication: die Grenze
+  result: border, frontier
+- indication: der Satz
+  result: sentence
+- indication: das Angebot
+  result: offer
+- indication: das Internet
+  result: internet
+- indication: die Kultur
+  result: culture
+- indication: die Lage
+  result: situation, location
+- indication: die Leistung
+  result: performance
+- indication: das Mitglied
+  result: member
+- indication: das Projekt
+  result: project
+- indication: das Zimmer
+  result: room
+- indication: der Chef
+  result: head, leader, boss
+- indication: der Zug
+  result: train
+- indication: der Arzt
+  result: physician, doctor
+- indication: das Auftreten
+  result: behavior, conduct, occurrence
+- indication: der Fuß
+  result: foot
+- indication: der Körper
+  result: body
+- indication: die Klasse
+  result: class
+- indication: die Lösung
+  result: solution
+- indication: das Verhalten
+  result: behavior
+- indication: die Höhe
+  result: height, altitude
+- indication: der Junge
+  result: boy
+- indication: das Fenster
+  result: window
+- indication: die Luft
+  result: air
+- indication: die Meinung
+  result: opinion
+- indication: die Idee
+  result: idea
+- indication: das Produkt
+  result: product
+- indication: das Studium
+  result: study, studies
+- indication: der Vergleich
+  result: comparison
+- indication: das Mittel
+  result: means
+- indication: das Modell
+  result: model
+- indication: die Natur
+  result: nature
+- indication: das Bett
+  result: bed
+- indication: der Kunde
+  result: customer, client
+- indication: der Mitarbeiter
+  result: employee, co-worker
+- indication: der Tod
+  result: death
+- indication: das Geschäft
+  result: business
+- indication: der Spaß
+  result: fun
+- indication: die Wirtschaft
+  result: economy, commerce
+- indication: das Tier
+  result: animal
+- indication: die Bewegung
+  result: movement, motion
+- indication: der Gast
+  result: guest
+- indication: die Sicherheit
+  result: security, safety
+- indication: der Einsatz
+  result: inset, deployment
+- indication: das Gebiet
+  result: region, area
+- indication: der Dank
+  result: gratefulness
+- indication: das Dorf
+  result: village
+- indication: der Kollege
+  result: colleague
+- indication: die Angabe
+  result: information, statement
+- indication: der Bruder
+  result: brother
+- indication: die Verfügung
+  result: disposal
+- indication: das Fach
+  result: compartment, subject
+- indication: das Herz
+  result: heart
+- indication: der Kontakt
+  result: contact
+- indication: die Menge
+  result: quantity, amount
+- indication: der Sommer
+  result: summer
+- indication: der Unterschied
+  result: difference
+- indication: der Anspruch
+  result: claim
+- indication: die Antwort
+  result: answer, reply
+- indication: die Verbindung
+  result: connection, link
+- indication: die Vorstellung
+  result: idea, introduction
+- indication: die Anwendung
+  result: application, use
+- indication: das Alter
+  result: age
+- indication: die Kosten
+  result: costs, expenses
+- indication: der Patient
+  result: patient
+- indication: die Polizei
+  result: police
+- indication: das Theater
+  result: theater
+- indication: die Ausbildung
+  result: training, development
+- indication: die Gefahr
+  result: danger
+- indication: das Gerät
+  result: tool, piece of equipment, appliance
+- indication: der Kilometer
+  result: kilometer
+- indication: die Hilfe
+  result: help
+- indication: der Computer
+  result: computer
+- indication: der Dollar
+  result: dollar
+- indication: das Verfahren
+  result: method, process, technique
+- indication: der Vertrag
+  result: contract
+- indication: die Maßnahme
+  result: measure
+- indication: die Mitte
+  result: middle
+- indication: die Ordnung
+  result: order, tidiness
+- indication: der Stoff
+  result: material, substance
+- indication: der Beginn
+  result: beginning
+- indication: das Glück
+  result: luck, fortune
+- indication: das Wochenende
+  result: weekend
+- indication: der Professor
+  result: professor

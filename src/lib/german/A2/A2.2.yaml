@@ -1,0 +1,360 @@
+- indication: das Ereignis
+  result: event
+- indication: die Kontrolle
+  result: inspection
+- indication: das Objekt
+  result: object
+- indication: das Opfer
+  result: sacrifice, victim
+- indication: der Sprecher
+  result: speaker
+- indication: der Arbeitsplatz
+  result: workplace, job
+- indication: die Aufnahme
+  result: reception, recording, snapshot
+- indication: die Fähigkeit
+  result: ability, capability
+- indication: die Karte
+  result: card, ticket, menu
+- indication: der Urlaub
+  result: vacation, holiday
+- indication: die Verantwortung
+  result: responsibility
+- indication: die Wahrheit
+  result: truth
+- indication: das Gebäude
+  result: building
+- indication: der Gesellschafter
+  result: associate, shareholder
+- indication: das Jahrzehnt
+  result: decade
+- indication: der Norden/Nord
+  result: north
+- indication: das Ohr
+  result: ear
+- indication: die Prüfung
+  result: examination, test
+- indication: die Regelung
+  result: regulation, settlement
+- indication: das Schiff
+  result: ship
+- indication: die Ausstellung
+  result: exhibition
+- indication: der Bezug
+  result: reference, cover
+- indication: die Bitte
+  result: request
+- indication: die Hoffnung
+  result: hope
+- indication: der Band
+  result: volume, tome
+- indication: die Band
+  result: band (musical)
+- indication: das Band
+  result: ribbon, tape
+- indication: der Bericht
+  result: report
+- indication: die Einstellung
+  result: attitude, employment
+- indication: das Gericht
+  result: court, dish
+- indication: der Gewinn
+  result: profit
+- indication: der König
+  result: king
+- indication: der Sieg
+  result: victory
+- indication: die Tat
+  result: deed
+- indication: der Traum
+  result: dream
+- indication: die Union
+  result: union
+- indication: der Besucher
+  result: visitor
+- indication: der Bund
+  result: association, alliance
+- indication: der Direktor
+  result: director
+- indication: die Geographie
+  result: geography
+- indication: der Hintergrund
+  result: background
+- indication: die Qualität
+  result: quality
+- indication: der Rand
+  result: edge
+- indication: die Vergangenheit
+  result: past
+- indication: der Abschnitt
+  result: portion, section
+- indication: der Bauer
+  result: farmer
+- indication: die Ehe
+  result: marriage
+- indication: die Ursache
+  result: cause
+- indication: der Verlust
+  result: loss
+- indication: der Winter
+  result: winter
+- indication: der Zuschauer
+  result: spectator
+- indication: die Anzahl
+  result: number
+- indication: die Insel
+  result: island
+- indication: das Instrument
+  result: instrument
+- indication: die Nachricht
+  result: news, message
+- indication: die Pflanzen
+  result: plant
+- indication: die Störung
+  result: disturbance, interruption
+- indication: der Vertreter
+  result: representative
+- indication: der Vorschlag
+  result: suggestion, proposal
+- indication: der Zentimeter
+  result: centimeter
+- indication: der Abstand
+  result: distance
+- indication: die Bildung
+  result: education
+- indication: die Eigenschaft
+  result: quality
+- indication: die Generation
+  result: generation
+- indication: der Leiter
+  result: leader
+- indication: die Leiter
+  result: ladder
+- indication: der Abschluss
+  result: end, conclusion
+- indication: das Blatt
+  result: sheet, leaf
+- indication: der Geist
+  result: mind, spirit
+- indication: das Interview
+  result: interview
+- indication: das Semester
+  result: semester
+- indication: der Stand
+  result: stand, stage
+- indication: die Tradition
+  result: tradition
+- indication: die Anlage
+  result: sport complex, investment, attachment
+- indication: die Behörde
+  result: department, authorities
+- indication: die Bühne
+  result: stage
+- indication: die Dame
+  result: lady
+- indication: das Element
+  result: element
+- indication: die Gelegenheit
+  result: opportunity
+- indication: der Hof
+  result: courtyard, yard
+- indication: die Kommunikation
+  result: communication
+- indication: die Mama
+  result: mamma
+- indication: das Museum
+  result: museum
+- indication: die Nutzung
+  result: use
+- indication: die Basis
+  result: basis
+- indication: die Ecke
+  result: corner
+- indication: der Herbst
+  result: autumn
+- indication: das Kriterium
+  result: criterion
+- indication: der Terror
+  result: terror
+- indication: das Verständnis
+  result: understanding
+- indication: die Zusammenarbeit
+  result: cooperation
+- indication: die Ansicht
+  result: opinion, view
+- indication: die Auseinandersetzung
+  result: argument, quarrel
+- indication: die Bahn
+  result: train, railway, way
+- indication: die Bürgermeister
+  result: mayor
+- indication: die Definition
+  result: definition
+- indication: das Flugzeug
+  result: airplane
+- indication: das Foto
+  result: photograph
+- indication: die Masse
+  result: mass, crowd
+- indication: die Nation
+  result: nation
+- indication: die Phase
+  result: phase
+- indication: der Stein
+  result: rock, stone
+- indication: der Ton
+  result: sound, tone, clay
+- indication: die Veranstaltung
+  result: event
+- indication: die Änderung
+  result: change
+- indication: die Ausnahme
+  result: exception
+- indication: der Bau
+  result: construction, building
+- indication: das Hobby
+  result: hobby
+- indication: der Kaffee
+  result: coffee
+- indication: der Konflikt
+  result: conflict
+- indication: die Leitung
+  result: management, leadership, pipe
+- indication: die Lust
+  result: desire
+- indication: die Mehrheit
+  result: majority
+- indication: der Nachmittag
+  result: afternoon
+- indication: die Rechnung
+  result: bill, calculation
+- indication: das Schloss
+  result: lock, castle
+- indication: die Aktivität
+  result: activity
+- indication: das Dach
+  result: roof
+- indication: das Fest
+  result: festival, celebration
+- indication: der Kandidat
+  result: candidate
+- indication: die Landschaft
+  result: landscape, countryside
+- indication: die Mannschaft
+  result: crew, team
+- indication: die Mauer
+  result: wall
+- indication: die Runde
+  result: round
+- indication: der Stern
+  result: star
+- indication: der Experte
+  result: expert
+- indication: die Gestalt
+  result: shape, form, figure
+- indication: der Laden
+  result: shop
+- indication: der Meister
+  result: master
+- indication: die Stellung
+  result: position, standing
+- indication: der Zugang
+  result: access
+- indication: die Branche
+  result: sector, line of business
+- indication: die Figur
+  result: figure
+- indication: der Frieden
+  result: peace
+- indication: die Industrie
+  result: industry
+- indication: der Umgang
+  result: dealings, contact
+- indication: der Vorgang
+  result: occurrence
+- indication: das Wachstum
+  result: growth
+- indication: das Büro
+  result: office
+- indication: die Darstellung
+  result: presentation, description
+- indication: der Fußball
+  result: soccer, football
+- indication: die Gewalt
+  result: violence, force
+- indication: die Institution
+  result: institution
+- indication: die Katze
+  result: cat
+- indication: der Konzern
+  result: business group
+- indication: das Lager
+  result: camp, storeroom
+- indication: die Lehre
+  result: apprenticeship, lesson, doctrine
+- indication: das Pferd
+  result: horse
+- indication: der Rat
+  result: advice
+- indication: der Schatten
+  result: shadow, shade
+- indication: die Spitze
+  result: point, top, peak
+- indication: die Strecke
+  result: distance, route
+- indication: die Szene
+  result: scene
+- indication: die Weltmeisterschaft
+  result: world championship
+- indication: das Blut
+  result: blood
+- indication: die Dauer
+  result: length of time
+- indication: das Feuer
+  result: fire
+- indication: das Gymnasium
+  result: secondary school
+- indication: die Konsequenz
+  result: consequence
+- indication: die Nase
+  result: nose
+- indication: der Stuhl
+  result: chair
+- indication: der Süden/Süd
+  result: south
+- indication: das Tor
+  result: gate, goal
+- indication: der Verband
+  result: association, bandage
+- indication: die Aktie
+  result: share
+- indication: die Aktion
+  result: action, campaign
+- indication: der Anlass
+  result: occasion, cause
+- indication: die Ausgabe
+  result: distribution, edition, expenses
+- indication: der Ausländer
+  result: foreigner
+- indication: das Bundesland
+  result: state, province
+- indication: der Club
+  result: club
+- indication: der Fluss
+  result: river
+- indication: die Führung
+  result: management, leadership, command
+- indication: die Geschwindigkeit
+  result: speed
+- indication: das Gut
+  result: estate, goods
+- indication: die Medizin
+  result: medicine
+- indication: der Nachbar
+  result: neighbor
+- indication: die Software
+  result: software
+- indication: die Stufe
+  result: step, level
+- indication: das Telefon
+  result: telephone

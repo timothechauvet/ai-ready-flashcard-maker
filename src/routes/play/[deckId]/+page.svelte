@@ -1,11 +1,12 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import { page } from '$app/stores';
-	import { getGermanIdiomsDeck, getGermanWordsDeck, getGermanC1Deck, getGermanNounsDeck, getGermanPartizipienDeck, getGermanSayingsDeck, getGermanWortschatzDeck, getKannadaColorsDeck, getGermanColorsDeck, type Flashcard } from '$lib/deck_loader';
+	import { getDeckById, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
 	import { base } from '$app/paths';
 	import confetti from 'canvas-confetti';
 
-	let deckId = $derived($page.params.deckId);
+	let deckId = $derived($page.params.deckId ?? '');
 
 	// Flashcard state
 	let cards = $state<Flashcard[]>([]);
@@ -37,27 +38,16 @@
 	}
 	let history = $state<HistoryState[]>([]);
 
+	$effect(() => {
+		if (!browser) return;
+		localStorage.setItem(
+			`yasssf-progress:${deckId}`,
+			JSON.stringify({ correctCount, incorrectCount, remainingCount: activeIndices.length })
+		);
+	});
+
 	onMount(() => {
-		let loadedCards: Flashcard[] = [];
-		if (deckId === 'german-idioms') {
-			loadedCards = getGermanIdiomsDeck();
-		} else if (deckId === 'german-words') {
-			loadedCards = getGermanWordsDeck();
-		} else if (deckId === 'german-c1') {
-			loadedCards = getGermanC1Deck();
-		} else if (deckId === 'german-nouns') {
-			loadedCards = getGermanNounsDeck();
-		} else if (deckId === 'german-partizipien') {
-			loadedCards = getGermanPartizipienDeck();
-		} else if (deckId === 'german-sayings') {
-			loadedCards = getGermanSayingsDeck();
-		} else if (deckId === 'german-wortschatz') {
-			loadedCards = getGermanWortschatzDeck();
-		} else if (deckId === 'kannada-colors') {
-			loadedCards = getKannadaColorsDeck();
-		} else if (deckId === 'german-colors') {
-			loadedCards = getGermanColorsDeck();
-		}
+		const loadedCards = getDeckById(deckId);
 		cards = loadedCards;
 		activeIndices = loadedCards.map((_, i) => i);
 		displayActivePointer = 0;
@@ -118,7 +108,7 @@
 		};
 		
 		// Set language dynamically
-		if (deckId === 'kannada-colors') {
+		if (deckId.startsWith('kannada-')) {
 			utterance.lang = 'kn-IN';
 			const voices = window.speechSynthesis.getVoices();
 			const knVoice = voices.find(v => v.lang.startsWith('kn'));
@@ -329,7 +319,7 @@
 					<div class="card-side card-front">
 						<span class="card-counter">{displayActivePointer + 1} / {activeIndices.length}</span>
 						<p class="card-text">{currentCard?.indication}</p>
-						{#if currentCard?.clue && deckId !== 'german-colors'}
+						{#if currentCard?.clue && !deckId.startsWith('german-colors')}
 							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
 								{currentCard.clue}
 							</p>
@@ -342,12 +332,12 @@
 					</div>
 					<div class="card-side card-back">
 						<span class="card-counter">{displayActivePointer + 1} / {activeIndices.length}</span>
-						{#if deckId === 'german-colors' && currentCard?.clue}
+						{#if deckId.startsWith('german-colors') && currentCard?.clue}
 							<p class="card-text" style="color: {currentCard.clue}; font-weight: 700;">{currentCard?.result}</p>
 						{:else}
 							<p class="card-text">{currentCard?.result}</p>
 						{/if}
-						{#if currentCard?.clue && deckId !== 'german-colors'}
+						{#if currentCard?.clue && !deckId.startsWith('german-colors')}
 							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
 								{currentCard.clue}
 							</p>

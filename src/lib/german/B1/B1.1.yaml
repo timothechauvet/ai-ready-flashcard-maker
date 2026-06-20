@@ -1,0 +1,440 @@
+- indication: der Terrorismus
+  result: terrorism
+- indication: der Trainer
+  result: coach
+- indication: der Zweifel
+  result: doubt
+- indication: die Anforderung
+  result: request, demand
+- indication: das Bad
+  result: bath, bathroom, spa
+- indication: die Belastung
+  result: load, strain
+- indication: der Bus
+  result: bus
+- indication: der Effekt
+  result: effect
+- indication: die Messe
+  result: trade fair, mass
+- indication: der Umfang
+  result: circumference, size, extent
+- indication: die Vorschrift
+  result: instruction, regulation
+- indication: das Fahrrad
+  result: bicycle
+- indication: die Kommission
+  result: commission, committee
+- indication: das Krankenhaus
+  result: hospital
+- indication: der Mangel
+  result: lack, shortage, defect
+- indication: der Richter
+  result: judge
+- indication: der Terrorist
+  result: terrorist
+- indication: das Urteil
+  result: sentence, judgement
+- indication: der Anbieter
+  result: supplier
+- indication: die Decke
+  result: ceiling, blanket
+- indication: der Fisch
+  result: fish
+- indication: das Fleisch
+  result: meat, flesh
+- indication: die Jugend
+  result: youth
+- indication: der Schmerz
+  result: pain, grief
+- indication: die Schuld
+  result: guilt
+- indication: die Stimmung
+  result: mood, atmosphere
+- indication: die Tasche
+  result: pocket, bag
+- indication: der Wein
+  result: wine
+- indication: die Welle
+  result: wave
+- indication: der Wettbewerb
+  result: competition
+- indication: das Wetter
+  result: weather
+- indication: die Alternative
+  result: alternative
+- indication: die Auswirkung
+  result: effect
+- indication: das Bedürfnis
+  result: need
+- indication: die Haltung
+  result: posture, attitude
+- indication: der Leser
+  result: reader
+- indication: die Tante
+  result: aunt
+- indication: die Temperatur
+  result: temperature
+- indication: die Waffe
+  result: weapon
+- indication: die Ware
+  result: goods
+- indication: die Ahnung
+  result: suspicion, idea
+- indication: die Brust
+  result: breast, chest
+- indication: die Einführung
+  result: introduction
+- indication: die Fahrt
+  result: drive, trip
+- indication: die Förderung
+  result: support, sponsorship
+- indication: das Kleid
+  result: dress
+- indication: die Koalition
+  result: coalition
+- indication: die Länge
+  result: length
+- indication: das Loch
+  result: hole
+- indication: der Manager
+  result: manager
+- indication: die Quelle
+  result: source, spring
+- indication: der Regen
+  result: rain
+- indication: die Religion
+  result: religion
+- indication: der Spieler
+  result: player
+- indication: die Summe
+  result: sum
+- indication: der Termin
+  result: appointment, date
+- indication: der Test
+  result: test
+- indication: der Tourist
+  result: tourist
+- indication: der Umsatz
+  result: turnover, sales
+- indication: das Vertrauen
+  result: trust, faith
+- indication: die Verwendung
+  result: use
+- indication: der Vorwurf
+  result: reproach, accusation
+- indication: der Wissenschaftler
+  result: scholar, scientist
+- indication: das Bier
+  result: beer
+- indication: die Bundesregierung
+  result: federal government
+- indication: das Konzert
+  result: concert
+- indication: die Krise
+  result: crisis
+- indication: die Landwirtschaft
+  result: agriculture
+- indication: das Leid
+  result: sorrow, grief
+- indication: das Lied
+  result: song
+- indication: das Merkmal
+  result: feature
+- indication: das Parlament
+  result: parliament
+- indication: die Pause
+  result: pause, break
+- indication: die Perspektive
+  result: perspective, prospects
+- indication: das Phänomen
+  result: phenomenon
+- indication: die Realität
+  result: reality
+- indication: die Suche
+  result: search
+- indication: der Weltkrieg
+  result: world war
+- indication: der Arbeitgeber
+  result: employer
+- indication: der Aufbau
+  result: construction, structure
+- indication: die Bestimmungen
+  result: regulation, purpose, fate
+- indication: die Botschaft
+  result: message
+- indication: das Brot
+  result: bread
+- indication: die Flasche
+  result: bottle
+- indication: die Formel
+  result: formula
+- indication: der Fortschritt
+  result: progress
+- indication: der Geburtstag
+  result: birthday
+- indication: die Gegenwart
+  result: present
+- indication: die Hauptstadt
+  result: capital city
+- indication: die Mühe
+  result: effort, trouble
+- indication: die Nachfrage
+  result: demand
+- indication: die Pflicht
+  result: duty
+- indication: der Studiengang
+  result: course of study
+- indication: der Teilnehmer
+  result: participant
+- indication: der Wille
+  result: will
+- indication: die Debatte
+  result: debate
+- indication: die Fremdsprache
+  result: foreign language
+- indication: der Gegner
+  result: opponent, competitor, enemy
+- indication: die Hinsicht
+  result: respect
+- indication: der Käufer
+  result: buyer
+- indication: das Kilogramm
+  result: kilogram
+- indication: die Verwaltung
+  result: administration
+- indication: die Weile
+  result: while
+- indication: die Adresse
+  result: address
+- indication: der Betrag
+  result: amount
+- indication: der Hals
+  result: neck, throat
+- indication: die Heimat
+  result: home, homeland
+- indication: der Kauf
+  result: purchase
+- indication: das Kino
+  result: cinema, movie theater
+- indication: die Konkurrenz
+  result: competition
+- indication: die Mathematik
+  result: mathematics
+- indication: die Schicht
+  result: layer, class
+- indication: der Schwerpunkt
+  result: main emphasis, center of gravity
+- indication: der Streit
+  result: argument, fight
+- indication: die Verhandlung
+  result: negotiation
+- indication: der Ablauf
+  result: expiry, action
+- indication: der Arbeitnehmer
+  result: employee
+- indication: das Drittel
+  result: third
+- indication: der/die Erwachsene
+  result: adult, grown-up
+- indication: der Fahrer
+  result: driver
+- indication: das Gegenteil
+  result: opposite
+- indication: die Gemeinschaft
+  result: community
+- indication: die Gewerkschaft
+  result: trade union
+- indication: der Handel
+  result: trade
+- indication: der Kanzler
+  result: chancellor
+- indication: das Management
+  result: management
+- indication: der Millimeter
+  result: millimeter
+- indication: der Minister
+  result: minister
+- indication: der Nachteil
+  result: disadvantage
+- indication: die Platte
+  result: disk, record, plate
+- indication: der Sitz
+  result: seat, headquarters
+- indication: der Start
+  result: start, take-off, launch
+- indication: die Tabelle
+  result: table, chart
+- indication: der Tourismus
+  result: tourism
+- indication: der Verdacht
+  result: suspicion
+- indication: der Vogel
+  result: bird
+- indication: der Widerstand
+  result: resistance, opposition
+- indication: der/die Beamte
+  result: official, civil servant
+- indication: die Investition
+  result: investment
+- indication: die Planung
+  result: planning, plan
+- indication: der Polizist
+  result: policeman
+- indication: der Schriftsteller
+  result: writer
+- indication: die Stärke
+  result: strength
+- indication: die Steuer
+  result: tax
+- indication: das Steuer
+  result: steering wheel, helm
+- indication: die Therapie
+  result: therapy
+- indication: die Überlegung
+  result: thought, thinking
+- indication: der Verkehr
+  result: traffic
+- indication: die Verletzung
+  result: injury
+- indication: der/die Abgeordnete
+  result: member of the parliament, congress
+- indication: der Anschluss
+  result: connection
+- indication: die Armee
+  result: army
+- indication: die Atmosphäre
+  result: atmosphere
+- indication: die Auswahl
+  result: choice, selection
+- indication: die Beschreibung
+  result: description
+- indication: das Boot
+  result: boat
+- indication: die Einnahmen
+  result: income, receipts, revenue
+- indication: die Erkrankung
+  result: illness, disease
+- indication: die Fläche
+  result: area, surface
+- indication: der Flughafen
+  result: airport
+- indication: das Gehirn
+  result: brain
+- indication: die Gesundheit
+  result: health
+- indication: der Park
+  result: park
+- indication: der PC
+  result: computer
+- indication: die Physik
+  result: physics
+- indication: die Post
+  result: mail, post office
+- indication: die Saison
+  result: season
+- indication: die Stirn
+  result: forehead
+- indication: die Strategie
+  result: strategy
+- indication: der Wechsel
+  result: change
+- indication: der Alltag
+  result: workday, daily routine
+- indication: der Auftritt
+  result: appearance, entrance
+- indication: der Bahnhof
+  result: railway station
+- indication: der Bundeskanzler
+  result: federal chancellor
+- indication: die Demokratie
+  result: democracy
+- indication: die Erwartung
+  result: expectation
+- indication: das Fahrzeug
+  result: vehicle
+- indication: die Fotografie
+  result: photography
+- indication: der Hersteller
+  result: manufacturer, producer
+- indication: das Holz
+  result: wood
+- indication: das Knie
+  result: knee
+- indication: die Kombination
+  result: combination
+- indication: die Liste
+  result: list
+- indication: das Niveau
+  result: level, standard
+- indication: der Pfarrer
+  result: pastor
+- indication: das Schicksal
+  result: fate
+- indication: die Schrift
+  result: script, handwriting
+- indication: der Standort
+  result: site, location
+- indication: der Verlag
+  result: publishing company
+- indication: der Zeltraum
+  result: period of time
+- indication: die Abteilung
+  result: department
+- indication: der Beweis
+  result: proof, evidence
+- indication: das Detail
+  result: detail
+- indication: die Dimension
+  result: dimension
+- indication: der Forscher
+  result: researcher
+- indication: die Integration
+  result: integration
+- indication: die Kasse
+  result: cash register, checkout
+- indication: die Kategorie
+  result: category
+- indication: der Organismus
+  result: organism
+- indication: das Radio
+  result: radio
+- indication: der Unfall
+  result: accident
+- indication: die Verbesserung
+  result: improvement
+- indication: die Verpflichtung
+  result: commitment, obligation
+- indication: das Abitur
+  result: school leaving exam, A levels
+- indication: der Bedarf
+  result: need, demand
+- indication: die Beratung
+  result: advice, discussion, consultation
+- indication: die Beschäftigung
+  result: employment, job, activity, occupation
+- indication: die Betrachtung
+  result: contemplation, examination
+- indication: das Frühjahr
+  result: spring
+- indication: das Gewicht
+  result: weight
+- indication: der Journalist
+  result: journalist
+- indication: die Kompetenz
+  result: competence, authority
+- indication: das Lebensmittel
+  result: food
+- indication: der Mittelpunkt
+  result: midpoint, center of focus
+- indication: der Spiegel
+  result: mirror
+- indication: der Strand
+  result: beach
+- indication: die Treppe
+  result: stairs
+- indication: das Vermögen
+  result: assets, fortune, ability
+- indication: das Wesen
+  result: being, creature, nature
+- indication: die Arbeitslosigkeit
+  result: unemployment
