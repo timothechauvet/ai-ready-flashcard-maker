@@ -5,6 +5,11 @@
 	const API_BASE = env.PUBLIC_API_URL || 'https://api.yasssf.com';
 
 	let fileInput: HTMLInputElement;
+	let deckTitle = $state('');
+	let deckFolder = $state('');
+	let deckCategory = $state('');
+	let deckAuthor = $state('');
+	let deckOrganization = $state('');
 	let rawYamlText = $state('');
 	let uploadMode = $state<'file' | 'text'>('file');
 	let errorMsg = $state('');
@@ -79,6 +84,11 @@
 			const formData = new FormData();
 			const fileObj = new File([yamlContent], defaultTitle + '.yaml', { type: 'text/yaml' });
 			formData.append('file', fileObj);
+			if (deckTitle.trim()) formData.append('title', deckTitle.trim());
+			if (deckFolder.trim()) formData.append('folder', deckFolder.trim());
+			if (deckCategory.trim()) formData.append('category', deckCategory.trim());
+			if (deckAuthor.trim()) formData.append('author', deckAuthor.trim());
+			if (deckOrganization.trim()) formData.append('organization', deckOrganization.trim());
 
 			const res = await fetch(`${API_BASE}/decks/import`, {
 				method: 'POST',
@@ -96,6 +106,11 @@
 
 			if (fileInput) fileInput.value = '';
 			rawYamlText = '';
+			deckTitle = '';
+			deckFolder = '';
+			deckCategory = '';
+			deckAuthor = '';
+			deckOrganization = '';
 		} catch (err) {
 			const uploadError = err as Error;
 			errorMsg = 'An unexpected error occurred: ' + uploadError.message;
@@ -105,19 +120,16 @@
 	}
 
 	const aiPrompt = `Act as an expert educator. Generate a high-quality flashcard deck in YAML format about [TOPIC].
-The output must be a valid YAML object containing metadata and a 'cards' list with exact fields:
+The output must be a valid YAML list of objects with these exact fields:
+- indication: (string, required) The question or front side of the card.
+- result: (string, required) The answer, meaning, or back side of the card.
+- picture_url: (string, optional) A direct URL to a relevant image.
 
-title: "Your Deck Title"
-description: "A short description"
-author: "Your Name"
-organization: "Your Org"
-collection: "Main Collection Name"
-category: "Category/Subcategory"
-cards:
-  - indication: "What is the capital of Japan?"
-    result: "Tokyo"
-  - indication: "What does HTML stand for?"
-    result: "HyperText Markup Language"
+Example format:
+- indication: "What is the capital of Japan?"
+  result: "Tokyo"
+- indication: "What does HTML stand for?"
+  result: "HyperText Markup Language"
 
 Ensure the YAML is clean and correctly indented. Total content must be under 2MB. DO NOT include code fences like \`\`\`yaml, just the raw text.`;
 
@@ -195,13 +207,81 @@ Ensure the YAML is clean and correctly indented. Total content must be under 2MB
 					<textarea
 						id="rawYaml"
 						rows="10"
-						placeholder="title: My Deck\ncards:\n  - indication: 'Front'\n    result: 'Back'"
+						placeholder="- indication: 'Front'\n  result: 'Back'"
 						bind:value={rawYamlText}
 						disabled={isUploading}
 						style="width: 100%; padding: 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border-color); font-family: monospace; resize: vertical;"
 					></textarea>
 				</div>
 			{/if}
+
+			<div class="form-group">
+				<label for="deckTitle" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+					>Deck Title (Optional)</label
+				>
+				<input
+					type="text"
+					id="deckTitle"
+					placeholder="e.g. Japanese Kanji N5"
+					bind:value={deckTitle}
+					disabled={isUploading}
+				/>
+				<small class="text-muted">Overrides YAML metadata if present. If blank, YAML or filename is used.</small>
+			</div>
+
+			<div class="form-group" style="display: flex; gap: 1rem;">
+				<div style="flex: 1;">
+					<label for="deckAuthor" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+						>Author (Optional)</label
+					>
+					<input
+						type="text"
+						id="deckAuthor"
+						placeholder="Your Name"
+						bind:value={deckAuthor}
+						disabled={isUploading}
+					/>
+				</div>
+				<div style="flex: 1;">
+					<label for="deckOrganization" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+						>Organization (Optional)</label
+					>
+					<input
+						type="text"
+						id="deckOrganization"
+						placeholder="Your Org / School"
+						bind:value={deckOrganization}
+						disabled={isUploading}
+					/>
+				</div>
+			</div>
+
+			<div class="form-group">
+				<label for="deckFolder" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+					>Collection / Folder (Optional)</label
+				>
+				<input
+					type="text"
+					id="deckFolder"
+					placeholder="e.g. Japanese"
+					bind:value={deckFolder}
+					disabled={isUploading}
+				/>
+			</div>
+
+			<div class="form-group">
+				<label for="deckCategory" style="display: block; margin-bottom: 0.5rem; font-weight: 600;"
+					>Category / Subfolder Path (Optional)</label
+				>
+				<input
+					type="text"
+					id="deckCategory"
+					placeholder="e.g. nouns/level-1"
+					bind:value={deckCategory}
+					disabled={isUploading}
+				/>
+				<small class="text-muted">Use slashes (/) to create nested folders.</small>
+			</div>
 
 			<button
 				class="btn btn-primary"

@@ -346,6 +346,12 @@ def _clean_path(path: str) -> str:
 async def import_deck(
     request: Request,
     file: UploadFile = File(...),
+    title: str = Form(""),
+    folder: str = Form(""),
+    subfolder: str = Form(""),
+    category: str = Form(""),
+    author: str = Form(""),
+    organization: str = Form(""),
 ):
     global _last_import_ts
 
@@ -391,18 +397,18 @@ async def import_deck(
         if "indication" not in item or "result" not in item:
             raise HTTPException(status_code=400, detail=f'Card {i} missing "indication" or "result"')
 
-    # Extract metadata (either from the YAML or default to filename)
-    title = meta.get("title", "").strip() or meta.get("name", "").strip() or (file.filename or "Untitled").rsplit(".", 1)[0]
+    # Extract metadata (from Form override, then YAML, then default)
+    final_title = title.strip() or meta.get("title", "").strip() or meta.get("name", "").strip() or (file.filename or "Untitled").rsplit(".", 1)[0]
     description = meta.get("description", "").strip() or f"{len(cards)} cards • Uploaded deck"
-    author = meta.get("author", "").strip() or None
-    organization = meta.get("organization", "").strip() or meta.get("org", "").strip() or None
+    final_author = author.strip() or meta.get("author", "").strip() or None
+    final_org = organization.strip() or meta.get("organization", "").strip() or meta.get("org", "").strip() or None
     
     # Use clean_path for folder, subfolder, and category to prevent injection
-    folder = _clean_path(meta.get("folder", "").strip() or meta.get("collection", "").strip()) or None
-    subfolder = _clean_path(meta.get("subfolder", "").strip()) or None
+    final_folder = _clean_path(folder.strip() or meta.get("folder", "").strip() or meta.get("collection", "").strip()) or None
+    final_subfolder = _clean_path(subfolder.strip() or meta.get("subfolder", "").strip()) or None
     
     # Path inside category field allowed by user: "make category folder-like separated by / for depth"
-    category = _clean_path(meta.get("category", "").strip() or meta.get("path", "").strip()) or None
+    final_category = _clean_path(category.strip() or meta.get("category", "").strip() or meta.get("path", "").strip()) or None
 
     deck_id = f"user-{uuid.uuid4().hex[:12]}"
 
@@ -412,14 +418,14 @@ async def import_deck(
            VALUES (?, ?, ?, ?, ?, ?, ?, 'upload', ?, ?)""",
         (
             deck_id,
-            title,
+            final_title,
             description,
-            folder,
-            subfolder,
-            category,
+            final_folder,
+            final_subfolder,
+            final_category,
             json.dumps(cards),
-            author,
-            organization
+            final_author,
+            final_org
         ),
     )
     conn.commit()
@@ -429,9 +435,9 @@ async def import_deck(
 
     return {
         "id": deck_id,
-        "title": title,
+        "title": final_title,
         "card_count": len(cards),
-        "message": f'Successfully imported "{title}" with {len(cards)} cards',
+        "message": f'Successfully imported "{final_title}" with {len(cards)} cards',
     }
 
 
