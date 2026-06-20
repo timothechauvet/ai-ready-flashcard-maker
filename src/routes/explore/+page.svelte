@@ -377,7 +377,6 @@
 		background: var(--surface-color);
 	}
 
-	.deck-row-copy h6,
 	.subfolder-head h5 {
 		margin-bottom: 0.2rem;
 		text-transform: capitalize;

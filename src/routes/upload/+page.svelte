@@ -4,7 +4,7 @@
 
 	const API_BASE = env.PUBLIC_API_URL || 'https://api.yasssf.com';
 
-	let fileInput: HTMLInputElement;
+	let fileInput = $state<HTMLInputElement | null>(null);
 	let deckTitle = $state('');
 	let deckFolder = $state('');
 	let deckCategory = $state('');
@@ -24,7 +24,7 @@
 		let defaultTitle = '';
 
 		if (uploadMode === 'file') {
-			if (!fileInput.files || fileInput.files.length === 0) {
+			if (!fileInput || !fileInput.files || fileInput.files.length === 0) {
 				errorMsg = 'Please select a file to upload.';
 				return;
 			}

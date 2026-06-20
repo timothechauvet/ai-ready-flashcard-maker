@@ -100,26 +100,7 @@
 		font-size: 1.125rem;
 	}
 
-	.hero-image-wrapper {
-		width: 100%;
-		max-width: 1000px;
-		border-radius: 2rem;
-		overflow: hidden;
-		box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-		border: 1px solid var(--border-color);
-		background: white;
-	}
 
-	.hero-image {
-		width: 100%;
-		height: auto;
-		display: block;
-		transition: transform 0.5s ease;
-	}
-
-	.hero-image-wrapper:hover .hero-image {
-		transform: scale(1.02);
-	}
 
 	.features-grid {
 		display: grid;

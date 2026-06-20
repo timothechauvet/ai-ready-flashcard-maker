@@ -3,6 +3,7 @@
 	import { page } from '$app/stores';
 	import { getDeckById, type Flashcard } from '$lib/deck_loader';
 	import { onMount, tick } from 'svelte';
+	import { fade } from 'svelte/transition';
 	import { base } from '$app/paths';
 	import { env } from '$env/dynamic/public';
 	import confetti from 'canvas-confetti';
@@ -570,12 +571,7 @@
 		padding: 0 0.5rem;
 	}
 
-	.close-btn {
-		font-size: 1.5rem;
-		color: var(--text-muted);
-		line-height: 1;
-		cursor: pointer;
-	}
+
 
 	.scoreboard-inline {
 		display: flex;
@@ -584,21 +580,7 @@
 		font-weight: 700;
 	}
 
-	.random-toggle-label {
-		display: flex;
-		align-items: center;
-		gap: 0.25rem;
-		font-size: 0.85rem;
-		font-weight: 600;
-		color: var(--text-muted);
-		cursor: pointer;
-		user-select: none;
-	}
 
-	.random-toggle-label input {
-		width: auto;
-		cursor: pointer;
-	}
 
 	.score-incorrect {
 		color: var(--danger-color);
