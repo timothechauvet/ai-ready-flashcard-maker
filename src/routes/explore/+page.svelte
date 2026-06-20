@@ -35,6 +35,15 @@
 	};
 
 	let collections = $state<FolderGroup[]>([]);
+	let germanFolder = $derived(collections.find(c => c.folder === 'German'));
+	let otherDecks = $derived(
+		collections.filter(c => c.folder !== 'German').flatMap(c =>
+			c.subfolders.flatMap(sf =>
+				sf.categories.flatMap(cat => cat.decks)
+			)
+		)
+	);
+
 	let isLoading = $state(true);
 	let loadError = $state('');
 
@@ -137,14 +146,14 @@
 			<h3>Error loading collections: {loadError}</h3>
 		</div>
 	{:else}
-		{#each collections as folderGroup}
-			{@const stats = getFolderStats(folderGroup)}
+		{#if germanFolder}
+			{@const stats = getFolderStats(germanFolder)}
 			
 			<div class="german-folder-card">
 				<div class="german-folder-header">
 					<div>
-						<h3>{folderGroup.folder}</h3>
-						<p class="text-muted">{folderGroup.subfolders.length} subfolders • {stats.deckCount} decks • {stats.total} cards total</p>
+						<h3>{germanFolder.folder}</h3>
+						<p class="text-muted">{germanFolder.subfolders.length} subfolders • {stats.deckCount} decks • {stats.total} cards total</p>
 					</div>
 					<div class="progress-summary">
 						<span>{stats.correct} / {stats.total}</span>
@@ -163,14 +172,14 @@
 				</div>
 
 				<div class="level-groups">
-					{#each folderGroup.subfolders as subfolder}
+					{#each germanFolder.subfolders as subfolder}
 						{@const sfStats = getSubfolderStats(subfolder)}
 						<div class="level-card">
 							<div class="subfolder-head" style="margin-bottom: 1rem;">
 								<div>
 									<h5>{subfolder.level || subfolder.subfolder || 'General'}</h5>
 									{#if subfolder.subfolder && subfolder.level !== subfolder.subfolder}
-										<p class="deck-path">{folderGroup.folder} / {subfolder.subfolder}</p>
+										<p class="deck-path">{germanFolder.folder} / {subfolder.subfolder}</p>
 									{/if}
 								</div>
 								<div class="mini-progress wide">
@@ -216,7 +225,27 @@
 					{/each}
 				</div>
 			</div>
-		{/each}
+		{/if}
+
+		{#if otherDecks.length > 0}
+			<div style="margin-top: 2rem; display: flex; flex-direction: column; gap: 1rem;">
+				<h3 style="margin-bottom: 0.5rem; margin-top: 1rem;">Community & Public Decks</h3>
+				{#each otherDecks as deck}
+					<div class="legacy-deck-card">
+						<div>
+							<h3 style="margin-bottom: 0.25rem;">{deck.title}</h3>
+							<p class="text-muted" style="font-size: 0.875rem;">{deck.description}</p>
+							{#if deck.author || deck.organization}
+								<p class="text-muted" style="font-size: 0.75rem; margin-top: 0.25rem;">
+									By: {deck.author || 'Unknown'} {#if deck.organization} ({deck.organization}) {/if}
+								</p>
+							{/if}
+						</div>
+						<a href={`${base}/play/${deck.id}`} class="btn btn-primary">Play Deck</a>
+					</div>
+				{/each}
+			</div>
+		{/if}
 	{/if}
 </div>
 
@@ -360,6 +389,22 @@
 		align-items: flex-end;
 		gap: 0.5rem;
 		min-width: 100px;
+	}
+
+	.legacy-deck-card {
+		border: 1px solid var(--border-color);
+		border-radius: 0.75rem;
+		padding: 1.25rem;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		background: white;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+
+	.legacy-deck-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 	}
 
 	.mini-progress {
