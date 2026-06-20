@@ -1,15 +1,15 @@
 - indication: the basics   |  das wesentliche
   result: the basics |  the essential
   clue: Phrase
-- indication: '110'
-  result: amphibians and reptiles   |  amphibien und reptilien
+- indication: amphibians and reptiles   |  amphibien und reptilien
+  result: amphibians and reptiles |  amphibians and reptiles
   clue: Phrase
-- indication: '115'
-  result: land, sea, and sky   |  land, meer und himmel
+- indication: land, sea, and sky   |  land, meer und himmel
+  result: land, sea, and sky |  land, sea and sky
   clue: Phrase
 - indication: blumen, pflanzen und bäume
   result: flowers, plants, and trees   |
   clue: Phrase
 - indication: sich schminken
-  result: to put on makeup / apply makeup
+  result: make up
   clue: Phrase

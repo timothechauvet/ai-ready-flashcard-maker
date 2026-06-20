@@ -20,10 +20,10 @@
   result: der
   clue: Adjective
 - indication: etwas gern tun
-  result: something
+  result: like to do something
   clue: Adjective
-- indication: extra time
-  result: Spielzeit
+- indication: Spielzeit
+  result: playtime
   clue: Adjective
 - indication: der Check
   result: the check

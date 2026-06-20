@@ -31,8 +31,8 @@
 - indication: das Asthma
   result: the asthma
   clue: Adjective
-- indication: doctor
-  result: behandeln
+- indication: behandeln
+  result: treat
   clue: Adjective
 - indication: der Verband
   result: the association

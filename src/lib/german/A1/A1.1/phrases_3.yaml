@@ -34,17 +34,17 @@
 - indication: Ich bin … (Jahre alt).
   result: i am___years old).
   clue: Phrase
-- indication: No.
-  result: Ja.
+- indication: Ja.
+  result: yes.
   clue: Phrase
-- indication: No, thanks.
-  result: Vielen Dank.
+- indication: Vielen Dank.
+  result: thank you.
   clue: Phrase
-- indication: Not bad, thanks.
-  result: So lala.
+- indication: So lala.
+  result: so-so.
   clue: Phrase
-- indication: OK!
-  result: Es tut mir leid.
+- indication: Es tut mir leid.
+  result: i'm sorry.
   clue: Phrase
 - indication: Partner / eine
   result: Ich habe einen
@@ -52,9 +52,9 @@
 - indication: Schönen Tag /
   result: Abend!
   clue: Phrase
-- indication: See you on Saturday.
-  result: Bis morgen.
+- indication: Bis morgen.
+  result: see you in the morning.
   clue: Phrase
-- indication: See you soon.
-  result: Gute Nacht.
+- indication: Gute Nacht.
+  result: good night.
   clue: Phrase

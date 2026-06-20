@@ -31,23 +31,23 @@
 - indication: das Turnier
   result: the tournament
   clue: Adjective
-- indication: competitor
-  result: kameradin
+- indication: kameradin
+  result: comrade
   clue: Adjective
 - indication: der Wohnwagen
   result: the caravan
   clue: Adjective
-- indication: corridor
-  result: bestellen
+- indication: bestellen
+  result: order
   clue: Adjective
-- indication: deckchair
-  result: Schaufel
+- indication: Schaufel
+  result: shovel
   clue: Adjective
 - indication: defender
   result: vocabulary
   clue: Adjective
 - indication: den Break holen
-  result: serve
+  result: get the break
   clue: Adjective
 - indication: die Schwimmerin
   result: the swimmer

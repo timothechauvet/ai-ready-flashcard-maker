@@ -52,8 +52,8 @@
 - indication: die Behandlung
   result: the treatment
   clue: Adjective
-- indication: healthy
-  result: ungskarte
+- indication: ungskarte
+  result: ung card
   clue: Adjective
 - indication: das Gehirn
   result: the brain

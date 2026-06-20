@@ -13,8 +13,8 @@
 - indication: das Fitnessstudio
   result: the gym
   clue: Adjective
-- indication: helmet cage
-  result: Eishockey spielen
+- indication: Eishockey spielen
+  result: play ice hockey
   clue: Adjective
 - indication: der Rock
   result: the skirt

@@ -2,19 +2,19 @@
   result: the order
   clue: Verb
 - indication: anklicken
-  result: to click on
+  result: click
   clue: Verb
 - indication: aufgeben
   result: telefonisch
   clue: Verb
 - indication: aufstreichen
-  result: to spread
+  result: spread on
   clue: Verb
 - indication: bedient werden
-  result: to be served
+  result: be served
   clue: Verb
 - indication: bestellen
-  result: to place an order
+  result: order
   clue: Verb
 - indication: der Gang
   result: the aisle
@@ -23,16 +23,16 @@
   result: to phone in an order
   clue: Verb
 - indication: einen Tisch
-  result: to reserve a table
+  result: a table
   clue: Verb
 - indication: einschalten /
-  result: to switch on/off
+  result: turn on /
   clue: Verb
 - indication: entsaften
-  result: to juice
+  result: juicing
   clue: Verb
-- indication: frozen
-  result: frisch
+- indication: frisch
+  result: fresh
   clue: Verb
 - indication: frühstücken
   result: to have breakfast
@@ -41,20 +41,20 @@
   result: die
   clue: Verb
 - indication: gebraten
-  result: cooked
+  result: fried
   clue: Verb
 - indication: gesalzen
   result: salted
   clue: Verb
 - indication: hacken
-  result: to chop
+  result: chop
   clue: Verb
 - indication: hochladen
   result: herunterladen /
   clue: Verb
 - indication: nach Hause gehen
-  result: to go home
+  result: go home
   clue: Verb
 - indication: raspeln
-  result: to grate
+  result: grate
   clue: Verb

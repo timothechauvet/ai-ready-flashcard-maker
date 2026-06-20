@@ -1,5 +1,5 @@
-- indication: day
-  result: Dezember
+- indication: Dezember
+  result: december
   clue: Adjective
 - indication: das Jahr
   result: the year
@@ -7,8 +7,8 @@
 - indication: December
   result: November
   clue: Adjective
-- indication: early
-  result: vorgestern
+- indication: vorgestern
+  result: the day before yesterday
   clue: Adjective
 - indication: elf
   result: zehn
@@ -16,14 +16,14 @@
 - indication: der Nachmittag
   result: the afternoon
   clue: Adjective
-- indication: every Sunday
-  result: montags
+- indication: montags
+  result: mondays
   clue: Adjective
 - indication: die Baustelle
   result: the construction site
   clue: Adjective
-- indication: February
-  result: Januar
+- indication: Januar
+  result: january
   clue: Adjective
 - indication: der Dunst
   result: the haze
@@ -31,8 +31,8 @@
 - indication: die Woche
   result: the week
   clue: Adjective
-- indication: Friday
-  result: Donnerstag
+- indication: Donnerstag
+  result: thursday
   clue: Adjective
 - indication: früh
   result: late

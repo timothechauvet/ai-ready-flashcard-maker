@@ -1,5 +1,5 @@
-- indication: gift voucher
-  result: kontaktlos
+- indication: kontaktlos
+  result: contactless
   clue: Adjective
 - indication: gluten-free
   result: kalorienarm
@@ -14,7 +14,7 @@
   result: sauerkraut
   clue: Adjective
 - indication: greengrocer’s
-  result: vocabulary
+  result: greengrocer's
   clue: Adjective
 - indication: der Gutschein
   result: the voucher

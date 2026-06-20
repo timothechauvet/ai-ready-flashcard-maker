@@ -31,8 +31,8 @@
 - indication: die Schale
   result: the shell
   clue: Adjective
-- indication: strawberry
-  result: Johannisbeere
+- indication: Johannisbeere
+  result: currant
   clue: Adjective
 - indication: der Schnellimbiss
   result: the fast food joint

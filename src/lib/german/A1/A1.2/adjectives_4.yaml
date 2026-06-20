@@ -16,8 +16,8 @@
 - indication: der Abend
   result: the evening
   clue: Adjective
-- indication: November
-  result: Oktober
+- indication: Oktober
+  result: october
   clue: Adjective
 - indication: October
   result: September
@@ -31,8 +31,8 @@
 - indication: die Sonne
   result: the sun
   clue: Adjective
-- indication: Saturday
-  result: Freitag
+- indication: Freitag
+  result: friday
   clue: Adjective
 - indication: schön
   result: horrible

@@ -1,23 +1,23 @@
 - indication: abschleppen
-  result: to tow
+  result: towing
   clue: Verb
 - indication: Abschleppwagen
   result: der
   clue: Verb
 - indication: anhalten
-  result: to stop
+  result: stop
   clue: Verb
 - indication: backen
-  result: to bake
+  result: bake
   clue: Verb
 - indication: besitzen
-  result: to own
+  result: own
   clue: Verb
 - indication: braten
-  result: to roast
+  result: fry
   clue: Verb
 - indication: dekorieren
-  result: to decorate
+  result: decorate
   clue: Verb
 - indication: den Reifen wechseln
   result: to change a tyre
@@ -32,28 +32,28 @@
   result: einen platten Reifen
   clue: Verb
 - indication: jemanden mit dem
-  result: to buzz somebody in
+  result: someone with that
   clue: Verb
 - indication: kochen
-  result: to boil
+  result: cook
   clue: Verb
 - indication: eine Fahrradfahrt
   result: a bike ride
   clue: Verb
 - indication: mieten
-  result: to rent
+  result: rent
   clue: Verb
 - indication: pendeln
-  result: to commute
+  result: commute
   clue: Verb
 - indication: renovieren
-  result: to renovate
+  result: renovate
   clue: Verb
 - indication: Reparaturkästchen
   result: das
   clue: Verb
 - indication: reparieren
-  result: to fix
+  result: repair
   clue: Verb
 - indication: Satellitenfernsehen
   result: das

@@ -16,11 +16,11 @@
 - indication: das Paket
   result: the package
   clue: Adjective
-- indication: painkiller
-  result: Mittel
+- indication: Mittel
+  result: medium
   clue: Adjective
-- indication: paint
-  result: Bolzen pl
+- indication: Bolzen pl
+  result: bolt pl
   clue: Adjective
 - indication: der Pinsel
   result: the brush

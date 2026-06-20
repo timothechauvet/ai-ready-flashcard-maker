@@ -1,8 +1,8 @@
 - indication: Hallo.
   result: Hello.
   clue: Phrase
-- indication: I am...
-  result: Mir ist kalt / warm.
+- indication: Mir ist kalt / warm.
+  result: i feel cold/warm.
   clue: Phrase
 - indication: Nein.
   result: no.
@@ -10,8 +10,8 @@
 - indication: I don’t understand.
   result: Bitte.
   clue: Phrase
-- indication: I have a partner.
-  result: Ich bin verheiratet.
+- indication: Ich bin verheiratet.
+  result: i am married.
   clue: Phrase
 - indication: Ich reise.
   result: i'm traveling.
@@ -23,7 +23,7 @@
   result: i'm self-employed.
   clue: Phrase
 - indication: Ich bin … geboren.
-  result: I was born in...
+  result: i was born.
   clue: Phrase
 - indication: I’m retired.
   result: i'm retired.

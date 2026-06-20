@@ -8,7 +8,7 @@
   result: the test
   clue: Adjective
 - indication: appointment
-  result: vocabulary
+  result: appointment.appointment
   clue: Adjective
 - indication: der Hals
   result: the neck
@@ -34,11 +34,11 @@
 - indication: das Gewicht
   result: the weight
   clue: Adjective
-- indication: body – front
-  result: verlieren
+- indication: verlieren
+  result: lose
   clue: Adjective
-- indication: braces
-  result: reinigen
+- indication: reinigen
+  result: clean
   clue: Adjective
 - indication: das Organ
   result: the organ

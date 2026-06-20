@@ -1,5 +1,5 @@
 - indication: schrecklich
-  result: terrible / awful / dreadful
+  result: terrible
   clue: Adjective
 - indication: Sehen
   result: see
@@ -19,7 +19,7 @@
   result: the miscarriage
   clue: Adjective
 - indication: strafbar
-  result: punishable / criminal / liable to prosecution
+  result: punishable
   clue: Adjective
 - indication: das Mundwasser
   result: the mouthwash
@@ -30,20 +30,20 @@
 - indication: therapist
   result: vocabulary
   clue: Adjective
-- indication: to be admitted/
-  result: operiert werden
+- indication: operiert werden
+  result: be operated on
   clue: Adjective
-- indication: to massage
-  result: sich entspannen
+- indication: sich entspannen
+  result: to relax
   clue: Adjective
-- indication: to meditate
-  result: massieren
+- indication: massieren
+  result: massage
   clue: Adjective
-- indication: to miscarry
-  result: bringen
+- indication: bringen
+  result: bring
   clue: Adjective
-- indication: to wear glasses
-  result: farbblind
+- indication: farbblind
+  result: color blind
   clue: Adjective
 - indication: die Thalassotherapie
   result: thalassotherapy
@@ -52,10 +52,10 @@
   result: hands over / transfers / passes on
   clue: Adjective
 - indication: unantastbar
-  result: untouchable / inviolable
+  result: inviolable
   clue: Adjective
 - indication: unhaltbar
-  result: untenable / unsustainable / indefensible
+  result: untenable
   clue: Adjective
 - indication: ursprünglich
   result: originally

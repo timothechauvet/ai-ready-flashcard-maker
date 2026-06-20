@@ -10,15 +10,15 @@
   clue: Adjective
   pronunciation: '[ˈtsvɪʃn̩ˌmɛnʃlɪç]'
 - indication: schmecken
-  result: to taste
+  result: taste good
   clue: Verb
   pronunciation: '[ˈʃmɛkŋ̍]'
 - indication: fusionieren
-  result: to merge
+  result: merge
   clue: Verb
   pronunciation: '[fuzi̯oˈniːʁən]'
 - indication: verwackelt
-  result: blurry / shaky
+  result: blurry
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈvakl̩t]'
 - indication: sämtlich
@@ -39,7 +39,7 @@
   clue: Adjective
   pronunciation: '[bəˈdʏʁftɪç]'
 - indication: geschlechtsspezifisch
-  result: gender-specific
+  result: gender specific
   clue: Adjective
   pronunciation: '[ɡəˈʃlɛçt͡sʃpeˌt͡siːfɪʃ]'
 - indication: brutto
@@ -47,7 +47,7 @@
   clue: Adjective
   pronunciation: '[ˈbʁʊto]'
 - indication: einst
-  result: once / formerly
+  result: once
   clue: Adjective
   pronunciation: '[aɪ̯nst]'
 - indication: überleben
@@ -55,11 +55,11 @@
   clue: Verb
   pronunciation: '[ˌyːbɐˈleːbn̩]'
 - indication: wachsen
-  result: to grow up
+  result: grow
   clue: Verb
   pronunciation: '[hɛˈʁanˌvaksn̩]'
 - indication: messen
-  result: to measure
+  result: measure
   clue: Verb
   pronunciation: '[ˈmɛsn̩]'
 - indication: höchstmöglich
@@ -82,11 +82,11 @@
   result: take off / discard / set down / cast aside (verwerfen)
   clue: Verb
 - indication: etablieren
-  result: to establish
+  result: establish
   clue: Verb
   pronunciation: '[etaˈbliːʁən]'
 - indication: gewiss
-  result: certain / specific
+  result: certainly
   clue: Adjective
   pronunciation: '[ɡəˈvɪs]'
 - indication: vermeintlich
@@ -94,7 +94,7 @@
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
 - indication: neuartig
-  result: novel / new type of
+  result: novel
   clue: Adjective
   pronunciation: '[ˈnɔɪ̯ˌʔaːɐ̯tɪç]'
 - indication: originell
@@ -105,27 +105,27 @@
   result: to be considerate of someone
   clue: Verb
 - indication: unparteiisch
-  result: impartial / unbiased
+  result: impartial
   clue: Adjective
   pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
 - indication: verschwiegen
-  result: discreet / secretive
+  result: secretive
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
 - indication: langwierig
-  result: lengthy / protracted
+  result: tedious
   clue: Adjective
   pronunciation: '[ˈlaŋˌviːʁɪç]'
 - indication: fundiert
-  result: well-founded / sound
+  result: well-founded
   clue: Adjective
   pronunciation: '[fʊnˈdiːɐ̯t]'
 - indication: begrenzt
-  result: limited / restricted
+  result: limited
   clue: Adjective
   pronunciation: '[bəˈɡʁɛntst]'
 - indication: stur
-  result: stubborn / obstinate
+  result: stubborn
   clue: Adjective
   pronunciation: '[ʃtuːɐ̯]'
 - indication: eingeschränkt
@@ -141,14 +141,14 @@
   clue: Adjective
   pronunciation: '[ɔʁdiˈnɛːɐ̯]'
 - indication: erstaunlich
-  result: astonishing / amazing
+  result: astonishing
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
 - indication: die Aufforderung
   result: request / instruction / call to do something
   clue: Noun
 - indication: fluchen
-  result: to curse / swear
+  result: curse
   clue: Verb
   pronunciation: '[ˈfluːxn̩]'
 - indication: einfühlsam
@@ -168,14 +168,14 @@
   clue: Adjective
   pronunciation: '[ˈyːbɐˌmɛːsɪç]'
 - indication: flecken sehen
-  result: to see spots / to notice stains
+  result: see spots
   clue: Verb
 - indication: würdigend
   result: appreciative / honoring
   clue: Adjective
   pronunciation: '[ˈvʏʁdɪɡn̩t]'
 - indication: annehmbar
-  result: acceptable / reasonable
+  result: acceptable
   clue: Adjective
   pronunciation: '[ˈanˌneːmbaːɐ̯]'
 - indication: beschützen
@@ -183,11 +183,11 @@
   clue: Verb
   pronunciation: '[bəˈʃʏtsn̩]'
 - indication: erfrieren
-  result: to freeze to death
+  result: freeze to death
   clue: Verb
   pronunciation: '[ɛɐ̯ˈfʁiːʁən]'
 - indication: vereinen
-  result: to unite / combine
+  result: unite
   clue: Verb
   pronunciation: '[fɛɐ̯ˈʔaɪ̯nən]'
 - indication: clichéed / stereotypical
@@ -203,7 +203,7 @@
   clue: Adjective
   pronunciation: '[ˈveːɐ̯tˌʃɛt͡sənt]'
 - indication: detailreich
-  result: detailed / rich in detail
+  result: rich in detail
   clue: Adjective
   pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
 - indication: fesselnd
@@ -214,7 +214,7 @@
   result: stone ordered / stone commissioned
   clue: Verb
 - indication: nehmen
-  result: to perceive / notice
+  result: take
   clue: Verb
   pronunciation: '[ˈvaːɐ̯ˌneːmən]'
 - indication: schrecken
@@ -226,11 +226,11 @@
   clue: Verb
   pronunciation: '[ˈzɛtɪɡn̩]'
 - indication: erheblich
-  result: significant / considerable
+  result: considerably
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈheːplɪç]'
 - indication: hegen
-  result: to care for / to look after / to protect / to harbor (feelings)
+  result: cherish
   clue: Verb
 - indication: öffnen
   result: to open up to someone
@@ -241,11 +241,11 @@
   clue: Noun
   pronunciation: '[deːɐ̯ zaʁˈkasmʊs]'
 - indication: verordnen
-  result: to prescribe / decree
+  result: prescribe
   clue: Verb
   pronunciation: '[fɛɐ̯ˈʔɔʁdnən]'
 - indication: bewachen
-  result: to guard / watch over
+  result: guard
   clue: Verb
   pronunciation: '[bəˈvaxn̩]'
 - indication: übergenau
@@ -261,7 +261,7 @@
   clue: Verb
   pronunciation: '[yːbɐˈvɪndn̩]'
 - indication: vermitteln
-  result: to convey / impart sth.
+  result: convey
   clue: Verb
   pronunciation: '[ˈɛtvas fɛɐ̯ˈmɪtln̩]'
 - indication: einschätzen
@@ -269,11 +269,11 @@
   clue: Verb
   pronunciation: '[ˈɛtvas ˈaɪ̯nˌʃɛtsən]'
 - indication: regenerieren
-  result: to regenerate / recover
+  result: regenerate
   clue: Verb
   pronunciation: '[zɪç ʁeɡeneˈʁiːʁən]'
 - indication: aneignen
-  result: to acquire / learn sth.
+  result: appropriate
   clue: Verb
   pronunciation: '[zɪç ˈɛtvas ˈanˌaɪ̯ɡnən]'
 - indication: überqueren
@@ -289,27 +289,27 @@
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈfʏlnt (aɪ̯n ɛɐ̯ˈfʏləndɐ bəˈʁuːf)]'
 - indication: einleuchtend
-  result: plausible / logical / obvious
+  result: obvious
   clue: Adjective
   pronunciation: '[ˈaɪ̯nˌlɔʏ̯çtn̩t]'
 - indication: tabuisieren
-  result: to make taboo / to taboo
+  result: taboo
   clue: Verb
   pronunciation: '[tabuiˈziːʁən]'
 - indication: ausblenden
-  result: to block out / to ignore
+  result: hide
   clue: Verb
   pronunciation: '[ˈɛtvas ˈaʊ̯sˌblɛndən]'
 - indication: bekanntlich
-  result: as is well known / as you know
+  result: as is well known
   clue: Adjective
   pronunciation: '[bəˈkantlɪç]'
 - indication: massiv
-  result: 'massive (here: severe / strong)'
+  result: solid
   clue: Adjective
   pronunciation: '[maˈsiːf]'
 - indication: gewinnorientiert
-  result: profit-oriented / profit-driven
+  result: profit-oriented
   clue: Adjective
   pronunciation: '[ɡəˈvɪnʔoʁiɛnˌtiːɐ̯t]'
 - indication: sorgfältig
@@ -317,11 +317,11 @@
   clue: Adjective
   pronunciation: '[ˈzɔʁkˌfɛltɪç]'
 - indication: berufsbedingt
-  result: work-related / due to one's job
+  result: job-related
   clue: Adjective
   pronunciation: '[bəˈʁuːfsbəˌdɪŋt]'
 - indication: einseitig
-  result: one-sided / unilateral / biased
+  result: one-sided
   clue: Adjective
   pronunciation: '[ˈaɪ̯nˌzaɪ̯tɪç]'
 - indication: ausdrücklich
@@ -349,7 +349,7 @@
   clue: Noun
   pronunciation: '[diː paˈt͡si̯ɛntn̩fɛɐ̯ˌzɔʁɡʊŋ]'
 - indication: einsetzbar
-  result: applicable / usable / deployable
+  result: usable
   clue: Adjective
   pronunciation: '[ˈaɪ̯nˌzɛtsbaːɐ̯]'
 - indication: bildungsbürgerlich
@@ -357,7 +357,7 @@
   clue: Adjective
   pronunciation: '[ˈbɪldʊŋsˌbʏʁɡɐlɪç]'
 - indication: impulsiv
-  result: impulsive (to react impulsively)
+  result: impulsive
   clue: Adjective
   pronunciation: '[ɪmpʊlˈziːf]'
 - indication: längerfristig
@@ -381,7 +381,7 @@
   clue: Noun
   pronunciation: '[diː ˈnaːxhaltɪçkaɪ̯t]'
 - indication: einbringen
-  result: to contribute / get involved
+  result: bring in
   clue: Verb
   pronunciation: '[zɪç ˈaɪ̯nˌbʁɪŋən (bʁɪŋt zɪç ˈaɪ̯, ˈbʁaxtə zɪç ˈaɪ̯, haːt zɪç ˈaɪ̯nɡəˌbʁaxt)]'
 - indication: der Personalmangel
@@ -393,11 +393,11 @@
   clue: Verb
   pronunciation: '[ˈaɪ̯nbəˌt͡siːən]'
 - indication: schikanieren
-  result: to harass / to bully someone
+  result: harass
   clue: Verb
   pronunciation: '[ˈjeːmandn̩ ʃikaˈniːʁən]'
 - indication: kurzweilig
-  result: entertaining / amusing / diverting
+  result: entertaining
   clue: Adjective
   pronunciation: '[ˈkʊʁtsˌvaɪ̯lɪç]'
 - indication: aufwändig
@@ -405,7 +405,7 @@
   clue: Adjective
   pronunciation: '[ˈaʊ̯fˌvɛndɪç]'
 - indication: vorhersehbar
-  result: predictable (*predictable results*)
+  result: predictable
   clue: Adjective
   pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'
 - indication: unermüdlich
@@ -413,11 +413,11 @@
   clue: Adjective
   pronunciation: '[ˈʊnʔɛɐ̯ˌmyːtlɪç]'
 - indication: packen
-  result: to tackle / to seize something
+  result: pack
   clue: Verb
   pronunciation: '[ˈanˌpakn̩]'
 - indication: schildern
-  result: to describe / depict / portray
+  result: describe
   clue: Verb
   pronunciation: '[ˈʃɪldɐn]'
 - indication: die Sorgfalt
@@ -425,22 +425,22 @@
   clue: Noun
   pronunciation: '[diː ˈzɔʁkfalt]'
 - indication: beinhalten
-  result: to contain / include / involve
+  result: include
   clue: Verb
   pronunciation: '[bəˈʔɪnhaltn̩]'
 - indication: knicken
-  result: to buckle / cave in / collapse
+  result: kink
   clue: Verb
   pronunciation: '[ˈaɪ̯nˌknɪkən]'
 - indication: beharrlich
-  result: persistent / tenacious / persevering
+  result: persistently
   clue: Adjective
   pronunciation: '[bəˈhaʁlɪç]'
 - indication: einen Streit provozieren
-  result: provoking a fight
+  result: provoke an argument
   clue: Verb
 - indication: stellen
-  result: to face / to confront something
+  result: place
   clue: Verb
   pronunciation: '[zɪç ˈʃtɛlən]'
 - indication: der Ausstoß
@@ -448,19 +448,19 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈaʊ̯sˌʃtoːs]'
 - indication: instrumentalisieren
-  result: to instrumentalize / to exploit
+  result: instrumentalize
   clue: Verb
   pronunciation: '[ɪnstʁuməntaliˈziːʁən]'
 - indication: lenken
-  result: to relent / give in / back down
+  result: direct
   clue: Verb
   pronunciation: '[ˈaɪ̯nˌlɛŋkən]'
 - indication: herausragend
-  result: outstanding / prominent / exceptional
+  result: outstanding
   clue: Adjective
   pronunciation: '[hɛˈʁaʊ̯sˌʁaːɡn̩t]'
 - indication: verwerflich
-  result: reprehensible / morally objectionable
+  result: reprehensible
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
 - indication: das Leid
@@ -468,10 +468,10 @@
   clue: Noun
   pronunciation: '[das laɪ̯t]'
 - indication: anbringen
-  result: to fix / mount / install, or to bring forward / suggest / put on the table
+  result: attach
   clue: Verb
 - indication: zweifeln
-  result: to doubt / to call into question
+  result: doubt
   clue: Verb
   pronunciation: '[ˈanˌt͡svaɪ̯fl̩n]'
 - indication: die Spracherziehung
@@ -479,7 +479,7 @@
   clue: Noun
   pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
 - indication: werten
-  result: to devalue / disparage / degrade
+  result: evaluate
   clue: Verb
   pronunciation: '[ˈapˌveːɐ̯tn̩]'
 - indication: überspitzt
@@ -491,7 +491,7 @@
   clue: Noun
   pronunciation: '[diː ʁeɡuˈlaːʁi̯ən]'
 - indication: schuldbewusst
-  result: guilt-conscious / contrite / apologetic
+  result: guiltily
   clue: Adjective
   pronunciation: '[ˈʃʊltbəˌvʊst]'
 - indication: wägen
@@ -519,7 +519,7 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈanˌbaʊ̯]'
 - indication: einordnen
-  result: to categorize / to put into context
+  result: classify
   clue: Verb
   pronunciation: '[ˈɛtvas ˈaɪ̯nˌʔɔɐ̯dnən]'
 - indication: verhältnismäßig
@@ -527,11 +527,11 @@
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈhɛltnɪsˌmɛːsɪç]'
 - indication: begehrt
-  result: highly sought-after / in-demand / coveted
+  result: desired
   clue: Adjective
   pronunciation: '[bəˈɡeːɐ̯t]'
 - indication: nebenberuflich
-  result: part-time / on the side / secondary (job)
+  result: part-time
   clue: Adjective
   pronunciation: '[ˈneːbn̩bəˌʁuːflɪç]'
 - indication: der Wohnraum
@@ -559,11 +559,11 @@
   clue: Noun
   pronunciation: '[diː ˈvasɐˌkʁaft]'
 - indication: arbeiten
-  result: to process / work through / reappraise
+  result: work
   clue: Verb
   pronunciation: '[ˈaʊ̯fˌʔaʁbaɪ̯tn̩]'
 - indication: reizen
-  result: to appeal to (it appeals to me) / tempt
+  result: irritate
   clue: Verb
   pronunciation: '[ˈʁaɪ̯t͡sn̩ (ɛs ʁaɪ̯t͡st mɪç)]'
 - indication: der Sprachwitz
@@ -575,7 +575,7 @@
   clue: Noun
   pronunciation: '[das ˈʊmfɛlt]'
 - indication: punkten
-  result: to score points / make a good impression
+  result: score
   clue: Verb
   pronunciation: '[ˈpʊŋktn̩]'
 - indication: vollziehen
@@ -583,7 +583,7 @@
   clue: Verb
   pronunciation: '[ˈnaːxfɔlˌt͡siːən]'
 - indication: unterbelegt
-  result: underoccupied / under-allocated / understaffed
+  result: underoccupied
   clue: Adjective
   pronunciation: '[ˈʊntɐbəˌleːkt]'
 - indication: die Verlässlichkeit
@@ -595,7 +595,7 @@
   clue: Verb
   pronunciation: '[ˈpʁɛːɡn̩]'
 - indication: ermuntern
-  result: to encourage someone / to cheer someone up
+  result: encourage
   clue: Verb
   pronunciation: '[ˈjeːmandn̩ ɛɐ̯ˈmʊntɐn]'
 - indication: auffällig
@@ -603,10 +603,10 @@
   clue: Adjective
   pronunciation: '[(ˈʊn)ˌʔaʊ̯fɛlɪç]'
 - indication: einen Streit schlichten
-  result: to mediate / to settle a fight
+  result: settle a dispute
   clue: Verb
 - indication: setzen
-  result: to assert oneself / to prevail / to catch on
+  result: set
   clue: Verb
   pronunciation: '[zɪç ˈdʊʁçˌzɛtsən]'
 - indication: ersparen
@@ -614,7 +614,7 @@
   clue: Verb
   pronunciation: '[(zɪç) ˈɛtvas ʔɛɐ̯ˈʃpaːʁən]'
 - indication: greifen
-  result: to take up sth. / to address sth. / to adopt
+  result: grab
   clue: Verb
   pronunciation: '[ˈɛtvas ˈaʊ̯fˌɡʁaɪ̯fən]'
 - indication: quälen
@@ -681,7 +681,7 @@
   clue: Noun
   pronunciation: '[das hɔʁˈmoːn]'
 - indication: vorrangig
-  result: primary / paramount / of primary importance / primarily
+  result: priority
   clue: Adjective
   pronunciation: '[ˈfoːɐ̯ˌʁaŋɪç]'
 - indication: zielführend
@@ -741,14 +741,14 @@
   clue: Noun
   pronunciation: '[diː kɔnseˈkvɛnt͡s]'
 - indication: sich schminken
-  result: to put on makeup / apply makeup
+  result: make up
   clue: Phrase
 - indication: die Knolle, -n
   result: bulb / tuber
   clue: Noun
   pronunciation: '[diː ˈknɔlə]'
 - indication: legen
-  result: to design / set up sth. (sth. is designed / set up as)
+  result: place
   clue: Verb
   pronunciation: '[ˈɛtvas ˈanˌleːɡən (ˈɛtvas ɪst ˈanɡəˌleːkt als)]'
 - indication: die Konversation, -en

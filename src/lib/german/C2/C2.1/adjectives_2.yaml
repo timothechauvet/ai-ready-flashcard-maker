@@ -1,9 +1,9 @@
 - indication: bekanntlich
-  result: as is well known / as you know
+  result: as is well known
   clue: Adjective
   pronunciation: '[bəˈkantlɪç]'
 - indication: berufsbedingt
-  result: work-related / due to one's job
+  result: job-related
   clue: Adjective
   pronunciation: '[bəˈʁuːfsbəˌdɪŋt]'
 - indication: bildungsbürgerlich
@@ -50,8 +50,8 @@
 - indication: der Schmetterling
   result: the butterfly
   clue: Adjective
-- indication: cave
-  result: land
+- indication: land
+  result: country
   clue: Adjective
 - indication: die Raupe
   result: the caterpillar

@@ -2,7 +2,7 @@
   result: vocabulary
   clue: Adjective
 - indication: hohen / niedrigen
-  result: blood pressure
+  result: high/low
   clue: Adjective
 - indication: das Rezept
   result: the recipe
@@ -22,8 +22,8 @@
 - indication: die Schwindligkeit
   result: the dizziness
   clue: Adjective
-- indication: injuries
-  result: brechen
+- indication: brechen
+  result: break
   clue: Adjective
 - indication: die Niere
   result: the kidney

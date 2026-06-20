@@ -28,14 +28,14 @@
 - indication: der Startschuss
   result: the starting signal
   clue: Adjective
-- indication: to fence
-  result: sparren
+- indication: sparren
+  result: spar
   clue: Adjective
-- indication: to go mountain
-  result: snowboarden
+- indication: snowboarden
+  result: snowboarding
   clue: Adjective
-- indication: to kick
-  result: schlagen
+- indication: schlagen
+  result: hit
   clue: Adjective
 - indication: fechten
   result: fencing
@@ -46,15 +46,15 @@
 - indication: die Lawinengefahr
   result: the danger of avalanches
   clue: Adjective
-- indication: to ski off-piste
-  result: skifahren
+- indication: skifahren
+  result: to ski
   clue: Adjective
-- indication: to snowboard
-  result: freeriden
+- indication: freeriden
+  result: freeride
   clue: Adjective
 - indication: to spar
   result: zuschlagen
   clue: Adjective
-- indication: to strike
-  result: kicken
+- indication: kicken
+  result: kick
   clue: Adjective

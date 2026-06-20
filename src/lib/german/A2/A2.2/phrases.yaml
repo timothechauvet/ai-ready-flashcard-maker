@@ -1,8 +1,8 @@
-- indication: '24'
-  result: motorbike   |  mit dem motorrad
+- indication: motorbike   |  mit dem motorrad
+  result: motorbike |  by motorcycle
   clue: Phrase
-- indication: '25'
-  result: motorbike   |  mit dem motorrad
+- indication: motorbike   |  mit dem motorrad
+  result: motorbike |  by motorcycle
   clue: Phrase
 - indication: the bedroom   |  das schlafzimmer
   result: the bedroom |  the bedroom
@@ -28,11 +28,11 @@
 - indication: waschen
   result: wash
   clue: Phrase
-- indication: to sail
-  result: an Bord gehen
+- indication: an Bord gehen
+  result: go on board
   clue: Phrase
-- indication: to validate a ticket
-  result: umsteigen
+- indication: umsteigen
+  result: transfer
   clue: Phrase
 - indication: die Tasse und die
   result: the cup and the

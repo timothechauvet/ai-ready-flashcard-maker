@@ -5,7 +5,7 @@
   result: the market hall
   clue: Adjective
 - indication: fast-food chain
-  result: vocabulary
+  result: fast food chain
   clue: Adjective
 - indication: filetiert
   result: filleted
@@ -28,8 +28,8 @@
 - indication: die Rinderrouladen
   result: the beef roulades
   clue: Adjective
-- indication: fresh
-  result: konserviert
+- indication: konserviert
+  result: preserved
   clue: Adjective
 - indication: der Quark
   result: the quark

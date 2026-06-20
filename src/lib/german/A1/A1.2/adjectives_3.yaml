@@ -4,14 +4,14 @@
 - indication: die Regierung
   result: the government
   clue: Adjective
-- indication: hot
-  result: schlecht
+- indication: schlecht
+  result: bad
   clue: Adjective
 - indication: das Krankenhaus
   result: the hospital
   clue: Adjective
-- indication: humid
-  result: nass
+- indication: nass
+  result: wet
   clue: Adjective
 - indication: der Hagel
   result: the hail
@@ -28,26 +28,26 @@
 - indication: jährlich
   result: on Mondays
   clue: Adjective
-- indication: July
-  result: Juni
+- indication: Juni
+  result: june
   clue: Adjective
-- indication: June
-  result: Mai
+- indication: Mai
+  result: may
   clue: Adjective
 - indication: kühl
   result: wet
   clue: Adjective
-- indication: last/next Thursday
-  result: jeden Sonntag
+- indication: jeden Sonntag
+  result: every sunday
   clue: Adjective
-- indication: later
-  result: bald
+- indication: bald
+  result: soon
   clue: Adjective
 - indication: der Donner
   result: the thunder
   clue: Adjective
-- indication: March
-  result: Februar
+- indication: Februar
+  result: february
   clue: Adjective
 - indication: März
   result: April

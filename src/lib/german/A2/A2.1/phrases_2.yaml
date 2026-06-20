@@ -4,17 +4,17 @@
 - indication: zu Abend essen
   result: have dinner
   clue: Phrase
-- indication: to dine
-  result: den Tisch decken
+- indication: den Tisch decken
+  result: lay the table
   clue: Phrase
-- indication: to go for a bike ride
-  result: radfahren
+- indication: radfahren
+  result: ride a bike
   clue: Phrase
 - indication: einen Unfall haben
   result: have an accident
   clue: Phrase
-- indication: to have an accident
-  result: kaputtgehen
+- indication: kaputtgehen
+  result: break down
   clue: Phrase
 - indication: saubermachen
   result: clean up

@@ -1,17 +1,17 @@
-- indication: See you tomorrow.
-  result: Bis bald.
+- indication: Bis bald.
+  result: see you soon.
   clue: Phrase
 - indication: Sehr gut, danke, und
-  result: you?
+  result: very good, thank you, and
   clue: Phrase
 - indication: selbstständig.
   result: I’m unemployed.
   clue: Phrase
 - indication: Sind Sie verheiratet /
-  result: single?
+  result: are you married /
   clue: Phrase
 - indication: So-so.
-  result: Super!
+  result: so so.
   clue: Phrase
 - indication: Entschuldigung.
   result: excuse me.
@@ -25,8 +25,8 @@
 - indication: than…
   result: I’m older/younger
   clue: Phrase
-- indication: Thank you.
-  result: Ja, bitte.
+- indication: Ja, bitte.
+  result: yes, please.
   clue: Phrase
 - indication: Er / Sie ist…
   result: he/she is…
@@ -41,13 +41,13 @@
   result: how are you doing?
   clue: Phrase
 - indication: Wann haben Sie
-  result: When is your birthday?
+  result: when did you
   clue: Phrase
 - indication: Was ist Ihr Beruf?
-  result: occupation?
+  result: what is your job?
   clue: Phrase
 - indication: Was machen Sie
-  result: What do you do?
+  result: what are you doing?
   clue: Phrase
 - indication: beruflich?
   result: professionally?

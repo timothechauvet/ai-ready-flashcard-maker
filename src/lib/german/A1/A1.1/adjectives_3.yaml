@@ -4,8 +4,8 @@
 - indication: überrascht
   result: annoyed
   clue: Adjective
-- indication: unwell
-  result: gut
+- indication: gut
+  result: good
   clue: Adjective
 - indication: verängstigt
   result: bored
@@ -13,8 +13,8 @@
 - indication: verärgert
   result: angry
   clue: Adjective
-- indication: Welsh
-  result: irisch
+- indication: irisch
+  result: irish
   clue: Adjective
 - indication: schwarz
   result: black
@@ -22,11 +22,11 @@
 - indication: der Ehemann
   result: the husband
   clue: Adjective
-- indication: worried
-  result: traurig
+- indication: traurig
+  result: sad
   clue: Adjective
-- indication: worse
-  result: besser
+- indication: besser
+  result: better
   clue: Adjective
 - indication: wütend
   result: sad

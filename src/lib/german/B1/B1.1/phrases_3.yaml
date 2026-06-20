@@ -1,14 +1,14 @@
 - indication: zu Mittag essen
   result: to have lunch
   clue: Phrase
-- indication: to have lunch
-  result: essen / trinken
+- indication: essen / trinken
+  result: eat / drink
   clue: Phrase
 - indication: das Kabel
   result: the cable
   clue: Phrase
-- indication: to send a text/an
-  result: anrufen
+- indication: anrufen
+  result: call
   clue: Phrase
 - indication: die Zahnstocher mpl
   result: the toothpicks mpl

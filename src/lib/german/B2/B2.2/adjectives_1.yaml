@@ -20,7 +20,7 @@
   result: the acoustic guitar
   clue: Adjective
 - indication: Bluetooth® speaker
-  result: equipment
+  result: bluetooth® speakers
   clue: Adjective
 - indication: der Kampf
   result: the fight
@@ -31,8 +31,8 @@
 - indication: der Boxring
   result: the boxing ring
   clue: Adjective
-- indication: camera lens
-  result: heranzoomen
+- indication: heranzoomen
+  result: zoom in
   clue: Adjective
 - indication: canvas
   result: art materials

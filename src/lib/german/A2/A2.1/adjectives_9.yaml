@@ -16,8 +16,8 @@
 - indication: der Schrank
   result: the cupboard
   clue: Adjective
-- indication: taxi
-  result: Verkehrsmittel ntpl
+- indication: Verkehrsmittel ntpl
+  result: means of transport ntpl
   clue: Adjective
 - indication: das Taxi
   result: the taxi
@@ -43,14 +43,14 @@
 - indication: die Radlerhose
   result: the cycling shorts
   clue: Adjective
-- indication: to drive
-  result: gehen
+- indication: gehen
+  result: go
   clue: Adjective
 - indication: kochen
   result: cook
   clue: Adjective
-- indication: to overtake
-  result: bremsen
+- indication: bremsen
+  result: brake
   clue: Adjective
 - indication: Abruf
   result: retrieval

@@ -40,8 +40,8 @@
 - indication: der Morgen
   result: the morning
   clue: Adjective
-- indication: August
-  result: Juli
+- indication: Juli
+  result: july
   clue: Adjective
 - indication: der Sommer
   result: the summer

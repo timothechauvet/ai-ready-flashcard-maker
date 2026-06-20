@@ -49,8 +49,8 @@
 - indication: das Tor
   result: the gate
   clue: Adjective
-- indication: golf bag
-  result: putten
+- indication: putten
+  result: putt
   clue: Adjective
 - indication: die Golftasche
   result: the golf bag

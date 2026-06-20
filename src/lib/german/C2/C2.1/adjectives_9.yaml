@@ -1,5 +1,5 @@
 - indication: schuldbewusst
-  result: guilt-conscious / contrite / apologetic
+  result: guiltily
   clue: Adjective
   pronunciation: '[ˈʃʊltbəˌvʊst]'
 - indication: das Gestein
@@ -38,7 +38,7 @@
   result: the bushland
   clue: Adjective
 - indication: stur
-  result: stubborn / obstinate
+  result: stubborn
   clue: Adjective
   pronunciation: '[ʃtuːɐ̯]'
 - indication: die Rose
@@ -50,15 +50,15 @@
 - indication: der Stich
   result: the stitch
   clue: Adjective
-- indication: to growl
-  result: schnurren
+- indication: schnurren
+  result: purr
   clue: Adjective
-- indication: to purr
-  result: bellen
+- indication: bellen
+  result: bay
   clue: Adjective
-- indication: to roar
-  result: knurren
+- indication: knurren
+  result: growl
   clue: Adjective
-- indication: to sting
-  result: summen
+- indication: summen
+  result: hum
   clue: Adjective

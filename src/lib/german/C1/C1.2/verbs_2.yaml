@@ -1,8 +1,8 @@
 - indication: fangen
-  result: catch / capture
+  result: catch
   clue: Verb
 - indication: festhalten
-  result: to hold on to / detain / record / stick to
+  result: hold onto
   clue: Verb
 - indication: flüchten
   result: to flee / escape / take refuge
@@ -20,34 +20,34 @@
   result: to ring / to toll / to sound
   clue: Verb
 - indication: mitlaufen
-  result: to go along with / tag along
+  result: run along
   clue: Verb
 - indication: mitteilen
-  result: to share / to inform / to communicate
+  result: communicate
   clue: Verb
 - indication: niederschlagen
-  result: to beat down / suppress / strike down
+  result: knock down
   clue: Verb
 - indication: runtermachen
-  result: to put down / insult / badmouth
+  result: bring it down
   clue: Verb
 - indication: sachlich
-  result: objectively / matter-of-factly
+  result: factual
   clue: Verb
 - indication: schwanger werden
-  result: to fall pregnant
+  result: get pregnant
   clue: Verb
 - indication: segeln
-  result: to sail / sailing
+  result: sailing
   clue: Verb
 - indication: sterilisieren /
-  result: to spay/neuter
+  result: sterilize /
   clue: Verb
 - indication: stillen
   result: to breast-feed
   clue: Verb
 - indication: taufen
-  result: to baptize / christen / name
+  result: baptize
   clue: Verb
 - indication: to step / to kick (uses sein or haben)
   result: to step / to kick (uses be or have)
@@ -56,5 +56,5 @@
   result: to consider / superior / to think about
   clue: Verb
 - indication: umfangen
-  result: encompassed / embraced
+  result: encompassed
   clue: Verb

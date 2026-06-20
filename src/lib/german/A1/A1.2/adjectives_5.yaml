@@ -1,8 +1,8 @@
 - indication: die Temperatur
   result: the temperature
   clue: Adjective
-- indication: Sunday
-  result: Samstag
+- indication: Samstag
+  result: saturday
   clue: Adjective
 - indication: tausend
   result: hundert
@@ -34,8 +34,8 @@
 - indication: vier
   result: drei
   clue: Adjective
-- indication: Wednesday
-  result: Dienstag
+- indication: Dienstag
+  result: tuesday
   clue: Adjective
 - indication: das Wochenende
   result: the weekend

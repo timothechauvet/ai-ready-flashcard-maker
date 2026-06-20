@@ -1,14 +1,14 @@
 - indication: colour-blind
-  result: blind
+  result: color blind
   clue: Adjective
 - indication: die Linse
   result: the lens
   clue: Adjective
-- indication: contact lenses
-  result: Kontaktlinsen tragen
+- indication: Kontaktlinsen tragen
+  result: wear contact lenses
   clue: Adjective
-- indication: crutches
-  result: entlassen werden
+- indication: entlassen werden
+  result: be dismissed
   clue: Adjective
 - indication: die Operation
   result: the operation
@@ -19,27 +19,27 @@
 - indication: der Bohrer
   result: the drill
   clue: Adjective
-- indication: due date
-  result: tot geboren
+- indication: tot geboren
+  result: stillborn
   clue: Adjective
 - indication: dynamisch
   result: dynamic
   clue: Adjective
   pronunciation: '[dyˈnaːmɪʃ]'
 - indication: eingeliefert /
-  result: discharged
+  result: delivered /
   clue: Adjective
 - indication: eingeschaltet
-  result: switched on / turned on / activated
+  result: turned on
   clue: Adjective
 - indication: einschläfern
   result: E-collar
   clue: Adjective
 - indication: einsichtig
-  result: reasonable / showing insight / compliant
+  result: insightful
   clue: Adjective
 - indication: eklig
-  result: disgusting / gross
+  result: disgusting
   clue: Adjective
 - indication: entzündung
   result: die Bindehaut­
@@ -57,5 +57,5 @@
   result: the newborn
   clue: Adjective
 - indication: gelitten
-  result: suffered / endured
+  result: suffered
   clue: Adjective

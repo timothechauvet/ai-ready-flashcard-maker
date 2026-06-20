@@ -34,8 +34,8 @@
 - indication: die Eiszeit
   result: the ice age
   clue: Adjective
-- indication: personal trainer
-  result: im Fitnessstudio
+- indication: im Fitnessstudio
+  result: in the gym
   clue: Adjective
 - indication: der Camper
   result: the camper
@@ -49,8 +49,8 @@
 - indication: das Spiel
   result: the game
   clue: Adjective
-- indication: pool
-  result: fischen
+- indication: fischen
+  result: fishing
   clue: Adjective
 - indication: der Gig
   result: the gig

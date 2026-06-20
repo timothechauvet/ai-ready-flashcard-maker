@@ -31,11 +31,11 @@
 - indication: das Restaurant
   result: the restaurant
   clue: Adjective
-- indication: to block
-  result: dribbeln
+- indication: dribbeln
+  result: dribble
   clue: Adjective
-- indication: to catch
-  result: Basketball spielen
+- indication: Basketball spielen
+  result: play basketball
   clue: Adjective
 - indication: Nacht
   result: night
@@ -43,18 +43,18 @@
 - indication: einchecken
   result: check in
   clue: Adjective
-- indication: to compete
-  result: trainieren
+- indication: trainieren
+  result: train
   clue: Adjective
-- indication: to draw
-  result: verlieren
+- indication: verlieren
+  result: lose
   clue: Adjective
-- indication: to dribble
-  result: werfen
+- indication: werfen
+  result: throw
   clue: Adjective
-- indication: to enjoy oneself
-  result: tanzen gehen
+- indication: tanzen gehen
+  result: go dancing
   clue: Adjective
-- indication: to fish
-  result: segeln
+- indication: segeln
+  result: sailing
   clue: Adjective

@@ -7,8 +7,8 @@
 - indication: department store   |  das kaufhaus
   result: department store |  the department store
   clue: Phrase
-- indication: '55'
-  result: clothing and footwear   |  kleidung und schuhe
+- indication: clothing and footwear   |  kleidung und schuhe
+  result: clothing and footwear |  clothing and shoes
   clue: Phrase
 - indication: diy store   |  der baumarkt
   result: diy store |  the hardware store
@@ -35,7 +35,7 @@
   result: boxer shorts pl
   clue: Phrase
 - indication: café
-  result: places of importance
+  result: cafe
   clue: Phrase
 - indication: die Mitarbeiter mpl
   result: the employees mpl

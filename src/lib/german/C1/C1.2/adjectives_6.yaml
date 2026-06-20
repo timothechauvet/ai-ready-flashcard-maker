@@ -1,8 +1,8 @@
 - indication: verlockend
-  result: tempting / enticing / attractive
+  result: tempting
   clue: Adjective
 - indication: verschwunden
-  result: disappeared / gone
+  result: disappeared
   clue: Adjective
 - indication: verzögert
   result: delayed
@@ -15,13 +15,13 @@
   result: farsighted
   clue: Adjective
 - indication: vorgestellt
-  result: introduced / presented / imagined
+  result: presented
   clue: Adjective
 - indication: vorgeworfen
-  result: accused / reproached / blamed for
+  result: accused
   clue: Adjective
 - indication: vorzeitig
-  result: premature / early / ahead of time
+  result: prematurely
   clue: Adjective
 - indication: die Station
   result: the station

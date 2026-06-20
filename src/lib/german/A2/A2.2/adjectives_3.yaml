@@ -34,8 +34,8 @@
 - indication: Gartenhandschuhe
   result: die
   clue: Adjective
-- indication: general
-  result: anlegen
+- indication: anlegen
+  result: invest
   clue: Adjective
 - indication: Gepäck
   result: das aufgegebene

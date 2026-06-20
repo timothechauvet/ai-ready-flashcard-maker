@@ -1,5 +1,5 @@
-- indication: singles
-  result: Spiel, Satz und Sieg
+- indication: Spiel, Satz und Sieg
+  result: game, set and win
   clue: Phrase
 - indication: die Zuschauer mpl
   result: the spectators mpl
@@ -10,26 +10,26 @@
 - indication: das Hobby
   result: the hobby
   clue: Phrase
-- indication: to be keen on doing
-  result: interessierien
+- indication: interessierien
+  result: interested
   clue: Phrase
 - indication: die Punkte mpl
   result: the points mpl
   clue: Phrase
-- indication: to mark a player
-  result: blockieren
+- indication: blockieren
+  result: block
   clue: Phrase
 - indication: abreisen
   result: leave
   clue: Phrase
-- indication: to pass the ball
-  result: angreifen
+- indication: angreifen
+  result: attack
   clue: Phrase
 - indication: das Powerplay
   result: the power play
   clue: Phrase
-- indication: to score a goal
-  result: den Ball abgeben
+- indication: den Ball abgeben
+  result: hand over the ball
   clue: Phrase
 - indication: zu trinken bestellen
   result: order a drink

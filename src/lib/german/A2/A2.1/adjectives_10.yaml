@@ -1,14 +1,14 @@
-- indication: to reverse
-  result: parken
+- indication: parken
+  result: park
   clue: Adjective
 - indication: sich entspannen
   result: to relax
   clue: Adjective
-- indication: to speed
-  result: verlangsamen
+- indication: verlangsamen
+  result: slow
   clue: Adjective
-- indication: to stir-fry
-  result: braten
+- indication: braten
+  result: fry
   clue: Adjective
 - indication: die Strecke
   result: the route
@@ -25,8 +25,8 @@
 - indication: das Reihenhaus
   result: the terraced house
   clue: Adjective
-- indication: traffic cone
-  result: keitskamera
+- indication: keitskamera
+  result: speed camera
   clue: Adjective
 - indication: der Verkehr
   result: the traffic
@@ -46,8 +46,8 @@
 - indication: der Kleinbus
   result: the minibus
   clue: Adjective
-- indication: tunnel
-  result: Verkehrspolizistin
+- indication: Verkehrspolizistin
+  result: traffic police officer
   clue: Adjective
 - indication: die Anrichte
   result: the sideboard

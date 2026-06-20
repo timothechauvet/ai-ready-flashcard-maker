@@ -11,15 +11,15 @@
   clue: Phrase
   pronunciation: '[ˈʊntɐ naˈtyːɐ̯lɪçn̩ bəˈdɪŋʊŋən]'
 - indication: verglichen mit
-  result: compared to / in comparison with
+  result: compared to
   clue: Phrase
   pronunciation: '[fɐˈɡlɪçən mɪt plʊs ˈdaːtiːf]'
 - indication: versorgen mit
-  result: to provide / to supply someone with
+  result: provide with
   clue: Phrase
   pronunciation: '[fɛɐ̯ˈzɔʁɡn̩]'
 - indication: verweisen auf
-  result: to refer to / to point to
+  result: refer to
   clue: Phrase
   pronunciation: '[fɛɐ̯ˈvaɪ̯zən aʊ̯f]'
 - indication: von nun an
@@ -37,23 +37,25 @@
   result: We are dodging the workout.
   clue: Phrase
   pronunciation: '[viːɐ̯ ˈdʁʏkən ʊns foːɐ̯ deːm ˈtʁɛːnɪŋ]'
-- indication: Wir dürfen dieses heikle Thema nicht länger totschweigen, sondern müssen es offen ansprechen.
-  result: We can no longer give this sensitive topic the silent treatment (ignore it completely); we must address it openly.
+- indication: Wir dürfen dieses heikle Thema nicht länger totschweigen, sondern müssen
+    es offen ansprechen.
+  result: We can no longer give this sensitive topic the silent treatment (ignore
+    it completely); we must address it openly.
   clue: Phrase
 - indication: wirken auf
-  result: to influence / affect / act on
+  result: act on
   clue: Phrase
   pronunciation: '[ˈaɪ̯nˌvɪʁkn̩ aʊ̯f]'
 - indication: zeitnah **
-  result: promptly / in a timely manner (e.g. We will inform you promptly.)
+  result: promptly **
   clue: Phrase
   pronunciation: '[ˈt͡saɪ̯tˌnaː]'
 - indication: zeugen von
-  result: to testify to sth. / to bear witness to sth. / to show
+  result: witness to
   clue: Phrase
   pronunciation: '[ˈtsɔɪ̯ɡən fɔn]'
 - indication: zielen auf
-  result: to aim at sth. / to target sth.
+  result: aim at
   clue: Phrase
   pronunciation: '[ˈapˌtsiːlən aʊ̯f]'
 - indication: zu nichts führen
@@ -65,10 +67,10 @@
   clue: Phrase
   pronunciation: '[ˈtsuːɡɛŋlɪç zaɪ̯n]'
 - indication: zur Aufgabe machen
-  result: to make it one's task / mission to do something
+  result: make it a task
   clue: Phrase
   pronunciation: '[zɪç ˈɛtvas tsuː̯ɐ ˈaʊ̯fˌɡaːbə ˈmaxn̩]'
 - indication: zur Vorbeugung gegen Krankheiten
-  result: for the prevention of diseases
+  result: to prevent disease
   clue: Phrase
   pronunciation: '[tsuːɐ̯ ˈfoːɐ̯ˌbɔʏ̯ɡʊŋ ˈɡeːɡn̩ ˈkʁaŋkhaɪ̯tn̩]'

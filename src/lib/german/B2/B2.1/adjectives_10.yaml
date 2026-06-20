@@ -1,5 +1,5 @@
 - indication: Videospiele spielen
-  result: gaming
+  result: play video games
   clue: Adjective
 - indication: die CD
   result: the cd
@@ -26,8 +26,8 @@
   result: vocabulary
   clue: Adjective
 - indication: „Zelten verboten“
-  result: “no camping”
+  result: '"no camping"'
   clue: Adjective
 - indication: „Zimmer frei“
-  result: “vacancies”
+  result: '"rooms vacant"'
   clue: Adjective

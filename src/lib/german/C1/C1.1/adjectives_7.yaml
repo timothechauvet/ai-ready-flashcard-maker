@@ -4,14 +4,14 @@
 - indication: das Gleichgewicht
   result: the balance
   clue: Adjective
-- indication: to smell
-  result: sehen
+- indication: sehen
+  result: see
   clue: Adjective
-- indication: to sneeze
-  result: husten
+- indication: husten
+  result: cough
   clue: Adjective
-- indication: to vomit
-  result: niesen
+- indication: niesen
+  result: sneeze
   clue: Adjective
 - indication: das Krankenhaus
   result: the hospital
@@ -34,8 +34,8 @@
 - indication: Verdauungssystem
   result: das
   clue: Adjective
-- indication: vomiting
-  result: vergiftung
+- indication: vergiftung
+  result: poisoning
   clue: Adjective
 - indication: der Eckzahn
   result: the canine

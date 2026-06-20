@@ -10,26 +10,26 @@
 - indication: Büroangestellte
   result: work   |  arbeit
   clue: Phrase
-- indication: Bye!
-  result: Bis Samstag.
+- indication: Bis Samstag.
+  result: until saturday.
   clue: Phrase
 - indication: I don’t have any
   result: i don't have any
   clue: Phrase
 - indication: '... dem Vereinigten'
-  result: '... the UK.'
+  result: '... the united'
   clue: Phrase
-- indication: Do you have any
-  result: Ich bin verwitwet.
+- indication: Ich bin verwitwet.
+  result: i am widowed.
   clue: Phrase
 - indication: Er / Sie fühlt sich…
   result: They feel...
   clue: Phrase
 - indication: Es geht so.
-  result: Could be worse.
+  result: it's going ok.
   clue: Phrase
-- indication: Excuse me.
-  result: Nein, danke.
+- indication: Nein, danke.
+  result: no thanks.
   clue: Phrase
 - indication: Ihnen?
   result: them?
@@ -43,18 +43,18 @@
 - indication: Guten Morgen.
   result: good morning
   clue: Phrase
-- indication: Good evening.
-  result: Guten Tag.
+- indication: Guten Tag.
+  result: good day.
   clue: Phrase
-- indication: Good morning.
-  result: Hallo!
+- indication: Hallo!
+  result: hello!
   clue: Phrase
-- indication: Goodnight.
-  result: Guten Abend.
+- indication: Guten Abend.
+  result: good evening.
   clue: Phrase
-- indication: Great!
-  result: Danke, gut.
+- indication: Danke, gut.
+  result: thanks good.
   clue: Phrase
 - indication: Haben Sie Kinder?
-  result: children?
+  result: do you have children?
   clue: Phrase

@@ -28,8 +28,8 @@
 - indication: die Tageskarte
   result: the day ticket
   clue: Adjective
-- indication: dairy
-  result: tiefgefroren
+- indication: tiefgefroren
+  result: frozen
   clue: Adjective
 - indication: dairy-free
   result: aus Freilandhaltung

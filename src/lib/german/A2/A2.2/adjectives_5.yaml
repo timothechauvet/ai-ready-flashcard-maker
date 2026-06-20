@@ -22,8 +22,8 @@
 - indication: der Sonnenschirm
   result: the parasol
   clue: Adjective
-- indication: plate
-  result: Gabel
+- indication: Gabel
+  result: fork
   clue: Adjective
 - indication: der Bahnsteig
   result: the platform
@@ -43,8 +43,8 @@
 - indication: das Becken
   result: the basin
   clue: Adjective
-- indication: return ticket
-  result: Fahrkarte
+- indication: Fahrkarte
+  result: ticket
   clue: Adjective
 - indication: der Mop
   result: the mop

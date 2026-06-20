@@ -1,8 +1,8 @@
-- indication: afraid
-  result: besorgt
+- indication: besorgt
+  result: worried
   clue: Adjective
-- indication: Are you married/
-  result: britisch
+- indication: britisch
+  result: british
   clue: Adjective
 - indication: der Onkel
   result: the uncle
@@ -10,11 +10,11 @@
 - indication: die Kollegin
   result: the colleague
   clue: Adjective
-- indication: better
-  result: unwohl
+- indication: unwohl
+  result: uncomfortable
   clue: Adjective
-- indication: black
-  result: blau
+- indication: blau
+  result: blue
   clue: Adjective
 - indication: die Ehefrau
   result: the wife
@@ -28,8 +28,8 @@
 - indication: Ich bin…
   result: i am…
   clue: Adjective
-- indication: calm
-  result: aufgeregt
+- indication: aufgeregt
+  result: upset
   clue: Adjective
 - indication: das Baby
   result: the baby

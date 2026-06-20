@@ -40,11 +40,11 @@
 - indication: die Fluglinie
   result: the airline
   clue: Adjective
-- indication: to change trains
-  result: reservierung
+- indication: reservierung
+  result: reservation
   clue: Adjective
-- indication: to dock
-  result: auslaufen
+- indication: auslaufen
+  result: expire
   clue: Adjective
 - indication: die Dusche
   result: the shower

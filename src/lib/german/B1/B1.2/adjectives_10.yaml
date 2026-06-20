@@ -40,8 +40,8 @@
 - indication: zahnen
   result: teething
   clue: Adjective
-- indication: to graduate
-  result: ablegen
+- indication: ablegen
+  result: take off
   clue: Adjective
 - indication: Maschine schreiben
   result: write by machine

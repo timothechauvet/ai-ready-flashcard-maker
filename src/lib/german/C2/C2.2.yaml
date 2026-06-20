@@ -19,7 +19,7 @@
   clue: Noun
   pronunciation: '[diː bəˈʁuːfʊŋ, bəˈʁuːfʊŋən]'
 - indication: schalten
-  result: to call in someone / to involve someone / to consult someone
+  result: switch
   clue: Verb
   pronunciation: '[ˈjeːmandn̩ ˈaɪ̯nˌʃaltn̩]'
 - indication: die Überwindung, -en
@@ -35,7 +35,7 @@
   clue: Noun
   pronunciation: '[—]'
 - indication: brechen
-  result: to set off / to depart (to set off on a trip around the world)
+  result: break
   clue: Verb
   pronunciation: '[ˈaʊ̯fˌbʁɛçn̩ (bʁɪçt ˈaʊ̯f bʁaːx ˈaʊ̯f ɪst ˈaʊ̯fɡəˌbʁɔxn̩) (tsuː
     ˈaɪ̯nɐ ˈvɛltˌʁaɪ̯zə ˈaʊ̯fˌbʁɛçn̩)]'
@@ -68,7 +68,7 @@
   clue: Noun
   pronunciation: '[deːɐ̯ baʊ̯]'
 - indication: geben
-  result: to set the tone / to call the shots
+  result: give
   clue: Verb
   pronunciation: '[deːn ˈtoːn ˈanˌɡeːbn̩ (ɡiːpt ˈan, ɡaːp ˈan, hat ˈanɡəˌɡeːbn̩)]'
 - indication: die Gemeinde, -n
@@ -172,7 +172,7 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈfaxbəˌrɪçt, ˈfaxbəˌrɪçtə]'
 - indication: halten
-  result: to stay out of it / to keep out of something
+  result: hold
   clue: Verb
   pronunciation: '[zɪç ˈʁaʊ̯sˌhaltn̩ (hɛlt ˈʁaʊ̯s, hiːlt ˈʁaʊ̯s, hat ˈʁaʊ̯sɡəˌhaltn̩)]'
 - indication: die Schikane, -n
@@ -200,7 +200,7 @@
   clue: Noun
   pronunciation: '[diː ˈaʊ̯sˌʃʏtʊŋ]'
 - indication: beschneiden
-  result: to curtail / to restrict (to restrict freedom)
+  result: crop
   clue: Verb
   pronunciation: '[bəˈʃnaɪ̯dn̩ (diː ˈfʁaɪ̯haɪ̯t bəˈʃnaɪ̯dn̩)]'
 - indication: das Persönlichkeitsmerkmal, -e
@@ -232,11 +232,11 @@
   clue: Noun
   pronunciation: '[deːɐ̯ bəˈhandlʊŋsˌveːk]'
 - indication: beruhen auf
-  result: to be based on
+  result: based on
   clue: Phrase
   pronunciation: '[bəˈʁuːən aʊ̯f]'
 - indication: kommen
-  result: to meet someone halfway / to accommodate someone
+  result: come
   clue: Verb
   pronunciation: '[ˈjeːmɑndm̩ ɛntˈɡeːɡn̩ˌkɔmən (kɔmt ɛntˈɡeːɡn̩, kaːm ɛntˈɡeːɡn̩,
     ɪst ɛntˈɡeːɡn̩ɡəˌkɔmən)]'
@@ -277,12 +277,11 @@
   clue: Phrase
   pronunciation: '[ˈtsuːɡɛŋlɪç zaɪ̯n]'
 - indication: anerkennung verdienen
-  result: to deserve recognition
+  result: deserve recognition
   clue: Verb
   pronunciation: '[ˈanʔɛɐ̯ˌkɛnʊŋ fɛɐ̯ˈdiːnən]'
 - indication: vertrauen
-  result: to entrust someone with something (Whom do you entrust with your apartment
-    keys?)
+  result: trust
   clue: Verb
   pronunciation: '[ˈanfɛɐ̯ˌtʁaʊ̯ən]'
 - indication: die Arbeitsgruppe, -n
@@ -310,7 +309,7 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈɪʁˌveːk]'
 - indication: aufrechterhalten
-  result: to maintain / to uphold (to perpetuate an injustice)
+  result: maintained
   clue: Verb
   pronunciation: '[ˈaʊ̯fʁɛçtʔɛɐ̯ˌhaltn̩ (ˈaɪ̯nə ˈʊnɡəʁɛçtɪçkaɪ̯t ˈaʊ̯fʁɛçtʔɛɐ̯ˌhaltn̩)]'
 - indication: to keep in the back of one’s mind
@@ -321,7 +320,7 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ɡəˈʃpʁɛːçsfɛɐ̯ˌzuːx, -e]'
 - indication: lassen
-  result: to get involved in a discussion / to engage in a debate
+  result: let
   clue: Verb
   pronunciation: '[zɪç aʊ̯f ˈaɪ̯nə dɪskʊˈsjoːn ˈaɪ̯nˌlasn̩ (lɛst ˈaɪ̯n, liːs ˈaɪ̯n,
     hat ˈaɪ̯nɡəˌlasn̩)]'
@@ -338,19 +337,19 @@
   clue: Noun
   pronunciation: '[diː ˌyːbɐˈfɔrdərʊŋ]'
 - indication: schwer fassbar
-  result: elusive / hard to grasp
+  result: elusive
   clue: Phrase
   pronunciation: '[ʃveːɐ̯ ˈfasbaːɐ̯]'
 - indication: konfrontieren mit
-  result: to confront someone with
+  result: confront with
   clue: Phrase
   pronunciation: '[ˈjeːmandn̩ kɔnflɔnˈtiːʁn̩ mɪt]'
 - indication: verweisen auf
-  result: to refer to / to point to
+  result: refer to
   clue: Phrase
   pronunciation: '[fɛɐ̯ˈvaɪ̯zən aʊ̯f]'
 - indication: deuten auf
-  result: to point to / to indicate
+  result: indicate
   clue: Phrase
   pronunciation: '[ˈhɪnˌdɔʏ̯tn̩ aʊ̯f]'
 - indication: kämpfen gegen
@@ -366,7 +365,7 @@
   clue: Noun
   pronunciation: '[diː bəˈʁaɪ̯tʃaft]'
 - indication: wirken auf
-  result: to influence / affect / act on
+  result: act on
   clue: Phrase
   pronunciation: '[ˈaɪ̯nˌvɪʁkn̩ aʊ̯f]'
 - indication: to fail due to / to founder on
@@ -378,11 +377,11 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈhandlʊŋsbəˌdaʁf]'
 - indication: zielen auf
-  result: to aim at sth. / to target sth.
+  result: aim at
   clue: Phrase
   pronunciation: '[ˈapˌtsiːlən aʊ̯f]'
 - indication: laufende Kosten
-  result: running costs / operating expenses
+  result: ongoing costs
   clue: Phrase
   pronunciation: '[ˈlaʊ̯fn̩də ˈkɔstn̩]'
 - indication: das lebenslange Wohnrecht
@@ -390,23 +389,23 @@
   clue: Noun
   pronunciation: '[das ˈleːbn̩sˌlaŋə ˈvoːnˌʁɛçt]'
 - indication: versorgen mit
-  result: to provide / to supply someone with
+  result: provide with
   clue: Phrase
   pronunciation: '[fɛɐ̯ˈzɔʁɡn̩]'
 - indication: erneuerbare Energien
-  result: renewable energy / renewable energies
+  result: renewable energy
   clue: Phrase
   pronunciation: '[ɛɐ̯ˈnɔɪ̯əʁbaːʁə eːnɛʁˈɡiːən]'
 - indication: schlichten **
-  result: to mediate / settle (settle a dispute)
+  result: plain**
   clue: Phrase
   pronunciation: '[ˈʃlɪçtn̩]'
 - indication: stauen **
-  result: to build up / bottle up (anger builds up)
+  result: stow **
   clue: Phrase
   pronunciation: '[ˈaʊ̯fˌʃtaʊ̯ən]'
 - indication: bringen **
-  result: to bring in / to introduce (e.g. a proposal)
+  result: bring **
   clue: Phrase
   pronunciation: '[ˈaɪ̯nˌbʁɪŋən]'
 - indication: to smolder / fester (conflicts smolder/fester)
@@ -414,7 +413,7 @@
   clue: Phrase
   pronunciation: '[ˈʃveːlən]'
 - indication: niedrig halten
-  result: to keep sth. low
+  result: keep low
   clue: Phrase
   pronunciation: '[ˈɛtvas ˈniːdʁɪç ˈhaltn̩]'
 - indication: genau genommen
@@ -430,7 +429,7 @@
   clue: Phrase
   pronunciation: '[ɡenəˈʁɛl ɡəˈʃpʁɔxən]'
 - indication: filtern **
-  result: to filter (out) (e.g. to filter out of the waste)
+  result: filter **
   clue: Phrase
   pronunciation: '[(hɛˈʁaʊ̯s)ˌfɪltɐn]'
 - indication: etwas bewältigen
@@ -442,7 +441,7 @@
   clue: Phrase
   pronunciation: '[ɡəˈnaʊ̯ɐ bəˈtʁaxtət]'
 - indication: angenommen, dass
-  result: assuming that / target
+  result: assumed that
   clue: Phrase
   pronunciation: '[ˈanɡəˌnɔmən das]'
 - indication: oberflächlich betrachtet
@@ -450,19 +449,19 @@
   clue: Phrase
   pronunciation: '[ˈoːbɐˌflɛçlɪç bəˈtʁaxtət]'
 - indication: abgesehen von
-  result: apart from / except for
+  result: apart from
   clue: Phrase
   pronunciation: '[ˈapɡəˌzeːən fɔn plʊs ˈdaːtiːf]'
 - indication: bekommen **
-  result: to notice / to realize (e.g. You have surely noticed.)
+  result: receive **
   clue: Phrase
   pronunciation: '[ˈmɪtˌbəkɔmən]'
 - indication: zeugen von
-  result: to testify to sth. / to bear witness to sth. / to show
+  result: witness to
   clue: Phrase
   pronunciation: '[ˈtsɔɪ̯ɡən fɔn]'
 - indication: ausgehend von
-  result: starting from / based on
+  result: starting from
   clue: Phrase
   pronunciation: '[ˈaʊ̯sˌɡeːənt fɔn plʊs ˈdaːtiːf]'
 - indication: drücken vor
@@ -474,11 +473,11 @@
   clue: Noun
   pronunciation: '[ɛm]'
 - indication: ausgesetzt sein
-  result: to be exposed to something
+  result: be exposed
   clue: Phrase
   pronunciation: '[ˈɛtvas ˈaʊ̯sɡəˌzɛtst zaɪ̯n]'
 - indication: bestens bekannt
-  result: well-known / very familiar
+  result: well known
   clue: Phrase
   pronunciation: '[ˈbɛstn̩s bəˈkant]'
 - indication: das Gespräch suchen
@@ -486,11 +485,11 @@
   clue: Noun
   pronunciation: '[das ɡəˈʃpʁɛːç ˈzuːxn̩]'
 - indication: arten **
-  result: to degenerate / get out of hand (degenerate into violence)
+  result: types **
   clue: Phrase
   pronunciation: '[ˈaʊ̯sˌʔaːɐ̯tn̩]'
 - indication: kurz gesagt
-  result: in short / to put it briefly
+  result: in short
   clue: Phrase
   pronunciation: '[kʊʁts ɡəˈzaːkt]'
 - indication: einfach ausgedrückt
@@ -502,7 +501,7 @@
   clue: Noun
   pronunciation: '[das ˈanˌliːɡn̩]'
 - indication: gemessen an
-  result: measured by / in comparison to
+  result: measured by
   clue: Phrase
   pronunciation: '[ɡəˈmɛsən an plʊs ˈdaːtiːf]'
 - indication: der/die Betroffene, -n
@@ -510,19 +509,19 @@
   clue: Phrase
   pronunciation: '[deːɐ̯ bəˈtʁɔfənə / diː bəˈtʁɔfənə]'
 - indication: abstriche machen
-  result: to make cutbacks / to lower one's expectations / to make compromises
+  result: make compromises
   clue: Verb
   pronunciation: '[ˈapˌʃtʁɪçə ˈmaxn̩]'
 - indication: ehrlich gesagt
-  result: honestly speaking / to be honest
+  result: honestly
   clue: Phrase
   pronunciation: '[ˈeːɐ̯lɪç ɡəˈzaːkt]'
 - indication: anders gesagt
-  result: put another way / in other words
+  result: in other words
   clue: Phrase
   pronunciation: '[ˈandəʁs ɡəˈzaːkt]'
 - indication: verglichen mit
-  result: compared to / in comparison with
+  result: compared to
   clue: Phrase
   pronunciation: '[fɐˈɡlɪçən mɪt plʊs ˈdaːtiːf]'
 - indication: schwarz-weiß sehen
@@ -530,7 +529,7 @@
   clue: Phrase
   pronunciation: '[ˈɛtvas ˌʃvaʁtsˈvaɪ̯s ˈzeːən]'
 - indication: entziehen **
-  result: to withdraw / to remove (to withdraw something from the market)
+  result: withdraw **
   clue: Phrase
   pronunciation: '[ɛntˈt͡siːən]'
 - indication: ausgeprägt sein
@@ -542,7 +541,7 @@
   clue: Phrase
   pronunciation: '[zɪç bəˈmyːən ʊm]'
 - indication: zeitnah **
-  result: promptly / in a timely manner (e.g. We will inform you promptly.)
+  result: promptly **
   clue: Phrase
   pronunciation: '[ˈt͡saɪ̯tˌnaː]'
 - indication: 'Speech Bubble 1: die Nachtschicht'
@@ -550,11 +549,11 @@
   clue: Noun
   pronunciation: '[diː ˈnaxtʃɪçt]'
 - indication: ist abzusehen
-  result: something is foreseeable / in sight
+  result: is foreseeable
   clue: Phrase
   pronunciation: '[ˈɛtvas ɪst ˈaptsuˌzeːən]'
 - indication: abbaubar **
-  result: degradable / biodegradable (e.g. The material is fully degradable.)
+  result: degradable **
   clue: Phrase
   pronunciation: '[ˈapˌbaʊ̯baːɐ̯]'
 - indication: spezialisiert sein auf
@@ -570,11 +569,11 @@
   clue: Phrase
   pronunciation: '[ʊnʔɛɐ̯ˈlɛslɪç zaɪn]'
 - indication: bestechen durch
-  result: to impress with / to stand out due to
+  result: impress
   clue: Phrase
   pronunciation: '[bəˈʃtɛçn̩ dʊʁç (plʊs ˌakʊzaˈtiːf) (bəˈʃtɪçt, bəˈʃtax, hat bəˈʃtɔxn̩)]'
 - indication: genau gesagt
-  result: to put it precisely / strictly speaking
+  result: precisely
   clue: Phrase
   pronunciation: '[ɡəˈnaʊ̯ ɡəˈzaːkt]'
 - indication: grob geschätzt
@@ -586,35 +585,35 @@
   clue: Phrase
   pronunciation: '[fɔn nuːn ˈan]'
 - indication: anders formuliert
-  result: formulated differently / put another way
+  result: worded differently
   clue: Phrase
   pronunciation: '[ˈandəʁs fɔʁmuˈliːɐ̯t]'
 - indication: geht immer
-  result: sth. is always a safe bet / always works
+  result: always works
   clue: Phrase
   pronunciation: '[ˈɛtvas ɡeːt ˈɪmɐ]'
 - indication: unabdingbar finden
-  result: to find indispensable / to deem essential
+  result: find essential
   clue: Phrase
   pronunciation: '[ʊnapˈdɪŋbaːɐ̯ ˈfɪndn̩]'
 - indication: geblitzt werden
-  result: to be caught speeding (by a speed camera)
+  result: be flashed
   clue: Phrase
   pronunciation: '[ɡəˈblɪtst ˈveːɐ̯dn̩]'
 - indication: rundum gelungen
-  result: completely successful / all-round success
+  result: completely successful
   clue: Phrase
   pronunciation: '[ʁʊndˈʔʊm ɡəˈlʊŋən]'
 - indication: tun mit
-  result: to struggle with / to have a hard time with
+  result: do with
   clue: Phrase
   pronunciation: '[zɪç ˈʃveːɐ̯ˌtuːn mɪt]'
 - indication: selbst verwirklichen
-  result: to realize one's potential / self-actualize
+  result: realize yourself
   clue: Phrase
   pronunciation: '[zɪç zɛlpst fɛɐ̯ˈvɪʁklɪçn̩]'
 - indication: ins Spiel kommen
-  result: to come into play
+  result: come into play
   clue: Phrase
   pronunciation: '[ɪns ʃpiːl ˈkɔmən]'
 - indication: ein erfülltes Leben
@@ -626,11 +625,11 @@
   clue: Phrase
   pronunciation: '[ɪn ˈtsaːlən ˈaʊ̯sɡəˌdʁʏkt]'
 - indication: einen Vorteil verschaffen
-  result: to gain an advantage
+  result: provide an advantage
   clue: Phrase
   pronunciation: '[zɪç ˈaɪ̯nən ˈfoːɐ̯taɪ̯l fɛɐ̯ˈʃafn̩]'
 - indication: gefallen lassen
-  result: to put up with something / to tolerate something
+  result: let it fall
   clue: Phrase
   pronunciation: '[zɪç ˈɛtvas ɡəˈfaln̩ ˈlasn̩ (lɛst ɡəˈfaln̩, liːs ɡəˈfaln̩, hat ɡəˈfaln̩
     ˈlasn̩)]'
@@ -647,19 +646,19 @@
   clue: Phrase
   pronunciation: '[ˈʊntɐ naˈtyːɐ̯lɪçn̩ bəˈdɪŋʊŋən]'
 - indication: vertrauen schenken / gewinnen
-  result: to place trust in / to gain trust
+  result: give/gain trust
   clue: Verb
   pronunciation: '[fɛɐ̯ˈtʁaʊ̯ən ˈʃɛŋkn̩ / ɡəˈvɪnən]'
 - indication: im Auge behalten
-  result: to keep an eye on something
+  result: keep an eye on
   clue: Phrase
   pronunciation: '[ˈɛtvas ɪm ˈaʊ̯ɡə bəˈhaltn̩]'
 - indication: im Hinblick auf
-  result: in view of / with regard to
+  result: in view of
   clue: Phrase
   pronunciation: '[ɪm ˈhɪnˌblɪk aʊ̯f]'
 - indication: einen Kassensturz machen
-  result: to take stock of one's finances
+  result: make a cash grab
   clue: Phrase
   pronunciation: '[ˈaɪ̯nən ˈkasn̩ˌʃtʊʁts ˈmaxn̩]'
 - indication: in öffentlicher Hand
@@ -683,11 +682,11 @@
   clue: Phrase
   pronunciation: '[fyːɐ̯ ˈɛtvas ˈʃteːən (ˈɛtvas fɛɐ̯ˈtʁeːtn̩)]'
 - indication: einen Mittelweg finden
-  result: to find a middle ground / to find a compromise
+  result: find a middle ground
   clue: Phrase
   pronunciation: '[ˈaɪ̯nən ˈmɪtl̩veːk ˈfɪndn̩]'
 - indication: zur Aufgabe machen
-  result: to make it one's task / mission to do something
+  result: make it a task
   clue: Phrase
   pronunciation: '[zɪç ˈɛtvas tsuː̯ɐ ˈaʊ̯fˌɡaːbə ˈmaxn̩]'
 - indication: eine Selbstverständlichkeit sein
@@ -695,11 +694,11 @@
   clue: Phrase
   pronunciation: '[ˈaɪ̯nə ˈzɛlpstfɛɐ̯ˌʃtɛntlɪçkaɪ̯t zaɪn]'
 - indication: im Ton vergreifen
-  result: to use the wrong tone / to adopt the wrong tone
+  result: wrong in tone
   clue: Phrase
   pronunciation: '[zɪç ɪm ˈtoːn fɛɐ̯ˈɡʁaɪ̯fn̩ (fɛɐ̯ˈɡʁaɪ̯ft, fɛɐ̯ˈɡʁɪf, hat fɛɐ̯ˈɡʁɪfn̩)]'
 - indication: im Laufe des Lebens
-  result: in the course of life
+  result: over the course of life
   clue: Phrase
   pronunciation: '[ɪm ˈlaʊ̯fə dɛs ˈleːbn̩s]'
 - indication: große Beachtung finden
@@ -719,11 +718,11 @@
   clue: Noun
   pronunciation: '[deːɐ̯ ˈʃtɛlfɛɐ̯ˌtʁeːtɐ / diː ˈʃtɛlfɛɐ̯ˌtʁeːtəʁɪn]'
 - indication: abdecken durch **
-  result: to cover sth. with/by (e.g. to cover costs through rent)
+  result: cover by **
   clue: Phrase
   pronunciation: '[ˈɛtvas ˈapˌdɛkn̩ dʊʁç]'
 - indication: zur Vorbeugung gegen Krankheiten
-  result: for the prevention of diseases
+  result: to prevent disease
   clue: Phrase
   pronunciation: '[tsuːɐ̯ ˈfoːɐ̯ˌbɔʏ̯ɡʊŋ ˈɡeːɡn̩ ˈkʁaŋkhaɪ̯tn̩]'
 - indication: der Bauherr, -en / die Bauherrin, -nen
@@ -735,7 +734,7 @@
   clue: Phrase
   pronunciation: '[ˈjeːmɑndn̩ foːɐ̯ deːn ˈkɔp͡f ˈʃtoːsn̩]'
 - indication: / etw. in Szene setzen
-  result: to showcase oneself / to stage / to spotlight
+  result: / put sth. in the spotlight
   clue: Verb
   pronunciation: '[zɪç / ˈɛtvas ɪn ˈt͡seːnə ˈzɛt͡sən]'
 - indication: Weitere Wörter, die für mich wichtig sind
@@ -759,7 +758,7 @@
   clue: Phrase
   pronunciation: '[aɪ̯n ˈɔfənəs oːɐ̯ ˈhaːbn̩]'
 - indication: auf sich beruhen lassen
-  result: to let something rest / to let something drop
+  result: let it rest
   clue: Phrase
   pronunciation: '[ˈɛtvas aʊ̯f zɪç bəˈʁuːən ˈlasn̩]'
 - indication: in der Pflicht sehen
@@ -787,7 +786,7 @@
   clue: Phrase
   pronunciation: '[zɪç ɪn diː ˈhɛndə fɔn ˈandəʁən bəˈɡeːbn̩]'
 - indication: etwas wird / ist gern gesehen
-  result: something is welcomed / highly regarded
+  result: something is/is welcome
   clue: Phrase
   pronunciation: '[ˈɛtvas vɪɐ̯t / ɪst ɡɛʁn ɡəˈzeːən]'
 - indication: 'Speech Bubble 2: t ... Hm ... das Team!'
@@ -795,7 +794,7 @@
   clue: Noun
   pronunciation: '[das tiːm]'
 - indication: Der Minister versuchte vergeblich, von dem eigentlichen Skandal abzulenken.
-  result: The minister tried in vain to deflect from the actual scandal.
+  result: the minister tried in vain to distract from the actual scandal.
   clue: Noun
 - indication: Diese Entscheidung wurde hinter verschlossenen Türen klammheimlich getroffen.
   result: This decision was made surreptitiously (secretly) behind closed doors.

@@ -1,23 +1,23 @@
-- indication: '77'
-  result: music   |  musik
+- indication: music   |  musik
+  result: music |  music
   clue: Phrase
-- indication: '78'
-  result: games   |  spiele
+- indication: games   |  spiele
+  result: games |  games
   clue: Phrase
-- indication: '79'
-  result: arts and crafts   |  kunsthandwerk
+- indication: arts and crafts   |  kunsthandwerk
+  result: arts and crafts |  arts and crafts
   clue: Phrase
-- indication: '88'
-  result: winter sports   |  wintersport
+- indication: winter sports   |  wintersport
+  result: winter sports |  winter sports
   clue: Phrase
-- indication: '89'
-  result: combat sports   |  kampfsportarten
+- indication: combat sports   |  kampfsportarten
+  result: combat sports |  martial arts
   clue: Phrase
-- indication: '91'
-  result: golf   |  golf
+- indication: golf   |  golf
+  result: golf |  golf
   clue: Phrase
-- indication: '92'
-  result: other sports   |  andere sportarten
+- indication: other sports   |  andere sportarten
+  result: other sports |  other sports
   clue: Phrase
 - indication: k.o. schlagen
   result: knocked out hit
@@ -37,8 +37,8 @@
 - indication: die Skier mpl
   result: the skis mpl
   clue: Phrase
-- indication: to listen to music
-  result: singen
+- indication: singen
+  result: sing
   clue: Phrase
 - indication: die kleine Trommel
   result: the snare drum

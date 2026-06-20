@@ -1,8 +1,8 @@
-- indication: to go dancing
-  result: ansehen
+- indication: ansehen
+  result: view
   clue: Adjective
-- indication: to lose
-  result: gewinnen
+- indication: gewinnen
+  result: win
   clue: Adjective
 - indication: der Freiwurf
   result: the free throw
@@ -10,20 +10,20 @@
 - indication: der Strafraum
   result: the penalty area
   clue: Adjective
-- indication: to score
-  result: teilnehmen
+- indication: teilnehmen
+  result: participate
   clue: Adjective
 - indication: die Kasse
   result: the cash register
   clue: Adjective
-- indication: to tackle
-  result: kicken
+- indication: kicken
+  result: kick
   clue: Adjective
-- indication: to throw
-  result: fangen
+- indication: fangen
+  result: catch
   clue: Adjective
-- indication: to win
-  result: Punkte erzielen
+- indication: Punkte erzielen
+  result: score points
   clue: Adjective
 - indication: der Stromanschluss
   result: the power connection

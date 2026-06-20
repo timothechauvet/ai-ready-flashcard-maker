@@ -16,8 +16,8 @@
 - indication: die Aufgabe
   result: the task
   clue: Adjective
-- indication: exchange rate
-  result: Kreditkarte
+- indication: Kreditkarte
+  result: credit card
   clue: Adjective
 - indication: der Radierer
   result: the eraser

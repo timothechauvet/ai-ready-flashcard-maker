@@ -17,8 +17,8 @@
 - indication: das Flohhalsband
   result: the flea collar
   clue: Adjective
-- indication: pet passport
-  result: Behandlung
+- indication: Behandlung
+  result: treatment
   clue: Adjective
 - indication: Pflanzenheilkunde
   result: die
@@ -58,5 +58,5 @@
   result: die Schwanger­
   clue: Adjective
 - indication: schlimmstenfalls
-  result: at worst / in the worst case
+  result: at worst
   clue: Adjective

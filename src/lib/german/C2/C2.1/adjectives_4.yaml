@@ -1,13 +1,13 @@
 - indication: einseitig
-  result: one-sided / unilateral / biased
+  result: one-sided
   clue: Adjective
   pronunciation: '[ˈaɪ̯nˌzaɪ̯tɪç]'
 - indication: einsetzbar
-  result: applicable / usable / deployable
+  result: usable
   clue: Adjective
   pronunciation: '[ˈaɪ̯nˌzɛtsbaːɐ̯]'
 - indication: einst
-  result: once / formerly
+  result: once
   clue: Adjective
   pronunciation: '[aɪ̯nst]'
 - indication: erfüllend
@@ -15,11 +15,11 @@
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈfʏlnt (aɪ̯n ɛɐ̯ˈfʏləndɐ bəˈʁuːf)]'
 - indication: erheblich
-  result: significant / considerable
+  result: considerably
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈheːplɪç]'
 - indication: erstaunlich
-  result: astonishing / amazing
+  result: astonishing
   clue: Adjective
   pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
 - indication: das Wasser
@@ -54,7 +54,7 @@
   result: the crocodile
   clue: Adjective
 - indication: fundiert
-  result: well-founded / sound
+  result: well-founded
   clue: Adjective
   pronunciation: '[fʊnˈdiːɐ̯t]'
 - indication: der Zoo

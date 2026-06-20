@@ -4,17 +4,17 @@
 - indication: the basics   |  das wesentliche
   result: the basics |  the essential
   clue: Phrase
-- indication: '74'
-  result: hotel   |  im hotel
+- indication: hotel   |  im hotel
+  result: hotel |  at the hotel
   clue: Phrase
-- indication: '75'
-  result: camping   |  campen
+- indication: camping   |  campen
+  result: camping |  camp
   clue: Phrase
 - indication: the basics   |  das wesentliche wellbeing   |  fitness
   result: the basics |  the essential wellbeing |  fitness
   clue: Phrase
-- indication: basket
-  result: einen Spieler decken
+- indication: einen Spieler decken
+  result: cover a player
   clue: Phrase
 - indication: „Baden verboten.“
   result: “swimming forbidden.”
@@ -47,7 +47,7 @@
   result: the waves fpl
   clue: Phrase
 - indication: pro Person pro
-  result: per person per night
+  result: per person per
   clue: Phrase
 - indication: die Flossen fpl
   result: the fins fpl

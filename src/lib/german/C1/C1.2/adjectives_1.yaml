@@ -2,7 +2,7 @@
   result: the hospital
   clue: Adjective
 - indication: abartig
-  result: disgusting / perverse / abnormal / gross
+  result: abnormal
   clue: Adjective
 - indication: acupuncture
   result: therapies
@@ -14,34 +14,34 @@
   result: the emergency room
   clue: Adjective
 - indication: angebracht
-  result: appropriate / fitting / proper
+  result: attached
   clue: Adjective
 - indication: angegangen
-  result: approached / tackled / addressed
+  result: addressed
   clue: Adjective
 - indication: angeklungen
-  result: hinted at / resonated / sounded
+  result: sounded
   clue: Adjective
 - indication: angetan
   result: impressed / fond of / done to / put on
   clue: Adjective
 - indication: anwesend
-  result: present / in attendance
+  result: present
   clue: Adjective
 - indication: aufgeregt
-  result: excited / upset / agitated / nervous
+  result: upset
   clue: Adjective
 - indication: ausgeschaltet
-  result: switched off / turned off / shut down
+  result: 'off'
   clue: Adjective
 - indication: behälter
   result: der Kontaktlinsen­
   clue: Adjective
 - indication: bemerkten
-  result: noticed / observed / remarked
+  result: noticed
   clue: Adjective
-- indication: blind
-  result: sehbehindert
+- indication: sehbehindert
+  result: visually impaired
   clue: Adjective
 - indication: bloß
   result: mere / bare / pure

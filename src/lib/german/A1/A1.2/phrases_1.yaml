@@ -35,7 +35,7 @@
   result: How warm/cold is it?
   clue: Phrase
 - indication: Ich arbeite bei…
-  result: I work at/in...
+  result: i work at…
   clue: Phrase
 - indication: im Frühling / Winter
   result: Monday
@@ -44,13 +44,13 @@
   result: when…?
   clue: Phrase
 - indication: '... in 60 Sekunden /'
-  result: two minutes.
+  result: '... in 60 seconds /'
   clue: Phrase
 - indication: zwei Minuten.
   result: two minutes.
   clue: Phrase
 - indication: '... in einer Stunde /'
-  result: half an hour.
+  result: '... in an hour /'
   clue: Phrase
 - indication: halben Stunde.
   result: half an hour.

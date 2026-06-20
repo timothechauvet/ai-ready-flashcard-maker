@@ -1,8 +1,8 @@
 - indication: abheben
-  result: to withdraw
+  result: lift up
   clue: Verb
 - indication: anprobieren
-  result: to try on
+  result: try on
   clue: Verb
 - indication: aufnehmen
   result: einen Kredit
@@ -23,38 +23,38 @@
   result: to sit an exam
   clue: Verb
 - indication: einen Vortrag
-  result: to give a presentation
+  result: a lecture
   clue: Verb
 - indication: einwerfen
-  result: to post
+  result: throw in
   clue: Verb
 - indication: Geld einzahlen
-  result: to make a deposit
+  result: deposit money
   clue: Verb
 - indication: Geld wechseln
-  result: to change money
+  result: change money
   clue: Verb
 - indication: heimwerken
-  result: to do DIY
+  result: diy
   clue: Verb
 - indication: lehren
-  result: to teach
+  result: teach
   clue: Verb
 - indication: lernen
-  result: to learn
+  result: learn
   clue: Verb
 - indication: lesen
-  result: to read
+  result: read
   clue: Verb
 - indication: passen
-  result: to fit
+  result: fit
   clue: Verb
 - indication: das Notizbuch
   result: the notebook
   clue: Verb
 - indication: Post bekommen
-  result: to receive mail
+  result: received mail
   clue: Verb
 - indication: schicken
-  result: to send
+  result: send
   clue: Verb

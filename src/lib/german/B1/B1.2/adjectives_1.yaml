@@ -14,7 +14,7 @@
   result: the post
   clue: Adjective
 - indication: antihistamine
-  result: mpl
+  result: antihistamines
   clue: Adjective
 - indication: Antihistaminikum
   result: das
@@ -43,8 +43,8 @@
 - indication: die Babylotion
   result: the baby lotion
   clue: Adjective
-- indication: bandage
-  result: Salbe
+- indication: Salbe
+  result: ointment
   clue: Adjective
 - indication: die Zahnpasta
   result: the toothpaste

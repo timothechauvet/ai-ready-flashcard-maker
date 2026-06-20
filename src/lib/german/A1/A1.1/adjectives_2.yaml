@@ -16,8 +16,8 @@
 - indication: Ich bin…
   result: i am…
   clue: Adjective
-- indication: I feel...
-  result: gelangweilt
+- indication: gelangweilt
+  result: bored
   clue: Adjective
 - indication: englisch
   result: english
@@ -55,6 +55,6 @@
 - indication: die Verlobte
   result: the fiancée
   clue: Adjective
-- indication: surprised
-  result: ruhig
+- indication: ruhig
+  result: quiet
   clue: Adjective

@@ -34,8 +34,8 @@
 - indication: der Rosenmontag
   result: rose monday
   clue: Adjective
-- indication: to celebrate
-  result: Nachrichten
+- indication: Nachrichten
+  result: news
   clue: Adjective
 - indication: Überraschungsparty
   result: die

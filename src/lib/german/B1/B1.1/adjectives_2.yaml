@@ -19,8 +19,8 @@
 - indication: butcher
   result: vocabulary
   clue: Adjective
-- indication: butter
-  result: milchfrei
+- indication: milchfrei
+  result: dairy free
   clue: Adjective
 - indication: der Bildschirm
   result: the screen

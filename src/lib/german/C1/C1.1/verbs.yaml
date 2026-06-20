@@ -5,7 +5,7 @@
   result: Medikamente
   clue: Verb
 - indication: fallen
-  result: to fall
+  result: fall
   clue: Verb
 - indication: hören
   result: to touch
@@ -29,5 +29,5 @@
   result: to treat
   clue: Verb
 - indication: sich verletzen
-  result: to injure oneself
+  result: get hurt
   clue: Verb

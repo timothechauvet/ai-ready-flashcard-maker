@@ -1,8 +1,8 @@
 - indication: to wake up
   result: vocabulary
   clue: Adjective
-- indication: to work
-  result: studieren
+- indication: studieren
+  result: study
   clue: Adjective
 - indication: der Spinat
   result: the spinach
@@ -22,14 +22,14 @@
 - indication: die Margarine
   result: the margarine
   clue: Adjective
-- indication: unpasteurized milk
-  result: Milch
+- indication: Milch
+  result: milk
   clue: Adjective
 - indication: unreif
-  result: unripe
+  result: immature
   clue: Adjective
-- indication: vegan
-  result: vegetarisch
+- indication: vegetarisch
+  result: vegetarian
   clue: Adjective
 - indication: die Wassermelone
   result: the watermelon

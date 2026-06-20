@@ -8,7 +8,7 @@
   result: vocabulary
   clue: Adjective
 - indication: brand
-  result: vocabulary
+  result: fire
   clue: Adjective
 - indication: broadsheet
   result: vocabulary
@@ -49,8 +49,8 @@
 - indication: die Umkleidekabine
   result: the changing room
   clue: Adjective
-- indication: clothing
-  result: stillen
+- indication: stillen
+  result: breastfeeding
   clue: Adjective
 - indication: die Strickjacke
   result: the cardigan

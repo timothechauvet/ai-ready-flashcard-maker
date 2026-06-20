@@ -1,17 +1,17 @@
-- indication: '101'
-  result: the optician’s   |  beim optiker
+- indication: the optician’s   |  beim optiker
+  result: the optician's |  at the optician
   clue: Phrase
-- indication: '102'
-  result: the hospital   |  im krankenhaus
+- indication: the hospital   |  im krankenhaus
+  result: the hospital |  in the hospital
   clue: Phrase
 - indication: pregnancy   |  die schwangerschaft
   result: pregnancy |  the pregnancy
   clue: Phrase
-- indication: '104'
-  result: alternative therapies   |  alternative therapien
+- indication: alternative therapies   |  alternative therapien
+  result: alternative therapies |  alternative therapies
   clue: Phrase
-- indication: '105'
-  result: the vet   |  beim tierarzt
+- indication: the vet   |  beim tierarzt
+  result: the vet |  at the vet
   clue: Phrase
 - indication: die Kontaktlinsen fpl
   result: the contact lenses fpl
@@ -25,11 +25,11 @@
 - indication: lenses
   result: hard/soft contact
   clue: Phrase
-- indication: to microchip
-  result: zum Tierarzt gehen
+- indication: zum Tierarzt gehen
+  result: go to the vet
   clue: Phrase
-- indication: to put to sleep
-  result: kastrieren
+- indication: kastrieren
+  result: castrate
   clue: Phrase
 - indication: der Puls
   result: the pulse

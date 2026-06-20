@@ -46,14 +46,14 @@
 - indication: der rote Paprika
   result: the red pepper
   clue: Phrase
-- indication: starters
-  result: zum Essen ausgehen
+- indication: zum Essen ausgehen
+  result: go out to eat
   clue: Phrase
 - indication: die Maultaschen fpl
   result: the maultaschen fpl
   clue: Phrase
-- indication: to ask for the bill
-  result: bestellen
+- indication: bestellen
+  result: order
   clue: Phrase
 - indication: die Lebensmittel ntpl
   result: the food ntpl

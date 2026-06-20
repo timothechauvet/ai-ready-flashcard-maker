@@ -28,11 +28,11 @@
   clue: Adjective
   pronunciation: '[ˈʊnˌløːsbaːɐ̯]'
 - indication: unparteiisch
-  result: impartial / unbiased
+  result: impartial
   clue: Adjective
   pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
 - indication: unterbelegt
-  result: underoccupied / under-allocated / understaffed
+  result: underoccupied
   clue: Adjective
   pronunciation: '[ˈʊntɐbəˌleːkt]'
 - indication: unterrepräsentiert
@@ -51,15 +51,15 @@
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
 - indication: verschwiegen
-  result: discreet / secretive
+  result: secretive
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
 - indication: verwackelt
-  result: blurry / shaky
+  result: blurry
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈvakl̩t]'
 - indication: verwerflich
-  result: reprehensible / morally objectionable
+  result: reprehensible
   clue: Adjective
   pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
 - indication: die Tulpe
@@ -69,6 +69,6 @@
   result: the valley
   clue: Adjective
 - indication: vorhersehbar
-  result: predictable (*predictable results*)
+  result: predictable
   clue: Adjective
   pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'

@@ -1,11 +1,11 @@
 - indication: the basics   |  das wesentliche
   result: the basics |  the essential
   clue: Phrase
-- indication: '22'
-  result: bus   |  mit dem bus
+- indication: bus   |  mit dem bus
+  result: bus |  by bus
   clue: Phrase
-- indication: '23'
-  result: bicycle   |  mit dem fahrrad
+- indication: bicycle   |  mit dem fahrrad
+  result: bicycle |  by bicycle
   clue: Phrase
 - indication: the basics   |  das wesentliche
   result: the basics |  the essential
@@ -19,14 +19,14 @@
 - indication: the lounge   |  das wohnzimmer
   result: the lounge |  the living room
   clue: Phrase
-- indication: apartment block
-  result: types of building
+- indication: types of building
+  result: types of buildings
   clue: Phrase
-- indication: bus
-  result: den Bus nehmen
+- indication: den Bus nehmen
+  result: take the bus
   clue: Phrase
-- indication: car wash
-  result: car trouble   |  probleme mit dem auto
+- indication: car trouble   |  probleme mit dem auto
+  result: car trouble |  problems with the car
   clue: Phrase
 - indication: der halbe Fahrpreis
   result: half the fare
@@ -52,8 +52,8 @@
 - indication: die Dielen fpl
   result: the floorboards fpl
   clue: Phrase
-- indication: to brake
-  result: den Motor anlassen
+- indication: den Motor anlassen
+  result: start the engine
   clue: Phrase
 - indication: der platte Reifen
   result: the flat tire

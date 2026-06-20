@@ -7,8 +7,8 @@
 - indication: der Anruf
   result: the call
   clue: Adjective
-- indication: till point
-  result: Einkaufstasche
+- indication: Einkaufstasche
+  result: shopping bag
   clue: Adjective
 - indication: die Dose
   result: the tin
@@ -22,39 +22,39 @@
 - indication: sich umsehen
   result: look around
   clue: Adjective
-- indication: to download/upload
-  result: posten
+- indication: posten
+  result: post
   clue: Adjective
-- indication: to eat out
-  result: speisen
+- indication: speisen
+  result: dine
   clue: Adjective
 - indication: der Digestif
   result: the digestif
   clue: Adjective
-- indication: to get dressed
-  result: aufwachen
+- indication: aufwachen
+  result: wake up
   clue: Adjective
 - indication: (Online) einkaufen
   result: shop (online).
   clue: Adjective
-- indication: to leave
-  result: ankommen
+- indication: ankommen
+  result: arrive
   clue: Adjective
-- indication: to meet friends
-  result: arbeiten
+- indication: arbeiten
+  result: work
   clue: Adjective
-- indication: to order
-  result: reservieren
+- indication: reservieren
+  result: reserve
   clue: Adjective
-- indication: to pay
-  result: kaufen
+- indication: kaufen
+  result: buy
   clue: Adjective
 - indication: schicken
   result: send
   clue: Adjective
-- indication: to shop (online)
-  result: zahlen
+- indication: zahlen
+  result: pay
   clue: Adjective
-- indication: to study
-  result: weggehen
+- indication: weggehen
+  result: go away
   clue: Adjective

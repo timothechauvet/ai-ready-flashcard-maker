@@ -13,8 +13,8 @@
 - indication: das Feuerwerk
   result: the fireworks
   clue: Adjective
-- indication: gingerbread biscuits
-  result: Sankt Nikolaus
+- indication: Sankt Nikolaus
+  result: saint nicholas
   clue: Adjective
 - indication: der Schulanfang
   result: the start of school
@@ -31,8 +31,8 @@
 - indication: der Kopfschmuck
   result: the headdress
   clue: Adjective
-- indication: Martinmas
-  result: Chanukka
+- indication: Chanukka
+  result: hanukkah
   clue: Adjective
 - indication: die Kinderschminke
   result: the children's make-up
