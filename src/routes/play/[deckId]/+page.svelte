@@ -11,6 +11,9 @@
 	let cards = $state<Flashcard[]>([]);
 	let activeIndices = $state<number[]>([]);
 	let currentActivePointer = $state(0);
+	// We want to hold a separate display index that updates immediately on next card IF the card is NOT flipped.
+	// But if the card IS flipped, we transition/flip it back first, and only update the display index AFTER the flip animation completes (e.g. 300-600ms).
+	let displayActivePointer = $state(0);
 	let isFlipped = $state(false);
 	let correctCount = $state(0);
 	let incorrectCount = $state(0);
@@ -54,15 +57,17 @@
 		}
 		cards = loadedCards;
 		activeIndices = loadedCards.map((_, i) => i);
+		displayActivePointer = 0;
 	});
 
-	const currentCardIndex = $derived(activeIndices[currentActivePointer] ?? -1);
+	const currentCardIndex = $derived(activeIndices[displayActivePointer] ?? -1);
 	const currentCard = $derived(currentCardIndex !== -1 ? cards[currentCardIndex] : null);
 
+	style="display: flex; align-items: center; gap: 1rem;"
 	function saveToHistory() {
 		history.push({
 			activeIndices: [...activeIndices],
-			currentActivePointer,
+			currentActivePointer: displayActivePointer,
 			isFlipped,
 			correctCount,
 			incorrectCount,
@@ -116,8 +121,8 @@
 	}
 
 	function nextCard(isKnown: boolean) {
-		isFlipped = false;
-		const originalActivePointer = currentActivePointer;
+		const originalActivePointer = displayActivePointer;
+		let nextPointer = displayActivePointer;
 
 		if (isKnown) {
 			// Remove card from active list
@@ -125,9 +130,9 @@
 			// Determine next index
 			if (activeIndices.length > 0) {
 				if (isRandom) {
-					currentActivePointer = Math.floor(Math.random() * activeIndices.length);
-				} else if (currentActivePointer >= activeIndices.length) {
-					currentActivePointer = 0;
+					nextPointer = Math.floor(Math.random() * activeIndices.length);
+				} else if (displayActivePointer >= activeIndices.length) {
+					nextPointer = 0;
 				}
 			}
 		} else {
@@ -136,26 +141,39 @@
 				if (isRandom) {
 					// Pick a random index that is different if possible
 					if (activeIndices.length > 1) {
-						let newPointer = currentActivePointer;
-						while (newPointer === currentActivePointer) {
+						let newPointer = displayActivePointer;
+						while (newPointer === displayActivePointer) {
 							newPointer = Math.floor(Math.random() * activeIndices.length);
 						}
-						currentActivePointer = newPointer;
+						nextPointer = newPointer;
 					}
 				} else {
-					currentActivePointer = (currentActivePointer + 1) % activeIndices.length;
+					nextPointer = (displayActivePointer + 1) % activeIndices.length;
 				}
 			}
 		}
 
 		if (activeIndices.length === 0) {
+			isFlipped = false;
 			showFinishScreen = true;
 			triggerConfetti();
 		} else {
-			if (autoListen) {
-				tick().then(() => {
-					speakWord(currentCard?.indication);
-				});
+			if (isFlipped) {
+				isFlipped = false;
+				// Wait for card flip rotation transition (600ms style) to hide back side text, then update display
+				setTimeout(() => {
+					displayActivePointer = nextPointer;
+					if (autoListen) {
+						speakWord(currentCard?.indication);
+					}
+				}, 300); // 300ms is halfway through rotate transition (0.6s total), fully hidden
+			} else {
+				displayActivePointer = nextPointer;
+				if (autoListen) {
+					tick().then(() => {
+						speakWord(currentCard?.indication);
+					});
+				}
 			}
 		}
 	}
@@ -172,7 +190,7 @@
 		if (history.length === 0) return;
 		const previous = history.pop()!;
 		activeIndices = previous.activeIndices;
-		currentActivePointer = previous.currentActivePointer;
+		displayActivePointer = previous.currentActivePointer;
 		isFlipped = previous.isFlipped;
 		correctCount = previous.correctCount;
 		incorrectCount = previous.incorrectCount;
@@ -189,9 +207,9 @@
 		incorrectCount = 0;
 		showFinishScreen = false;
 		if (isRandom) {
-			currentActivePointer = Math.floor(Math.random() * activeIndices.length);
+			displayActivePointer = Math.floor(Math.random() * activeIndices.length);
 		} else {
-			currentActivePointer = 0;
+			displayActivePointer = 0;
 		}
 	}
 
@@ -199,7 +217,7 @@
 		saveToHistory();
 		isRandom = !isRandom;
 		if (isRandom && activeIndices.length > 0) {
-			currentActivePointer = Math.floor(Math.random() * activeIndices.length);
+			displayActivePointer = Math.floor(Math.random() * activeIndices.length);
 		}
 	}
 </script>
@@ -277,9 +295,9 @@
 			>
 				<div class="flashcard {isFlipped ? 'flipped' : ''}">
 					<div class="card-side card-front">
-						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
+						<span class="card-counter">{displayActivePointer + 1} / {activeIndices.length}</span>
 						<p class="card-text">{currentCard?.indication}</p>
-						{#if currentCard?.clue}
+						{#if currentCard?.clue && deckId !== 'german-colors'}
 							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
 								{currentCard.clue}
 							</p>
@@ -291,13 +309,13 @@
 						{/if}
 					</div>
 					<div class="card-side card-back">
-						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
+						<span class="card-counter">{displayActivePointer + 1} / {activeIndices.length}</span>
 						{#if deckId === 'german-colors' && currentCard?.clue}
 							<p class="card-text" style="color: {currentCard.clue}; font-weight: 700;">{currentCard?.result}</p>
 						{:else}
 							<p class="card-text">{currentCard?.result}</p>
 						{/if}
-						{#if currentCard?.clue}
+						{#if currentCard?.clue && deckId !== 'german-colors'}
 							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
 								{currentCard.clue}
 							</p>
