@@ -158,15 +158,17 @@
 			triggerConfetti();
 		} else {
 			if (isFlipped) {
+				// If the card is flipped (revealing the back), we must flip it back first,
+				// and only update displayActivePointer AFTER the animation ends (300ms) to prevent showing next card's answer.
 				isFlipped = false;
-				// Wait for card flip rotation transition (600ms style) to hide back side text, then update display
 				setTimeout(() => {
 					displayActivePointer = nextPointer;
 					if (autoListen) {
 						speakWord(currentCard?.indication);
 					}
-				}, 300); // 300ms is halfway through rotate transition (0.6s total), fully hidden
+				}, 300);
 			} else {
+				// If the card is NOT flipped (still showing the front), update displayActivePointer immediately.
 				displayActivePointer = nextPointer;
 				if (autoListen) {
 					tick().then(() => {
