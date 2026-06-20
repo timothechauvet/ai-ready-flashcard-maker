@@ -46,4 +46,3 @@ YASSSF is built with a modern, cloud-ready stack:
 
 
 ---
-*Generated with care by Homardless 🦞*
