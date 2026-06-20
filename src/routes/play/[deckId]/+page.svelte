@@ -69,6 +69,23 @@
 		isFlipped = !isFlipped;
 	}
 
+	function speakWord(text: string | undefined) {
+		if (!text) return;
+		// Strip brackets or parens if needed, but usually speech synthesis works fine
+		const cleanText = text.replace(/\([^)]*\)/g, '').replace(/\[[^\]]*\]/g, '').trim();
+		const utterance = new SpeechSynthesisUtterance(cleanText);
+		utterance.lang = 'de-DE';
+		
+		// Find a native German voice if possible
+		const voices = window.speechSynthesis.getVoices();
+		const deVoice = voices.find(v => v.lang.startsWith('de'));
+		if (deVoice) {
+			utterance.voice = deVoice;
+		}
+		
+		window.speechSynthesis.speak(utterance);
+	}
+
 	function handleSwipeLeft() {
 		if (!currentCard) return;
 		saveToHistory();
@@ -217,28 +234,43 @@
 		</div>
 
 		<!-- Central Card Area -->
-		<div
-			class="flashcard-wrapper"
-			onclick={handleFlip}
-			onkeydown={(e) => e.key === ' ' && handleFlip()}
-			role="button"
-			tabindex="0"
-		>
-			<div class="flashcard {isFlipped ? 'flipped' : ''}">
-				<div class="card-side card-front">
-					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
-					<p class="card-text">{currentCard?.indication}</p>
-					{#if currentCard?.pronunciation}
-						<p class="pronunciation-text" style="color: var(--text-muted); font-size: 1.1rem; font-family: monospace; margin-top: 0.5rem;">
-							{currentCard.pronunciation}
-						</p>
-					{/if}
-				</div>
-				<div class="card-side card-back">
-					<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
-					<p class="card-text">{currentCard?.result}</p>
+		<div style="display: flex; flex-direction: column; width: 100%; align-items: center; gap: 0.5rem;">
+			<div
+				class="flashcard-wrapper"
+				onclick={handleFlip}
+				onkeydown={(e) => e.key === ' ' && handleFlip()}
+				role="button"
+				tabindex="0"
+			>
+				<div class="flashcard {isFlipped ? 'flipped' : ''}">
+					<div class="card-side card-front">
+						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
+						<p class="card-text">{currentCard?.indication}</p>
+						{#if currentCard?.pronunciation}
+							<p class="pronunciation-text" style="color: var(--text-muted); font-size: 1.1rem; font-family: monospace; margin-top: 0.5rem;">
+								{currentCard.pronunciation}
+							</p>
+						{/if}
+					</div>
+					<div class="card-side card-back">
+						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
+						<p class="card-text">{currentCard?.result}</p>
+					</div>
 				</div>
 			</div>
+
+			<button
+				class="action-btn speak-btn"
+				onclick={(e) => { e.stopPropagation(); speakWord(currentCard?.indication); }}
+				style="display: flex; align-items: center; gap: 0.5rem; background: var(--card-bg); border: 1px solid var(--border-color); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 2rem; cursor: pointer; font-size: 0.9rem;"
+				aria-label="Speak pronunciation"
+			>
+				<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+					<polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+					<path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+				</svg>
+				Listen
+			</button>
 		</div>
 
 		<!-- Instructions / Curved arrows design -->
