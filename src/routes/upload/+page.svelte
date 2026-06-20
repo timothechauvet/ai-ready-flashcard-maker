@@ -40,7 +40,11 @@
 				errorMsg = 'Please paste some YAML content.';
 				return;
 			}
-			yamlContent = rawYamlText;
+			// Remove any markdown code fences like ```yaml or ```
+			yamlContent = rawYamlText
+				.split('\n')
+				.filter(line => !line.trim().startsWith('```'))
+				.join('\n');
 			defaultTitle = 'Pasted Deck';
 		}
 
@@ -131,14 +135,19 @@ Example format:
 - indication: "What does HTML stand for?"
   result: "HyperText Markup Language"
 
-Ensure the YAML is clean and correctly indented. DO NOT include code fences like \`\`\`yaml or any other text/indication, just the raw YAML list itself.
+Ensure the YAML is clean and correctly indented.
 
 Topic: `;
+
+	let showCopyToast = $state(false);
 
 	async function copyPrompt() {
 		try {
 			await navigator.clipboard.writeText(aiPrompt);
-			alert('Prompt copied to clipboard!');
+			showCopyToast = true;
+			setTimeout(() => {
+				showCopyToast = false;
+			}, 2000);
 		} catch (err) {
 			console.error('Failed to copy: ', err);
 		}
@@ -301,9 +310,14 @@ Topic: `;
 			style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;"
 		>
 			<h3>AI Generator Prompt</h3>
-			<button class="btn btn-secondary" onclick={copyPrompt} style="font-size: 0.8rem;">
-				Copy Prompt
-			</button>
+			<div style="position: relative;">
+				<button class="btn btn-secondary" onclick={copyPrompt} style="font-size: 0.8rem;">
+					Copy Prompt
+				</button>
+				{#if showCopyToast}
+					<span class="copy-toast">Copied!</span>
+				{/if}
+			</div>
 		</div>
 		<p class="text-muted" style="margin-bottom: 1rem;">
 			Copy this prompt and paste it into an AI (like ChatGPT or Claude) to generate a compatible
@@ -315,3 +329,27 @@ Topic: `;
     </pre>
 	</div>
 </div>
+
+<style>
+	.copy-toast {
+		position: absolute;
+		top: -30px;
+		left: 50%;
+		transform: translateX(-50%);
+		background: #333;
+		color: white;
+		padding: 0.25rem 0.5rem;
+		border-radius: 0.25rem;
+		font-size: 0.75rem;
+		pointer-events: none;
+		white-space: nowrap;
+		animation: fadeInOut 2s ease-in-out forwards;
+	}
+
+	@keyframes fadeInOut {
+		0% { opacity: 0; transform: translateX(-50%) translateY(5px); }
+		15% { opacity: 1; transform: translateX(-50%) translateY(0); }
+		85% { opacity: 1; transform: translateX(-50%) translateY(0); }
+		100% { opacity: 0; transform: translateX(-50%) translateY(-5px); }
+	}
+</style>
