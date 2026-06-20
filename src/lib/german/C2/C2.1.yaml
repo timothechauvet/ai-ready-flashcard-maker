@@ -1,606 +1,812 @@
-- indication: Vertrauen schenken / gewinnen
-  result: to place trust in / to gain trust
-  pronunciation: '[fɛɐ̯ˈtʁaʊ̯ən ˈʃɛŋkn̩ / ɡəˈvɪnən]'
-  clue: ''
-- indication: in die Hände von anderen begeben
-  result: to put oneself in the hands of others
-  pronunciation: '[zɪç ɪn diː ˈhɛndə fɔn ˈandəʁən bəˈɡeːbn̩]'
-  clue: sich
-- indication: tun mit
-  result: to struggle with / to have a hard time with
-  pronunciation: '[zɪç ˈʃveːɐ̯ˌtuːn mɪt]'
-  clue: + Dat. sich schwer|
-- indication: ein offenes Ohr haben
-  result: to be a good listener / to have an open ear
-  pronunciation: '[aɪ̯n ˈɔfənəs oːɐ̯ ˈhaːbn̩]'
-  clue: ''
-- indication: im Auge behalten
-  result: to keep an eye on something
-  pronunciation: '[ˈɛtvas ɪm ˈaʊ̯ɡə bəˈhaltn̩]'
-  clue: etw.
-- indication: unter die Arme greifen
-  result: to help someone out / to lend someone a helping hand
-  pronunciation: '[ˈjeːmandəm ˈʊntɐ diː ˈaʁmə ˈɡʁaɪ̯fn̩]'
-  clue: jdm.
-- indication: das Gespräch suchen
-  result: to seek to talk / to reach out for a conversation
-  pronunciation: '[das ɡəˈʃpʁɛːç ˈzuːxn̩]'
-  clue: ''
-- indication: zur Aufgabe machen
-  result: to make it one's task / mission to do something
-  pronunciation: '[zɪç ˈɛtvas tsuː̯ɐ ˈaʊ̯fˌɡaːbə ˈmaxn̩]'
-  clue: sich etw.
-- indication: in öffentlicher Hand
-  result: publicly owned / in public hands
-  pronunciation: '[ɪn ˈœfn̩tlɪçɐ hant]'
-  clue: ''
-- indication: niedrig halten
-  result: to keep sth. low
-  pronunciation: '[ˈɛtvas ˈniːdʁɪç ˈhaltn̩]'
-  clue: etw.
-- indication: abdecken durch **
-  result: to cover sth. with/by (e.g. to cover costs through rent)
-  pronunciation: '[ˈɛtvas ˈapˌdɛkn̩ dʊʁç]'
-  clue: Kosten durch Mieten abdecken etw.
-- indication: ins Spiel kommen
-  result: to come into play
-  pronunciation: '[ɪns ʃpiːl ˈkɔmən]'
-  clue: ''
-- indication: unabdingbar finden
-  result: to find indispensable / to deem essential
-  pronunciation: '[ʊnapˈdɪŋbaːɐ̯ ˈfɪndn̩]'
-  clue: ''
-- indication: unerlässlich sein
-  result: to be essential / to be indispensable
-  pronunciation: '[ʊnʔɛɐ̯ˈlɛslɪç zaɪn]'
-  clue: ''
-- indication: unter natürlichen Bedingungen
-  result: under natural conditions
-  pronunciation: '[ˈʊntɐ naˈtyːɐ̯lɪçn̩ bəˈdɪŋʊŋən]'
-  clue: ''
-- indication: der / ein wahre Kern
-  result: a grain of truth
-  pronunciation: '[deːɐ̯ / aɪ̯n ˈvaːʁə(ɐ̯) kɛʁn]'
-  clue: r
-- indication: ausgeprägt sein
-  result: to be pronounced / to be distinct
-  pronunciation: '[ˈaʊ̯sɡəˌpʁɛːkt zaɪn]'
-  clue: ''
-- indication: etwas wird / ist gern gesehen
-  result: something is welcomed / highly regarded
-  pronunciation: '[ˈɛtvas vɪɐ̯t / ɪst ɡɛʁn ɡəˈzeːən]'
-  clue: ''
-- indication: einen Vorteil verschaffen
-  result: to gain an advantage
-  pronunciation: '[zɪç ˈaɪ̯nən ˈfoːɐ̯taɪ̯l fɛɐ̯ˈʃafn̩]'
-  clue: sich
-- indication: geht immer
-  result: sth. is always a safe bet / always works
-  pronunciation: '[ˈɛtvas ɡeːt ˈɪmɐ]'
-  clue: eine neutrale Umgebung geht immer etw.
-- indication: ein erfülltes Leben
-  result: a fulfilling life
-  pronunciation: '[aɪn ɛɐ̯ˈfʏltəs ˈleːbn̩]'
-  clue: ''
-- indication: selbst verwirklichen
-  result: to realize one's potential / self-actualize
-  pronunciation: '[zɪç zɛlpst fɛɐ̯ˈvɪʁklɪçn̩]'
-  clue: sich
-- indication: auf den Prüfstand stellen
-  result: to put sth. to the test / scrutinize sth.
-  pronunciation: '[ˈɛtvas aʊ̯f deːn ˈpʁyːfˌʃtant ˈʃtɛlən]'
-  clue: = etw. hinterfragen etw.
-- indication: über etw. im Klaren sein
-  result: to be clear about sth. / be aware of sth.
-  pronunciation: '[zɪç ˈyːbɐ ˈɛtvas ɪm ˈklaːʁən zaɪn]'
-  clue: = etw. genau wissen sich
-- indication: hinschmeißen
-  result: to chuck / quit (quit a job)
-  pronunciation: '[ˈhɪnˌʃmaɪ̯sn̩]'
-  clue: '*einen Job hinschmeißen*'
-- indication: einen Kassensturz machen
-  result: to take stock of one's finances
-  pronunciation: '[ˈaɪ̯nən ˈkasn̩ˌʃtʊʁts ˈmaxn̩]'
-  clue: ''
-- indication: im Hinblick auf
-  result: in view of / with regard to
-  pronunciation: '[ɪm ˈhɪnˌblɪk aʊ̯f]'
-  clue: + Akk.
-- indication: Anerkennung verdienen
-  result: to deserve recognition
-  pronunciation: '[ˈanʔɛɐ̯ˌkɛnʊŋ fɛɐ̯ˈdiːnən]'
-  clue: ''
-- indication: eine Selbstverständlichkeit sein
-  result: to be a matter of course / be taken for granted
-  pronunciation: '[ˈaɪ̯nə ˈzɛlpstfɛɐ̯ˌʃtɛntlɪçkaɪ̯t zaɪn]'
-  clue: ''
-- indication: im Laufe des Lebens
-  result: in the course of life
-  pronunciation: '[ɪm ˈlaʊ̯fə dɛs ˈleːbn̩s]'
-  clue: ''
-- indication: für etw. stehen
-  result: to stand for something / represent something
-  pronunciation: '[fyːɐ̯ ˈɛtvas ˈʃteːən (ˈɛtvas fɛɐ̯ˈtʁeːtn̩)]'
-  clue: = etw. vertreten
-- indication: von nun an
-  result: from now on
-  pronunciation: '[fɔn nuːn ˈan]'
-  clue: ''
-- indication: einreißen
-  result: to tear down (to tear down boundaries)
-  pronunciation: '[ˈaɪ̯nˌʁaɪ̯sn̩ (ˈɡʁɛntsn̩ ˈaɪ̯nˌʁaɪ̯sn̩)]'
-  clue: Grenzen einreißen
-- indication: genau genommen
-  result: strictly speaking
-  pronunciation: '[ɡəˈnaʊ̯ ɡəˈnɔmən]'
-  clue: ''
-- indication: streng genommen
-  result: strictly speaking
-  pronunciation: '[ʃtʁɛŋ ɡəˈnɔmən]'
-  clue: ''
-- indication: anders formuliert
-  result: formulated differently / put another way
-  pronunciation: '[ˈandəʁs fɔʁmuˈliːɐ̯t]'
-  clue: ''
-- indication: generell gesprochen
-  result: generally speaking
-  pronunciation: '[ɡenəˈʁɛl ɡəˈʃpʁɔxən]'
-  clue: ''
-- indication: oberflächlich betrachtet
-  result: looked at superficially
-  pronunciation: '[ˈoːbɐˌflɛçlɪç bəˈtʁaxtət]'
-  clue: ''
-- indication: genauer betrachtet
-  result: looked at more closely
-  pronunciation: '[ɡəˈnaʊ̯ɐ bəˈtʁaxtət]'
-  clue: ''
-- indication: genau gesagt
-  result: to put it precisely / strictly speaking
-  pronunciation: '[ɡəˈnaʊ̯ ɡəˈzaːkt]'
-  clue: ''
-- indication: kurz gesagt
-  result: in short / to put it briefly
-  pronunciation: '[kʊʁts ɡəˈzaːkt]'
-  clue: ''
-- indication: ehrlich gesagt
-  result: honestly speaking / to be honest
-  pronunciation: '[ˈeːɐ̯lɪç ɡəˈzaːkt]'
-  clue: ''
-- indication: Es bricht mir kein Zacken aus der Krone, wenn ich mich für diesen Fehler aufrichtig entschuldige.
-  result: It won't hurt my pride (it's not beneath my dignity) to sincerely apologize for this mistake.
-- indication: Das geplante Bauprojekt wurde von den Behörden kurzerhand abgeschmettert.
-  result: The planned construction project was summarily rejected (turned down flat) by the authorities.
-- indication: Trotz intensiver Verhandlungen konnte kein greifbares Ergebnis erzielt werden.
-  result: Despite intensive negotiations, no tangible result could be achieved.
-- indication: Seine Argumentation krankt daran, dass er von völlig falschen Voraussetzungen ausgeht.
-  result: His argument suffers from the fact that he is based on completely false assumptions.
-- indication: Wir dürfen dieses heikle Thema nicht länger totschweigen, sondern müssen es offen ansprechen.
-  result: We can no longer give this sensitive topic the silent treatment (ignore it completely); we must address it openly.
-- indication: der Humorist, -en
-  result: humorist (male)
-  pronunciation: '[deːɐ̯ humoˈʁɪst]'
-  clue: ''
-- indication: die Humoristin, -nen
-  result: humorist (female)
-  pronunciation: '[diː humoˈʁɪstɪn]'
-  clue: ''
-- indication: humoristisch
-  result: humorous
-  pronunciation: '[humoˈʁɪstɪʃ]'
-  clue: ''
-- indication: das Milieu, -s
-  result: milieu / social environment
-  pronunciation: '[das miˈljøː]'
-  clue: ''
-- indication: die Normvorstellung, -en
-  result: normative concept / standard
-  pronunciation: '[diː ˈnɔʁmfoːɐ̯ˌʃtɛlʊŋ]'
-  clue: ''
-- indication: der Selbstzweck
-  result: end in itself
-  pronunciation: '[deːɐ̯ ˈzɛlpstˌt͡svɛk]'
-  clue: Sg.
-- indication: bildungsbürgerlich
-  result: educated middle-class / highbrow
-  pronunciation: '[ˈbɪldʊŋsˌbʏʁɡɐlɪç]'
-  clue: ''
-- indication: ordinär
-  result: vulgar / low / common
-  pronunciation: '[ɔʁdiˈnɛːɐ̯]'
-  clue: ''
-- indication: die Gesellschaftsschicht, -en
-  result: social class / social stratum
-  pronunciation: '[diː ɡəˈzɛlʃaftsˌʃɪçt]'
-  clue: ''
-- indication: der Diskurs, -e
-  result: discourse
-  pronunciation: '[deːɐ̯ dɪsˈkuːɐ̯s]'
-  clue: ''
-- indication: die Mehrdeutigkeit, -en
-  result: ambiguity / multiple meanings
-  pronunciation: '[diː ˈmeːɐ̯ˌdɔɪ̯tɪçkaɪ̯t]'
-  clue: ''
-- indication: die Verdrängung, -en
-  result: suppression / displacement / repression
-  pronunciation: '[diː fɛɐ̯ˈdʁɛŋʊŋ]'
-  clue: ''
-- indication: tabuisieren
-  result: to make taboo / to taboo
-  pronunciation: '[tabuiˈziːʁən]'
-  clue: ''
-- indication: das Machtverhältnis, -se
-  result: power relation / power dynamic
-  pronunciation: '[das ˈmaxtfɛɐ̯ˌhɛltnɪs]'
-  clue: ''
-- indication: der Tabubruch, "-e
-  result: taboo breach / breaking of a taboo
-  pronunciation: '[deːɐ̯ ˈtaːbuːˌbʁʊx]'
-  clue: ''
-- indication: die Spracherziehung
-  result: language education
-  pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
-  clue: Sg.
+- indication: der Vorwurf
+  result: accusation / reproach / allegation
+  clue: Noun
+- indication: zufolge
+  result: according to
+  clue: Adjective
+  pronunciation: '[t͡suˈfɔlɡə]'
+- indication: zwischenmenschlich
+  result: interpersonal
+  clue: Adjective
+  pronunciation: '[ˈtsvɪʃn̩ˌmɛnʃlɪç]'
+- indication: schmecken
+  result: to taste
+  clue: Verb
+  pronunciation: '[ˈʃmɛkŋ̍]'
+- indication: fusionieren
+  result: to merge
+  clue: Verb
+  pronunciation: '[fuzi̯oˈniːʁən]'
+- indication: verwackelt
+  result: blurry / shaky
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈvakl̩t]'
+- indication: sämtlich
+  result: all / complete
+  clue: Adjective
+  pronunciation: '[ˈzɛmtlɪç]'
+- indication: das Engagement
+  result: commitment / involvement / engagement
+  clue: Noun
+- indication: die Rücksicht
+  result: consideration / respect (considerate)
+  clue: Noun
+- indication: kontakte knüpfen
+  result: make contacts / network
+  clue: Verb
+- indication: bedürftig
+  result: needy / in need
+  clue: Adjective
+  pronunciation: '[bəˈdʏʁftɪç]'
+- indication: geschlechtsspezifisch
+  result: gender-specific
+  clue: Adjective
+  pronunciation: '[ɡəˈʃlɛçt͡sʃpeˌt͡siːfɪʃ]'
+- indication: brutto
+  result: gross (vs. net)
+  clue: Adjective
+  pronunciation: '[ˈbʁʊto]'
+- indication: einst
+  result: once / formerly
+  clue: Adjective
+  pronunciation: '[aɪ̯nst]'
+- indication: überleben
+  result: to survive
+  clue: Verb
+  pronunciation: '[ˌyːbɐˈleːbn̩]'
+- indication: wachsen
+  result: to grow up
+  clue: Verb
+  pronunciation: '[hɛˈʁanˌvaksn̩]'
+- indication: messen
+  result: to measure
+  clue: Verb
+  pronunciation: '[ˈmɛsn̩]'
+- indication: höchstmöglich
+  result: highest possible
+  clue: Adjective
+  pronunciation: '[ˈhøːçstˌmøːklɪç]'
+- indication: unterrepräsentiert
+  result: underrepresented
+  clue: Adjective
+  pronunciation: '[ˈʊntɐʁeːpʁezɛnˌtiːɐ̯t]'
+- indication: kündigen
+  result: to announce
+  clue: Verb
+  pronunciation: '[ˈanˌkʏndɪɡn̩]'
+- indication: gegenwärtig
+  result: current / present
+  clue: Adjective
+  pronunciation: '[ˈɡeːɡn̩ˌvɛʁtɪç]'
+- indication: ablegen
+  result: take off / discard / set down / cast aside (verwerfen)
+  clue: Verb
+- indication: etablieren
+  result: to establish
+  clue: Verb
+  pronunciation: '[etaˈbliːʁən]'
 - indication: gewiss
   result: certain / specific
+  clue: Adjective
   pronunciation: '[ɡəˈvɪs]'
-  clue: ''
-- indication: instrumentalisieren
-  result: to instrumentalize / to exploit
-  pronunciation: '[ɪnstʁuməntaliˈziːʁən]'
-  clue: ''
-- indication: einordnen
-  result: to categorize / to put into context
-  pronunciation: '[ˈɛtvas ˈaɪ̯nˌʔɔɐ̯dnən]'
-  clue: etw.
-- indication: das Vertrauensverhältnis, -se
-  result: relationship of trust
-  pronunciation: '[das fɛɐ̯ˈtʁaʊ̯ənsfɛɐ̯ˌhɛltnɪs]'
-  clue: ''
-- indication: die Reichweite, -n
-  result: range / reach
-  pronunciation: '[diː ˈʁaɪ̯çˌvaɪ̯tə]'
-  clue: ''
-- indication: ausblenden
-  result: to block out / to ignore
-  pronunciation: '[ˈɛtvas ˈaʊ̯sˌblɛndən]'
-  clue: etw.
-- indication: die Doppeldeutigkeit, -en
-  result: ambiguity / double meaning
-  pronunciation: '[diː ˈdɔpl̩ˌdɔɪ̯tɪçkaɪ̯t]'
-  clue: ''
 - indication: vermeintlich
   result: supposed / alleged
+  clue: Adjective
   pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
-  clue: ''
-- indication: der Dienstaccount, -s
-  result: work account / official account
-  pronunciation: '[deːɐ̯ ˈdiːnstʔaˌkaʊ̯nt]'
-  clue: ''
-- indication: die Sachlage, -n
-  result: factual situation / state of affairs
-  pronunciation: '[diː ˈzaxˌlaːɡə]'
-  clue: ''
-- indication: einschätzen
-  result: to assess / to estimate
-  pronunciation: '[ˈɛtvas ˈaɪ̯nˌʃɛtsən]'
-  clue: etw.
-- indication: erstaunlich
-  result: astonishing / amazing
-  pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
-  clue: ''
-- indication: unterschätzen
-  result: to underestimate something
-  pronunciation: '[ˈɛtvas ˌʊntɐˈʃɛtsən]'
-  clue: etw.
-- indication: die Fürsorgepflicht
-  result: duty of care
-  pronunciation: '[diː ˈfyːɐ̯zɔʁɡəˌp͡flɪçt]'
-  clue: Sg.
-- indication: schikanieren
-  result: to harass / to bully someone
-  pronunciation: '[ˈjeːmandn̩ ʃikaˈniːʁən]'
-  clue: jdn.
-- indication: die Schikane, -n
-  result: harassment / bullying / chicanery
-  pronunciation: '[diː ʃiˈkaːnə]'
-  clue: ''
+- indication: neuartig
+  result: novel / new type of
+  clue: Adjective
+  pronunciation: '[ˈnɔɪ̯ˌʔaːɐ̯tɪç]'
+- indication: originell
+  result: original / creative
+  clue: Adjective
+  pronunciation: '[oʁiɡiˈnɛl]'
+- indication: rücksicht nehmen
+  result: to be considerate of someone
+  clue: Verb
+- indication: unparteiisch
+  result: impartial / unbiased
+  clue: Adjective
+  pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
+- indication: verschwiegen
+  result: discreet / secretive
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
+- indication: langwierig
+  result: lengthy / protracted
+  clue: Adjective
+  pronunciation: '[ˈlaŋˌviːʁɪç]'
+- indication: fundiert
+  result: well-founded / sound
+  clue: Adjective
+  pronunciation: '[fʊnˈdiːɐ̯t]'
 - indication: begrenzt
   result: limited / restricted
+  clue: Adjective
   pronunciation: '[bəˈɡʁɛntst]'
-  clue: ''
-- indication: jdn./ etw. überwachen
-  result: to monitor / supervise / watch someone or something
-  pronunciation: '[ˈjeːmandn̩ / ˈɛtvas yːbɐˈvaxn̩]'
-  clue: ''
-- indication: ausdrücklich
-  result: explicit / express / explicitly
-  pronunciation: '[ˈaʊ̯sˌdʁʏklɪç]'
-  clue: ''
-- indication: der Irrtum, "-er
-  result: error / mistake / misconception
-  pronunciation: '[deːɐ̯ ˈɪʁtuːm]'
-  clue: ''
-- indication: der Kündigungsschutz
-  result: protection against dismissal / protection against wrongful discharge
-  pronunciation: '[deːɐ̯ ˈkʏndɪɡʊŋsˌʃʊts]'
-  clue: Sg.
-- indication: die Prognose, -n
-  result: forecast / prediction / prognosis
-  pronunciation: '[diː pʁoˈɡnoːzə]'
-  clue: ''
-- indication: muten
-  result: to expect something of someone / to demand too much of someone
-  pronunciation: '[ˈjeːmandəm ˈɛtvas ˈt͡suːˌmuːtən]'
-  clue: jdm. etw. zu|
-- indication: setzen
-  result: to assert oneself / to prevail / to catch on
-  pronunciation: '[zɪç ˈdʊʁçˌzɛtsən]'
-  clue: sich durch|
-- indication: brüllen
-  result: to roar / shout / yell
-  pronunciation: '[ˈbʁʏlən]'
-  clue: ''
-- indication: schalten
-  result: to call in someone / to involve someone / to consult someone
-  pronunciation: '[ˈjeːmandn̩ ˈaɪ̯nˌʃaltn̩]'
-  clue: jdn. ein|
-- indication: spezialisiert sein auf
-  result: to be specialized in / to specialize in
-  pronunciation: '[ʃpetsialiˈziːɐ̯t zaɪ̯n aʊ̯f]'
-  clue: + Akk.
-- indication: legen
-  result: to explain something to someone / to present something to someone
-  pronunciation: '[ˈjeːmandəm ˈɛtvas ˈdaːɐ̯ˌleːɡn̩]'
-  clue: jmd. etw. dar|
-- indication: schuldbewusst
-  result: guilt-conscious / contrite / apologetic
-  pronunciation: '[ˈʃʊltbəˌvʊst]'
-  clue: ''
-- indication: die Konversation, -en
-  result: conversation
-  pronunciation: '[diː kɔnvɛʁzaˈtsjoːnən]'
-  clue: ''
-- indication: der Schwerpunkt, -e
-  result: focus / main emphasis / focal point
-  pronunciation: '[deːɐ̯ ˈʃveːɐ̯pʊŋkt]'
-  clue: ''
-- indication: etw./ jdn. übersehen
-  result: to overlook / miss something or someone
-  pronunciation: '[ˌyːbɐˈzeːən]'
-  clue: übersieht, übersah, hat übersehen
-- indication: wirken auf
-  result: to influence / affect / act on
-  pronunciation: '[ˈaɪ̯nˌvɪʁkn̩ aʊ̯f]'
-  clue: + Akk. ein|
-- indication: bemühen um
-  result: to strive for / to make an effort to obtain or achieve something
-  pronunciation: '[zɪç bəˈmyːən ʊm]'
-  clue: + Akk. sich
-- indication: sinngemäß
-  result: analogous / corresponding in meaning / by implication
-  pronunciation: '[ˈzɪnɡəˌmɛːsɪç]'
-  clue: ''
-- indication: konfrontieren mit
-  result: to confront someone with
-  pronunciation: '[ˈjeːmandn̩ kɔnfʁɔnˈtiːʁən mɪt]'
-  clue: + Dat. jdn.
-- indication: das Verkehrsaufkommen
-  result: volume of traffic / traffic volume
-  pronunciation: '[das fɛɐ̯ˈkeːɐ̯sˌʔaʊ̯fkɔmən]'
-  clue: Sg.
-- indication: überschreiten
-  result: to exceed / cross / surpass something
-  pronunciation: '[ˌyːbɐˈʃʁaɪ̯tn̩]'
-  clue: überschreitet, überschritt, hat überschritten etw.
-- indication: ermuntern
-  result: to encourage someone / to cheer someone up
-  pronunciation: '[ˈjeːmandn̩ ɛɐ̯ˈmʊntɐn]'
-  clue: jdn.
-- indication: herausragend
-  result: outstanding / prominent / exceptional
-  pronunciation: '[hɛˈʁaʊ̯sˌʁaːɡn̩t]'
-  clue: ''
 - indication: stur
   result: stubborn / obstinate
+  clue: Adjective
   pronunciation: '[ʃtuːɐ̯]'
-  clue: ''
-- indication: '*162'
-  result: page 162 (reference)
-  pronunciation: null
-  clue: ''
-- indication: '*C1 › 76'
-  result: level C1, page/section 76 (reference)
-  pronunciation: null
-  clue: ''
-- indication: lenken
-  result: to relent / give in / back down
-  pronunciation: '[ˈaɪ̯nˌlɛŋkən]'
-  clue: ein|
-- indication: beharrlich
-  result: persistent / tenacious / persevering
-  pronunciation: '[bəˈhaʁlɪç]'
-  clue: ''
-- indication: geben
-  result: to yield / give in / capitulate
-  pronunciation: '[ˈnaːxˌɡeːbən]'
-  clue: gibt nach, gab nach, hat nachgegeben nach|
+- indication: eingeschränkt
+  result: restricted / limited
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nɡəˌʃʁɛŋkt]'
+- indication: meinungsäußernd
+  result: expressing an opinion
+  clue: Adjective
+  pronunciation: '[ˈmaɪ̯nʊŋsˌʔɔʏ̯sɐnt]'
+- indication: ordinär
+  result: vulgar / low / common
+  clue: Adjective
+  pronunciation: '[ɔʁdiˈnɛːɐ̯]'
+- indication: erstaunlich
+  result: astonishing / amazing
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
+- indication: die Aufforderung
+  result: request / instruction / call to do something
+  clue: Noun
+- indication: fluchen
+  result: to curse / swear
+  clue: Verb
+  pronunciation: '[ˈfluːxn̩]'
+- indication: einfühlsam
+  result: empathetic / sensitive
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌfyːlzaːm]'
+- indication: unlösbar
+  result: unsolvable / insoluble
+  clue: Adjective
+  pronunciation: '[ˈʊnˌløːsbaːɐ̯]'
+- indication: scheinbar
+  result: seemingly / apparently
+  clue: Adjective
+  pronunciation: '[ˈʃaɪ̯nbaːɐ̯]'
+- indication: übermäßig
+  result: excessive / immoderate
+  clue: Adjective
+  pronunciation: '[ˈyːbɐˌmɛːsɪç]'
+- indication: flecken sehen
+  result: to see spots / to notice stains
+  clue: Verb
+- indication: würdigend
+  result: appreciative / honoring
+  clue: Adjective
+  pronunciation: '[ˈvʏʁdɪɡn̩t]'
+- indication: annehmbar
+  result: acceptable / reasonable
+  clue: Adjective
+  pronunciation: '[ˈanˌneːmbaːɐ̯]'
+- indication: beschützen
+  result: to protect someone
+  clue: Verb
+  pronunciation: '[bəˈʃʏtsn̩]'
+- indication: erfrieren
+  result: to freeze to death
+  clue: Verb
+  pronunciation: '[ɛɐ̯ˈfʁiːʁən]'
+- indication: vereinen
+  result: to unite / combine
+  clue: Verb
+  pronunciation: '[fɛɐ̯ˈʔaɪ̯nən]'
+- indication: klischeehaft
+  result: clichéed / stereotypical
+  clue: Adjective
+  pronunciation: '[klɪˈʃeːhaft]'
+- indication: wirklichkeitsnah
+  result: realistic / true-to-life
+  clue: Adjective
+  pronunciation: '[ˈvɪʁklɪçkaɪ̯tsˌnaː]'
+- indication: wertschätzend
+  result: appreciative / respectful
+  clue: Adjective
+  pronunciation: '[ˈveːɐ̯tˌʃɛt͡sənt]'
+- indication: detailreich
+  result: detailed / rich in detail
+  clue: Adjective
+  pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
+- indication: fesselnd
+  result: captivating / enthralling
+  clue: Adjective
+  pronunciation: '[ˈfɛsl̩nt]'
+- indication: stein bestellt
+  result: stone ordered / stone commissioned
+  clue: Verb
+- indication: nehmen
+  result: to perceive / notice
+  clue: Verb
+  pronunciation: '[ˈvaːɐ̯ˌneːmən]'
+- indication: schrecken
+  result: to startle / jump up
+  clue: Verb
+  pronunciation: '[ˈaʊ̯fˌʃʁɛkn̩]'
+- indication: sättigen
+  result: to satisfy / fill up
+  clue: Verb
+  pronunciation: '[ˈzɛtɪɡn̩]'
+- indication: erheblich
+  result: significant / considerable
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈheːplɪç]'
+- indication: hegen
+  result: to care for / to look after / to protect / to harbor (feelings)
+  clue: Verb
+- indication: öffnen
+  result: to open up to someone
+  clue: Verb
+  pronunciation: '[zɪç ˈœfnən]'
+- indication: der Sarkasmus
+  result: sarcasm
+  clue: Noun
+  pronunciation: '[deːɐ̯ zaʁˈkasmʊs]'
+- indication: verordnen
+  result: to prescribe / decree
+  clue: Verb
+  pronunciation: '[fɛɐ̯ˈʔɔʁdnən]'
+- indication: bewachen
+  result: to guard / watch over
+  clue: Verb
+  pronunciation: '[bəˈvaxn̩]'
+- indication: übergenau
+  result: overly precise / fastidious
+  clue: Adjective
+  pronunciation: '[ˈyːbɐɡəˌnaʊ̯]'
+- indication: brüllen
+  result: to roar / shout / yell
+  clue: Verb
+  pronunciation: '[ˈbʁʏlən]'
+- indication: überwinden
+  result: to overcome / surmount
+  clue: Verb
+  pronunciation: '[yːbɐˈvɪndn̩]'
+- indication: vermitteln
+  result: to convey / impart sth.
+  clue: Verb
+  pronunciation: '[ˈɛtvas fɛɐ̯ˈmɪtln̩]'
+- indication: einschätzen
+  result: to assess / to estimate
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˈaɪ̯nˌʃɛtsən]'
+- indication: regenerieren
+  result: to regenerate / recover
+  clue: Verb
+  pronunciation: '[zɪç ʁeɡeneˈʁiːʁən]'
+- indication: aneignen
+  result: to acquire / learn sth.
+  clue: Verb
+  pronunciation: '[zɪç ˈɛtvas ˈanˌaɪ̯ɡnən]'
+- indication: überqueren
+  result: to cross / to pass over
+  clue: Verb
+  pronunciation: '[yːbɐˈkveːʁən]'
+- indication: die Neugier
+  result: curiosity
+  clue: Noun
+  pronunciation: '[diː ˈnɔʏ̯ɡiːɐ̯]'
+- indication: erfüllend
+  result: fulfilling (a fulfilling job)
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈfʏlnt (aɪ̯n ɛɐ̯ˈfʏləndɐ bəˈʁuːf)]'
 - indication: einleuchtend
   result: plausible / logical / obvious
+  clue: Adjective
   pronunciation: '[ˈaɪ̯nˌlɔʏ̯çtn̩t]'
-  clue: ''
-- indication: knicken
-  result: to buckle / cave in / collapse
-  pronunciation: '[ˈaɪ̯nˌknɪkən]'
-  clue: ein|
+- indication: tabuisieren
+  result: to make taboo / to taboo
+  clue: Verb
+  pronunciation: '[tabuiˈziːʁən]'
+- indication: ausblenden
+  result: to block out / to ignore
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˈaʊ̯sˌblɛndən]'
+- indication: bekanntlich
+  result: as is well known / as you know
+  clue: Adjective
+  pronunciation: '[bəˈkantlɪç]'
+- indication: massiv
+  result: 'massive (here: severe / strong)'
+  clue: Adjective
+  pronunciation: '[maˈsiːf]'
+- indication: gewinnorientiert
+  result: profit-oriented / profit-driven
+  clue: Adjective
+  pronunciation: '[ɡəˈvɪnʔoʁiɛnˌtiːɐ̯t]'
+- indication: sorgfältig
+  result: careful / meticulous / diligent
+  clue: Adjective
+  pronunciation: '[ˈzɔʁkˌfɛltɪç]'
+- indication: berufsbedingt
+  result: work-related / due to one's job
+  clue: Adjective
+  pronunciation: '[bəˈʁuːfsbəˌdɪŋt]'
+- indication: einseitig
+  result: one-sided / unilateral / biased
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌzaɪ̯tɪç]'
+- indication: ausdrücklich
+  result: explicit / express / explicitly
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯sˌdʁʏklɪç]'
+- indication: die Solarenergie
+  result: solar energy
+  clue: Noun
+  pronunciation: '[diː zoˈlaːɐ̯ʔeːnɛʁˌɡiː]'
+- indication: die Ganztagsbetreuung
+  result: all-day care
+  clue: Noun
+  pronunciation: '[diː ˈɡant͡staːksbəˌtʁɔʏ̯ʊŋ]'
+- indication: unterschätzen
+  result: to underestimate something
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˌʊntɐˈʃɛtsən]'
+- indication: die Fürsorgepflicht
+  result: duty of care
+  clue: Noun
+  pronunciation: '[diː ˈfyːɐ̯zɔʁɡəˌp͡flɪçt]'
+- indication: die Patientenversorgung
+  result: patient care
+  clue: Noun
+  pronunciation: '[diː paˈt͡si̯ɛntn̩fɛɐ̯ˌzɔʁɡʊŋ]'
+- indication: einsetzbar
+  result: applicable / usable / deployable
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌzɛtsbaːɐ̯]'
+- indication: bildungsbürgerlich
+  result: educated middle-class / highbrow
+  clue: Adjective
+  pronunciation: '[ˈbɪldʊŋsˌbʏʁɡɐlɪç]'
+- indication: impulsiv
+  result: impulsive (to react impulsively)
+  clue: Adjective
+  pronunciation: '[ɪmpʊlˈziːf]'
+- indication: längerfristig
+  result: longer-term / in the longer term
+  clue: Adjective
+  pronunciation: '[ˈlɛŋɐˌfʁɪstɪç]'
+- indication: der Selbstzweck
+  result: end in itself
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈzɛlpstˌt͡svɛk]'
 - indication: harmoniebedürftig
   result: needing harmony / conflict-averse
+  clue: Adjective
   pronunciation: '[haʁmoˈniːbəˌdʏʁftɪç]'
-  clue: ''
-- indication: die Kriminalitätsrate, -n
-  result: crime rate
-  pronunciation: '[diː kʁiminaliˈtɛːtsˌʁaːtə]'
-  clue: ''
+- indication: gefühlsbetont
+  result: emotional / sentimental / emotive
+  clue: Adjective
+  pronunciation: '[ɡəˈfyːlsbəˌtoːnt]'
+- indication: die Nachhaltigkeit
+  result: sustainability
+  clue: Noun
+  pronunciation: '[diː ˈnaːxhaltɪçkaɪ̯t]'
+- indication: einbringen
+  result: to contribute / get involved
+  clue: Verb
+  pronunciation: '[zɪç ˈaɪ̯nˌbʁɪŋən (bʁɪŋt zɪç ˈaɪ̯, ˈbʁaxtə zɪç ˈaɪ̯, haːt zɪç ˈaɪ̯nɡəˌbʁaxt)]'
+- indication: der Personalmangel
+  result: staff shortage
+  clue: Noun
+  pronunciation: '[deːɐ̯ pɛʁzoˈnaːlˌmaŋl̩ (ˈzɪŋɡulaːɐ̯)]'
+- indication: beziehen
+  result: to involve / include someone
+  clue: Verb
+  pronunciation: '[ˈaɪ̯nbəˌt͡siːən]'
+- indication: schikanieren
+  result: to harass / to bully someone
+  clue: Verb
+  pronunciation: '[ˈjeːmandn̩ ʃikaˈniːʁən]'
+- indication: kurzweilig
+  result: entertaining / amusing / diverting
+  clue: Adjective
+  pronunciation: '[ˈkʊʁtsˌvaɪ̯lɪç]'
+- indication: aufwändig
+  result: elaborate / costly / time-consuming
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯fˌvɛndɪç]'
+- indication: vorhersehbar
+  result: predictable (*predictable results*)
+  clue: Adjective
+  pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'
+- indication: unermüdlich
+  result: untiring / tireless / indefatigable
+  clue: Adjective
+  pronunciation: '[ˈʊnʔɛɐ̯ˌmyːtlɪç]'
+- indication: packen
+  result: to tackle / to seize something
+  clue: Verb
+  pronunciation: '[ˈanˌpakn̩]'
+- indication: schildern
+  result: to describe / depict / portray
+  clue: Verb
+  pronunciation: '[ˈʃɪldɐn]'
+- indication: die Sorgfalt
+  result: care / diligence
+  clue: Noun
+  pronunciation: '[diː ˈzɔʁkfalt]'
+- indication: beinhalten
+  result: to contain / include / involve
+  clue: Verb
+  pronunciation: '[bəˈʔɪnhaltn̩]'
+- indication: knicken
+  result: to buckle / cave in / collapse
+  clue: Verb
+  pronunciation: '[ˈaɪ̯nˌknɪkən]'
+- indication: beharrlich
+  result: persistent / tenacious / persevering
+  clue: Adjective
+  pronunciation: '[bəˈhaʁlɪç]'
+- indication: einen Streit provozieren
+  result: provoking a fight
+  clue: Verb
+- indication: stellen
+  result: to face / to confront something
+  clue: Verb
+  pronunciation: '[zɪç ˈʃtɛlən]'
+- indication: der Ausstoß
+  result: emission / output
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌʃtoːs]'
+- indication: instrumentalisieren
+  result: to instrumentalize / to exploit
+  clue: Verb
+  pronunciation: '[ɪnstʁuməntaliˈziːʁən]'
+- indication: lenken
+  result: to relent / give in / back down
+  clue: Verb
+  pronunciation: '[ˈaɪ̯nˌlɛŋkən]'
+- indication: herausragend
+  result: outstanding / prominent / exceptional
+  clue: Adjective
+  pronunciation: '[hɛˈʁaʊ̯sˌʁaːɡn̩t]'
 - indication: verwerflich
   result: reprehensible / morally objectionable
+  clue: Adjective
   pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
-  clue: ''
 - indication: das Leid
   result: suffering / sorrow
+  clue: Noun
   pronunciation: '[das laɪ̯t]'
-  clue: Sg.
+- indication: anbringen
+  result: to fix / mount / install, or to bring forward / suggest / put on the table
+  clue: Verb
+- indication: zweifeln
+  result: to doubt / to call into question
+  clue: Verb
+  pronunciation: '[ˈanˌt͡svaɪ̯fl̩n]'
+- indication: die Spracherziehung
+  result: language education
+  clue: Noun
+  pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
+- indication: werten
+  result: to devalue / disparage / degrade
+  clue: Verb
+  pronunciation: '[ˈapˌveːɐ̯tn̩]'
+- indication: überspitzt
+  result: exaggerated / provocative / overstated
+  clue: Adjective
+  pronunciation: '[ˌyːbɐˈʃpɪt͡st]'
+- indication: die Regularien
+  result: rules / regulations
+  clue: Noun
+  pronunciation: '[diː ʁeɡuˈlaːʁi̯ən]'
+- indication: schuldbewusst
+  result: guilt-conscious / contrite / apologetic
+  clue: Adjective
+  pronunciation: '[ˈʃʊltbəˌvʊst]'
+- indication: wägen
+  result: to weigh up / to balance something
+  clue: Verb
+  pronunciation: '[ˈapˌvɛːɡn̩]'
+- indication: gewährleisten
+  result: to guarantee / to ensure something
+  clue: Verb
+  pronunciation: '[ɡəˈvɛːɐ̯ˌlaɪ̯stn̩]'
+- indication: die Erschöpfung
+  result: exhaustion / fatigue
+  clue: Noun
+  pronunciation: '[diː ɛɐ̯ˈʃœp͡fʊŋ]'
+- indication: der Ausbau
+  result: expansion / extension
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌbaʊ̯]'
+- indication: bestärken
+  result: to encourage / to reinforce someone
+  clue: Verb
+  pronunciation: '[bəˈʃtɛʁkn̩]'
+- indication: der Anbau
+  result: cultivation / growing
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈanˌbaʊ̯]'
+- indication: einordnen
+  result: to categorize / to put into context
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˈaɪ̯nˌʔɔɐ̯dnən]'
+- indication: verhältnismäßig
+  result: relatively / comparatively / proportional
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈhɛltnɪsˌmɛːsɪç]'
+- indication: begehrt
+  result: highly sought-after / in-demand / coveted
+  clue: Adjective
+  pronunciation: '[bəˈɡeːɐ̯t]'
+- indication: nebenberuflich
+  result: part-time / on the side / secondary (job)
+  clue: Adjective
+  pronunciation: '[ˈneːbn̩bəˌʁuːflɪç]'
+- indication: der Wohnraum
+  result: living space / housing
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈvoːnˌʁaʊ̯m]'
+- indication: das Neugeborene
+  result: newborn (infant / baby)
+  clue: Noun
+  pronunciation: '[das ˈnɔɪ̯ɡəˌboːʁənə]'
+- indication: der Einheitsbrei
+  result: monotony / uniform mush
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaɪ̯nhaɪ̯tsˌbʁaɪ̯]'
+- indication: überschreiten
+  result: to exceed / cross / surpass something
+  clue: Verb
+  pronunciation: '[ˌyːbɐˈʃʁaɪ̯tn̩]'
+- indication: die Windenergie
+  result: wind energy / wind power
+  clue: Noun
+  pronunciation: '[diː ˈvɪntʔeːnɛʁˌɡiː]'
+- indication: die Wasserkraft
+  result: hydropower / water power
+  clue: Noun
+  pronunciation: '[diː ˈvasɐˌkʁaft]'
+- indication: arbeiten
+  result: to process / work through / reappraise
+  clue: Verb
+  pronunciation: '[ˈaʊ̯fˌʔaʁbaɪ̯tn̩]'
+- indication: reizen
+  result: to appeal to (it appeals to me) / tempt
+  clue: Verb
+  pronunciation: '[ˈʁaɪ̯t͡sn̩ (ɛs ʁaɪ̯t͡st mɪç)]'
+- indication: der Sprachwitz
+  result: wordplay / linguistic wit
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈʃpʁaːxˌvɪts]'
+- indication: das Umfeld
+  result: environment / surroundings
+  clue: Noun
+  pronunciation: '[das ˈʊmfɛlt]'
+- indication: punkten
+  result: to score points / make a good impression
+  clue: Verb
+  pronunciation: '[ˈpʊŋktn̩]'
+- indication: vollziehen
+  result: to comprehend / to trace / to understand
+  clue: Verb
+  pronunciation: '[ˈnaːxfɔlˌt͡siːən]'
+- indication: unterbelegt
+  result: underoccupied / under-allocated / understaffed
+  clue: Adjective
+  pronunciation: '[ˈʊntɐbəˌleːkt]'
+- indication: die Verlässlichkeit
+  result: reliability / dependability
+  clue: Noun
+  pronunciation: '[diː fɛɐ̯ˈlɛslɪçkaɪ̯t]'
+- indication: prägen
+  result: to shape / to mould / to influence someone
+  clue: Verb
+  pronunciation: '[ˈpʁɛːɡn̩]'
+- indication: ermuntern
+  result: to encourage someone / to cheer someone up
+  clue: Verb
+  pronunciation: '[ˈjeːmandn̩ ɛɐ̯ˈmʊntɐn]'
+- indication: auffällig
+  result: (in)conspicuous / (un)obtrusive / (un)noticeable
+  clue: Adjective
+  pronunciation: '[(ˈʊn)ˌʔaʊ̯fɛlɪç]'
+- indication: einen Streit schlichten
+  result: to mediate / to settle a fight
+  clue: Verb
+- indication: setzen
+  result: to assert oneself / to prevail / to catch on
+  clue: Verb
+  pronunciation: '[zɪç ˈdʊʁçˌzɛtsən]'
+- indication: ersparen
+  result: to spare oneself sth. / to save oneself sth.
+  clue: Verb
+  pronunciation: '[(zɪç) ˈɛtvas ʔɛɐ̯ˈʃpaːʁən]'
+- indication: greifen
+  result: to take up sth. / to address sth. / to adopt
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˈaʊ̯fˌɡʁaɪ̯fən]'
+- indication: quälen
+  result: to torment oneself / to struggle / to agonize
+  clue: Verb
+  pronunciation: '[(zɪç) ˈkvɛːlən]'
+- indication: die Zelle, -n
+  result: cell
+  clue: Noun
+  pronunciation: '[diː ˈtsɛlə]'
+- indication: der Knochen, -
+  result: bone
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈknɔxn̩]'
+- indication: die Studie, -n
+  result: study
+  clue: Noun
+  pronunciation: '[diː ˈʃtuːdi̯ə]'
+- indication: das Genre, -s
+  result: genre
+  clue: Noun
+  pronunciation: '[das ˈʒɑ̃ːʁə]'
+- indication: die Dramatik
+  result: drama / dramatic nature / tension
+  clue: Noun
+  pronunciation: '[diː dʁaˈmaːtɪk]'
+- indication: sinngemäß
+  result: analogous / corresponding in meaning / by implication
+  clue: Adjective
+  pronunciation: '[ˈzɪnɡəˌmɛːsɪç]'
+- indication: bewältigen
+  result: to cope with / to overcome / to manage something
+  clue: Verb
+  pronunciation: '[bəˈvɛltɪɡn̩]'
+- indication: das Biogas, -e
+  result: biogas
+  clue: Noun
+  pronunciation: '[das ˈbiːoːˌɡaːs]'
+- indication: die Hungersnot, "-e
+  result: famine
+  clue: Noun
+  pronunciation: '[diː ˈhʊŋɐsˌnoːt]'
+- indication: das Verkehrsaufkommen
+  result: volume of traffic / traffic volume
+  clue: Noun
+  pronunciation: '[das fɛɐ̯ˈkeːɐ̯sˌʔaʊ̯fkɔmən]'
+- indication: das Durchhaltevermögen
+  result: perseverance / stamina / endurance
+  clue: Noun
+  pronunciation: '[das ˈdʊʁçhaltəfɛɐ̯ˌmøːɡn̩]'
+- indication: rücksicht erwarten
+  result: to expect consideration / to expect others to be mindful of you
+  clue: Verb
+- indication: aufräumen
+  result: to clear out / clean up (can be objects, or removing doubts, misunderstandings, prejudices)
+  clue: Verb
+- indication: die Geothermie
+  result: geothermal energy / geothermal heat
+  clue: Noun
+  pronunciation: '[diː ɡeoːtɛʁˈmiː]'
+- indication: das Hormon, -e
+  result: hormone
+  clue: Noun
+  pronunciation: '[das hɔʁˈmoːn]'
+- indication: vorrangig
+  result: primary / paramount / of primary importance / primarily
+  clue: Adjective
+  pronunciation: '[ˈfoːɐ̯ˌʁaŋɪç]'
+- indication: zielführend
+  result: expedient / goal-oriented / constructive / productivity
+  clue: Adjective
+  pronunciation: '[ˈtsiːlˌfyːʁənt]'
+- indication: die Anekdote, -n
+  result: anecdote
+  clue: Noun
+  pronunciation: '[diː anɛkˈdoːtə]'
+- indication: der Rezeptor, -en
+  result: receptor
+  clue: Noun
+  pronunciation: '[deːɐ̯ ʁeˈt͡sɛptoːɐ̯]'
+- indication: die Reduktion, -en
+  result: reduction
+  clue: Noun
+  pronunciation: '[diː ʁedʊkˈt͡sjoːn]'
+- indication: die Mentalität, -en
+  result: mentality
+  clue: Noun
+  pronunciation: '[diː mɛntaliˈtɛːt]'
+- indication: die Skulptur, -en
+  result: sculpture
+  clue: Noun
+  pronunciation: '[diː skʊlpˈtuːɐ̯]'
+- indication: der Diskurs, -e
+  result: discourse
+  clue: Noun
+  pronunciation: '[deːɐ̯ dɪsˈkuːɐ̯s]'
+- indication: die Erwerbstätigkeit
+  result: gainful employment / economic activity
+  clue: Noun
+  pronunciation: '[diː ɛɐ̯ˈvɛʁpstɛːtɪçkaɪ̯t (ˈzɪŋɡulaːɐ̯)]'
+- indication: die Kriminalitätsrate, -n
+  result: crime rate
+  clue: Noun
+  pronunciation: '[diː kʁiminaliˈtɛːtsˌʁaːtə]'
+- indication: der Stoffwechsel, -
+  result: metabolism
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈʃtɔfˌvɛksl̩]'
+- indication: die Seifenoper, -n
+  result: soap opera
+  clue: Noun
+  pronunciation: '[diː ˈzaɪ̯fn̩ˌʔoːpɐ]'
+- indication: die Geborgenheit
+  result: security / sense of security and warmth
+  clue: Noun
+  pronunciation: '[diː ɡəˈbɔʁɡn̩haɪ̯t]'
+- indication: die Genossenschaft, -en
+  result: cooperative
+  clue: Noun
+  pronunciation: '[diː ɡəˈnɔsn̩ʃaft]'
+- indication: die Konsequenz, -en
+  result: consequence
+  clue: Noun
+  pronunciation: '[diː kɔnseˈkvɛnt͡s]'
+- indication: sich schminken
+  result: to put on makeup / apply makeup
+  clue: Phrase
+- indication: die Knolle, -n
+  result: bulb / tuber
+  clue: Noun
+  pronunciation: '[diː ˈknɔlə]'
+- indication: legen
+  result: to design / set up sth. (sth. is designed / set up as)
+  clue: Verb
+  pronunciation: '[ˈɛtvas ˈanˌleːɡən (ˈɛtvas ɪst ˈanɡəˌleːkt als)]'
+- indication: die Konversation, -en
+  result: conversation
+  clue: Noun
+  pronunciation: '[diː kɔnvɛʁzaˈtsjoːnən]'
+- indication: zusammenreißen
+  result: to pull oneself together
+  clue: Verb
+  pronunciation: '[zɪç tsuˈzamn̩ˌʁaɪ̯sn̩]'
+- indication: die Kündigungsfrist, -en
+  result: notice period
+  clue: Noun
+  pronunciation: '[diː ˈkʏndɪɡʊŋsˌfʁɪst, -en]'
+- indication: die Reichweite, -n
+  result: range / reach
+  clue: Noun
+  pronunciation: '[diː ˈʁaɪ̯çˌvaɪ̯tə]'
+- indication: die Vaterfigur, -en
+  result: father figure
+  clue: Noun
+  pronunciation: '[diː ˈfaːtɐfiˌɡuːɐ̯]'
+- indication: das Eigenheim, -e
+  result: one's own home
+  clue: Noun
+  pronunciation: '[das ˈaɪ̯ɡn̩ˌhaɪ̯m]'
+- indication: das Treibhausgas, -e
+  result: greenhouse gas
+  clue: Noun
+  pronunciation: '[das ˈtʁaɪ̯phaʊ̯sˌɡaːs]'
+- indication: die Facette, -n
+  result: facet / aspect
+  clue: Noun
+  pronunciation: '[diː faˈsɛtə, faˈsɛtn̩]'
+- indication: der Geschmackssinn, -e
+  result: sense of taste
+  clue: Noun
+  pronunciation: '[deːɐ̯ ɡəˈʃmaksˌzɪn]'
 - indication: das Schicksal, -e
   result: fate / destiny
+  clue: Noun
   pronunciation: '[das ˈʃɪkzaːl]'
-  clue: ''
-- indication: die Hypothese
-  result: hypothesis
-- indication: die Kassette
-  result: cassette, tape
-- indication: der Kasten
-  result: box, crate
-- indication: der Kommentar
-  result: comment, opinion
-- indication: die Konzeption
-  result: concept, conception
-- indication: die Kreativität
-  result: creativity
-- indication: das Magazin
-  result: magazine, storehouse
-- indication: der Marktanteil
-  result: market share
-- indication: die Maus
-  result: mouse
-- indication: das Menschenrecht
-  result: human right
-- indication: der Mieter
-  result: tenant
-- indication: das Militär
-  result: military
-- indication: die Minderheit
-  result: minority
-- indication: das Ministerium
-  result: ministry, department
-- indication: der Mythos
-  result: myth, legend
-- indication: die Naturwissenschaft
-  result: natural science
-- indication: der Parkplatz
-  result: parking place
-- indication: die Partnerschaft
-  result: partnership
-- indication: die Periode
-  result: period
-- indication: das Präparat
-  result: preparation, medication
-- indication: die Provinz
-  result: province, provinces
-- indication: die Rahmenbedingung
-  result: prevailing, condition
-- indication: der Regierungschef
-  result: head of government
-- indication: die Säule
-  result: column, pillar
-- indication: die Scheidung
-  result: divorce
-- indication: die Schönheit
-  result: beauty
-- indication: der Spezialist
-  result: specialist
-- indication: die Steigerung
-  result: increase
-- indication: der Stellvertreter
-  result: deputy
-- indication: die Subvention
-  result: subsidy
-- indication: das Ticket
-  result: ticket
-- indication: der Tunnel
-  result: tunnel
-- indication: die Übersicht
-  result: overview
-- indication: die Uniform
-  result: uniform
-- indication: das Unrecht
-  result: injustice, wrong
-- indication: das Vitamin
-  result: vitamin
-- indication: die Volkswirtschaft
-  result: national economy
-- indication: die Vorlesung
-  result: lecture
-- indication: die Weiterbildung
-  result: continuing education
-- indication: die Zielsetzung
-  result: target, objective
-- indication: der Zucker
-  result: sugar
-- indication: das Abkommen
-  result: agreement
-- indication: der Absolvent
-  result: graduate
-- indication: die Abwehr
-  result: defense
-- indication: der Apfel
-  result: apple
-- indication: die Arbeitskraft
-  result: work capacity, worker
-- indication: der Assistent
-  result: assistant
-- indication: die Auswertung
-  result: evaluation, analysis
-- indication: die Bar
-  result: bar
-- indication: die Bedrohung
-  result: threat
-- indication: die Bekämpfung
-  result: fighting, controlling
-- indication: die Beschränkung
-  result: restriction
-- indication: der Block
-  result: block
-- indication: das Darlehen
-  result: loan
-- indication: das Datum
-  result: date
-- indication: die Erhaltung
-  result: preservation, maintenance
-- indication: der Erzähler
-  result: storyteller, narrator
-- indication: der Fachbereich
-  result: academic department, field
-- indication: die Fachleute
-  result: experts
-- indication: die Fakten
-  result: facts
-- indication: die Fassung
-  result: version, composure, frame, socket
-- indication: der Flügel
-  result: wing
-- indication: das Forum
-  result: forum, audience, public discussion
-- indication: die Frequenz
-  result: frequency
-- indication: die Frucht
-  result: fruit
-- indication: die Gerechtigkeit
-  result: justice
-- indication: der Gipfel
-  result: peak, summit
-- indication: der Großteil
-  result: large part, majority
-- indication: der Hörer
-  result: listener, receiver
-- indication: das Industrieland
-  result: industrialized country
-- indication: die Jacke
-  result: jacket
-- indication: die Jagd
-  result: hunt, chase
-- indication: die Jahreszeit
-  result: season
-- indication: die Lampe
-  result: lamp
-- indication: die Linse
-  result: lens
-- indication: die Lücke
-  result: gap
+- indication: der Niedriglohnsektor, -en
+  result: low-wage sector
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈniːdʁɪçloːnˌzɛktoːɐ̯, ˈniːdʁɪçloːnˌzɛktoːʁən]'
+- indication: die Spendengelder
+  result: donated funds (*funding through donations*)
+  clue: Noun
+  pronunciation: '[diː ˈʃpɛndn̩ˌɡɛldɐ]'
+- indication: der Humorist, -en
+  result: humorist (male)
+  clue: Noun
+  pronunciation: '[deːɐ̯ humoˈʁɪst]'
+- indication: der Aushang, "-e
+  result: notice / posting
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌhaŋ]'
+- indication: der Bitterstoff, -e
+  result: bitter substance
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈbɪtɐˌʃtɔf]'

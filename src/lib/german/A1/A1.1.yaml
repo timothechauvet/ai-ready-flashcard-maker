@@ -1,284 +1,441 @@
-- indication: der Apfel
-  result: the apple
-- indication: das Auto
-  result: the car
-- indication: das Buch
-  result: the book
 - indication: der Hund
   result: the dog
+  clue: Noun
 - indication: die Katze
   result: the cat
+  clue: Noun
+- indication: das Buch
+  result: the book
+  clue: Noun
+- indication: der Apfel
+  result: the apple
+  clue: Noun
 - indication: das Haus
   result: the house
+  clue: Noun
 - indication: der Tisch
   result: the table
+  clue: Noun
 - indication: der Stuhl
   result: the chair
+  clue: Noun
 - indication: das Kind
   result: the child
+  clue: Noun
 - indication: die Schule
   result: the school
-- indication: das Rot
-  result: red
-  pronunciation: '[das ʁoːt]'
-  clue: '#FF0000'
-- indication: das Blau
-  result: blue
-  pronunciation: '[das blaʊ̯]'
-  clue: '#0000FF'
-- indication: das Grün
-  result: green
-  pronunciation: '[das ɡʁyːn]'
-  clue: '#008000'
-- indication: das Gelb
-  result: yellow
-  pronunciation: '[das ɡɛlp]'
-  clue: '#FFFF00'
-- indication: das Schwarz
-  result: black
-  pronunciation: '[das ʃvaʁts]'
-  clue: '#000000'
-- indication: das Weiß
-  result: white
-  pronunciation: '[das vaɪ̯s]'
-  clue: '#FFFFFF'
-- indication: das Jahr
-  result: year
-- indication: das Mal
-  result: time
-- indication: das Beispiel
-  result: example
-- indication: die Zeit
-  result: time (hour)
-- indication: die Frau
-  result: woman, wife, Mrs.
-- indication: der Mensch
-  result: human being, man
-- indication: das Deutsch
-  result: German
-- indication: das Kind
-  result: child
+  clue: Noun
+- indication: das Auto
+  result: automobile, car
+  clue: Noun
+- indication: die CD
+  result: CD
+  clue: Noun
+- indication: das TV
+  result: TV
+  clue: Noun
 - indication: der Tag
   result: day
+  clue: Noun
 - indication: der Mann
   result: man
-- indication: das Land
-  result: land, country, state
-- indication: die Frage
-  result: question
-- indication: das Haus
-  result: house
-- indication: der Fall
-  result: fall, case
-- indication: die Leute
-  result: people
-- indication: die Arbeit
-  result: work
-- indication: das Prozent
-  result: percent
-- indication: die Hand
-  result: hand
-- indication: die Stadt
-  result: city, town
-- indication: der Herr
-  result: man, Mr.
-- indication: der/das Teil
-  result: part
-- indication: das Problem
-  result: problem
-- indication: die Welt
-  result: world
-- indication: das Recht
-  result: right, law
+  clue: Noun
 - indication: das Ende
   result: end
-- indication: die Million
-  result: million
-- indication: die Schule
-  result: school
-- indication: die Woche
-  result: week
-- indication: der Vater
-  result: father
-- indication: die Seite
-  result: side, page
-- indication: das Leben
-  result: life
-- indication: die Mutter
-  result: mother
-- indication: der Grund
-  result: reason, basis
+  clue: Noun
 - indication: das Auge
   result: eye
-- indication: das Wort
-  result: word
-- indication: das Geld
-  result: money
-- indication: die Art
-  result: type, kind
-- indication: der Bereich
-  result: area, region
-- indication: der Weg
-  result: path, way
-- indication: die Stunde
-  result: hour
-- indication: der Name
-  result: name
-- indication: die Geschichte
-  result: history, story
-- indication: die Gesellschaft
-  result: society, company
-- indication: der Kopf
-  result: head
-- indication: das Paar
-  result: pair, couple
-- indication: die Möglichkeit
-  result: possibility
-- indication: das Unternehmen
-  result: enterprise, company
-- indication: das Bild
-  result: picture
-- indication: das Buch
-  result: book
-- indication: das Wasser
-  result: water
-- indication: die Stelle
-  result: place
-- indication: die Form
-  result: form, shape
-- indication: die Entwicklung
-  result: development
-- indication: der Monat
-  result: month
-- indication: die Familie
-  result: family
-- indication: der Morgen
-  result: morning
-- indication: der Abend
-  result: evening
-- indication: die Aufgabe
-  result: task, assignment, job
-- indication: die Universität
-  result: university
-- indication: der Sinn
-  result: sense, meaning
-- indication: der Staat
-  result: state
-- indication: das Ziel
-  result: destination, goal
-- indication: der Freund
-  result: friend
-- indication: das Thema
-  result: subject, topic, theme
-- indication: die Person
-  result: person
-- indication: der Euro
-  result: euro
-- indication: die Nacht
-  result: night
-- indication: das Ding
-  result: thing
-- indication: der Raum
-  result: room, space
-- indication: der Blick
-  result: look, view, glance
-- indication: der Platz
-  result: place, room, square
-- indication: die Zahl
-  result: number
-- indication: das System
-  result: system
-- indication: die Uhr
-  result: clock, watch, o'clock
-- indication: die Eltern
-  result: parents
-- indication: die Straße
-  result: street
-- indication: die Minute
-  result: minute
-- indication: die Gruppe
-  result: group
-- indication: der Wert
-  result: value
-- indication: das Gesicht
-  result: face
-- indication: die Sprache
-  result: language
-- indication: der Anfang
-  result: beginning
-- indication: der Ort
-  result: place, town, location
-- indication: der Moment
-  result: moment
-- indication: die Folge
-  result: result, consequence
-- indication: das Interesse
-  result: interest
-- indication: die Milliarde
-  result: billion
-- indication: die Rolle
-  result: role
-- indication: die Tür
-  result: door
-- indication: der Schüler
-  result: pupil, student
-- indication: die Bedeutung
-  result: meaning, significance
-- indication: der Text
-  result: text
-- indication: das Ergebnis
-  result: result
+  clue: Noun
 - indication: der Krieg
   result: war
-- indication: die Weise
-  result: way, manner
-- indication: die Regierung
-  result: rule, government
-- indication: das Stück
-  result: piece
-- indication: die Wohnung
-  result: apartment
-- indication: das Gespräch
-  result: conversation
-- indication: der Meter
-  result: meter
-- indication: der Punkt
-  result: dot, point, period
-- indication: die Situation
-  result: situation
-- indication: der Lehrer
-  result: teacher
-- indication: der Preis
-  result: price, prize
-- indication: die Abbildung
-  result: illustration
-- indication: der Begriff
-  result: concept, idea, term
-- indication: die Funktion
-  result: function
-- indication: der Boden
-  result: ground, floor, bottom
-- indication: das Jahrhundert
-  result: century
+  clue: Noun
 - indication: der Sohn
   result: son
-- indication: das Werk
-  result: work
-- indication: die Stimme
-  result: voice, vote
-- indication: der Rahmen
-  result: frame, framework
-- indication: die Richtung
-  result: direction
-- indication: das Programm
-  result: program
-- indication: die Angst
-  result: fear, anxiety
-- indication: die Information
-  result: information
+  clue: Noun
 - indication: die Kunst
   result: art
-- indication: die Musik
-  result: music
-- indication: die Politik
-  result: politics
+  clue: Noun
+- indication: der Gott
+  result: god
+  clue: Noun
+- indication: das Gesetz
+  result: law
+  clue: Noun
+- indication: der Arm
+  result: arm
+  clue: Noun
+- indication: der Junge
+  result: boy
+  clue: Noun
+- indication: die Luft
+  result: air
+  clue: Noun
+- indication: das Bett
+  result: bed
+  clue: Noun
+- indication: der Spaß
+  result: fun
+  clue: Noun
+- indication: das Alter
+  result: age
+  clue: Noun
+- indication: das Bein
+  result: leg
+  clue: Noun
+- indication: die Sonne
+  result: sun
+  clue: Noun
+- indication: die Freude
+  result: joy
+  clue: Noun
+- indication: der Job
+  result: job
+  clue: Noun
+- indication: die See
+  result: sea
+  clue: Noun
+- indication: das Ohr
+  result: ear
+  clue: Noun
+- indication: die Nutzung
+  result: use
+  clue: Noun
+- indication: der Bus
+  result: bus
+  clue: Noun
+- indication: die Summe
+  result: sum
+  clue: Noun
+- indication: die Verwendung
+  result: use
+  clue: Noun
+- indication: die Steuer
+  result: tax
+  clue: Noun
+- indication: der Gebrauch
+  result: use
+  clue: Noun
+- indication: die Lippe
+  result: lip
+  clue: Noun
+- indication: der Schlüssel
+  result: key
+  clue: Noun
+- indication: das Ei
+  result: egg
+  clue: Noun
+- indication: der Hut
+  result: hat
+  clue: Noun
+- indication: das Öl
+  result: oil
+  clue: Noun
+- indication: der Tee
+  result: tea
+  clue: Noun
+- indication: das Gas
+  result: gas
+  clue: Noun
+- indication: die Benutzung
+  result: use
+  clue: Noun
+- indication: das Top
+  result: top
+  clue: Noun
+- indication: der Bude
+  result: boy
+  clue: Noun
+- indication: der Nebel
+  result: fog
+  clue: Noun
+- indication: der Schnitt
+  result: cut
+  clue: Noun
+- indication: der Topf
+  result: pot
+  clue: Noun
+- indication: der Akt
+  result: act
+  clue: Noun
+- indication: die Tasse
+  result: cup
+  clue: Noun
+- indication: die Gebühr
+  result: fee
+  clue: Noun
+- indication: die Kuh
+  result: cow
+  clue: Noun
+- indication: die Bar
+  result: bar
+  clue: Noun
+- indication: die Lücke
+  result: gap
+  clue: Noun
+- indication: das Schwein
+  result: pig
+  clue: Noun
+- indication: das Jahr
+  result: year
+  clue: Noun
+- indication: das Mal
+  result: time
+  clue: Noun
+- indication: die Arbeit
+  result: work
+  clue: Noun
+- indication: die Hand
+  result: hand
+  clue: Noun
+- indication: der/das Teil
+  result: part
+  clue: Noun
+- indication: die Woche
+  result: week
+  clue: Noun
+- indication: das Leben
+  result: life
+  clue: Noun
+- indication: das Wort
+  result: word
+  clue: Noun
+- indication: die Stunde
+  result: hour
+  clue: Noun
+- indication: der Name
+  result: name
+  clue: Noun
+- indication: der Kopf
+  result: head
+  clue: Noun
+- indication: der Euro
+  result: euro
+  clue: Noun
+- indication: das Gesicht
+  result: face
+  clue: Noun
+- indication: die Rolle
+  result: role
+  clue: Noun
+- indication: die Tür
+  result: door
+  clue: Noun
+- indication: der Text
+  result: text
+  clue: Noun
+- indication: das Werk
+  result: work
+  clue: Noun
+- indication: die Regel
+  result: rule
+  clue: Noun
+- indication: der Schritt
+  result: step
+  clue: Noun
+- indication: das Spiel
+  result: game
+  clue: Noun
+- indication: der Film
+  result: film
+  clue: Noun
+- indication: das Mädchen
+  result: girl
+  clue: Noun
+- indication: das Zuhause
+  result: home
+  clue: Noun
+- indication: das Zimmer
+  result: room
+  clue: Noun
+- indication: der Fuß
+  result: foot
+  clue: Noun
+- indication: der Körper
+  result: body
+  clue: Noun
+- indication: die Idee
+  result: idea
+  clue: Noun
+- indication: die Hilfe
+  result: help
+  clue: Noun
+- indication: der Westen/West
+  result: west
+  clue: Noun
+- indication: der Osten/Ost
+  result: east
+  clue: Noun
+- indication: das Haar
+  result: hair
+  clue: Noun
+- indication: das Risiko
+  result: risk
+  clue: Noun
+- indication: die Daten
+  result: data
+  clue: Noun
+- indication: die Liebe
+  result: love
+  clue: Noun
+- indication: die Linie
+  result: line
+  clue: Noun
+- indication: der Wunsch
+  result: wish
+  clue: Noun
+- indication: der Rücken
+  result: back
+  clue: Noun
+- indication: die Zelle
+  result: cell
+  clue: Noun
+- indication: die Wand
+  result: wall
+  clue: Noun
+- indication: die Hälfte
+  result: half
+  clue: Noun
+- indication: der Plan
+  result: plan
+  clue: Noun
+- indication: der Baum
+  result: tree
+  clue: Noun
+- indication: der Hinweis
+  result: hint
+  clue: Noun
+- indication: die Haut
+  result: skin
+  clue: Noun
+- indication: das Team
+  result: team
+  clue: Noun
+- indication: das Zeichen
+  result: sign
+  clue: Noun
+- indication: die Tatsache
+  result: fact
+  clue: Noun
+- indication: der Wind
+  result: wind
+  clue: Noun
+- indication: der See
+  result: lake
+  clue: Noun
+- indication: der Typ
+  result: type
+  clue: Noun
+- indication: das Schiff
+  result: ship
+  clue: Noun
+- indication: die Hoffnung
+  result: hope
+  clue: Noun
+- indication: der König
+  result: king
+  clue: Noun
+- indication: die Tat
+  result: deed
+  clue: Noun
+- indication: der Rand
+  result: edge
+  clue: Noun
+- indication: die Vergangenheit
+  result: past
+  clue: Noun
+- indication: der Verlust
+  result: loss
+  clue: Noun
+- indication: die Dame
+  result: lady
+  clue: Noun
+- indication: das Dach
+  result: roof
+  clue: Noun
+- indication: die Mauer
+  result: wall
+  clue: Noun
+- indication: der Stern
+  result: star
+  clue: Noun
+- indication: der Laden
+  result: shop
+  clue: Noun
+- indication: das Feuer
+  result: fire
+  clue: Noun
+- indication: die Nase
+  result: nose
+  clue: Noun
+- indication: der Club
+  result: club
+  clue: Noun
+- indication: der Fisch
+  result: fish
+  clue: Noun
+- indication: der Wein
+  result: wine
+  clue: Noun
+- indication: die Welle
+  result: wave
+  clue: Noun
+- indication: das Bedürfnis
+  result: need
+  clue: Noun
+- indication: die Tante
+  result: aunt
+  clue: Noun
+- indication: das Loch
+  result: hole
+  clue: Noun
+- indication: der Regen
+  result: rain
+  clue: Noun
+- indication: der Test
+  result: test
+  clue: Noun
+- indication: das Bier
+  result: beer
+  clue: Noun
+- indication: das Lied
+  result: song
+  clue: Noun
+- indication: die Pflicht
+  result: duty
+  clue: Noun
+- indication: der Wille
+  result: will
+  clue: Noun
+- indication: der Vogel
+  result: bird
+  clue: Noun
+- indication: die Armee
+  result: army
+  clue: Noun
+- indication: das Boot
+  result: boat
+  clue: Noun
+- indication: der Park
+  result: park
+  clue: Noun
+- indication: das Holz
+  result: wood
+  clue: Noun
+- indication: das Knie
+  result: knee
+  clue: Noun
+- indication: die Liste
+  result: list
+  clue: Noun
+- indication: das Schicksal
+  result: fate
+  clue: Noun
+- indication: das Lebensmittel
+  result: food
+  clue: Noun
+- indication: das Rennen
+  result: race
+  clue: Noun
+- indication: der Schlag
+  result: blow
+  clue: Noun
