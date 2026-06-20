@@ -1,199 +1,387 @@
-- indication: der Vorwurf
-  result: accusation / reproach / allegation
+- indication: das Ackerland
+  result: farmland
   clue: Noun
-- indication: das Engagement
-  result: commitment / involvement / engagement
+- indication: das Aquarium
+  result: aquarium
   clue: Noun
-- indication: die Rücksicht
-  result: consideration / respect (considerate)
-  clue: Noun
-- indication: 'die Aufforderung • plural: die Aufforderungen'
-  result: request / instruction / call to do something
-  clue: Noun
-- indication: der Sarkasmus
-  result: sarcasm
-  clue: Noun
-  pronunciation: '[deːɐ̯ zaʁˈkasmʊs]'
-- indication: die Neugier
-  result: curiosity
-  clue: Noun
-  pronunciation: '[diː ˈnɔʏ̯ɡiːɐ̯]'
-- indication: 'die Solarenergie • plural: die Solarenergien'
-  result: solar energy
-  clue: Noun
-  pronunciation: '[diː zoˈlaːɐ̯ʔeːnɛʁˌɡiː]'
-- indication: 'die Ganztagsbetreuung • plural: die Ganztagsbetreuungen'
-  result: all-day care
-  clue: Noun
-  pronunciation: '[diː ˈɡant͡staːksbəˌtʁɔʏ̯ʊŋ]'
-- indication: die Fürsorgepflicht
-  result: duty of care
-  clue: Noun
-  pronunciation: '[diː ˈfyːɐ̯zɔʁɡəˌp͡flɪçt]'
-- indication: 'die Patientenversorgung • plural: die Patientenversorgungen'
-  result: patient care
-  clue: Noun
-  pronunciation: '[diː paˈt͡si̯ɛntn̩fɛɐ̯ˌzɔʁɡʊŋ]'
-- indication: der Selbstzweck
-  result: end in itself
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈzɛlpstˌt͡svɛk]'
-- indication: 'die Nachhaltigkeit • plural: die Nachhaltigkeiten'
-  result: sustainability
-  clue: Noun
-  pronunciation: '[diː ˈnaːxhaltɪçkaɪ̯t]'
-- indication: der Personalmangel
-  result: staff shortage
-  clue: Noun
-  pronunciation: '[deːɐ̯ pɛʁzoˈnaːlˌmaŋl̩ (ˈzɪŋɡulaːɐ̯)]'
-- indication: die Sorgfalt
-  result: care / diligence
-  clue: Noun
-  pronunciation: '[diː ˈzɔʁkfalt]'
-- indication: der Ausstoß
-  result: emission / output
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈaʊ̯sˌʃtoːs]'
-- indication: das Leid
-  result: suffering / sorrow
-  clue: Noun
-  pronunciation: '[das laɪ̯t]'
-- indication: 'die Spracherziehung • plural: die Spracherziehungen'
-  result: language education
-  clue: Noun
-  pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
-- indication: die Regularien
-  result: rules / regulations
-  clue: Noun
-  pronunciation: '[diː ʁeɡuˈlaːʁi̯ən]'
-- indication: 'die Erschöpfung • plural: die Erschöpfungen'
-  result: exhaustion / fatigue
-  clue: Noun
-  pronunciation: '[diː ɛɐ̯ˈʃœp͡fʊŋ]'
-- indication: 'der Ausbau • plural: die Ausbaus'
-  result: expansion / extension
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈaʊ̯sˌbaʊ̯]'
-- indication: 'der Anbau • plural: die Anbaus'
-  result: cultivation / growing
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈanˌbaʊ̯]'
-- indication: der Wohnraum
-  result: living space / housing
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈvoːnˌʁaʊ̯m]'
-- indication: 'das Neugeborene • plural: die Neugeborenen'
-  result: newborn (infant / baby)
-  clue: Noun
-  pronunciation: '[das ˈnɔɪ̯ɡəˌboːʁənə]'
-- indication: 'der Einheitsbrei • plural: die Einheitsbreis'
-  result: monotony / uniform mush
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈaɪ̯nhaɪ̯tsˌbʁaɪ̯]'
-- indication: 'die Windenergie • plural: die Windenergien'
-  result: wind energy / wind power
-  clue: Noun
-  pronunciation: '[diː ˈvɪntʔeːnɛʁˌɡiː]'
-- indication: die Wasserkraft
-  result: hydropower / water power
-  clue: Noun
-  pronunciation: '[diː ˈvasɐˌkʁaft]'
-- indication: der Sprachwitz
-  result: wordplay / linguistic wit
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈʃpʁaːxˌvɪts]'
-- indication: das Umfeld
-  result: environment / surroundings
-  clue: Noun
-  pronunciation: '[das ˈʊmfɛlt]'
-- indication: 'die Verlässlichkeit • plural: die Verlässlichkeiten'
-  result: reliability / dependability
-  clue: Noun
-  pronunciation: '[diː fɛɐ̯ˈlɛslɪçkaɪ̯t]'
-- indication: 'die Zelle • plural: die Zellen'
-  result: cell
-  clue: Noun
-  pronunciation: '[diː ˈtsɛlə]'
-- indication: 'der Knochen • plural: die Knochen'
-  result: bone
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈknɔxn̩]'
-- indication: 'die Studie • plural: die Studien'
-  result: study
-  clue: Noun
-  pronunciation: '[diː ˈʃtuːdi̯ə]'
-- indication: 'das Genre • plural: die Genren'
-  result: genre
-  clue: Noun
-  pronunciation: '[das ˈʒɑ̃ːʁə]'
-- indication: die Dramatik
-  result: drama / dramatic nature / tension
-  clue: Noun
-  pronunciation: '[diː dʁaˈmaːtɪk]'
 - indication: das Biogas
   result: biogas
   clue: Noun
   pronunciation: '[das ˈbiːoːˌɡaːs]'
-- indication: die Hungersnot
-  result: famine
+- indication: das Blütenblatt
+  result: pollen
   clue: Noun
-  pronunciation: '[diː ˈhʊŋɐsˌnoːt]'
-- indication: das Verkehrsaufkommen
-  result: volume of traffic / traffic volume
+- indication: das Dromedar
+  result: camel
   clue: Noun
-  pronunciation: '[das fɛɐ̯ˈkeːɐ̯sˌʔaʊ̯fkɔmən]'
 - indication: das Durchhaltevermögen
   result: perseverance / stamina / endurance
   clue: Noun
   pronunciation: '[das ˈdʊʁçhaltəfɛɐ̯ˌmøːɡn̩]'
-- indication: 'die Geothermie • plural: die Geothermien'
-  result: geothermal energy / geothermal heat
+- indication: das Edelweiß
+  result: hyacinth
   clue: Noun
-  pronunciation: '[diː ɡeoːtɛʁˈmiː]'
+- indication: das Eichhörnchen
+  result: wolf
+  clue: Noun
+- indication: das Eigenheim
+  result: one's own home
+  clue: Noun
+  pronunciation: '[das ˈaɪ̯ɡn̩ˌhaɪ̯m]'
+- indication: das Engagement
+  result: commitment / involvement / engagement
+  clue: Noun
+- indication: das Fohlen
+  result: foal
+  clue: Noun
+- indication: das Gänseblümchen
+  result: dandelion
+  clue: Noun
+- indication: 'das Genre • plural: die Genren'
+  result: genre
+  clue: Noun
+  pronunciation: '[das ˈʒɑ̃ːʁə]'
+- indication: das Halsband
+  result: collar
+  clue: Noun
+- indication: das Heu
+  result: hay
+  clue: Noun
 - indication: das Hormon
   result: hormone
   clue: Noun
   pronunciation: '[das hɔʁˈmoːn]'
-- indication: 'die Anekdote • plural: die Anekdoten'
-  result: anecdote
+- indication: das Huhn
+  result: chicken
   clue: Noun
-  pronunciation: '[diː anɛkˈdoːtə]'
-- indication: der Rezeptor
-  result: receptor
+- indication: das Känguruh
+  result: kangaroo
   clue: Noun
-  pronunciation: '[deːɐ̯ ʁeˈt͡sɛptoːɐ̯]'
-- indication: 'die Reduktion • plural: die Reduktionen'
-  result: reduction
+- indication: das Kätzchen
+  result: calf
   clue: Noun
-  pronunciation: '[diː ʁedʊkˈt͡sjoːn]'
-- indication: die Mentalität
-  result: mentality
+- indication: das Katzenklo
+  result: litter tray
   clue: Noun
-  pronunciation: '[diː mɛntaliˈtɛːt]'
-- indication: die Skulptur
-  result: sculpture
+- indication: das Korallenriff
+  result: coral reef
   clue: Noun
-  pronunciation: '[diː skʊlpˈtuːɐ̯]'
+- indication: das Lamm
+  result: lamb
+  clue: Noun
+- indication: das Leid
+  result: suffering / sorrow
+  clue: Noun
+  pronunciation: '[das laɪ̯t]'
+- indication: das Maiglöckchen
+  result: orchid
+  clue: Noun
+- indication: das Nashorn
+  result: rhinoceros
+  clue: Noun
+- indication: 'das Neugeborene • plural: die Neugeborenen'
+  result: newborn (infant / baby)
+  clue: Noun
+  pronunciation: '[das ˈnɔɪ̯ɡəˌboːʁənə]'
+- indication: das Nilpferd
+  result: hippopotamus
+  clue: Noun
+- indication: das Polarlicht
+  result: aurora
+  clue: Noun
+- indication: das Rotkehlchen
+  result: robin
+  clue: Noun
+- indication: das Säugetier
+  result: reptile
+  clue: Noun
+- indication: das Schicksal
+  result: fate / destiny
+  clue: Noun
+  pronunciation: '[das ˈʃɪkzaːl]'
+- indication: das Stiefmütterchen
+  result: poppy
+  clue: Noun
+- indication: das Stroh
+  result: straw
+  clue: Noun
+- indication: das Tierfutter
+  result: pet food
+  clue: Noun
+- indication: das Treibhausgas
+  result: greenhouse gas
+  clue: Noun
+  pronunciation: '[das ˈtʁaɪ̯phaʊ̯sˌɡaːs]'
+- indication: das Umfeld
+  result: environment / surroundings
+  clue: Noun
+  pronunciation: '[das ˈʊmfɛlt]'
+- indication: das Verkehrsaufkommen
+  result: volume of traffic / traffic volume
+  clue: Noun
+  pronunciation: '[das fɛɐ̯ˈkeːɐ̯sˌʔaʊ̯fkɔmən]'
+- indication: der Affe
+  result: monkey
+  clue: Noun
+- indication: 'der Anbau • plural: die Anbaus'
+  result: cultivation / growing
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈanˌbaʊ̯]'
+- indication: 'der Ausbau • plural: die Ausbaus'
+  result: expansion / extension
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌbaʊ̯]'
+- indication: der Aushang
+  result: notice / posting
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌhaŋ]'
+- indication: der Ausstoß
+  result: emission / output
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaʊ̯sˌʃtoːs]'
+- indication: der Bauernhof
+  result: farm
+  clue: Noun
+- indication: der Baumstamm
+  result: trunk
+  clue: Noun
+- indication: der Bitterstoff
+  result: bitter substance
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈbɪtɐˌʃtɔf]'
+- indication: der Blindenhund
+  result: guide dog
+  clue: Noun
+- indication: der Delphin
+  result: dolphin
+  clue: Noun
 - indication: der Diskurs
   result: discourse
   clue: Noun
   pronunciation: '[deːɐ̯ dɪsˈkuːɐ̯s]'
-- indication: 'die Erwerbstätigkeit • plural: die Erwerbstätigkeiten'
-  result: gainful employment / economic activity
+- indication: 'der Einheitsbrei • plural: die Einheitsbreis'
+  result: monotony / uniform mush
   clue: Noun
-  pronunciation: '[diː ɛɐ̯ˈvɛʁpstɛːtɪçkaɪ̯t (ˈzɪŋɡulaːɐ̯)]'
-- indication: 'die Kriminalitätsrate • plural: die Kriminalitätsraten'
-  result: crime rate
+  pronunciation: '[deːɐ̯ ˈaɪ̯nhaɪ̯tsˌbʁaɪ̯]'
+- indication: der Eisvogel
+  result: kingfisher
   clue: Noun
-  pronunciation: '[diː kʁiminaliˈtɛːtsˌʁaːtə]'
+- indication: der Elefant
+  result: elephant
+  clue: Noun
+- indication: der Fink
+  result: finch
+  clue: Noun
+- indication: der Flamingo
+  result: flamingo
+  clue: Noun
+- indication: der Geschmackssinn
+  result: sense of taste
+  clue: Noun
+  pronunciation: '[deːɐ̯ ɡəˈʃmaksˌzɪn]'
+- indication: der Gezeitentümpel
+  result: sky
+  clue: Noun
+- indication: der Gorilla
+  result: gorilla
+  clue: Noun
+- indication: der Hai
+  result: shark
+  clue: Noun
+- indication: der Huf
+  result: hoof
+  clue: Noun
+- indication: der Hummer
+  result: lobster
+  clue: Noun
+- indication: der Humorist
+  result: humorist (male)
+  clue: Noun
+  pronunciation: '[deːɐ̯ humoˈʁɪst]'
+- indication: der Hundekorb
+  result: dog basket
+  clue: Noun
+- indication: der Käfer
+  result: butterfly
+  clue: Noun
+- indication: der Käfig
+  result: cage
+  clue: Noun
+- indication: der Kaninchenstall
+  result: hutch
+  clue: Noun
+- indication: 'der Knochen • plural: die Knochen'
+  result: bone
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈknɔxn̩]'
+- indication: der Komet
+  result: comet
+  clue: Noun
+- indication: der Löwe
+  result: lion
+  clue: Noun
+- indication: der Löwenzahn
+  result: edelweiss
+  clue: Noun
+- indication: der Marienkäfer
+  result: mayfly
+  clue: Noun
+- indication: der Maulkorb
+  result: muzzle
+  clue: Noun
+- indication: der Mond
+  result: moon
+  clue: Noun
+- indication: der Niedriglohnsektor
+  result: low-wage sector
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈniːdʁɪçloːnˌzɛktoːɐ̯, ˈniːdʁɪçloːnˌzɛktoːʁən]'
+- indication: der Papageitaucher
+  result: puffin
+  clue: Noun
+- indication: der Pelikan
+  result: pelican
+  clue: Noun
+- indication: der Personalmangel
+  result: staff shortage
+  clue: Noun
+  pronunciation: '[deːɐ̯ pɛʁzoˈnaːlˌmaŋl̩ (ˈzɪŋɡulaːɐ̯)]'
+- indication: der Pfau
+  result: peacock
+  clue: Noun
+- indication: der Pinguin
+  result: penguin
+  clue: Noun
+- indication: der Regenbogen
+  result: rainbow
+  clue: Noun
+- indication: der Reiher
+  result: heron
+  clue: Noun
+- indication: der Rezeptor
+  result: receptor
+  clue: Noun
+  pronunciation: '[deːɐ̯ ʁeˈt͡sɛptoːɐ̯]'
+- indication: der Sarkasmus
+  result: sarcasm
+  clue: Noun
+  pronunciation: '[deːɐ̯ zaʁˈkasmʊs]'
+- indication: der Schäferhund
+  result: turkey
+  clue: Noun
+- indication: der Schimpanse
+  result: chimpanzee
+  clue: Noun
+- indication: der Schwan
+  result: swan
+  clue: Noun
+- indication: der Seehund
+  result: seal
+  clue: Noun
+- indication: der Seeigel
+  result: sea urchin
+  clue: Noun
+- indication: der Seestern
+  result: starfish
+  clue: Noun
+- indication: der Selbstzweck
+  result: end in itself
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈzɛlpstˌt͡svɛk]'
+- indication: der Sonnenaufgang
+  result: sunrise
+  clue: Noun
+- indication: der Sonnenuntergang
+  result: sunset
+  clue: Noun
+- indication: der Spatz
+  result: sparrow
+  clue: Noun
+- indication: der Sprachwitz
+  result: wordplay / linguistic wit
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈʃpʁaːxˌvɪts]'
+- indication: der Stall
+  result: stable
+  clue: Noun
+- indication: der Stier
+  result: bull
+  clue: Noun
 - indication: der Stoffwechsel
   result: metabolism
   clue: Noun
   pronunciation: '[deːɐ̯ ˈʃtɔfˌvɛksl̩]'
-- indication: die Seifenoper
-  result: soap opera
+- indication: der Storch
+  result: stork
   clue: Noun
-  pronunciation: '[diː ˈzaɪ̯fn̩ˌʔoːpɐ]'
+- indication: der Strauß
+  result: ostrich
+  clue: Noun
+- indication: der Tausendfüßler
+  result: cockroach
+  clue: Noun
+- indication: der Tiger
+  result: tiger
+  clue: Noun
+- indication: der Vorwurf
+  result: accusation / reproach / allegation
+  clue: Noun
+- indication: der Wal
+  result: whale
+  clue: Noun
+- indication: der Wohnraum
+  result: living space / housing
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈvoːnˌʁaʊ̯m]'
+- indication: der Zweig
+  result: branch
+  clue: Noun
+- indication: 'die Anekdote • plural: die Anekdoten'
+  result: anecdote
+  clue: Noun
+  pronunciation: '[diː anɛkˈdoːtə]'
+- indication: 'die Aufforderung • plural: die Aufforderungen'
+  result: request / instruction / call to do something
+  clue: Noun
+- indication: die Borke
+  result: bark
+  clue: Noun
+- indication: die Dramatik
+  result: drama / dramatic nature / tension
+  clue: Noun
+  pronunciation: '[diː dʁaˈmaːtɪk]'
+- indication: die Drossel
+  result: thrush
+  clue: Noun
+- indication: die Ente
+  result: duck
+  clue: Noun
+- indication: 'die Erschöpfung • plural: die Erschöpfungen'
+  result: exhaustion / fatigue
+  clue: Noun
+  pronunciation: '[diː ɛɐ̯ˈʃœp͡fʊŋ]'
+- indication: 'die Erwerbstätigkeit • plural: die Erwerbstätigkeiten'
+  result: gainful employment / economic activity
+  clue: Noun
+  pronunciation: '[diː ɛɐ̯ˈvɛʁpstɛːtɪçkaɪ̯t (ˈzɪŋɡulaːɐ̯)]'
+- indication: die Eule
+  result: owl
+  clue: Noun
+- indication: 'die Facette • plural: die Facetten'
+  result: facet / aspect
+  clue: Noun
+  pronunciation: '[diː faˈsɛtə, faˈsɛtn̩]'
+- indication: die Fürsorgepflicht
+  result: duty of care
+  clue: Noun
+  pronunciation: '[diː ˈfyːɐ̯zɔʁɡəˌp͡flɪçt]'
+- indication: die Gans
+  result: goose
+  clue: Noun
+- indication: 'die Ganztagsbetreuung • plural: die Ganztagsbetreuungen'
+  result: all-day care
+  clue: Noun
+  pronunciation: '[diː ˈɡant͡staːksbəˌtʁɔʏ̯ʊŋ]'
 - indication: 'die Geborgenheit • plural: die Geborgenheiten'
   result: security / sense of security and warmth
   clue: Noun
@@ -202,67 +390,197 @@
   result: cooperative
   clue: Noun
   pronunciation: '[diː ɡəˈnɔsn̩ʃaft]'
-- indication: die Konsequenz
-  result: consequence
+- indication: 'die Geothermie • plural: die Geothermien'
+  result: geothermal energy / geothermal heat
   clue: Noun
-  pronunciation: '[diː kɔnseˈkvɛnt͡s]'
+  pronunciation: '[diː ɡeoːtɛʁˈmiː]'
+- indication: die Giraffe
+  result: giraffe
+  clue: Noun
+- indication: die Hundehütte
+  result: kennel
+  clue: Noun
+- indication: die Hungersnot
+  result: famine
+  clue: Noun
+  pronunciation: '[diː ˈhʊŋɐsˌnoːt]'
+- indication: die Kastanie
+  result: chestnut
+  clue: Noun
+- indication: die Katzenklappe
+  result: catflap
+  clue: Noun
+- indication: die Kellerassel
+  result: woodlouse
+  clue: Noun
+- indication: die Klippe
+  result: cliff
+  clue: Noun
 - indication: 'die Knolle • plural: die Knollen'
   result: bulb / tuber
   clue: Noun
   pronunciation: '[diː ˈknɔlə]'
+- indication: die Konsequenz
+  result: consequence
+  clue: Noun
+  pronunciation: '[diː kɔnseˈkvɛnt͡s]'
 - indication: 'die Konversation • plural: die Konversationen'
   result: conversation
   clue: Noun
   pronunciation: '[diː kɔnvɛʁzaˈtsjoːnən]'
+- indication: die Krabbe
+  result: crab
+  clue: Noun
+- indication: 'die Kriminalitätsrate • plural: die Kriminalitätsraten'
+  result: crime rate
+  clue: Noun
+  pronunciation: '[diː kʁiminaliˈtɛːtsˌʁaːtə]'
+- indication: die Kröte
+  result: tortoise
+  clue: Noun
+- indication: die Küchenschabe
+  result: cricket
+  clue: Noun
 - indication: die Kündigungsfrist
   result: notice period
   clue: Noun
   pronunciation: '[diː ˈkʏndɪɡʊŋsˌfʁɪst, -en]'
+- indication: die Leine
+  result: lead
+  clue: Noun
+- indication: die Lerche
+  result: lark
+  clue: Noun
+- indication: die Mähne
+  result: mane
+  clue: Noun
+- indication: die Mentalität
+  result: mentality
+  clue: Noun
+  pronunciation: '[diː mɛntaliˈtɛːt]'
+- indication: die Motte
+  result: moth
+  clue: Noun
+- indication: die Möwe
+  result: gull
+  clue: Noun
+- indication: 'die Nachhaltigkeit • plural: die Nachhaltigkeiten'
+  result: sustainability
+  clue: Noun
+  pronunciation: '[diː ˈnaːxhaltɪçkaɪ̯t]'
+- indication: die Nacktschnecke
+  result: slug
+  clue: Noun
+- indication: die Neugier
+  result: curiosity
+  clue: Noun
+  pronunciation: '[diː ˈnɔʏ̯ɡiːɐ̯]'
+- indication: 'die Patientenversorgung • plural: die Patientenversorgungen'
+  result: patient care
+  clue: Noun
+  pronunciation: '[diː paˈt͡si̯ɛntn̩fɛɐ̯ˌzɔʁɡʊŋ]'
+- indication: die Pfote
+  result: paw
+  clue: Noun
+- indication: 'die Reduktion • plural: die Reduktionen'
+  result: reduction
+  clue: Noun
+  pronunciation: '[diː ʁedʊkˈt͡sjoːn]'
+- indication: die Regularien
+  result: rules / regulations
+  clue: Noun
+  pronunciation: '[diː ʁeɡuˈlaːʁi̯ən]'
 - indication: 'die Reichweite • plural: die Reichweiten'
   result: range / reach
   clue: Noun
   pronunciation: '[diː ˈʁaɪ̯çˌvaɪ̯tə]'
-- indication: die Vaterfigur
-  result: father figure
+- indication: die Rücksicht
+  result: consideration / respect (considerate)
   clue: Noun
-  pronunciation: '[diː ˈfaːtɐfiˌɡuːɐ̯]'
-- indication: das Eigenheim
-  result: one's own home
+- indication: die Scheune
+  result: barn
   clue: Noun
-  pronunciation: '[das ˈaɪ̯ɡn̩ˌhaɪ̯m]'
-- indication: das Treibhausgas
-  result: greenhouse gas
+- indication: die Schildkröte
+  result: turtle
   clue: Noun
-  pronunciation: '[das ˈtʁaɪ̯phaʊ̯sˌɡaːs]'
-- indication: 'die Facette • plural: die Facetten'
-  result: facet / aspect
+- indication: die Schnauze
+  result: snout
   clue: Noun
-  pronunciation: '[diː faˈsɛtə, faˈsɛtn̩]'
-- indication: der Geschmackssinn
-  result: sense of taste
+- indication: die Schnecke
+  result: snail
   clue: Noun
-  pronunciation: '[deːɐ̯ ɡəˈʃmaksˌzɪn]'
-- indication: das Schicksal
-  result: fate / destiny
+- indication: die Seifenoper
+  result: soap opera
   clue: Noun
-  pronunciation: '[das ˈʃɪkzaːl]'
-- indication: der Niedriglohnsektor
-  result: low-wage sector
+  pronunciation: '[diː ˈzaɪ̯fn̩ˌʔoːpɐ]'
+- indication: die Skulptur
+  result: sculpture
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈniːdʁɪçloːnˌzɛktoːɐ̯, ˈniːdʁɪçloːnˌzɛktoːʁən]'
+  pronunciation: '[diː skʊlpˈtuːɐ̯]'
+- indication: 'die Solarenergie • plural: die Solarenergien'
+  result: solar energy
+  clue: Noun
+  pronunciation: '[diː zoˈlaːɐ̯ʔeːnɛʁˌɡiː]'
+- indication: die Sorgfalt
+  result: care / diligence
+  clue: Noun
+  pronunciation: '[diː ˈzɔʁkfalt]'
 - indication: die Spendengelder
   result: donated funds (*funding through donations*)
   clue: Noun
   pronunciation: '[diː ˈʃpɛndn̩ˌɡɛldɐ]'
-- indication: der Humorist
-  result: humorist (male)
+- indication: die Spinne
+  result: spider
   clue: Noun
-  pronunciation: '[deːɐ̯ humoˈʁɪst]'
-- indication: der Aushang
-  result: notice / posting
+- indication: 'die Spracherziehung • plural: die Spracherziehungen'
+  result: language education
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈaʊ̯sˌhaŋ]'
-- indication: der Bitterstoff
-  result: bitter substance
+  pronunciation: '[diː ˈʃpʁaːxʔɛɐ̯ˌtsiːʊŋ]'
+- indication: die Sterne mpl
+  result: stars
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈbɪtɐˌʃtɔf]'
+- indication: 'die Studie • plural: die Studien'
+  result: study
+  clue: Noun
+  pronunciation: '[diː ˈʃtuːdi̯ə]'
+- indication: die Tanne
+  result: fir
+  clue: Noun
+- indication: die Taube
+  result: pigeon
+  clue: Noun
+- indication: die Vaterfigur
+  result: father figure
+  clue: Noun
+  pronunciation: '[diː ˈfaːtɐfiˌɡuːɐ̯]'
+- indication: 'die Verlässlichkeit • plural: die Verlässlichkeiten'
+  result: reliability / dependability
+  clue: Noun
+  pronunciation: '[diː fɛɐ̯ˈlɛslɪçkaɪ̯t]'
+- indication: die Wasserkraft
+  result: hydropower / water power
+  clue: Noun
+  pronunciation: '[diː ˈvasɐˌkʁaft]'
+- indication: die Wespe
+  result: wasp
+  clue: Noun
+- indication: 'die Windenergie • plural: die Windenergien'
+  result: wind energy / wind power
+  clue: Noun
+  pronunciation: '[diː ˈvɪntʔeːnɛʁˌɡiː]'
+- indication: die Wolken fpl
+  result: clouds
+  clue: Noun
+- indication: die Wolle
+  result: wool
+  clue: Noun
+- indication: 'die Zelle • plural: die Zellen'
+  result: cell
+  clue: Noun
+  pronunciation: '[diː ˈtsɛlə]'
+- indication: die Ziege
+  result: goat
+  clue: Noun
+- indication: die Zypresse
+  result: cypress
+  clue: Noun

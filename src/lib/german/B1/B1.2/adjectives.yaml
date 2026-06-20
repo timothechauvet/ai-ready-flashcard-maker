@@ -1,1 +1,642 @@
-[]
+- indication: '68'
+  result: der USB-Stick
+  clue: Adjective
+- indication: accessories
+  result: die Regenjacke
+  clue: Adjective
+- indication: accounts
+  result: die Personalabteilung
+  clue: Adjective
+- indication: address
+  result: vocabulary
+  clue: Adjective
+- indication: airmail
+  result: die Post
+  clue: Adjective
+- indication: antihistamine
+  result: mpl
+  clue: Adjective
+- indication: Antihistaminikum
+  result: das
+  clue: Adjective
+- indication: antique shop
+  result: vocabulary
+  clue: Adjective
+- indication: assembly hall
+  result: die Kantine
+  clue: Adjective
+- indication: attachment
+  result: die Datei
+  clue: Adjective
+- indication: baby bath
+  result: accessories
+  clue: Adjective
+- indication: baby lotion
+  result: die Babynahrung
+  clue: Adjective
+- indication: baby seat
+  result: die Babywanne
+  clue: Adjective
+- indication: baby walker
+  result: die Babyschale
+  clue: Adjective
+- indication: baby’s bottle
+  result: die Babylotion
+  clue: Adjective
+- indication: bandage
+  result: Salbe
+  clue: Adjective
+- indication: beauty
+  result: die Zahnpasta
+  clue: Adjective
+- indication: bikini
+  result: clothing
+  clue: Adjective
+- indication: blouse
+  result: der Bikini
+  clue: Adjective
+- indication: boots
+  result: footwear
+  clue: Adjective
+- indication: Boulevardzeitung
+  result: die
+  clue: Adjective
+- indication: boxer shorts
+  result: die Bluse
+  clue: Adjective
+- indication: branch
+  result: vocabulary
+  clue: Adjective
+- indication: brand
+  result: vocabulary
+  clue: Adjective
+- indication: broadsheet
+  result: vocabulary
+  clue: Adjective
+- indication: bubble bath
+  result: die Wegwerfwindel
+  clue: Adjective
+- indication: cafeteria
+  result: higher education
+  clue: Adjective
+- indication: campus
+  result: die Cafeteria
+  clue: Adjective
+- indication: capsule
+  result: der Verband
+  clue: Adjective
+- indication: cashier
+  result: die Zweigstelle
+  clue: Adjective
+- indication: cathedral
+  result: das Café
+  clue: Adjective
+- indication: changing bag
+  result: die Babyflasche
+  clue: Adjective
+- indication: church
+  result: die Kathedrale
+  clue: Adjective
+- indication: cigar
+  result: das Buch
+  clue: Adjective
+- indication: cigarette
+  result: die Zigarre
+  clue: Adjective
+- indication: classroom
+  result: die Hausmeisterin
+  clue: Adjective
+- indication: clothes/clothing
+  result: die Umkleidekabine
+  clue: Adjective
+- indication: clothing
+  result: stillen
+  clue: Adjective
+- indication: coat
+  result: die Strickjacke
+  clue: Adjective
+- indication: coffee with milk
+  result: die Untertasse
+  clue: Adjective
+- indication: colic
+  result: vocabulary
+  clue: Adjective
+- indication: college
+  result: die Realschule
+  clue: Adjective
+- indication: colouring pencils
+  result: school
+  clue: Adjective
+- indication: comic book
+  result: die Zigarette
+  clue: Adjective
+- indication: condom
+  result: die Kapsel
+  clue: Adjective
+- indication: confectionery
+  result: das Comicheft
+  clue: Adjective
+- indication: conference call
+  result: die Sitzung
+  clue: Adjective
+- indication: conference centre
+  result: die Kirche
+  clue: Adjective
+- indication: cotton
+  result: die Wolle
+  clue: Adjective
+- indication: cotton bud
+  result: die Wickeltasche
+  clue: Adjective
+- indication: cough mixture
+  result: das Kondom
+  clue: Adjective
+- indication: counter
+  result: die Marke
+  clue: Adjective
+- indication: courier
+  result: das Postfahrzeug
+  clue: Adjective
+- indication: Damenbekleidung
+  result: die
+  clue: Adjective
+- indication: decorating
+  result: das Streichen
+  clue: Adjective
+- indication: desk lamp
+  result: der Schreibtisch
+  clue: Adjective
+- indication: disposable nappy
+  result: die Kolik
+  clue: Adjective
+- indication: dressing gown
+  result: das Kleid
+  clue: Adjective
+- indication: drops
+  result: der Hustensaft
+  clue: Adjective
+- indication: dummy
+  result: das Kinderbett
+  clue: Adjective
+- indication: dungarees
+  result: der Bademantel
+  clue: Adjective
+- indication: Elektrofachmarkt
+  result: der
+  clue: Adjective
+- indication: Elektrowerkzeug
+  result: das
+  clue: Adjective
+- indication: envelope
+  result: die Schachtel
+  clue: Adjective
+- indication: escalator
+  result: die Theke
+  clue: Adjective
+- indication: exam
+  result: die Aufgabe
+  clue: Adjective
+- indication: exchange rate
+  result: Kreditkarte
+  clue: Adjective
+- indication: exercise book
+  result: der Radierer
+  clue: Adjective
+- indication: figures
+  result: die Buchhaltung
+  clue: Adjective
+- indication: fitting room
+  result: vocabulary
+  clue: Adjective
+- indication: food and drink
+  result: die Mode
+  clue: Adjective
+- indication: formula milk
+  result: die Watte
+  clue: Adjective
+- indication: Fotokopiergerät
+  result: das
+  clue: Adjective
+- indication: Gerichtsgebäude
+  result: das
+  clue: Adjective
+- indication: hairbrush
+  result: die Grundlage
+  clue: Adjective
+- indication: halls of residence
+  result: der Schulhof
+  clue: Adjective
+- indication: Hand-Waschlotion
+  result: die
+  clue: Adjective
+- indication: handle
+  result: die Tasse
+  clue: Adjective
+- indication: handlung
+  result: Spirituosen–
+  clue: Adjective
+- indication: handwash
+  result: das Schmerzmittel
+  clue: Adjective
+- indication: highchair
+  result: der Schnuller
+  clue: Adjective
+- indication: homework
+  result: das Tutorial
+  clue: Adjective
+- indication: human resources
+  result: die Kollegin
+  clue: Adjective
+- indication: hygiene
+  result: die Tablette
+  clue: Adjective
+- indication: interest
+  result: die Hypothek
+  clue: Adjective
+- indication: jacket
+  result: die Latzhose
+  clue: Adjective
+- indication: jeans
+  result: die Jacke
+  clue: Adjective
+- indication: jewellery
+  result: der (Regen)schirm
+  clue: Adjective
+- indication: jumper
+  result: die Jogginghose
+  clue: Adjective
+- indication: kleine Größe
+  result: petite
+  clue: Adjective
+- indication: Klempnerarbeiten fpl
+  result: die
+  clue: Adjective
+- indication: Konferenzgespräch
+  result: das
+  clue: Adjective
+- indication: Kongresszentrum
+  result: das
+  clue: Adjective
+- indication: Kontoüberziehung
+  result: die
+  clue: Adjective
+- indication: lässig
+  result: smart
+  clue: Adjective
+- indication: laundrette
+  result: das Hotel
+  clue: Adjective
+- indication: leather
+  result: die Baumwolle
+  clue: Adjective
+- indication: lecture hall
+  result: der Campus
+  clue: Adjective
+- indication: leggings
+  result: der Pullover
+  clue: Adjective
+- indication: letter
+  result: der Briefumschlag
+  clue: Adjective
+- indication: library
+  result: die Dozentin
+  clue: Adjective
+- indication: lingerie
+  result: die Beleuchtung
+  clue: Adjective
+- indication: lip balm
+  result: das Haarspray
+  clue: Adjective
+- indication: lipstick
+  result: der Lippenbalsam
+  clue: Adjective
+- indication: Luftpolstertasche
+  result: die
+  clue: Adjective
+- indication: mail
+  result: der Kurier
+  clue: Adjective
+- indication: manager
+  result: vocabulary
+  clue: Adjective
+- indication: map
+  result: die Zeitschrift
+  clue: Adjective
+- indication: mascara
+  result: der Lippenstift
+  clue: Adjective
+- indication: meeting
+  result: der Bericht
+  clue: Adjective
+- indication: menswear
+  result: die Abteilung
+  clue: Adjective
+- indication: mittens
+  result: ntpl
+  clue: Adjective
+- indication: mobile
+  result: der Hochstuhl
+  clue: Adjective
+- indication: mortgage
+  result: das Darlehen
+  clue: Adjective
+- indication: Moses basket
+  result: das Mobile
+  clue: Adjective
+- indication: mosque
+  result: die Bibliothek
+  clue: Adjective
+- indication: nail varnish
+  result: die Mascara
+  clue: Adjective
+- indication: nappy
+  result: die Formel
+  clue: Adjective
+- indication: nappy cream
+  result: die Windel
+  clue: Adjective
+- indication: nappy rash
+  result: das Schaumbad
+  clue: Adjective
+- indication: newspaper
+  result: die Landkarte
+  clue: Adjective
+- indication: notebook
+  result: die Zeitung
+  clue: Adjective
+- indication: nursery school
+  result: vocabulary
+  clue: Adjective
+- indication: office block
+  result: die Moschee
+  clue: Adjective
+- indication: package
+  result: der Brief
+  clue: Adjective
+- indication: padded envelope
+  result: das Paket
+  clue: Adjective
+- indication: painkiller
+  result: Mittel
+  clue: Adjective
+- indication: paint
+  result: Bolzen pl
+  clue: Adjective
+- indication: paint roller
+  result: der Pinsel
+  clue: Adjective
+- indication: paintbrush
+  result: die Farbe
+  clue: Adjective
+- indication: painting
+  result: das DIY
+  clue: Adjective
+- indication: paper
+  result: das Heft
+  clue: Adjective
+- indication: password
+  result: der Benutzername
+  clue: Adjective
+- indication: pencil
+  result: der Kugelschreiber
+  clue: Adjective
+- indication: pharmacist
+  result: vocabulary
+  clue: Adjective
+- indication: plaster
+  result: die Medizin
+  clue: Adjective
+- indication: playground
+  result: das Spielfeld
+  clue: Adjective
+- indication: playing field
+  result: die Aula
+  clue: Adjective
+- indication: pliers
+  result: der Farbroller
+  clue: Adjective
+- indication: plumbing
+  result: das Tapezieren
+  clue: Adjective
+- indication: postal van
+  result: die Adresse
+  clue: Adjective
+- indication: postbox
+  result: die Postangestellte
+  clue: Adjective
+- indication: postcard
+  result: der Bleistift
+  clue: Adjective
+- indication: powder
+  result: der Nagellack
+  clue: Adjective
+- indication: power tool
+  result: das Werkzeug
+  clue: Adjective
+- indication: pram
+  result: der Moseskorb
+  clue: Adjective
+- indication: primary school
+  result: die Vorschule
+  clue: Adjective
+- indication: pupil
+  result: die Lehrerin
+  clue: Adjective
+- indication: pushchair
+  result: der Kinderwagen
+  clue: Adjective
+- indication: puzzle book
+  result: die Postkarte
+  clue: Adjective
+- indication: pyjamas
+  result: die Unterhose
+  clue: Adjective
+- indication: report
+  result: der Vortrag
+  clue: Adjective
+- indication: rusk
+  result: die Windelcreme
+  clue: Adjective
+- indication: safety deposit box
+  result: der Wechselkurs
+  clue: Adjective
+- indication: saucer
+  result: der Henkel
+  clue: Adjective
+- indication: saw
+  result: die Zange
+  clue: Adjective
+- indication: scent
+  result: der Schmuck
+  clue: Adjective
+- indication: Schraubenschlüssel
+  result: der
+  clue: Adjective
+- indication: Schreibtischlampe
+  result: die
+  clue: Adjective
+- indication: schutzmittel
+  result: das Insekten-
+  clue: Adjective
+- indication: screws
+  result: der Schraubenzieher
+  clue: Adjective
+- indication: secondary school
+  result: die Grundschule
+  clue: Adjective
+- indication: sein
+  result: im (Sonder)angebot
+  clue: Adjective
+- indication: shirt
+  result: der Schlafanzug
+  clue: Adjective
+- indication: shoes/footwear
+  result: die Kleidung
+  clue: Adjective
+- indication: shorts
+  result: das Hemd
+  clue: Adjective
+- indication: silk
+  result: das Leder
+  clue: Adjective
+- indication: size
+  result: die Seide
+  clue: Adjective
+- indication: snowsuit
+  result: mpl
+  clue: Adjective
+- indication: socks
+  result: der Rock
+  clue: Adjective
+- indication: sore throat
+  result: mpl
+  clue: Adjective
+- indication: Spielwarengeschäft
+  result: das
+  clue: Adjective
+- indication: stamp
+  result: das Rubbellos
+  clue: Adjective
+- indication: sticky tape
+  result: fpl
+  clue: Adjective
+- indication: stomachache
+  result: mpl
+  clue: Adjective
+- indication: student
+  result: die Bibliothek
+  clue: Adjective
+- indication: Studentenausweis
+  result: der
+  clue: Adjective
+- indication: suntan lotion
+  result: das Pflaster
+  clue: Adjective
+- indication: supplier
+  result: die Kundin
+  clue: Adjective
+- indication: swimsuit
+  result: das Sweatshirt
+  clue: Adjective
+- indication: swivel chair
+  result: das Klebeband
+  clue: Adjective
+- indication: T-shirt
+  result: die Hose
+  clue: Adjective
+- indication: Tabellenkalkulation
+  result: die
+  clue: Adjective
+- indication: tablet/pill
+  result: die Sonnencreme
+  clue: Adjective
+- indication: talcum powder
+  result: der Zwieback
+  clue: Adjective
+- indication: tampon
+  result: die Seife
+  clue: Adjective
+- indication: teacher
+  result: die Schulleiterin
+  clue: Adjective
+- indication: teething ring
+  result: der Sportwagen
+  clue: Adjective
+- indication: telephone
+  result: der Drehstuhl
+  clue: Adjective
+- indication: three-piece suit
+  result: der Badeanzug
+  clue: Adjective
+- indication: tie
+  result: der Dreiteiler
+  clue: Adjective
+- indication: tights
+  result: die Krawatte
+  clue: Adjective
+- indication: to be teething
+  result: die Windeldermatitis
+  clue: Adjective
+- indication: to breast-feed
+  result: zahnen
+  clue: Adjective
+- indication: to graduate
+  result: ablegen
+  clue: Adjective
+- indication: to log on/off
+  result: Maschine schreiben
+  clue: Adjective
+- indication: to type
+  result: das Passwort
+  clue: Adjective
+- indication: tobacco
+  result: die Briefmarke
+  clue: Adjective
+- indication: toothbrush
+  result: der Tampon
+  clue: Adjective
+- indication: trousers
+  result: die Strumpfhose
+  clue: Adjective
+- indication: tutorial
+  result: der Vortrag
+  clue: Adjective
+- indication: Übergrößen-
+  result: plus-size
+  clue: Adjective
+- indication: undergraduate
+  result: der Abschluss
+  clue: Adjective
+- indication: university
+  result: die Hochschule
+  clue: Adjective
+- indication: upgrade
+  result: der Anhang
+  clue: Adjective
+- indication: USB stick
+  result: das Telefon
+  clue: Adjective
+- indication: username
+  result: das Upgrade
+  clue: Adjective
+- indication: vest
+  result: der Schneeanzug
+  clue: Adjective
+- indication: waistcoat
+  result: das T-Shirt
+  clue: Adjective
+- indication: waterproof jacket
+  result: die Weste
+  clue: Adjective
+- indication: wohnheime ntpl
+  result: die Studenten-
+  clue: Adjective
+- indication: womenswear
+  result: die Herrenbekleidung
+  clue: Adjective
+- indication: wool
+  result: schick
+  clue: Adjective
+- indication: wrench
+  result: die Tapete
+  clue: Adjective

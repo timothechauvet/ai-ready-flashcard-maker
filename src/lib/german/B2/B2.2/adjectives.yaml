@@ -1,1 +1,327 @@
-[]
+- indication: accordion
+  result: musical instruments
+  clue: Adjective
+- indication: acoustic guitar
+  result: das Akkordeon
+  clue: Adjective
+- indication: American football
+  result: vocabulary
+  clue: Adjective
+- indication: athletics   |  athletik
+  result: die Spur
+  clue: Adjective
+- indication: avalanche
+  result: das Eis
+  clue: Adjective
+- indication: avalanche risk
+  result: die Lawine
+  clue: Adjective
+- indication: bass drum
+  result: die Akustikgitarre
+  clue: Adjective
+- indication: Bluetooth® speaker
+  result: equipment
+  clue: Adjective
+- indication: boxer
+  result: der Kampf
+  clue: Adjective
+- indication: boxing ring
+  result: mpl
+  clue: Adjective
+- indication: boxing shoes
+  result: der Boxring
+  clue: Adjective
+- indication: camera lens
+  result: heranzoomen
+  clue: Adjective
+- indication: canvas
+  result: art materials
+  clue: Adjective
+- indication: cello
+  result: der E-Bass
+  clue: Adjective
+- indication: clarinet
+  result: das Cello
+  clue: Adjective
+- indication: clubhouse
+  result: das Loch
+  clue: Adjective
+- indication: compact camera
+  result: das Objektiv
+  clue: Adjective
+- indication: conductor
+  result: der Chor
+  clue: Adjective
+- indication: craft fair
+  result: das Kunsthandwerk
+  clue: Adjective
+- indication: cymbals
+  result: die Klarinette
+  clue: Adjective
+- indication: decathlon
+  result: der Siebenkampf
+  clue: Adjective
+- indication: double bass
+  result: das Becken
+  clue: Adjective
+- indication: dressmaker
+  result: die Amateurin
+  clue: Adjective
+- indication: drone
+  result: die Kompaktkamera
+  clue: Adjective
+- indication: DSLR camera
+  result: die Drohne
+  clue: Adjective
+- indication: easel
+  result: die Leinwand
+  clue: Adjective
+- indication: electric guitar
+  result: der Kontrabass
+  clue: Adjective
+- indication: embroidery
+  result: general crafts
+  clue: Adjective
+- indication: fabric scissors
+  result: der Stoff
+  clue: Adjective
+- indication: false start
+  result: das Finale
+  clue: Adjective
+- indication: fight
+  result: vocabulary
+  clue: Adjective
+- indication: final
+  result: der Durchgang
+  clue: Adjective
+- indication: finish line
+  result: die Startlinie
+  clue: Adjective
+- indication: first-aid kit
+  result: die Bergwacht
+  clue: Adjective
+- indication: flute
+  result: die E-Gitarre
+  clue: Adjective
+- indication: Football
+  result: der American
+  clue: Adjective
+- indication: football pitch
+  result: das Tor
+  clue: Adjective
+- indication: golf bag
+  result: putten
+  clue: Adjective
+- indication: golf ball
+  result: die Golftasche
+  clue: Adjective
+- indication: golf buggy
+  result: der Golfball
+  clue: Adjective
+- indication: golf club
+  result: der Golf-Buggy
+  clue: Adjective
+- indication: golfer
+  result: vocabulary
+  clue: Adjective
+- indication: handicrafts
+  result: vocabulary
+  clue: Adjective
+- indication: heptathlon
+  result: der Dreisprung
+  clue: Adjective
+- indication: hole-in-one
+  result: das Klubhaus
+  clue: Adjective
+- indication: ink
+  result: die Staffelei
+  clue: Adjective
+- indication: jewellery-making
+  result: die Stickerei
+  clue: Adjective
+- indication: klassisch
+  result: classical
+  clue: Adjective
+- indication: knitting needles
+  result: die Stoffschere
+  clue: Adjective
+- indication: lane
+  result: der Staffellauf
+  clue: Adjective
+- indication: Lautsprecher
+  result: der Bluetooth®-
+  clue: Adjective
+- indication: marathon
+  result: das Rennen
+  clue: Adjective
+- indication: mountain rescue
+  result: die Skilehrerin
+  clue: Adjective
+- indication: mouthguard
+  result: der Kopfschutz
+  clue: Adjective
+- indication: oil paint
+  result: die Tinte
+  clue: Adjective
+- indication: other combat sports
+  result: der Sandsack
+  clue: Adjective
+- indication: palette
+  result: der Pinsel
+  clue: Adjective
+- indication: pastels
+  result: das Papier
+  clue: Adjective
+- indication: photo
+  result: vocabulary
+  clue: Adjective
+- indication: photographer
+  result: das Foto
+  clue: Adjective
+- indication: photography   |  fotografie
+  result: das Blatt
+  clue: Adjective
+- indication: player
+  result: vocabulary
+  clue: Adjective
+- indication: punchbag
+  result: der Zahnschutz
+  clue: Adjective
+- indication: putter
+  result: der Golfklub
+  clue: Adjective
+- indication: relay
+  result: der Sprint
+  clue: Adjective
+- indication: rope
+  result: mpl
+  clue: Adjective
+- indication: runner
+  result: vocabulary
+  clue: Adjective
+- indication: saxophone
+  result: das Klavier
+  clue: Adjective
+- indication: Schmuckherstellung
+  result: die
+  clue: Adjective
+- indication: SD card
+  result: die DSLR-Kamera
+  clue: Adjective
+- indication: SD-Speicherkarte
+  result: die
+  clue: Adjective
+- indication: sheet music
+  result: das Orchester
+  clue: Adjective
+- indication: sketchpad
+  result: der Bleistift
+  clue: Adjective
+- indication: ski goggles
+  result: mpl
+  clue: Adjective
+- indication: ski helmet
+  result: die Skibrille
+  clue: Adjective
+- indication: ski jacket
+  result: der Skihelm
+  clue: Adjective
+- indication: ski poles
+  result: die Skijacke
+  clue: Adjective
+- indication: skier
+  result: vocabulary
+  clue: Adjective
+- indication: skiing and snowboarding
+  result: der Schlitten
+  clue: Adjective
+- indication: sledge
+  result: das Seil
+  clue: Adjective
+- indication: snare drum
+  result: das Saxophon
+  clue: Adjective
+- indication: snowboard
+  result: der Skianzug
+  clue: Adjective
+- indication: snowboarding boots
+  result: das Snowboard
+  clue: Adjective
+- indication: Snowboardschuhe
+  result: die
+  clue: Adjective
+- indication: sprint
+  result: der Marathon
+  clue: Adjective
+- indication: start line
+  result: der Fehlstart
+  clue: Adjective
+- indication: starter’s gun
+  result: der Zehnkampf
+  clue: Adjective
+- indication: syringe
+  result: die Tablette
+  clue: Adjective
+- indication: tee
+  result: der Putter
+  clue: Adjective
+- indication: to do athletics
+  result: der Startschuss
+  clue: Adjective
+- indication: to fence
+  result: sparren
+  clue: Adjective
+- indication: to go mountain
+  result: snowboarden
+  clue: Adjective
+- indication: to kick
+  result: schlagen
+  clue: Adjective
+- indication: to knock out
+  result: fechten
+  clue: Adjective
+- indication: to sing
+  result: spielen
+  clue: Adjective
+- indication: to ski
+  result: die Lawinengefahr
+  clue: Adjective
+- indication: to ski off-piste
+  result: skifahren
+  clue: Adjective
+- indication: to snowboard
+  result: freeriden
+  clue: Adjective
+- indication: to spar
+  result: zuschlagen
+  clue: Adjective
+- indication: to strike
+  result: kicken
+  clue: Adjective
+- indication: to zoom in
+  result: machen
+  clue: Adjective
+- indication: triple jump
+  result: die Ziellinie
+  clue: Adjective
+- indication: trumpet
+  result: die Posaune
+  clue: Adjective
+- indication: tuba
+  result: die Trompete
+  clue: Adjective
+- indication: violin
+  result: die Tuba
+  clue: Adjective
+- indication: watercolours
+  result: der Skizzenblock
+  clue: Adjective
+- indication: weightlifting
+  result: der Wasserball
+  clue: Adjective
+- indication: werksmarkt
+  result: der Kunsthand-
+  clue: Adjective
+- indication: xylophone
+  result: die Geige
+  clue: Adjective

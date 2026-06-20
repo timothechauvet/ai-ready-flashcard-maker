@@ -1,1 +1,636 @@
-[]
+- indication: (unter Rühren) kurz
+  result: anbraten
+  clue: Adjective
+- indication: '21'
+  result: der Zebrastreifen
+  clue: Adjective
+- indication: accelerator
+  result: die Bremse
+  clue: Adjective
+- indication: accessible parking space
+  result: fpl
+  clue: Adjective
+- indication: accident
+  result: vocabulary
+  clue: Adjective
+- indication: adaptor
+  result: der Stecker
+  clue: Adjective
+- indication: aerial
+  result: der Schornstein
+  clue: Adjective
+- indication: air conditioning
+  result: das Gaspedal
+  clue: Adjective
+- indication: airport bus
+  result: der Schulbus
+  clue: Adjective
+- indication: aluminium foil
+  result: miscellaneous items
+  clue: Adjective
+- indication: armchair
+  result: das Regal
+  clue: Adjective
+- indication: attic
+  result: der Keller
+  clue: Adjective
+- indication: Autowaschanlage
+  result: die
+  clue: Adjective
+- indication: back door
+  result: die Veranda
+  clue: Adjective
+- indication: battery
+  result: der Motor
+  clue: Adjective
+- indication: bell
+  result: accessories
+  clue: Adjective
+- indication: bike lock
+  result: die Klingel
+  clue: Adjective
+- indication: bin bag
+  result: die Alufolie
+  clue: Adjective
+- indication: boiler
+  result: inside
+  clue: Adjective
+- indication: bonnet
+  result: der Autoreifen
+  clue: Adjective
+- indication: boot
+  result: exterior
+  clue: Adjective
+- indication: brake
+  result: die Batterie
+  clue: Adjective
+- indication: breakdown
+  result: der Unfall
+  clue: Adjective
+- indication: Breathalyser®
+  result: das Getriebe
+  clue: Adjective
+- indication: building
+  result: die Villa
+  clue: Adjective
+- indication: bungalow
+  result: der Wohnblock
+  clue: Adjective
+- indication: bus lane
+  result: die Buslinie
+  clue: Adjective
+- indication: bus route
+  result: vocabulary
+  clue: Adjective
+- indication: bus shelter
+  result: der Bus
+  clue: Adjective
+- indication: bus station
+  result: die Busspur
+  clue: Adjective
+- indication: car insurance
+  result: der Fahrzeugschein
+  clue: Adjective
+- indication: carpet
+  result: vocabulary
+  clue: Adjective
+- indication: ceiling
+  result: der Dachboden
+  clue: Adjective
+- indication: ceiling fan
+  result: der Boiler
+  clue: Adjective
+- indication: cellar
+  result: das Zimmer
+  clue: Adjective
+- indication: central heating
+  result: die Klimaanlage
+  clue: Adjective
+- indication: chain
+  result: das Pedal
+  clue: Adjective
+- indication: chimney
+  result: das Dach
+  clue: Adjective
+- indication: clingfilm
+  result: der Brotkasten
+  clue: Adjective
+- indication: clutch
+  result: die Klimaanlage
+  clue: Adjective
+- indication: coach
+  result: die Bushaltestelle
+  clue: Adjective
+- indication: coaster
+  result: das Set
+  clue: Adjective
+- indication: cockpit
+  result: die Nase
+  clue: Adjective
+- indication: coffee table
+  result: der Kamin
+  clue: Adjective
+- indication: collision
+  result: die Panne
+  clue: Adjective
+- indication: cooker hood
+  result: der Gasherd
+  clue: Adjective
+- indication: crockery
+  result: der Untersetzer
+  clue: Adjective
+- indication: cruise control
+  result: die Kupplung
+  clue: Adjective
+- indication: cushion
+  result: der Teppich
+  clue: Adjective
+- indication: cutlery
+  result: das Geschirr
+  clue: Adjective
+- indication: cycle lane
+  result: der Kindersitz
+  clue: Adjective
+- indication: cycle path
+  result: der Fahrradweg
+  clue: Adjective
+- indication: cycling shorts
+  result: die Warnweste
+  clue: Adjective
+- indication: cyclist
+  result: vocabulary
+  clue: Adjective
+- indication: das
+  result: antifreeze
+  clue: Adjective
+- indication: dashboard
+  result: interior
+  clue: Adjective
+- indication: der
+  result: roof rack
+  clue: Adjective
+- indication: detached house
+  result: der Bungalow
+  clue: Adjective
+- indication: dining table
+  result: vocabulary
+  clue: Adjective
+- indication: directions
+  result: der Taxistand
+  clue: Adjective
+- indication: district
+  result: der Vorort
+  clue: Adjective
+- indication: document
+  result: car registration
+  clue: Adjective
+- indication: door
+  result: das Rad
+  clue: Adjective
+- indication: doormat
+  result: der Aufzug
+  clue: Adjective
+- indication: draining board
+  result: der Wasserhahn
+  clue: Adjective
+- indication: drainpipe
+  result: die Regenrinne
+  clue: Adjective
+- indication: drawer
+  result: das Abtropfbrett
+  clue: Adjective
+- indication: driver
+  result: die Pendlerin
+  clue: Adjective
+- indication: driveway
+  result: das Tor
+  clue: Adjective
+- indication: dual carriageway
+  result: vocabulary
+  clue: Adjective
+- indication: Einzimmerwohnung
+  result: die
+  clue: Adjective
+- indication: electric cooker
+  result: der Toaster
+  clue: Adjective
+- indication: electricity
+  result: die Steckdose
+  clue: Adjective
+- indication: emergency phone
+  result: Frostschutzmittel
+  clue: Adjective
+- indication: Entertainment­
+  result: das Home­
+  clue: Adjective
+- indication: exhaust (pipe)
+  result: der Tempomat
+  clue: Adjective
+- indication: exit
+  result: die Ecke
+  clue: Adjective
+- indication: extension cable
+  result: der Deckenventilator
+  clue: Adjective
+- indication: fare
+  result: der Busbahnhof
+  clue: Adjective
+- indication: farmhouse
+  result: das Einzelhaus
+  clue: Adjective
+- indication: fireplace
+  result: der Fernseher
+  clue: Adjective
+- indication: floor
+  result: die Wand
+  clue: Adjective
+- indication: floorboards
+  result: der Teppich
+  clue: Adjective
+- indication: footstool
+  result: der Sessel
+  clue: Adjective
+- indication: fridge-freezer
+  result: der Mikrowellenherd
+  clue: Adjective
+- indication: front door
+  result: die Auffahrt
+  clue: Adjective
+- indication: front light
+  result: das Fahrradschloss
+  clue: Adjective
+- indication: Frontscheinwerfer
+  result: der
+  clue: Adjective
+- indication: fuel gauge
+  result: das Armaturenbrett
+  clue: Adjective
+- indication: fuel tank
+  result: das Auspuffrohr
+  clue: Adjective
+- indication: full fare
+  result: der Fahrpreis
+  clue: Adjective
+- indication: gable
+  result: das Abflussrohr
+  clue: Adjective
+- indication: gas cooker
+  result: der Elektroherd
+  clue: Adjective
+- indication: gate
+  result: der Fensterladen
+  clue: Adjective
+- indication: gearbox
+  result: der Benzintank
+  clue: Adjective
+- indication: gearstick
+  result: die Tankanzeige
+  clue: Adjective
+- indication: glassware
+  result: das Besteck
+  clue: Adjective
+- indication: gutter
+  result: die Antenne
+  clue: Adjective
+- indication: hallway/corridor
+  result: der Eingang
+  clue: Adjective
+- indication: handbrake
+  result: das Handschuhfach
+  clue: Adjective
+- indication: Hauptverkehrszeit
+  result: die
+  clue: Adjective
+- indication: headrest
+  result: die Handbremse
+  clue: Adjective
+- indication: hob
+  result: der Backofen
+  clue: Adjective
+- indication: holiday let
+  result: der Mietvertrag
+  clue: Adjective
+- indication: home entertainment
+  result: die Tischlampe
+  clue: Adjective
+- indication: Kartoffelstampfer
+  result: der
+  clue: Adjective
+- indication: keitsbegrenzung
+  result: die Geschwindig-
+  clue: Adjective
+- indication: kettle
+  result: vocabulary
+  clue: Adjective
+- indication: kitchen roll
+  result: die Frischhaltefolie
+  clue: Adjective
+- indication: landing
+  result: der Flur
+  clue: Adjective
+- indication: landlady
+  result: der Vermieter
+  clue: Adjective
+- indication: Landstraße
+  result: die einspurige
+  clue: Adjective
+- indication: letting agent
+  result: der Bezirk
+  clue: Adjective
+- indication: lift
+  result: die Treppe
+  clue: Adjective
+- indication: lounge
+  result: die Jalousie
+  clue: Adjective
+- indication: mechanic
+  result: ntpl
+  clue: Adjective
+- indication: microwave
+  result: das Kochfeld
+  clue: Adjective
+- indication: minibus
+  result: der Reisebus
+  clue: Adjective
+- indication: night bus
+  result: der Rollstuhlzugang
+  clue: Adjective
+- indication: ornament
+  result: das Bild
+  clue: Adjective
+- indication: parking meter
+  result: die Autobahn
+  clue: Adjective
+- indication: parking space
+  result: die Parkuhr
+  clue: Adjective
+- indication: parkplatz
+  result: der Behinderten-
+  clue: Adjective
+- indication: passenger
+  result: die Fahrerin
+  clue: Adjective
+- indication: pedal
+  result: der Rahmen
+  clue: Adjective
+- indication: picture
+  result: das Sofa
+  clue: Adjective
+- indication: place mat
+  result: der Esstisch
+  clue: Adjective
+- indication: plug
+  result: die Batterie
+  clue: Adjective
+- indication: porch
+  result: der Boden
+  clue: Adjective
+- indication: pothole
+  result: die Tankstelle
+  clue: Adjective
+- indication: power cut
+  result: die Parabolantenne
+  clue: Adjective
+- indication: puncture repair kit
+  result: der Radweg
+  clue: Adjective
+- indication: radio
+  result: Blu­ray­Player®
+  clue: Adjective
+- indication: remote control
+  result: das Radio
+  clue: Adjective
+- indication: rental agreement
+  result: die Miete
+  clue: Adjective
+- indication: road
+  result: das Schlagloch
+  clue: Adjective
+- indication: roof
+  result: der Kofferraum
+  clue: Adjective
+- indication: room
+  result: vocabulary
+  clue: Adjective
+- indication: rug
+  result: der Schemel
+  clue: Adjective
+- indication: rush hour
+  result: der Verkehrsstau
+  clue: Adjective
+- indication: satellite dish
+  result: die Zentralheizung
+  clue: Adjective
+- indication: school bus
+  result: der Shuttlebus
+  clue: Adjective
+- indication: seatbelt
+  result: das Navi
+  clue: Adjective
+- indication: semi-detached house
+  result: der Bauernhof
+  clue: Adjective
+- indication: shelves
+  result: das Ornament
+  clue: Adjective
+- indication: shutter
+  result: das Fenster
+  clue: Adjective
+- indication: shuttle bus
+  result: der Nachtbus
+  clue: Adjective
+- indication: sich die Füße
+  result: abtreten
+  clue: Adjective
+- indication: sideboard
+  result: die Fernbedienung
+  clue: Adjective
+- indication: skylight
+  result: der Balkon
+  clue: Adjective
+- indication: slip road
+  result: die Ausfahrt
+  clue: Adjective
+- indication: socket
+  result: der Adapter
+  clue: Adjective
+- indication: sofa
+  result: der Couchtisch
+  clue: Adjective
+- indication: sofa bed
+  result: die Garnitur
+  clue: Adjective
+- indication: spatula
+  result: das Sieb
+  clue: Adjective
+- indication: speed limit
+  result: die Parkbucht
+  clue: Adjective
+- indication: speedometer
+  result: der Sicherheitsgurt
+  clue: Adjective
+- indication: staircase
+  result: das Treppenhaus
+  clue: Adjective
+- indication: stairwell
+  result: der Treppenabsatz
+  clue: Adjective
+- indication: steering wheel
+  result: der Tachometer
+  clue: Adjective
+- indication: street
+  result: vocabulary
+  clue: Adjective
+- indication: studio flat
+  result: das Doppelhaus
+  clue: Adjective
+- indication: suburb
+  result: die Adresse
+  clue: Adjective
+- indication: table lamp
+  result: das Schlafsofa
+  clue: Adjective
+- indication: tail
+  result: das Cockpit
+  clue: Adjective
+- indication: tap
+  result: der Schrank
+  clue: Adjective
+- indication: taxi
+  result: Verkehrsmittel ntpl
+  clue: Adjective
+- indication: taxi rank
+  result: das Taxi
+  clue: Adjective
+- indication: tenant
+  result: die Vermieterin
+  clue: Adjective
+- indication: terraced house
+  result: vocabulary
+  clue: Adjective
+- indication: the kitchen
+  result: der Treteimer
+  clue: Adjective
+- indication: timetable
+  result: die Fahrkarte
+  clue: Adjective
+- indication: tin opener
+  result: der Spachtel
+  clue: Adjective
+- indication: to cook
+  result: die Abzugshaube
+  clue: Adjective
+- indication: to cycle
+  result: die Radlerhose
+  clue: Adjective
+- indication: to drive
+  result: gehen
+  clue: Adjective
+- indication: to fry
+  result: kochen
+  clue: Adjective
+- indication: to overtake
+  result: bremsen
+  clue: Adjective
+- indication: to relax
+  result: Abruf
+  clue: Adjective
+- indication: to return
+  result: fahren
+  clue: Adjective
+- indication: to reverse
+  result: parken
+  clue: Adjective
+- indication: to sit down
+  result: sich entspannen
+  clue: Adjective
+- indication: to speed
+  result: verlangsamen
+  clue: Adjective
+- indication: to stir-fry
+  result: braten
+  clue: Adjective
+- indication: to walk
+  result: die Strecke
+  clue: Adjective
+- indication: to watch TV
+  result: sich setzen
+  clue: Adjective
+- indication: toaster
+  result: der Kessel
+  clue: Adjective
+- indication: tour bus
+  result: der Flughafenbus
+  clue: Adjective
+- indication: townhouse
+  result: das Reihenhaus
+  clue: Adjective
+- indication: traffic cone
+  result: keitskamera
+  clue: Adjective
+- indication: traffic jam
+  result: der Verkehr
+  clue: Adjective
+- indication: traffic lights
+  result: der Pylon
+  clue: Adjective
+- indication: traffic warden
+  result: die Verkehrsampel
+  clue: Adjective
+- indication: transmission
+  result: das Schaltgetriebe
+  clue: Adjective
+- indication: transport  |  verkehrsmittel
+  result: das Heck
+  clue: Adjective
+- indication: trolley bus
+  result: der Kleinbus
+  clue: Adjective
+- indication: tunnel
+  result: Verkehrspolizistin
+  clue: Adjective
+- indication: TV stand
+  result: die Anrichte
+  clue: Adjective
+- indication: tyre
+  result: das Rad
+  clue: Adjective
+- indication: Urlaubsvermietung
+  result: die
+  clue: Adjective
+- indication: Venetian blind
+  result: der Fernsehschrank
+  clue: Adjective
+- indication: Verlängerungskabel
+  result: das
+  clue: Adjective
+- indication: versicherung
+  result: die Kraftfahrzeug-
+  clue: Adjective
+- indication: villa
+  result: das Stadthaus
+  clue: Adjective
+- indication: vocabulary
+  result: der Zeitplan
+  clue: Adjective
+- indication: wall
+  result: die Decke
+  clue: Adjective
+- indication: wheel
+  result: das Fenster
+  clue: Adjective
+- indication: window
+  result: das Dach
+  clue: Adjective
+- indication: window cleaner
+  result: der Stromausfall
+  clue: Adjective
+- indication: Windschutzscheibe
+  result: die
+  clue: Adjective
+- indication: worktop
+  result: die Schublade
+  clue: Adjective
+- indication: zebra crossing
+  result: der Tunnel
+  clue: Adjective

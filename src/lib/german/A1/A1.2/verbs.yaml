@@ -1,1 +1,9 @@
-[]
+- indication: morgen
+  result: tomorrow
+  clue: Verb
+- indication: nächsten
+  result: am letzten /
+  clue: Verb
+- indication: übermorgen
+  result: the day after tomorrow
+  clue: Verb

@@ -1,1 +1,51 @@
-[]
+- indication: (Online) einchecken
+  result: to check in (online)
+  clue: Verb
+- indication: anpflanzen
+  result: to grow
+  clue: Verb
+- indication: auf die Toilette
+  result: to go to the toilet
+  clue: Verb
+- indication: aufwachen
+  result: to wake up
+  clue: Verb
+- indication: baden
+  result: to have a bath
+  clue: Verb
+- indication: duschen
+  result: to shower
+  clue: Verb
+- indication: entwerten
+  result: eine Fahrkarte
+  clue: Verb
+- indication: garden
+  result: der Blumenkasten
+  clue: Verb
+- indication: gießen
+  result: to water
+  clue: Verb
+- indication: ins Bett gehen
+  result: to go to bed
+  clue: Verb
+- indication: jäten
+  result: to weed
+  clue: Verb
+- indication: kehren
+  result: to sweep the floor
+  clue: Verb
+- indication: pflanzen
+  result: to plant
+  clue: Verb
+- indication: reinigen
+  result: to clean
+  clue: Verb
+- indication: schlafen
+  result: to sleep
+  clue: Verb
+- indication: sich die Hände
+  result: to wash one’s hands
+  clue: Verb
+- indication: staubsaugen
+  result: to hoover
+  clue: Verb

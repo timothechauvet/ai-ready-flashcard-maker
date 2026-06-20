@@ -1,1 +1,573 @@
-[]
+- indication: ace
+  result: das Netz
+  clue: Adjective
+- indication: activity
+  result: die Freizeit
+  clue: Adjective
+- indication: album
+  result: das Lied
+  clue: Adjective
+- indication: assistent / die
+  result: der Schiedrichter-
+  clue: Adjective
+- indication: assistentin
+  result: Schiedrichter-
+  clue: Adjective
+- indication: backhand
+  result: der Aufschlag
+  clue: Adjective
+- indication: badminton
+  result: badminton
+  clue: Adjective
+- indication: badminton racket
+  result: das Badminton
+  clue: Adjective
+- indication: Badmintonschläger
+  result: der
+  clue: Adjective
+- indication: bar
+  result: das Ballett
+  clue: Adjective
+- indication: basketball
+  result: der Korb
+  clue: Adjective
+- indication: basketball court
+  result: der Basketball
+  clue: Adjective
+- indication: basketball game
+  result: das Basketballfeld
+  clue: Adjective
+- indication: basketball player
+  result: das Basketball
+  clue: Adjective
+- indication: basketball   |  basketball
+  result: mpl
+  clue: Adjective
+- indication: Basketballspielerin
+  result: die
+  clue: Adjective
+- indication: beach towel
+  result: die Sonnenliege
+  clue: Adjective
+- indication: bed and breakfast
+  result: vocabulary
+  clue: Adjective
+- indication: blue line
+  result: vocabulary
+  clue: Adjective
+- indication: box office
+  result: die Festspiele
+  clue: Adjective
+- indication: breaststroke
+  result: das Schwimmen
+  clue: Adjective
+- indication: campsite
+  result: vocabulary
+  clue: Adjective
+- indication: carnival
+  result: die Bar
+  clue: Adjective
+- indication: casino
+  result: der Karneval
+  clue: Adjective
+- indication: castle
+  result: die Kamera
+  clue: Adjective
+- indication: CD
+  result: der DJ
+  clue: Adjective
+- indication: champion
+  result: die Meisterschaft
+  clue: Adjective
+- indication: check
+  result: die Bande
+  clue: Adjective
+- indication: cinema
+  result: das Kasino
+  clue: Adjective
+- indication: comedy show
+  result: das Kino
+  clue: Adjective
+- indication: competition
+  result: das Turnier
+  clue: Adjective
+- indication: competitor
+  result: kameradin
+  clue: Adjective
+- indication: cool box
+  result: der Wohnwagen
+  clue: Adjective
+- indication: corridor
+  result: bestellen
+  clue: Adjective
+- indication: deckchair
+  result: Schaufel
+  clue: Adjective
+- indication: defender
+  result: vocabulary
+  clue: Adjective
+- indication: den Break holen
+  result: serve
+  clue: Adjective
+- indication: diver
+  result: die Schwimmerin
+  clue: Adjective
+- indication: diving board
+  result: mpl
+  clue: Adjective
+- indication: DJ
+  result: vocabulary
+  clue: Adjective
+- indication: doubles
+  result: das Einzel
+  clue: Adjective
+- indication: ein Glas
+  result: a drink
+  clue: Adjective
+- indication: ein Tor schießen
+  result: assistant referee
+  clue: Adjective
+- indication: Eishockeyschläger
+  result: der
+  clue: Adjective
+- indication: Eishockeyspielerin
+  result: die
+  clue: Adjective
+- indication: electricity hook-up
+  result: der Platz
+  clue: Adjective
+- indication: Empfangsbereich
+  result: der
+  clue: Adjective
+- indication: etwas gern tun
+  result: something
+  clue: Adjective
+- indication: extra time
+  result: Spielzeit
+  clue: Adjective
+- indication: face-off
+  result: der Check
+  clue: Adjective
+- indication: fault
+  result: die Vorhand
+  clue: Adjective
+- indication: festival
+  result: der Film
+  clue: Adjective
+- indication: flip-flops
+  result: der Liegestuhl
+  clue: Adjective
+- indication: folk music
+  result: der Pop
+  clue: Adjective
+- indication: football match
+  result: mpl
+  clue: Adjective
+- indication: football player
+  result: das Spielfeld
+  clue: Adjective
+- indication: foul
+  result: die Abwehr
+  clue: Adjective
+- indication: free kick
+  result: die Nachspielzeit
+  clue: Adjective
+- indication: Frühstückspension
+  result: die
+  clue: Adjective
+- indication: funfair
+  result: das Konzert
+  clue: Adjective
+- indication: gig
+  result: die Livemusik
+  clue: Adjective
+- indication: goalkeeper
+  result: das Tor
+  clue: Adjective
+- indication: guidebook
+  result: der Garten
+  clue: Adjective
+- indication: gym
+  result: vocabulary
+  clue: Adjective
+- indication: gym instructor
+  result: das Fitnessstudio
+  clue: Adjective
+- indication: helmet cage
+  result: Eishockey spielen
+  clue: Adjective
+- indication: hip-hop
+  result: der Rock
+  clue: Adjective
+- indication: holiday
+  result: vocabulary
+  clue: Adjective
+- indication: ice hockey player
+  result: das Gitter
+  clue: Adjective
+- indication: ice time
+  result: der Abschlag
+  clue: Adjective
+- indication: kehrsbüro
+  result: vocabulary
+  clue: Adjective
+- indication: layup
+  result: vocabulary
+  clue: Adjective
+- indication: league
+  result: der Wettbewerb
+  clue: Adjective
+- indication: leisure centre
+  result: spielen
+  clue: Adjective
+- indication: length
+  result: die Spur
+  clue: Adjective
+- indication: live music
+  result: die Band
+  clue: Adjective
+- indication: matches
+  result: der Campingstuhl
+  clue: Adjective
+- indication: medal
+  result: das Freizeitzentrum
+  clue: Adjective
+- indication: microphone
+  result: die Schallplatte
+  clue: Adjective
+- indication: museum
+  result: das Denkmal
+  clue: Adjective
+- indication: music   |  musik
+  result: der Hip-Hop
+  clue: Adjective
+- indication: musical
+  result: der Jahrmarkt
+  clue: Adjective
+- indication: nature reserve
+  result: der Ausflug
+  clue: Adjective
+- indication: Naturschutzgebiet
+  result: das
+  clue: Adjective
+- indication: net
+  result: vocabulary
+  clue: Adjective
+- indication: nightclub
+  result: das Musical
+  clue: Adjective
+- indication: official
+  result: die Medaille
+  clue: Adjective
+- indication: offside
+  result: das Foul
+  clue: Adjective
+- indication: open water
+  result: der Badeanzug
+  clue: Adjective
+- indication: opera
+  result: der Nachtclub
+  clue: Adjective
+- indication: penalty kick
+  result: das Abseits
+  clue: Adjective
+- indication: penalty shot
+  result: die Eiszeit
+  clue: Adjective
+- indication: personal trainer
+  result: im Fitnessstudio
+  clue: Adjective
+- indication: picnic blanket
+  result: der Camper
+  clue: Adjective
+- indication: Pilates
+  result: der Fitnesskurs
+  clue: Adjective
+- indication: pitch
+  result: der Campingplatz
+  clue: Adjective
+- indication: points
+  result: das Spiel
+  clue: Adjective
+- indication: pool
+  result: fischen
+  clue: Adjective
+- indication: pop
+  result: der Gig
+  clue: Adjective
+- indication: powerplay
+  result: das Drittel
+  clue: Adjective
+- indication: press-ups
+  result: das Yoga
+  clue: Adjective
+- indication: puck
+  result: mpl
+  clue: Adjective
+- indication: rally
+  result: der Fehler
+  clue: Adjective
+- indication: restaurant
+  result: die Oper
+  clue: Adjective
+- indication: rock
+  result: die Folkmusik
+  clue: Adjective
+- indication: safe
+  result: die Empfangschefin
+  clue: Adjective
+- indication: sandcastle
+  result: die Promenade
+  clue: Adjective
+- indication: save
+  result: der Kopfball
+  clue: Adjective
+- indication: Schienbeinschützer
+  result: die
+  clue: Adjective
+- indication: Schwimmunterricht
+  result: der
+  clue: Adjective
+- indication: scoreboard
+  result: die Schiedsrichterin
+  clue: Adjective
+- indication: sea
+  result: der Sand
+  clue: Adjective
+- indication: seashells
+  result: die Sandburg
+  clue: Adjective
+- indication: serve
+  result: das Ass
+  clue: Adjective
+- indication: shin pads
+  result: mpl
+  clue: Adjective
+- indication: show
+  result: die Party
+  clue: Adjective
+- indication: sich amüsieren
+  result: ballet
+  clue: Adjective
+- indication: sich eine Vorführung
+  result: ansehen
+  clue: Adjective
+- indication: sich für etwas
+  result: something
+  clue: Adjective
+- indication: sightseeing bus
+  result: das Museum
+  clue: Adjective
+- indication: sightseeing   |  besichtigungen
+  result: die Rundfahrt
+  clue: Adjective
+- indication: singer-songwriter
+  result: das Album
+  clue: Adjective
+- indication: single room
+  result: der Tresor
+  clue: Adjective
+- indication: skates
+  result: der Puck
+  clue: Adjective
+- indication: slam dunk
+  result: der Korbleger
+  clue: Adjective
+- indication: sleeping bag
+  result: die Picknick-Decke
+  clue: Adjective
+- indication: snorkel
+  result: der Seetang
+  clue: Adjective
+- indication: song
+  result: das Mikrofon
+  clue: Adjective
+- indication: Songwriter /
+  result: der Singer-
+  clue: Adjective
+- indication: Songwriterin
+  result: die Singer-
+  clue: Adjective
+- indication: spare time
+  result: der Urlaub
+  clue: Adjective
+- indication: spectators
+  result: die Anzeigetafel
+  clue: Adjective
+- indication: Spieler /
+  result: der topgesetzte
+  clue: Adjective
+- indication: Spielerin
+  result: die topgesetzte
+  clue: Adjective
+- indication: squash
+  result: squash
+  clue: Adjective
+- indication: squash ball
+  result: das Squash
+  clue: Adjective
+- indication: squash racket
+  result: der Squashball
+  clue: Adjective
+- indication: stands
+  result: das Stadion
+  clue: Adjective
+- indication: Stätte
+  result: guided tour
+  clue: Adjective
+- indication: sunbed
+  result: der Sonnenschirm
+  clue: Adjective
+- indication: sunglasses
+  result: der Schnorchel
+  clue: Adjective
+- indication: sunhat
+  result: die Sonnenbrille
+  clue: Adjective
+- indication: suntan
+  result: das Badegebiet
+  clue: Adjective
+- indication: surfer
+  result: die Anglerin
+  clue: Adjective
+- indication: swimming
+  result: vocabulary
+  clue: Adjective
+- indication: tennis ball
+  result: das Tennis
+  clue: Adjective
+- indication: tennis court
+  result: der Tennisball
+  clue: Adjective
+- indication: tennis player
+  result: der Tennisplatz
+  clue: Adjective
+- indication: the gym
+  result: gehen
+  clue: Adjective
+- indication: the seaside
+  result: schwimmen
+  clue: Adjective
+- indication: theatre
+  result: das Restaurant
+  clue: Adjective
+- indication: to block
+  result: dribbeln
+  clue: Adjective
+- indication: to catch
+  result: Basketball spielen
+  clue: Adjective
+- indication: to check in
+  result: Nacht
+  clue: Adjective
+- indication: to check out
+  result: einchecken
+  clue: Adjective
+- indication: to compete
+  result: trainieren
+  clue: Adjective
+- indication: to draw
+  result: verlieren
+  clue: Adjective
+- indication: to dribble
+  result: werfen
+  clue: Adjective
+- indication: to enjoy oneself
+  result: tanzen gehen
+  clue: Adjective
+- indication: to fish
+  result: segeln
+  clue: Adjective
+- indication: to go dancing
+  result: ansehen
+  clue: Adjective
+- indication: to lose
+  result: gewinnen
+  clue: Adjective
+- indication: to play basketball
+  result: der Freiwurf
+  clue: Adjective
+- indication: to play football
+  result: der Strafraum
+  clue: Adjective
+- indication: to score
+  result: teilnehmen
+  clue: Adjective
+- indication: to socialize
+  result: die Kasse
+  clue: Adjective
+- indication: to tackle
+  result: kicken
+  clue: Adjective
+- indication: to throw
+  result: fangen
+  clue: Adjective
+- indication: to win
+  result: Punkte erzielen
+  clue: Adjective
+- indication: toilet/shower block
+  result: der Stromanschluss
+  clue: Adjective
+- indication: top seed
+  result: das Doppel
+  clue: Adjective
+- indication: torch
+  result: das Zelt
+  clue: Adjective
+- indication: Torwarthandschuhe
+  result: die
+  clue: Adjective
+- indication: tour guide
+  result: der Sightseeing-Bus
+  clue: Adjective
+- indication: tourist
+  result: vocabulary
+  clue: Adjective
+- indication: Touristenattraktion
+  result: die
+  clue: Adjective
+- indication: tournament
+  result: vocabulary
+  clue: Adjective
+- indication: travelling
+  result: der Sport
+  clue: Adjective
+- indication: trophy
+  result: die Mannschaft
+  clue: Adjective
+- indication: twin room
+  result: mpl
+  clue: Adjective
+- indication: Videospiele spielen
+  result: gaming
+  clue: Adjective
+- indication: vinyl record
+  result: die CD
+  clue: Adjective
+- indication: walking
+  result: das Reisen
+  clue: Adjective
+- indication: watching TV/films
+  result: das Laufen
+  clue: Adjective
+- indication: waves
+  result: das Meer
+  clue: Adjective
+- indication: whistle
+  result: mpl
+  clue: Adjective
+- indication: yellow/red card
+  result: die Pfeife
+  clue: Adjective
+- indication: yoga
+  result: das Pilates
+  clue: Adjective
+- indication: “No swimming.”
+  result: vocabulary
+  clue: Adjective
+- indication: „Zelten verboten“
+  result: “no camping”
+  clue: Adjective
+- indication: „Zimmer frei“
+  result: “vacancies”
+  clue: Adjective

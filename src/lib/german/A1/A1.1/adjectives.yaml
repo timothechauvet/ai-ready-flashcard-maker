@@ -1,1 +1,153 @@
-[]
+- indication: afraid
+  result: besorgt
+  clue: Adjective
+- indication: Are you married/
+  result: britisch
+  clue: Adjective
+- indication: aunt
+  result: der Onkel
+  clue: Adjective
+- indication: baby
+  result: die Kollegin
+  clue: Adjective
+- indication: better
+  result: unwohl
+  clue: Adjective
+- indication: black
+  result: blau
+  clue: Adjective
+- indication: boyfriend
+  result: die Ehefrau
+  clue: Adjective
+- indication: British
+  result: walisisch
+  clue: Adjective
+- indication: brother
+  result: die Mutter
+  clue: Adjective
+- indication: builder
+  result: Ich bin…
+  clue: Adjective
+- indication: calm
+  result: aufgeregt
+  clue: Adjective
+- indication: child
+  result: das Baby
+  clue: Adjective
+- indication: colleague
+  result: die Freundin
+  clue: Adjective
+- indication: cousin
+  result: die Nichte
+  clue: Adjective
+- indication: danke.
+  result: Nicht schlecht,
+  clue: Adjective
+- indication: daughter
+  result: der Sohn
+  clue: Adjective
+- indication: dentist
+  result: die Beamtin
+  clue: Adjective
+- indication: engineer
+  result: die Elektrikerin
+  clue: Adjective
+- indication: English
+  result: schottisch
+  clue: Adjective
+- indication: father
+  result: die Eltern
+  clue: Adjective
+- indication: fisherman
+  result: die Feuerwehrfrau
+  clue: Adjective
+- indication: girlfriend
+  result: der Freund
+  clue: Adjective
+- indication: glücklich
+  result: excited
+  clue: Adjective
+- indication: grandfather
+  result: die Schwester
+  clue: Adjective
+- indication: happy
+  result: Sie sind…
+  clue: Adjective
+- indication: He/She is...
+  result: Ich bin…
+  clue: Adjective
+- indication: I feel...
+  result: gelangweilt
+  clue: Adjective
+- indication: Irish
+  result: englisch
+  clue: Adjective
+- indication: joiner
+  result: die Informatikerin
+  clue: Adjective
+- indication: mother
+  result: der Vater
+  clue: Adjective
+- indication: nephew
+  result: die Tante
+  clue: Adjective
+- indication: niece
+  result: der Neffe
+  clue: Adjective
+- indication: nurse
+  result: die Mechanikerin
+  clue: Adjective
+- indication: parents
+  result: die Tochter
+  clue: Adjective
+- indication: partner
+  result: die Freundin
+  clue: Adjective
+- indication: Scottish
+  result: Ich bin…
+  clue: Adjective
+- indication: Sie fühlen sich…
+  result: well
+  clue: Adjective
+- indication: sister
+  result: der Bruder
+  clue: Adjective
+- indication: son
+  result: die Verlobte
+  clue: Adjective
+- indication: surprised
+  result: ruhig
+  clue: Adjective
+- indication: teenager
+  result: das Kind
+  clue: Adjective
+- indication: überrascht
+  result: annoyed
+  clue: Adjective
+- indication: unwell
+  result: gut
+  clue: Adjective
+- indication: verängstigt
+  result: bored
+  clue: Adjective
+- indication: verärgert
+  result: angry
+  clue: Adjective
+- indication: Welsh
+  result: irisch
+  clue: Adjective
+- indication: white
+  result: schwarz
+  clue: Adjective
+- indication: wife
+  result: der Ehemann
+  clue: Adjective
+- indication: worried
+  result: traurig
+  clue: Adjective
+- indication: worse
+  result: besser
+  clue: Adjective
+- indication: wütend
+  result: sad
+  clue: Adjective

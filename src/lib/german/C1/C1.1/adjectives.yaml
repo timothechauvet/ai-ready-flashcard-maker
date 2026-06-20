@@ -1,1 +1,405 @@
-[]
+- indication: (body) hair
+  result: die Zunge
+  clue: Adjective
+- indication: abscess
+  result: mpl
+  clue: Adjective
+- indication: antibiotics
+  result: der Test
+  clue: Adjective
+- indication: appointment
+  result: vocabulary
+  clue: Adjective
+- indication: arm
+  result: der Hals
+  clue: Adjective
+- indication: armpit
+  result: der Hals
+  clue: Adjective
+- indication: artery
+  result: der Nerv
+  clue: Adjective
+- indication: asthma
+  result: die Epilepsie
+  clue: Adjective
+- indication: back
+  result: der Ellbogen
+  clue: Adjective
+- indication: balance
+  result: der Tastsinn
+  clue: Adjective
+- indication: Blutdruckmessgerät
+  result: das
+  clue: Adjective
+- indication: BMI
+  result: das Gewicht
+  clue: Adjective
+- indication: body – front
+  result: verlieren
+  clue: Adjective
+- indication: braces
+  result: reinigen
+  clue: Adjective
+- indication: brain
+  result: das Organ
+  clue: Adjective
+- indication: bruise
+  result: die Blase
+  clue: Adjective
+- indication: canine
+  result: der Schneidezahn
+  clue: Adjective
+- indication: cheek
+  result: das Ohr
+  clue: Adjective
+- indication: chest
+  result: der Arm
+  clue: Adjective
+- indication: chin
+  result: der Kiefer
+  clue: Adjective
+- indication: clinic
+  result: der Termin
+  clue: Adjective
+- indication: cold
+  result: das Virus
+  clue: Adjective
+- indication: concussion
+  result: der Unfall
+  clue: Adjective
+- indication: constipation
+  result: der Durchfall
+  clue: Adjective
+- indication: CPR
+  result: Seitenlage
+  clue: Adjective
+- indication: cut
+  result: die Verbrennung
+  clue: Adjective
+- indication: dental floss
+  result: die Zahnspange
+  clue: Adjective
+- indication: dental nurse
+  result: die Zahnseide
+  clue: Adjective
+- indication: diabetes
+  result: die Verstopfung
+  clue: Adjective
+- indication: diarrhoea
+  result: das Erbrechen
+  clue: Adjective
+- indication: dizziness
+  result: das Asthma
+  clue: Adjective
+- indication: doctor
+  result: behandeln
+  clue: Adjective
+- indication: dressing
+  result: der Verband
+  clue: Adjective
+- indication: ear
+  result: das Auge
+  clue: Adjective
+- indication: ear infection
+  result: die Infektion
+  clue: Adjective
+- indication: earlobe
+  result: das Augenlid
+  clue: Adjective
+- indication: einen Termin
+  result: appointment
+  clue: Adjective
+- indication: elbow
+  result: die Schulter
+  clue: Adjective
+- indication: epilepsy
+  result: der Diabetes
+  clue: Adjective
+- indication: erschütterung
+  result: die Gehirn­
+  clue: Adjective
+- indication: examination
+  result: die Klinik
+  clue: Adjective
+- indication: extraction
+  result: der Abszess
+  clue: Adjective
+- indication: eye
+  result: die Stirn
+  clue: Adjective
+- indication: eyebrow
+  result: die Wimper
+  clue: Adjective
+- indication: eyelash
+  result: die Brust
+  clue: Adjective
+- indication: eyelid
+  result: die Augenbraue
+  clue: Adjective
+- indication: face
+  result: der Kopf
+  clue: Adjective
+- indication: fainting
+  result: das Husten
+  clue: Adjective
+- indication: fever
+  result: der Ohnmachtsanfall
+  clue: Adjective
+- indication: first aid
+  result: der Sonnenbrand
+  clue: Adjective
+- indication: foot
+  result: das Schienbein
+  clue: Adjective
+- indication: forehead
+  result: das Haar
+  clue: Adjective
+- indication: fracture
+  result: die Schnittverletzung
+  clue: Adjective
+- indication: genitals
+  result: die Achsel
+  clue: Adjective
+- indication: Gesundheit
+  result: die geistige
+  clue: Adjective
+- indication: graze
+  result: der Bruch
+  clue: Adjective
+- indication: hand
+  result: der Unterleib
+  clue: Adjective
+- indication: health insurance
+  result: die Behandlung
+  clue: Adjective
+- indication: healthy
+  result: ungskarte
+  clue: Adjective
+- indication: heart
+  result: das Gehirn
+  clue: Adjective
+- indication: heart attack
+  result: vocabulary
+  clue: Adjective
+- indication: hohen / niedrigen
+  result: blood pressure
+  clue: Adjective
+- indication: home visit
+  result: das Rezept
+  clue: Adjective
+- indication: ice pack
+  result: der Verbandskasten
+  clue: Adjective
+- indication: illness
+  result: der Schmerz
+  clue: Adjective
+- indication: incisor
+  result: der Backenzahn
+  clue: Adjective
+- indication: infection
+  result: der Schlaganfall
+  clue: Adjective
+- indication: inhaler
+  result: die Schwindligkeit
+  clue: Adjective
+- indication: injuries
+  result: brechen
+  clue: Adjective
+- indication: intestines
+  result: die Niere
+  clue: Adjective
+- indication: itching
+  result: das Fieber
+  clue: Adjective
+- indication: jaw
+  result: der Mund
+  clue: Adjective
+- indication: kidney
+  result: der Magen
+  clue: Adjective
+- indication: knee
+  result: das Bein
+  clue: Adjective
+- indication: leg
+  result: der Oberschenkel
+  clue: Adjective
+- indication: ligament
+  result: das Gewebe
+  clue: Adjective
+- indication: liver
+  result: die Lunge
+  clue: Adjective
+- indication: lung
+  result: das Herz
+  clue: Adjective
+- indication: medication
+  result: die Impfung
+  clue: Adjective
+- indication: mental health
+  result: die Krankheit
+  clue: Adjective
+- indication: molar
+  result: vocabulary
+  clue: Adjective
+- indication: mouth
+  result: die Nase
+  clue: Adjective
+- indication: muscle
+  result: der Knochen
+  clue: Adjective
+- indication: nausea
+  result: der Juckreiz
+  clue: Adjective
+- indication: neck
+  result: das Gesicht
+  clue: Adjective
+- indication: neck brace
+  result: der Eisbeutel
+  clue: Adjective
+- indication: nerve
+  result: die Zelle
+  clue: Adjective
+- indication: nose
+  result: die Wange
+  clue: Adjective
+- indication: Ohrenentzündung
+  result: die
+  clue: Adjective
+- indication: ointment
+  result: die Halskrause
+  clue: Adjective
+- indication: organ
+  result: vocabulary
+  clue: Adjective
+- indication: organe ntpl
+  result: die Geschlechts­
+  clue: Adjective
+- indication: paramedic
+  result: vocabulary
+  clue: Adjective
+- indication: patient
+  result: vocabulary
+  clue: Adjective
+- indication: period pain
+  result: der Inhalator
+  clue: Adjective
+- indication: pharmacy
+  result: die Apothekerin
+  clue: Adjective
+- indication: prescription
+  result: die Schlaftablette
+  clue: Adjective
+- indication: runny nose
+  result: der Ausschlag
+  clue: Adjective
+- indication: Schleudertrauma
+  result: das
+  clue: Adjective
+- indication: sense of touch
+  result: der Geschmack
+  clue: Adjective
+- indication: shin
+  result: das Knie
+  clue: Adjective
+- indication: sicherung
+  result: die Krankenver­
+  clue: Adjective
+- indication: skeleton
+  result: der Sauerstoff
+  clue: Adjective
+- indication: sleeping pill
+  result: die Pille
+  clue: Adjective
+- indication: sling
+  result: das Pflaster
+  clue: Adjective
+- indication: sting
+  result: der Splitter
+  clue: Adjective
+- indication: stomach
+  result: die Leber
+  clue: Adjective
+- indication: stroke
+  result: der Herzinfarkt
+  clue: Adjective
+- indication: sunburn
+  result: der Stich
+  clue: Adjective
+- indication: tendon
+  result: der Muskel
+  clue: Adjective
+- indication: test
+  result: die Untersuchung
+  clue: Adjective
+- indication: thigh
+  result: die Hand
+  clue: Adjective
+- indication: throat
+  result: vocabulary
+  clue: Adjective
+- indication: tissue
+  result: die Sehne
+  clue: Adjective
+- indication: to be unconscious
+  result: die HLW
+  clue: Adjective
+- indication: to cough
+  result: Blutdruck haben
+  clue: Adjective
+- indication: to examine
+  result: vereinbaren
+  clue: Adjective
+- indication: to have high/low
+  result: mpl
+  clue: Adjective
+- indication: to hear
+  result: riechen
+  clue: Adjective
+- indication: to look after
+  result: sich erholen
+  clue: Adjective
+- indication: to recover
+  result: gesund
+  clue: Adjective
+- indication: to see
+  result: das Gleichgewicht
+  clue: Adjective
+- indication: to smell
+  result: sehen
+  clue: Adjective
+- indication: to sneeze
+  result: husten
+  clue: Adjective
+- indication: to vomit
+  result: niesen
+  clue: Adjective
+- indication: treatment
+  result: das Krankenhaus
+  clue: Adjective
+- indication: tweezers
+  result: die Schlinge
+  clue: Adjective
+- indication: Untersuchungsraum
+  result: der
+  clue: Adjective
+- indication: Untersuchungstisch
+  result: der
+  clue: Adjective
+- indication: vaccination
+  result: der Hausbesuch
+  clue: Adjective
+- indication: vein
+  result: die Arterie
+  clue: Adjective
+- indication: Verdauungssystem
+  result: das
+  clue: Adjective
+- indication: vomiting
+  result: vergiftung
+  clue: Adjective
+- indication: wisdom teeth
+  result: der Eckzahn
+  clue: Adjective
+- indication: Wurzelbehandlung
+  result: die
+  clue: Adjective

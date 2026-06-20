@@ -1,1 +1,120 @@
-[]
+- indication: '51'
+  result: pharmacy   |  die apotheke
+  clue: Phrase
+- indication: '53'
+  result: newsagent   |  der zeitungsladen
+  clue: Phrase
+- indication: '54'
+  result: department store   |  das kaufhaus
+  clue: Phrase
+- indication: '55'
+  result: clothing and footwear   |  kleidung und schuhe
+  clue: Phrase
+- indication: '57'
+  result: diy store   |  der baumarkt
+  clue: Phrase
+- indication: '66'
+  result: education   |  die bildung
+  clue: Phrase
+- indication: '67'
+  result: education   |  die bildung
+  clue: Phrase
+- indication: '69'
+  result: the bank   |  auf der bank
+  clue: Phrase
+- indication: assignment
+  result: die Hausaufgaben fpl
+  clue: Phrase
+- indication: Ausgänge
+  result: Eingänge /
+  clue: Phrase
+- indication: baby food
+  result: health and hygiene
+  clue: Phrase
+- indication: bra
+  result: die Boxershorts pl
+  clue: Phrase
+- indication: café
+  result: places of importance
+  clue: Phrase
+- indication: client
+  result: die Mitarbeiter mpl
+  clue: Phrase
+- indication: court shoes
+  result: die Stiefel mpl
+  clue: Phrase
+- indication: eraser
+  result: die Farbstifte mpl
+  clue: Phrase
+- indication: footwear
+  result: die Lebensmittel ntpl
+  clue: Phrase
+- indication: furniture
+  result: die Schuhe mpl
+  clue: Phrase
+- indication: high heels
+  result: die Pumps mpl
+  clue: Phrase
+- indication: insect repellent
+  result: die Tropfen mpl
+  clue: Phrase
+- indication: jogging bottoms
+  result: die Jeans pl
+  clue: Phrase
+- indication: lighting
+  result: die Lederwaren fpl
+  clue: Phrase
+- indication: pants
+  result: die Leggings pl
+  clue: Phrase
+- indication: sandals
+  result: die Strandschuhe mpl
+  clue: Phrase
+- indication: second-class
+  result: in town   |  in der stadt
+  clue: Phrase
+- indication: skirt
+  result: die Shorts pl
+  clue: Phrase
+- indication: slippers
+  result: die Sandalen fpl
+  clue: Phrase
+- indication: spanner
+  result: die Schrauben fpl
+  clue: Phrase
+- indication: spreadsheet
+  result: die Zahlen fpl
+  clue: Phrase
+- indication: staff
+  result: der Chef / die Chefin
+  clue: Phrase
+- indication: suit
+  result: die Socken fpl
+  clue: Phrase
+- indication: to be in the sale
+  result: verkauft werden
+  clue: Phrase
+- indication: to be on sale
+  result: der Ausverkauf
+  clue: Phrase
+- indication: to borrow
+  result: die Zinsen pl
+  clue: Phrase
+- indication: to hold a meeting
+  result: halten
+  clue: Phrase
+- indication: toys
+  result: die Wohntextilien fpl
+  clue: Phrase
+- indication: trainers
+  result: die Pantoffeln fpl
+  clue: Phrase
+- indication: underwear
+  result: die Schuhe mpl
+  clue: Phrase
+- indication: wallpaper
+  result: die Fliesen fpl
+  clue: Phrase
+- indication: Wellington boots
+  result: die Sportschuhe mpl
+  clue: Phrase

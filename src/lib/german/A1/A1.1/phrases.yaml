@@ -1,1 +1,264 @@
-[]
+- indication: alt Sie sind?
+  result: Darf ich fragen, wie
+  clue: Phrase
+- indication: are?
+  result: May I ask how old you
+  clue: Phrase
+- indication: beschäftigung.
+  result: I work as a/an...
+  clue: Phrase
+- indication: Büroangestellte
+  result: work   |  arbeit
+  clue: Phrase
+- indication: Bye!
+  result: Bis Samstag.
+  clue: Phrase
+- indication: children.
+  result: I don’t have any
+  clue: Phrase
+- indication: '... dem Vereinigten'
+  result: '... the UK.'
+  clue: Phrase
+- indication: Do you have any
+  result: Ich bin verwitwet.
+  clue: Phrase
+- indication: Er / Sie fühlt sich…
+  result: They feel...
+  clue: Phrase
+- indication: Es geht so.
+  result: Could be worse.
+  clue: Phrase
+- indication: Excuse me.
+  result: Nein, danke.
+  clue: Phrase
+- indication: Fine, thanks.
+  result: Ihnen?
+  clue: Phrase
+- indication: Geburtstag.
+  result: Ich habe am …
+  clue: Phrase
+- indication: gesundheit und wohlbefinden
+  result: general health and wellbeing   |
+  clue: Phrase
+- indication: Good afternoon.
+  result: Guten Morgen.
+  clue: Phrase
+- indication: Good evening.
+  result: Guten Tag.
+  clue: Phrase
+- indication: Good morning.
+  result: Hallo!
+  clue: Phrase
+- indication: Goodnight.
+  result: Guten Abend.
+  clue: Phrase
+- indication: Great!
+  result: Danke, gut.
+  clue: Phrase
+- indication: Haben Sie Kinder?
+  result: children?
+  clue: Phrase
+- indication: Hallo.
+  result: Hello.
+  clue: Phrase
+- indication: I am...
+  result: Mir ist kalt / warm.
+  clue: Phrase
+- indication: I don’t know.
+  result: Nein.
+  clue: Phrase
+- indication: I don’t understand.
+  result: Bitte.
+  clue: Phrase
+- indication: I have a partner.
+  result: Ich bin verheiratet.
+  clue: Phrase
+- indication: I work from home.
+  result: Ich reise.
+  clue: Phrase
+- indication: I work part-/full-time.
+  result: Ich arbeite zu Hause.
+  clue: Phrase
+- indication: Ich bin
+  result: I’m self-employed.
+  clue: Phrase
+- indication: Ich bin … geboren.
+  result: I was born in...
+  clue: Phrase
+- indication: Ich bin im
+  result: I’m retired.
+  clue: Phrase
+- indication: Ich bin müde.
+  result: I’m tired.
+  clue: Phrase
+- indication: Ich fühle mich…
+  result: He/She feels...
+  clue: Phrase
+- indication: Ich habe … Kinder.
+  result: I have ... children.
+  clue: Phrase
+- indication: Ich habe Hunger /
+  result: I’m hungry/thirsty.
+  clue: Phrase
+- indication: Ich komme aus…
+  result: I’m from...
+  clue: Phrase
+- indication: Ich weiß nicht.
+  result: Please.
+  clue: Phrase
+- indication: I’m...
+  result: Ich wohne in…
+  clue: Phrase
+- indication: I’m … years old.
+  result: Geburtstag?
+  clue: Phrase
+- indication: I’m a/an...
+  result: Ich arbeite als…
+  clue: Phrase
+- indication: I’m at university.
+  result: Ich bin arbeitslos.
+  clue: Phrase
+- indication: I’m cold/warm.
+  result: Ich bin satt.
+  clue: Phrase
+- indication: I’m divorced.
+  result: Ich bin ledig.
+  clue: Phrase
+- indication: I’m full.
+  result: Durst.
+  clue: Phrase
+- indication: I’m married.
+  result: ledig?
+  clue: Phrase
+- indication: I’m single.
+  result: Partnerin.
+  clue: Phrase
+- indication: I’m sorry.
+  result: Wie bitte?
+  clue: Phrase
+- indication: I’m travelling.
+  result: Ruhestand.
+  clue: Phrase
+- indication: I’m widowed.
+  result: Ich bin geschieden.
+  clue: Phrase
+- indication: jünger als…
+  result: Ich bin älter /
+  clue: Phrase
+- indication: Königreich.
+  result: I live in...
+  clue: Phrase
+- indication: Mir geht es gut.
+  result: I’m fine.
+  clue: Phrase
+- indication: My birthday is on…
+  result: Ich bin … (Jahre alt).
+  clue: Phrase
+- indication: No.
+  result: Ja.
+  clue: Phrase
+- indication: No, thanks.
+  result: Vielen Dank.
+  clue: Phrase
+- indication: Not bad, thanks.
+  result: So lala.
+  clue: Phrase
+- indication: OK!
+  result: Es tut mir leid.
+  clue: Phrase
+- indication: Partner / eine
+  result: Ich habe einen
+  clue: Phrase
+- indication: Schönen Tag /
+  result: Abend!
+  clue: Phrase
+- indication: See you on Saturday.
+  result: Bis morgen.
+  clue: Phrase
+- indication: See you soon.
+  result: Gute Nacht.
+  clue: Phrase
+- indication: See you tomorrow.
+  result: Bis bald.
+  clue: Phrase
+- indication: Sehr gut, danke, und
+  result: you?
+  clue: Phrase
+- indication: selbstständig.
+  result: I’m unemployed.
+  clue: Phrase
+- indication: Sind Sie verheiratet /
+  result: single?
+  clue: Phrase
+- indication: So-so.
+  result: Super!
+  clue: Phrase
+- indication: Sorry?
+  result: Entschuldigung.
+  clue: Phrase
+- indication: Studieren Sie?
+  result: Arbeiten /
+  clue: Phrase
+- indication: Teilzeit- / Vollzeit-
+  result: Ich habe eine
+  clue: Phrase
+- indication: than…
+  result: I’m older/younger
+  clue: Phrase
+- indication: Thank you.
+  result: Ja, bitte.
+  clue: Phrase
+- indication: They are...
+  result: Er / Sie ist…
+  clue: Phrase
+- indication: Tschüss!
+  result: Have a good day/
+  clue: Phrase
+- indication: Universität.
+  result: Ich bin an der
+  clue: Phrase
+- indication: Very well, thanks, and
+  result: Wie geht es ihnen?
+  clue: Phrase
+- indication: Wann haben Sie
+  result: When is your birthday?
+  clue: Phrase
+- indication: Was ist Ihr Beruf?
+  result: occupation?
+  clue: Phrase
+- indication: Was machen Sie
+  result: What do you do?
+  clue: Phrase
+- indication: What’s your
+  result: beruflich?
+  clue: Phrase
+- indication: Wie alt sind Sie?
+  result: How old are you?
+  clue: Phrase
+- indication: Wie geht es ihm / ihr?
+  result: How is he/she?
+  clue: Phrase
+- indication: Wie geht es Ihnen?
+  result: How are you?
+  clue: Phrase
+- indication: Wie geht’s?
+  result: How’s it going?
+  clue: Phrase
+- indication: Wo arbeiten Sie?
+  result: Where do you work?
+  clue: Phrase
+- indication: Wo kommen Sie her?
+  result: Where are you from?
+  clue: Phrase
+- indication: Wo wohnen Sie?
+  result: Where do you live?
+  clue: Phrase
+- indication: Yes.
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: Yes, please.
+  result: Bitte.
+  clue: Phrase
+- indication: You’re welcome.
+  result: Einverstanden!
+  clue: Phrase

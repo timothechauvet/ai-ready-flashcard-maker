@@ -1,1 +1,90 @@
-[]
+- indication: '19'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '22'
+  result: bus   |  mit dem bus
+  clue: Phrase
+- indication: '23'
+  result: bicycle   |  mit dem fahrrad
+  clue: Phrase
+- indication: '30'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '31'
+  result: the basics   |  das wesentliche the house   |  das haus
+  clue: Phrase
+- indication: '32'
+  result: the entrance   |  der eingang
+  clue: Phrase
+- indication: '33'
+  result: the lounge   |  das wohnzimmer
+  clue: Phrase
+- indication: apartment block
+  result: types of building
+  clue: Phrase
+- indication: bus
+  result: den Bus nehmen
+  clue: Phrase
+- indication: car wash
+  result: car trouble   |  probleme mit dem auto
+  clue: Phrase
+- indication: concession
+  result: der halbe Fahrpreis
+  clue: Phrase
+- indication: Dachgepäckträger
+  result: car   |  mit dem auto
+  clue: Phrase
+- indication: den Tisch abräumen
+  result: the dining room   |  das esszimmer
+  clue: Phrase
+- indication: die
+  result: der Verkehrspolizist /
+  clue: Phrase
+- indication: half fare
+  result: der volle Fahrpreis
+  clue: Phrase
+- indication: Immobilienhändlerin
+  result: händler / die
+  clue: Phrase
+- indication: route
+  result: die Anweisungen fpl
+  clue: Phrase
+- indication: suite
+  result: die Dielen fpl
+  clue: Phrase
+- indication: to brake
+  result: den Motor anlassen
+  clue: Phrase
+- indication: to break down
+  result: der platte Reifen
+  clue: Phrase
+- indication: to catch the bus
+  result: der Reisebus
+  clue: Phrase
+- indication: to clear the table
+  result: zu Abend essen
+  clue: Phrase
+- indication: to dine
+  result: den Tisch decken
+  clue: Phrase
+- indication: to go for a bike ride
+  result: radfahren
+  clue: Phrase
+- indication: to have a flat tyre
+  result: einen Unfall haben
+  clue: Phrase
+- indication: to have an accident
+  result: kaputtgehen
+  clue: Phrase
+- indication: to put away the
+  result: saubermachen
+  clue: Phrase
+- indication: to set the table
+  result: das Glasgeschirr
+  clue: Phrase
+- indication: to start the engine
+  result: der Promillemesser
+  clue: Phrase
+- indication: to wipe one’s feet
+  result: Summer hereinlassen
+  clue: Phrase

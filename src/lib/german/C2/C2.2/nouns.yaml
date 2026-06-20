@@ -1,311 +1,171 @@
-- indication: 'die Selbstpräsentation • plural: die Selbstpräsentationen'
-  result: self-presentation
-  clue: Noun
-  pronunciation: '[diː ˈzɛlpstpʁɛzɛntaˌt͡sjoːn, ˈzɛlpstpʁɛzɛntaˌt͡sjoːnən]'
-- indication: 'die Humoristin • plural: die Humoristinnen'
-  result: humorist (female)
-  clue: Noun
-  pronunciation: '[diː humoˈʁɪstɪn]'
-- indication: das Verhaltensmuster
-  result: behavioral pattern
-  clue: Noun
-  pronunciation: '[das fɛɐ̯ˈhaltn̩sˌmʊstɐ]'
-- indication: 'die Berufung • plural: die Berufungen'
-  result: calling / vocation
-  clue: Noun
-  pronunciation: '[diː bəˈʁuːfʊŋ, bəˈʁuːfʊŋən]'
-- indication: 'die Überwindung • plural: die Überwindungen'
-  result: overcoming / effort
-  clue: Noun
-  pronunciation: '[diː yːbɐˈvɪndʊŋ]'
 - indication: C1 › 90*
   result: 'Page: 176 | C1 › 90*'
   clue: Noun
   pronunciation: '[—]'
-- indication: das Vertrauensverhältnis
-  result: relationship of trust
-  clue: Noun
-  pronunciation: '[das fɛɐ̯ˈtʁaʊ̯ənsfɛɐ̯ˌhɛltnɪs]'
-- indication: 'die Einrichtung • plural: die Einrichtungen'
-  result: institution / facility
-  clue: Noun
-  pronunciation: '[diː ˈaɪ̯nˌʁɪçtʊŋ]'
-- indication: 'die Immobilie • plural: die Immobilien'
-  result: property / real estate
-  clue: Noun
-  pronunciation: '[diː ɪmoˈbiːli̯ə, -n]'
-- indication: der Vorrat
-  result: stock / supply / store
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈfoːɐ̯ˌʁaːt]'
-- indication: 'die Beilage • plural: die Beilagen'
-  result: side dish / supplement
-  clue: Noun
-  pronunciation: '[diː ˈbaɪ̯ˌlaːɡə]'
-- indication: 'die Unklarheit • plural: die Unklarheiten'
-  result: uncertainty / ambiguity
-  clue: Noun
-  pronunciation: '[diː ˈʊnklaːɐ̯haɪ̯t]'
-- indication: 'der Bau • plural: die Baus'
-  result: building / construction
-  clue: Noun
-  pronunciation: '[deːɐ̯ baʊ̯]'
-- indication: 'die Gemeinde • plural: die Gemeinden'
-  result: municipality / community
-  clue: Noun
-  pronunciation: '[diː ɡəˈmaɪ̯ndə]'
-- indication: 'die Vorbeugung • plural: die Vorbeugungen'
-  result: prevention / prophylaxis
-  clue: Noun
-  pronunciation: '[diː ˈfoːɐ̯ˌbɔʏ̯ɡʊŋ]'
-- indication: das Maß
-  result: measure / amount / degree
-  clue: Noun
-  pronunciation: '[das maːs]'
-- indication: 'die Doppeldeutigkeit • plural: die Doppeldeutigkeiten'
-  result: ambiguity / double meaning
-  clue: Noun
-  pronunciation: '[diː ˈdɔpl̩ˌdɔɪ̯tɪçkaɪ̯t]'
-- indication: 'die Fortpflanzung • plural: die Fortpflanzungen'
-  result: reproduction / procreation
-  clue: Noun
-  pronunciation: '[diː ˈfɔʁtˌp͡flantsʊŋ]'
-- indication: 'das Milieu • plural: die Milieus'
-  result: milieu / social environment
-  clue: Noun
-  pronunciation: '[das miˈljøː]'
-- indication: 'die Streitigkeit • plural: die Streitigkeiten'
-  result: dispute / argument / quarrel
-  clue: Noun
-  pronunciation: '[diː ˈʃtʁaɪ̯tɪçkaɪ̯t, -en]'
-- indication: 'die Normvorstellung • plural: die Normvorstellungen'
-  result: normative concept / standard
-  clue: Noun
-  pronunciation: '[diː ˈnɔʁmfoːɐ̯ˌʃtɛlʊŋ]'
-- indication: das Muss **
-  result: a must (e.g. That is a must.)
-  clue: Noun
-  pronunciation: '[das ˈmʊs]'
-- indication: 'die Kameraeinstellung • plural: die Kameraeinstellungen'
-  result: camera setting / shot / angle
-  clue: Noun
-  pronunciation: '[diː ˈkaməʁaˌaɪ̯nʃtɛlʊŋ, ˈkaməʁaˌaɪ̯nʃtɛlʊŋən]'
-- indication: der Quereinstieg
-  result: career change / lateral entry
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈkveːɐ̯ˌʔaɪ̯nʃtiːk, ˈkveːɐ̯ˌʔaɪ̯nʃtiːɡə]'
-- indication: 'die Förderung • plural: die Förderungen'
-  result: funding / promotion / support
-  clue: Noun
-  pronunciation: '[diː ˈfœʁdəʁʊŋ]'
-- indication: 'die Glosse • plural: die Glossen'
-  result: satirical column / commentary
-  clue: Noun
-  pronunciation: '[diː ˈɡlɔsə]'
-- indication: die Gesellschaftsschicht
-  result: social class / social stratum
-  clue: Noun
-  pronunciation: '[diː ɡəˈzɛlʃaftsˌʃɪçt]'
-- indication: 'die Mehrdeutigkeit • plural: die Mehrdeutigkeiten'
-  result: ambiguity / multiple meanings
-  clue: Noun
-  pronunciation: '[diː ˈmeːɐ̯ˌdɔɪ̯tɪçkaɪ̯t]'
-- indication: der Eigenbedarf
-  result: personal use / owner-occupancy
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈaɪ̯ɡn̩bəˌdaʁf, -ə]'
-- indication: das Machtverhältnis
-  result: power relation / power dynamic
-  clue: Noun
-  pronunciation: '[das ˈmaxtfɛɐ̯ˌhɛltnɪs]'
-- indication: der Anteil
-  result: share / proportion / percentage
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈanˌtaɪ̯l, -e]'
-- indication: der Dienstaccount
-  result: work account / official account
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈdiːnstʔaˌkaʊ̯nt]'
-- indication: der Irrtum
-  result: error / mistake / misconception
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈɪʁtuːm]'
-- indication: 'die Bereitstellung • plural: die Bereitstellungen'
-  result: provision / supply / allocation
-  clue: Noun
-  pronunciation: '[diː bəˈʁaɪ̯tˌʃtɛlʊŋ]'
-- indication: die Gemeinschaftspraxis
-  result: group practice / joint practice
-  clue: Noun
-  pronunciation: '[diː ɡəˈmaɪ̯nʃaftsˌpʁaksɪs]'
-- indication: 'die Zielstrebigkeit • plural: die Zielstrebigkeiten'
-  result: determination / purposeful drive
-  clue: Noun
-  pronunciation: '[diː ˈt͡siːlˌʃtʁeːbɪçkaɪ̯t]'
-- indication: der Fachbericht
-  result: technical report / expert report
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈfaxbəˌrɪçt, ˈfaxbəˌrɪçtə]'
-- indication: 'die Schikane • plural: die Schikanen'
-  result: harassment / bullying / chicanery
-  clue: Noun
-  pronunciation: '[diː ʃiˈkaːnə]'
-- indication: 'die Prognose • plural: die Prognosen'
-  result: forecast / prediction / prognosis
-  clue: Noun
-  pronunciation: '[diː pʁoˈɡnoːzə]'
-- indication: 'die Leistungsfähigkeit • plural: die Leistungsfähigkeiten'
-  result: performance capacity / efficiency
-  clue: Noun
-  pronunciation: '[diː ˈlaɪ̯stʊŋsˌfɛːɪçkaɪ̯t]'
-- indication: 'die Trägheit • plural: die Trägheiten'
-  result: inertia / sluggishness / laziness
-  clue: Noun
-  pronunciation: '[diː ˈtʁɛːkhaɪ̯t]'
-- indication: der Tabubruch
-  result: taboo breach / breaking of a taboo
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈtaːbuːˌbʁʊx]'
-- indication: 'die Ausschüttung • plural: die Ausschüttungen'
-  result: release / secretion / distribution
-  clue: Noun
-  pronunciation: '[diː ˈaʊ̯sˌʃʏtʊŋ]'
-- indication: das Persönlichkeitsmerkmal
-  result: personality trait / character trait
-  clue: Noun
-  pronunciation: '[das pɛʁˈzøːnlɪçkaɪ̯tsˌmɛʁkmaːl]'
-- indication: der Schwerpunkt
-  result: focus / main emphasis / focal point
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈʃveːɐ̯pʊŋkt]'
-- indication: 'die Meinungsverschiedenheit • plural: die Meinungsverschiedenheiten'
-  result: difference of opinion / disagreement
-  clue: Noun
-  pronunciation: '[diː ˈmaɪ̯nʊŋsfɛɐ̯ˌʃiːdn̩haɪ̯t, -en]'
-- indication: 'die Energiegewinnung • plural: die Energiegewinnungen'
-  result: energy production / power generation
-  clue: Noun
-  pronunciation: '[diː eːnɛʁˈɡiːɡəˌvɪnʊŋ]'
-- indication: 'die Sachlage • plural: die Sachlagen'
-  result: factual situation / state of affairs
-  clue: Noun
-  pronunciation: '[diː ˈzaxˌlaːɡə]'
-- indication: der Behandlungsweg
-  result: course of treatment / treatment path
-  clue: Noun
-  pronunciation: '[deːɐ̯ bəˈhandlʊŋsˌveːk]'
-- indication: der Vorstand
-  result: board of directors / management board
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈfoːɐ̯ʃtant, ˈfoːɐ̯ʃtɛndə]'
-- indication: der Lebensumstand
-  result: life circumstance / condition of life
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈleːbn̩sˌʔʊmʃtant]'
-- indication: 'die Ambition • plural: die Ambitionen'
-  result: ambition (to have athletic ambitions)
-  clue: Noun
-  pronunciation: '[diː ambiˈt͡sjoːn]'
-- indication: 'die Pointe • plural: die Pointen'
-  result: punchline / point (of a joke or story)
-  clue: Noun
-  pronunciation: '[diː ˈpwãːtə, -n]'
-- indication: das Führungsverhalten
-  result: leadership behavior / leadership style
-  clue: Noun
-  pronunciation: '[das ˈfyːʁʊŋsfɛɐ̯ˌhaltn̩]'
-- indication: der Ablauf
-  result: process / procedure / course of events
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈapˌlaʊ̯f]'
-- indication: 'die Videosprechstunde • plural: die Videosprechstunden'
-  result: video consultation / video appointment
-  clue: Noun
-  pronunciation: '[diː ˈviːde·oˌʃpʁɛçʃtʊndə]'
-- indication: 'die Arbeitsgruppe • plural: die Arbeitsgruppen'
-  result: working group / study group / committee
-  clue: Noun
-  pronunciation: '[diː ˈaʁbaɪ̯t͡sˌɡʁʊpə]'
-- indication: 'die Verdienstmöglichkeit • plural: die Verdienstmöglichkeiten'
-  result: earning potential / earning opportunity
-  clue: Noun
-  pronunciation: '[diː fɛɐ̯ˈdiːnstˌmøːklɪçkaɪ̯t, fɛɐ̯ˈdiːnstˌmøːklɪçkaɪ̯tn̩]'
-- indication: 'die Verdrängung • plural: die Verdrängungen'
-  result: suppression / displacement / repression
-  clue: Noun
-  pronunciation: '[diː fɛɐ̯ˈdʁɛŋʊŋ]'
-- indication: 'die Terminvergabe • plural: die Terminvergaben'
-  result: allocation of appointments / scheduling
-  clue: Noun
-  pronunciation: '[diː tɛɐ̯ˈmiːnfɛɐ̯ˌɡaːbə]'
-- indication: der Kündigungsschutz
-  result: protection against dismissal / protection against wrongful discharge
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈkʏndɪɡʊŋsˌʃʊts]'
-- indication: der Irrweg
-  result: wrong track / aberration / path of error
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈɪʁˌveːk]'
-- indication: der Gesprächsversuch
-  result: attempt at a conversation / attempt to talk
-  clue: Noun
-  pronunciation: '[deːɐ̯ ɡəˈʃpʁɛːçsfɛɐ̯ˌzuːx, -e]'
-- indication: der Abstrich
-  result: swab / smear (medical); compromise / cutback
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈapˌʃtʁɪç]'
-- indication: die Problematik
-  result: problematic nature / set of problems / issues
-  clue: Noun
-  pronunciation: '[diː pʁobleˈmaːtɪk]'
-- indication: 'die Überforderung • plural: die Überforderungen'
-  result: excessive demand / strain / being overwhelmed
-  clue: Noun
-  pronunciation: '[diː ˌyːbɐˈfɔrdərʊŋ]'
-- indication: 'die Verpflichtung • plural: die Verpflichtungen'
-  result: obligation / commitment (*to take on obligations*)
-  clue: Noun
-  pronunciation: '[diː fɛɐ̯ˈplɪçtʊŋ]'
-- indication: die Bereitschaft **
-  result: willingness / readiness (e.g. to signal willingness)
-  clue: Noun
-  pronunciation: '[diː bəˈʁaɪ̯tʃaft]'
-- indication: der Handlungsbedarf **
-  result: need for action (e.g. We see a need for action here.)
-  clue: Noun
-  pronunciation: '[deːɐ̯ ˈhandlʊŋsbəˌdaʁf]'
-- indication: das lebenslange Wohnrecht
-  result: lifelong right of residence / lifelong right of occupancy
-  clue: Noun
-  pronunciation: '[das ˈleːbn̩sˌlaŋə ˈvoːnˌʁɛçt]'
-- indication: 'Speech Bubble 3: m ...'
-  result: 'Speech Bubble 3: m ...'
-  clue: Noun
-  pronunciation: '[ɛm]'
-- indication: 'das Gespräch suchen • plural: die Gespräch suchen'
-  result: to seek to talk / to reach out for a conversation
-  clue: Noun
-  pronunciation: '[das ɡəˈʃpʁɛːç ˈzuːxn̩]'
 - indication: das Anliegen
   result: concern / request (e.g. We contact you with a request.)
   clue: Noun
   pronunciation: '[das ˈanˌliːɡn̩]'
-- indication: der/die Betroffene, -n
-  result: affected person / person concerned
-  clue: Phrase
-  pronunciation: '[deːɐ̯ bəˈtʁɔfənə / diː bəˈtʁɔfənə]'
-- indication: 'Speech Bubble 1: die Nachtschicht'
-  result: 'Speech Bubble 1: the night shift'
+- indication: das Führungsverhalten
+  result: leadership behavior / leadership style
   clue: Noun
-  pronunciation: '[diː ˈnaxtʃɪçt]'
+  pronunciation: '[das ˈfyːʁʊŋsfɛɐ̯ˌhaltn̩]'
+- indication: Das geplante Bauprojekt wurde von den Behörden kurzerhand abgeschmettert.
+  result: The planned construction project was summarily rejected (turned down flat) by the authorities.
+  clue: Noun
+- indication: 'das Gespräch suchen • plural: die Gespräch suchen'
+  result: to seek to talk / to reach out for a conversation
+  clue: Noun
+  pronunciation: '[das ɡəˈʃpʁɛːç ˈzuːxn̩]'
+- indication: das Lametta
+  result: tinsel
+  clue: Noun
+- indication: das lebenslange Wohnrecht
+  result: lifelong right of residence / lifelong right of occupancy
+  clue: Noun
+  pronunciation: '[das ˈleːbn̩sˌlaŋə ˈvoːnˌʁɛçt]'
+- indication: das Machtverhältnis
+  result: power relation / power dynamic
+  clue: Noun
+  pronunciation: '[das ˈmaxtfɛɐ̯ˌhɛltnɪs]'
+- indication: das Maß
+  result: measure / amount / degree
+  clue: Noun
+  pronunciation: '[das maːs]'
+- indication: 'das Milieu • plural: die Milieus'
+  result: milieu / social environment
+  clue: Noun
+  pronunciation: '[das miˈljøː]'
+- indication: das Muss **
+  result: a must (e.g. That is a must.)
+  clue: Noun
+  pronunciation: '[das ˈmʊs]'
+- indication: das Persönlichkeitsmerkmal
+  result: personality trait / character trait
+  clue: Noun
+  pronunciation: '[das pɛʁˈzøːnlɪçkaɪ̯tsˌmɛʁkmaːl]'
+- indication: das Verhaltensmuster
+  result: behavioral pattern
+  clue: Noun
+  pronunciation: '[das fɛɐ̯ˈhaltn̩sˌmʊstɐ]'
+- indication: das Vertrauensverhältnis
+  result: relationship of trust
+  clue: Noun
+  pronunciation: '[das fɛɐ̯ˈtʁaʊ̯ənsfɛɐ̯ˌhɛltnɪs]'
+- indication: das Weihnachtsessen
+  result: Christmas dinner
+  clue: Noun
 - indication: der / ein wahre Kern
   result: a grain of truth
   clue: Noun
   pronunciation: '[deːɐ̯ / aɪ̯n ˈvaːʁə(ɐ̯) kɛʁn]'
+- indication: der Ablauf
+  result: process / procedure / course of events
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈapˌlaʊ̯f]'
+- indication: der Abstrich
+  result: swab / smear (medical); compromise / cutback
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈapˌʃtʁɪç]'
+- indication: der Anteil
+  result: share / proportion / percentage
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈanˌtaɪ̯l, -e]'
+- indication: der Aschermittwoch
+  result: Ash Wednesday
+  clue: Noun
+- indication: 'der Bau • plural: die Baus'
+  result: building / construction
+  clue: Noun
+  pronunciation: '[deːɐ̯ baʊ̯]'
+- indication: der Bauherr
+  result: builder / client / developer
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈbaʊ̯ˌhɛʁ / diː ˈbaʊ̯ˌhɛʁɪn]'
+- indication: der Behandlungsweg
+  result: course of treatment / treatment path
+  clue: Noun
+  pronunciation: '[deːɐ̯ bəˈhandlʊŋsˌveːk]'
+- indication: der Dienstaccount
+  result: work account / official account
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈdiːnstʔaˌkaʊ̯nt]'
+- indication: der Eigenbedarf
+  result: personal use / owner-occupancy
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈaɪ̯ɡn̩bəˌdaʁf, -ə]'
+- indication: der Fachbericht
+  result: technical report / expert report
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈfaxbəˌrɪçt, ˈfaxbəˌrɪçtə]'
+- indication: der Gesprächsversuch
+  result: attempt at a conversation / attempt to talk
+  clue: Noun
+  pronunciation: '[deːɐ̯ ɡəˈʃpʁɛːçsfɛɐ̯ˌzuːx, -e]'
+- indication: der Glühwein
+  result: Nativity play
+  clue: Noun
+- indication: der Handlungsbedarf **
+  result: need for action (e.g. We see a need for action here.)
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈhandlʊŋsbəˌdaʁf]'
+- indication: der Irrtum
+  result: error / mistake / misconception
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈɪʁtuːm]'
+- indication: der Irrweg
+  result: wrong track / aberration / path of error
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈɪʁˌveːk]'
+- indication: der Jahrmarkt
+  result: funfair
+  clue: Noun
+- indication: der Karnevalsumzug
+  result: parade
+  clue: Noun
+- indication: der Karnevalswagen
+  result: carnival float
+  clue: Noun
+- indication: der Kranz
+  result: wreath
+  clue: Noun
+- indication: der Kündigungsschutz
+  result: protection against dismissal / protection against wrongful discharge
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈkʏndɪɡʊŋsˌʃʊts]'
+- indication: der Lebensumstand
+  result: life circumstance / condition of life
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈleːbn̩sˌʔʊmʃtant]'
 - indication: der Mediator
   result: mediator
   clue: Noun
   pronunciation: '[deːɐ̯ meˈdi̯aːtoːɐ̯, -ən / diː meˈdi̯aːtoːʁɪn, -nən]'
+- indication: Der Minister versuchte vergeblich, von dem eigentlichen Skandal abzulenken.
+  result: The minister tried in vain to deflect from the actual scandal.
+  clue: Noun
+- indication: der Quereinstieg
+  result: career change / lateral entry
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈkveːɐ̯ˌʔaɪ̯nʃtiːk, ˈkveːɐ̯ˌʔaɪ̯nʃtiːɡə]'
+- indication: der Schwerpunkt
+  result: focus / main emphasis / focal point
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈʃveːɐ̯pʊŋkt]'
+- indication: der Selbstversorger
+  result: self-caterer / self-sufficient person
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈzɛlpstfɛɐ̯ˌzɔʁɡɐ / diː ˈzɛlpstfɛɐ̯ˌzɔʁɡəʁɪn]'
+- indication: der Stellvertreter
+  result: deputy / representative
+  clue: Noun
+  pronunciation: '[deːɐ̯ ˈʃtɛlfɛɐ̯ˌtʁeːtɐ / diː ˈʃtɛlfɛɐ̯ˌtʁeːtəʁɪn]'
+- indication: der Stollen
+  result: stollen
+  clue: Noun
+- indication: der Straßenkünstler /
+  result: street performer
+  clue: Noun
 - indication: der Streetworker
   result: street worker
   clue: Noun
@@ -314,37 +174,233 @@
   result: mediator / arbitrator
   clue: Noun
   pronunciation: '[deːɐ̯ ˈʃtʁaɪ̯tˌʃlɪçtɐ, - / diː ˈʃtʁaɪ̯tˌʃlɪçtəʁɪn, -nən]'
-- indication: der Stellvertreter
-  result: deputy / representative
+- indication: der Tabubruch
+  result: taboo breach / breaking of a taboo
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈʃtɛlfɛɐ̯ˌtʁeːtɐ / diː ˈʃtɛlfɛɐ̯ˌtʁeːtəʁɪn]'
-- indication: der Bauherr
-  result: builder / client / developer
+  pronunciation: '[deːɐ̯ ˈtaːbuːˌbʁʊx]'
+- indication: der Vorrat
+  result: stock / supply / store
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈbaʊ̯ˌhɛʁ / diː ˈbaʊ̯ˌhɛʁɪn]'
-- indication: Weitere Wörter, die für mich wichtig sind
-  result: Other words that are important to me
+  pronunciation: '[deːɐ̯ ˈfoːɐ̯ˌʁaːt]'
+- indication: der Vorstand
+  result: board of directors / management board
   clue: Noun
-  pronunciation: '[ˈvaɪ̯təʁə ˈvœʁtɐ diː fyːɐ̯ mɪç ˈvɪçtɪç zɪnt]'
-- indication: der Selbstversorger
-  result: self-caterer / self-sufficient person
+  pronunciation: '[deːɐ̯ ˈfoːɐ̯ʃtant, ˈfoːɐ̯ʃtɛndə]'
+- indication: der Weihnachtsmarkt
+  result: Christmas market
   clue: Noun
-  pronunciation: '[deːɐ̯ ˈzɛlpstfɛɐ̯ˌzɔʁɡɐ / diː ˈzɛlpstfɛɐ̯ˌzɔʁɡəʁɪn]'
+- indication: der/die Betroffene, -n
+  result: affected person / person concerned
+  clue: Phrase
+  pronunciation: '[deːɐ̯ bəˈtʁɔfənə / diː bəˈtʁɔfənə]'
+- indication: 'die Ambition • plural: die Ambitionen'
+  result: ambition (to have athletic ambitions)
+  clue: Noun
+  pronunciation: '[diː ambiˈt͡sjoːn]'
+- indication: 'die Arbeitsgruppe • plural: die Arbeitsgruppen'
+  result: working group / study group / committee
+  clue: Noun
+  pronunciation: '[diː ˈaʁbaɪ̯t͡sˌɡʁʊpə]'
+- indication: 'die Ausschüttung • plural: die Ausschüttungen'
+  result: release / secretion / distribution
+  clue: Noun
+  pronunciation: '[diː ˈaʊ̯sˌʃʏtʊŋ]'
+- indication: 'die Beilage • plural: die Beilagen'
+  result: side dish / supplement
+  clue: Noun
+  pronunciation: '[diː ˈbaɪ̯ˌlaːɡə]'
+- indication: die Bereitschaft **
+  result: willingness / readiness (e.g. to signal willingness)
+  clue: Noun
+  pronunciation: '[diː bəˈʁaɪ̯tʃaft]'
+- indication: 'die Bereitstellung • plural: die Bereitstellungen'
+  result: provision / supply / allocation
+  clue: Noun
+  pronunciation: '[diː bəˈʁaɪ̯tˌʃtɛlʊŋ]'
+- indication: 'die Berufung • plural: die Berufungen'
+  result: calling / vocation
+  clue: Noun
+  pronunciation: '[diː bəˈʁuːfʊŋ, bəˈʁuːfʊŋən]'
+- indication: 'die Doppeldeutigkeit • plural: die Doppeldeutigkeiten'
+  result: ambiguity / double meaning
+  clue: Noun
+  pronunciation: '[diː ˈdɔpl̩ˌdɔɪ̯tɪçkaɪ̯t]'
+- indication: 'die Einrichtung • plural: die Einrichtungen'
+  result: institution / facility
+  clue: Noun
+  pronunciation: '[diː ˈaɪ̯nˌʁɪçtʊŋ]'
+- indication: 'die Energiegewinnung • plural: die Energiegewinnungen'
+  result: energy production / power generation
+  clue: Noun
+  pronunciation: '[diː eːnɛʁˈɡiːɡəˌvɪnʊŋ]'
+- indication: die Fähnchen ntpl
+  result: cake
+  clue: Noun
+- indication: die Feder
+  result: feather
+  clue: Noun
+- indication: 'die Förderung • plural: die Förderungen'
+  result: funding / promotion / support
+  clue: Noun
+  pronunciation: '[diː ˈfœʁdəʁʊŋ]'
+- indication: 'die Fortpflanzung • plural: die Fortpflanzungen'
+  result: reproduction / procreation
+  clue: Noun
+  pronunciation: '[diː ˈfɔʁtˌp͡flantsʊŋ]'
+- indication: 'die Gemeinde • plural: die Gemeinden'
+  result: municipality / community
+  clue: Noun
+  pronunciation: '[diː ɡəˈmaɪ̯ndə]'
+- indication: die Gemeinschaftspraxis
+  result: group practice / joint practice
+  clue: Noun
+  pronunciation: '[diː ɡəˈmaɪ̯nʃaftsˌpʁaksɪs]'
+- indication: die Gesellschaftsschicht
+  result: social class / social stratum
+  clue: Noun
+  pronunciation: '[diː ɡəˈzɛlʃaftsˌʃɪçt]'
+- indication: 'die Glosse • plural: die Glossen'
+  result: satirical column / commentary
+  clue: Noun
+  pronunciation: '[diː ˈɡlɔsə]'
+- indication: 'die Humoristin • plural: die Humoristinnen'
+  result: humorist (female)
+  clue: Noun
+  pronunciation: '[diː humoˈʁɪstɪn]'
+- indication: 'die Immobilie • plural: die Immobilien'
+  result: property / real estate
+  clue: Noun
+  pronunciation: '[diː ɪmoˈbiːli̯ə, -n]'
+- indication: 'die Kameraeinstellung • plural: die Kameraeinstellungen'
+  result: camera setting / shot / angle
+  clue: Noun
+  pronunciation: '[diː ˈkaməʁaˌaɪ̯nʃtɛlʊŋ, ˈkaməʁaˌaɪ̯nʃtɛlʊŋən]'
+- indication: 'die Leistungsfähigkeit • plural: die Leistungsfähigkeiten'
+  result: performance capacity / efficiency
+  clue: Noun
+  pronunciation: '[diː ˈlaɪ̯stʊŋsˌfɛːɪçkaɪ̯t]'
+- indication: die Maske
+  result: mask
+  clue: Noun
+- indication: 'die Mehrdeutigkeit • plural: die Mehrdeutigkeiten'
+  result: ambiguity / multiple meanings
+  clue: Noun
+  pronunciation: '[diː ˈmeːɐ̯ˌdɔɪ̯tɪçkaɪ̯t]'
+- indication: 'die Meinungsverschiedenheit • plural: die Meinungsverschiedenheiten'
+  result: difference of opinion / disagreement
+  clue: Noun
+  pronunciation: '[diː ˈmaɪ̯nʊŋsfɛɐ̯ˌʃiːdn̩haɪ̯t, -en]'
+- indication: Die neuen Sparmaßnahmen stießen bei der Belegschaft auf heftige Gegenliebe.
+  result: 'The new austerity measures met with fierce resistance (sarcastically: ''passionate approval'') from the workforce.'
+  clue: Noun
+- indication: 'die Normvorstellung • plural: die Normvorstellungen'
+  result: normative concept / standard
+  clue: Noun
+  pronunciation: '[diː ˈnɔʁmfoːɐ̯ˌʃtɛlʊŋ]'
+- indication: 'die Pointe • plural: die Pointen'
+  result: punchline / point (of a joke or story)
+  clue: Noun
+  pronunciation: '[diː ˈpwãːtə, -n]'
+- indication: die Problematik
+  result: problematic nature / set of problems / issues
+  clue: Noun
+  pronunciation: '[diː pʁobleˈmaːtɪk]'
+- indication: 'die Prognose • plural: die Prognosen'
+  result: forecast / prediction / prognosis
+  clue: Noun
+  pronunciation: '[diː pʁoˈɡnoːzə]'
+- indication: 'die Sachlage • plural: die Sachlagen'
+  result: factual situation / state of affairs
+  clue: Noun
+  pronunciation: '[diː ˈzaxˌlaːɡə]'
+- indication: 'die Schikane • plural: die Schikanen'
+  result: harassment / bullying / chicanery
+  clue: Noun
+  pronunciation: '[diː ʃiˈkaːnə]'
+- indication: 'die Selbstpräsentation • plural: die Selbstpräsentationen'
+  result: self-presentation
+  clue: Noun
+  pronunciation: '[diː ˈzɛlpstpʁɛzɛntaˌt͡sjoːn, ˈzɛlpstpʁɛzɛntaˌt͡sjoːnən]'
+- indication: die Straßenkünstlerin
+  result: carnival   |  karneval
+  clue: Noun
+- indication: 'die Streitigkeit • plural: die Streitigkeiten'
+  result: dispute / argument / quarrel
+  clue: Noun
+  pronunciation: '[diː ˈʃtʁaɪ̯tɪçkaɪ̯t, -en]'
+- indication: die Strohpuppe
+  result: effigy
+  clue: Noun
+- indication: 'die Terminvergabe • plural: die Terminvergaben'
+  result: allocation of appointments / scheduling
+  clue: Noun
+  pronunciation: '[diː tɛɐ̯ˈmiːnfɛɐ̯ˌɡaːbə]'
+- indication: 'die Trägheit • plural: die Trägheiten'
+  result: inertia / sluggishness / laziness
+  clue: Noun
+  pronunciation: '[diː ˈtʁɛːkhaɪ̯t]'
+- indication: 'die Überforderung • plural: die Überforderungen'
+  result: excessive demand / strain / being overwhelmed
+  clue: Noun
+  pronunciation: '[diː ˌyːbɐˈfɔrdərʊŋ]'
+- indication: 'die Überwindung • plural: die Überwindungen'
+  result: overcoming / effort
+  clue: Noun
+  pronunciation: '[diː yːbɐˈvɪndʊŋ]'
+- indication: 'die Unklarheit • plural: die Unklarheiten'
+  result: uncertainty / ambiguity
+  clue: Noun
+  pronunciation: '[diː ˈʊnklaːɐ̯haɪ̯t]'
+- indication: 'die Verdienstmöglichkeit • plural: die Verdienstmöglichkeiten'
+  result: earning potential / earning opportunity
+  clue: Noun
+  pronunciation: '[diː fɛɐ̯ˈdiːnstˌmøːklɪçkaɪ̯t, fɛɐ̯ˈdiːnstˌmøːklɪçkaɪ̯tn̩]'
+- indication: 'die Verdrängung • plural: die Verdrängungen'
+  result: suppression / displacement / repression
+  clue: Noun
+  pronunciation: '[diː fɛɐ̯ˈdʁɛŋʊŋ]'
+- indication: die Verlobung
+  result: engagement
+  clue: Noun
+- indication: 'die Verpflichtung • plural: die Verpflichtungen'
+  result: obligation / commitment (*to take on obligations*)
+  clue: Noun
+  pronunciation: '[diː fɛɐ̯ˈplɪçtʊŋ]'
+- indication: 'die Videosprechstunde • plural: die Videosprechstunden'
+  result: video consultation / video appointment
+  clue: Noun
+  pronunciation: '[diː ˈviːde·oˌʃpʁɛçʃtʊndə]'
+- indication: 'die Vorbeugung • plural: die Vorbeugungen'
+  result: prevention / prophylaxis
+  clue: Noun
+  pronunciation: '[diː ˈfoːɐ̯ˌbɔʏ̯ɡʊŋ]'
+- indication: die Weihnachtskarte
+  result: Christmas card
+  clue: Noun
+- indication: die Weihnachtskugel
+  result: bauble
+  clue: Noun
+- indication: 'die Zielstrebigkeit • plural: die Zielstrebigkeiten'
+  result: determination / purposeful drive
+  clue: Noun
+  pronunciation: '[diː ˈt͡siːlˌʃtʁeːbɪçkaɪ̯t]'
+- indication: 'Speech Bubble 1: die Nachtschicht'
+  result: 'Speech Bubble 1: the night shift'
+  clue: Noun
+  pronunciation: '[diː ˈnaxtʃɪçt]'
 - indication: 'Speech Bubble 2: t ... Hm ... das Team!'
   result: 'Speech Bubble 2: t ... Hm ... the team!'
   clue: Noun
   pronunciation: '[das tiːm]'
-- indication: Der Minister versuchte vergeblich, von dem eigentlichen Skandal abzulenken.
-  result: The minister tried in vain to deflect from the actual scandal.
+- indication: 'Speech Bubble 3: m ...'
+  result: 'Speech Bubble 3: m ...'
   clue: Noun
-- indication: Das geplante Bauprojekt wurde von den Behörden kurzerhand abgeschmettert.
-  result: The planned construction project was summarily rejected (turned down flat) by the authorities.
-  clue: Noun
-- indication: Die neuen Sparmaßnahmen stießen bei der Belegschaft auf heftige Gegenliebe.
-  result: 'The new austerity measures met with fierce resistance (sarcastically: ''passionate approval'') from the workforce.'
-  clue: Noun
+  pronunciation: '[ɛm]'
 - indication: Wählen Sie aus jedem Modul drei Wörter oder Ausdrücke und formulieren Sie je einen Satz zum Thema *Zusammenleben*.
   result: Choose three words or expressions from each module and write one sentence for each on the topic of living together.
   clue: Noun
-  pronunciation: '[ˈvɛːlən ziː aʊ̯s ˈjeːdəm moˈduːl dʁaɪ̯ ˈvœʁtɐ ˈoːdɐ ˈaʊ̯sˌdʁʏkə ʊnt fɔʁmuˈliːʁən ziː jeː ˈaɪ̯nən ˈzat͡s
-    t͡sum ˈteːmaː t͡suˈzamənˌleːbən]'
+  pronunciation: '[ˈvɛːlən ziː aʊ̯s ˈjeːdəm moˈduːl dʁaɪ̯ ˈvœʁtɐ ˈoːdɐ ˈaʊ̯sˌdʁʏkə ʊnt fɔʁmuˈliːʁən ziː jeː ˈaɪ̯nən ˈzat͡s t͡sum ˈteːmaː t͡suˈzamənˌleːbən]'
+- indication: Weitere Wörter, die für mich wichtig sind
+  result: Other words that are important to me
+  clue: Noun
+  pronunciation: '[ˈvaɪ̯təʁə ˈvœʁtɐ diː fyːɐ̯ mɪç ˈvɪçtɪç zɪnt]'

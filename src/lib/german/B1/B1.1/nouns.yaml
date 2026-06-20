@@ -1,470 +1,8 @@
-- indication: 'das Konzert • plural: die Konzerte'
-  result: concert
-  clue: Noun
-- indication: 'das Merkmal • plural: die Merkmale'
-  result: feature
-  clue: Noun
-- indication: 'die Realität • plural: die Realitäten'
-  result: reality
-  clue: Noun
-- indication: 'die Botschaft • plural: die Botschaften'
-  result: message
-  clue: Noun
-- indication: die Formel
-  result: formula
-  clue: Noun
-- indication: die Gegenwart
-  result: present
-  clue: Noun
-- indication: die Hinsicht
-  result: respect
-  clue: Noun
-- indication: 'die Adresse • plural: die Adressen'
-  result: address
-  clue: Noun
-- indication: der Tourismus
-  result: tourism
-  clue: Noun
-- indication: 'die Therapie • plural: die Therapien'
-  result: therapy
-  clue: Noun
-- indication: der Verkehr
-  result: traffic
-  clue: Noun
-- indication: 'der Flughafen • plural: die Flughäfen'
-  result: airport
-  clue: Noun
-- indication: die Physik
-  result: physics
-  clue: Noun
-- indication: das Fahrzeug
-  result: vehicle
-  clue: Noun
-- indication: der Geschäftsführer
-  result: manager
-  clue: Noun
-- indication: 'die Oberfläche • plural: die Oberflächen'
-  result: surface
-  clue: Noun
-- indication: das Seminar
-  result: seminar
-  clue: Noun
-- indication: 'der Service • plural: die Servicen'
-  result: service
-  clue: Noun
-- indication: 'die Station • plural: die Stationen'
-  result: station
-  clue: Noun
-- indication: das Wunder
-  result: miracle
-  clue: Noun
-- indication: 'die Äußerung • plural: die Äußerungen'
-  result: comment
-  clue: Noun
-- indication: 'die Dienstleistung • plural: die Dienstleistungen'
-  result: service
-  clue: Noun
-- indication: 'das Konto • plural: die Kontos'
-  result: account
-  clue: Noun
-- indication: 'die Zahlung • plural: die Zahlungen'
-  result: payment
-  clue: Noun
-- indication: das Kapital
-  result: capital
-  clue: Noun
-- indication: 'der Ehegatte • plural: die Ehegatten'
-  result: husband
-  clue: Noun
-- indication: der Flüchtling
-  result: refugee
-  clue: Noun
-- indication: 'das Klima • plural: die Klimas'
-  result: climate
-  clue: Noun
-- indication: der Mut
-  result: courage
-  clue: Noun
-- indication: der Alkohol
-  result: alcohol
-  clue: Noun
-- indication: der Horizont
-  result: horizon
-  clue: Noun
-- indication: der Vortrag
-  result: lecture
-  clue: Noun
-- indication: 'die Fragestellung • plural: die Fragestellungen'
-  result: problem
-  clue: Noun
-- indication: 'die Lehrerin • plural: die Lehrerinnen'
-  result: teacher
-  clue: Noun
-- indication: das Protein
-  result: protein
-  clue: Noun
-- indication: der Maler
-  result: painter
-  clue: Noun
-- indication: die Hochzeit
-  result: wedding
-  clue: Noun
-- indication: 'die Mischung • plural: die Mischungen'
-  result: mixture
-  clue: Noun
-- indication: der Protest
-  result: protest
-  clue: Noun
-- indication: das Defizit
-  result: deficit
-  clue: Noun
-- indication: der Kaiser
-  result: emperor
-  clue: Noun
-- indication: 'die Kleidung • plural: die Kleidungen'
-  result: clothes
-  clue: Noun
-- indication: das Symptom
-  result: symptom
-  clue: Noun
-- indication: der Dialekt
-  result: dialect
-  clue: Noun
-- indication: das Gefängnis
-  result: gesture
-  clue: Noun
-- indication: 'die Mission • plural: die Missionen'
-  result: mission
-  clue: Noun
-- indication: der Offizier
-  result: officer
-  clue: Noun
-- indication: 'die Oma • plural: die Omas'
-  result: grandma
-  clue: Noun
-- indication: die Sehnsucht
-  result: longing
-  clue: Noun
-- indication: der Skandal
-  result: scandal
-  clue: Noun
-- indication: 'das Stadion • plural: die Stadionen'
-  result: stadium
-  clue: Noun
-- indication: das Wiedersehen
-  result: reunion
-  clue: Noun
-- indication: 'die Zeuge • plural: die Zeugen'
-  result: witness
+- indication: das Abendessen
+  result: dinner
   clue: Noun
 - indication: das Anliegen
   result: request
-  clue: Noun
-- indication: der Kapitän
-  result: captain
-  clue: Noun
-- indication: der Kontext
-  result: context
-  clue: Noun
-- indication: der Magen
-  result: stomach
-  clue: Noun
-- indication: 'die Mode • plural: die Moden'
-  result: fashion
-  clue: Noun
-- indication: 'die Rente • plural: die Renten'
-  result: pension
-  clue: Noun
-- indication: 'die Version • plural: die Versionen'
-  result: version
-  clue: Noun
-- indication: 'die Akademie • plural: die Akademien'
-  result: academy
-  clue: Noun
-- indication: das Gleichgewicht
-  result: balance
-  clue: Noun
-- indication: der Sportler
-  result: athlete
-  clue: Noun
-- indication: der Vorhang
-  result: curtain
-  clue: Noun
-- indication: die Armut
-  result: poverty
-  clue: Noun
-- indication: 'die Eröffnung • plural: die Eröffnungen'
-  result: opening
-  clue: Noun
-- indication: die Vorsicht
-  result: caution
-  clue: Noun
-- indication: 'die Zeichnung • plural: die Zeichnungen'
-  result: drawing
-  clue: Noun
-- indication: der Befund
-  result: results
-  clue: Noun
-- indication: 'die Blüte • plural: die Blüten'
-  result: blossom
-  clue: Noun
-- indication: 'die Brille • plural: die Brillen'
-  result: glasses
-  clue: Noun
-- indication: 'die Galerie • plural: die Galerien'
-  result: gallery
-  clue: Noun
-- indication: das Netzwerk
-  result: network
-  clue: Noun
-- indication: 'die Biologie • plural: die Biologien'
-  result: biology
-  clue: Noun
-- indication: 'die Fluggesellschaft • plural: die Fluggesellschaften'
-  result: airline
-  clue: Noun
-- indication: das Gepäck
-  result: luggage
-  clue: Noun
-- indication: 'die Leidenschaft • plural: die Leidenschaften'
-  result: passion
-  clue: Noun
-- indication: 'die Schauspielerin • plural: die Schauspielerinnen'
-  result: actress
-  clue: Noun
-- indication: der Vormittag
-  result: morning
-  clue: Noun
-- indication: 'die Batterie • plural: die Batterien'
-  result: battery
-  clue: Noun
-- indication: der Durchschnitt
-  result: average
-  clue: Noun
-- indication: die Fabrik
-  result: factory
-  clue: Noun
-- indication: der General
-  result: general
-  clue: Noun
-- indication: 'die Scheidung • plural: die Scheidungen'
-  result: divorce
-  clue: Noun
-- indication: 'die Subvention • plural: die Subventionen'
-  result: subsidy
-  clue: Noun
-- indication: die Uniform
-  result: uniform
-  clue: Noun
-- indication: das Vitamin
-  result: vitamin
-  clue: Noun
-- indication: 'die Vorlesung • plural: die Vorlesungen'
-  result: lecture
-  clue: Noun
-- indication: die Abwehr
-  result: defense
-  clue: Noun
-- indication: 'die Fachleute • plural: die Fachleuten'
-  result: experts
-  clue: Noun
-- indication: 'die Gerechtigkeit • plural: die Gerechtigkeiten'
-  result: justice
-  clue: Noun
-- indication: der Respekt
-  result: respect
-  clue: Noun
-- indication: das Vorfeld
-  result: advance
-  clue: Noun
-- indication: der Einblick
-  result: insight
-  clue: Noun
-- indication: die Fakultät
-  result: faculty
-  clue: Noun
-- indication: das Profil
-  result: profile
-  clue: Noun
-- indication: 'die Frage • plural: die Fragen'
-  result: question
-  clue: Noun
-- indication: 'der Herr • plural: die Herren'
-  result: man, Mr.
-  clue: Noun
-- indication: 'die Sprache • plural: die Sprachen'
-  result: language
-  clue: Noun
-- indication: 'das Interesse • plural: die Interessen'
-  result: interest
-  clue: Noun
-- indication: 'die Funktion • plural: die Funktionen'
-  result: function
-  clue: Noun
-- indication: die Politik
-  result: politics
-  clue: Noun
-- indication: die Tochter
-  result: daughter
-  clue: Noun
-- indication: 'die Entscheidung • plural: die Entscheidungen'
-  result: decision
-  clue: Noun
-- indication: der Satz
-  result: sentence
-  clue: Noun
-- indication: das Internet
-  result: internet
-  clue: Noun
-- indication: 'die Lösung • plural: die Lösungen'
-  result: solution
-  clue: Noun
-- indication: das Verhalten
-  result: behavior
-  clue: Noun
-- indication: das Geschäft
-  result: business
-  clue: Noun
-- indication: 'die Verfügung • plural: die Verfügungen'
-  result: disposal
-  clue: Noun
-- indication: der Computer
-  result: computer
-  clue: Noun
-- indication: der Vertrag
-  result: contract
-  clue: Noun
-- indication: 'die Tätigkeit • plural: die Tätigkeiten'
-  result: activity
-  clue: Noun
-- indication: 'die Reaktion • plural: die Reaktionen'
-  result: reaction
-  clue: Noun
-- indication: 'die Position • plural: die Positionen'
-  result: position
-  clue: Noun
-- indication: 'die Forschung • plural: die Forschungen'
-  result: research
-  clue: Noun
-- indication: die Schulter
-  result: shoulder
-  clue: Noun
-- indication: das Material
-  result: material
-  clue: Noun
-- indication: der/die Beschäftigte
-  result: employee
-  clue: Noun
-- indication: 'die Analyse • plural: die Analysen'
-  result: analysis
-  clue: Noun
-- indication: 'das Gebäude • plural: die Gebäuden'
-  result: building
-  clue: Noun
-- indication: der Direktor
-  result: director
-  clue: Noun
-- indication: 'die Ehe • plural: die Ehen'
-  result: marriage
-  clue: Noun
-- indication: der Abstand
-  result: distance
-  clue: Noun
-- indication: das Semester
-  result: semester
-  clue: Noun
-- indication: das Flugzeug
-  result: airplane
-  clue: Noun
-- indication: der Konflikt
-  result: conflict
-  clue: Noun
-- indication: 'die Mehrheit • plural: die Mehrheiten'
-  result: majority
-  clue: Noun
-- indication: die Aktivität
-  result: activity
-  clue: Noun
-- indication: 'die Industrie • plural: die Industrien'
-  result: industry
-  clue: Noun
-- indication: 'die Medizin • plural: die Medizinnen'
-  result: medicine
-  clue: Noun
-- indication: der Nachbar
-  result: neighbor
-  clue: Noun
-- indication: 'die Software • plural: die Softwaren'
-  result: software
-  clue: Noun
-- indication: das Krankenhaus
-  result: hospital
-  clue: Noun
-- indication: der Anbieter
-  result: supplier
-  clue: Noun
-- indication: 'die Religion • plural: die Religionen'
-  result: religion
-  clue: Noun
-- indication: der Arbeitgeber
-  result: employer
-  clue: Noun
-- indication: der Fortschritt
-  result: progress
-  clue: Noun
-- indication: der Geburtstag
-  result: birthday
-  clue: Noun
-- indication: das Kilogramm
-  result: kilogram
-  clue: Noun
-- indication: der Kauf
-  result: purchase
-  clue: Noun
-- indication: der Arbeitnehmer
-  result: employee
-  clue: Noun
-- indication: das Gegenteil
-  result: opposite
-  clue: Noun
-- indication: der Minister
-  result: minister
-  clue: Noun
-- indication: 'die Stärke • plural: die Stärken'
-  result: strength
-  clue: Noun
-- indication: der PC
-  result: computer
-  clue: Noun
-- indication: die Stirn
-  result: forehead
-  clue: Noun
-- indication: 'die Strategie • plural: die Strategien'
-  result: strategy
-  clue: Noun
-- indication: 'die Kategorie • plural: die Kategorien'
-  result: category
-  clue: Noun
-- indication: der Organismus
-  result: organism
-  clue: Noun
-- indication: der Unfall
-  result: accident
-  clue: Noun
-- indication: der Standard
-  result: standard
-  clue: Noun
-- indication: 'das Teilchen • plural: die Teilchen'
-  result: particle
-  clue: Noun
-- indication: der Verbraucher
-  result: consumer
-  clue: Noun
-- indication: die Identität
-  result: identity
-  clue: Noun
-- indication: 'die Zustimmung • plural: die Zustimmungen'
-  result: approval
   clue: Noun
 - indication: das Argument
   result: argument
@@ -472,96 +10,1044 @@
 - indication: das Arzneimittel
   result: medicine
   clue: Noun
-- indication: der Musiker
-  result: musician
-  clue: Noun
-- indication: das Training
-  result: training
-  clue: Noun
-- indication: der Verkäufer
-  result: salesman
-  clue: Noun
-- indication: 'die Entfernung • plural: die Entfernungen'
-  result: distance
-  clue: Noun
-- indication: der Koffer
-  result: suitcase
-  clue: Noun
-- indication: der Unternehmer
-  result: employer
-  clue: Noun
-- indication: der/die Angestellte
-  result: employee
-  clue: Noun
-- indication: 'die Ferne • plural: die Fernen'
-  result: distance
-  clue: Noun
-- indication: der/die Verwandte
-  result: relative
-  clue: Noun
-- indication: der Regisseur
-  result: director
-  clue: Noun
-- indication: die Republik
-  result: republic
-  clue: Noun
-- indication: das Business
-  result: business
-  clue: Noun
-- indication: das Elektron
-  result: electron
-  clue: Noun
-- indication: 'die Ressource • plural: die Ressourcen'
-  result: resource
-  clue: Noun
-- indication: die Distanz
-  result: distance
-  clue: Noun
-- indication: der Eingang
-  result: entrance
-  clue: Noun
-- indication: der Austausch
-  result: exchange
-  clue: Noun
-- indication: der Dialog
-  result: dialogue
-  clue: Noun
-- indication: 'die Erhöhung • plural: die Erhöhungen'
-  result: increase
-  clue: Noun
-- indication: 'die Menschheit • plural: die Menschheiten'
-  result: humanity
-  clue: Noun
-- indication: 'die Dunkelheit • plural: die Dunkelheiten'
-  result: darkness
-  clue: Noun
-- indication: 'die Übernahme • plural: die Übernahmen'
-  result: takeover
-  clue: Noun
-- indication: 'die Kneipe • plural: die Kneipen'
-  result: pub, bar
-  clue: Noun
-- indication: 'die Schwäche • plural: die Schwächen'
-  result: weakness
-  clue: Noun
-- indication: 'die Überraschung • plural: die Überraschungen'
-  result: surprise
+- indication: das Bratenstück
+  result: frankfurter
   clue: Noun
 - indication: das Bündnis
   result: alliance
   clue: Noun
-- indication: 'die Gleichung • plural: die Gleichungen'
-  result: equation
+- indication: das Business
+  result: business
+  clue: Noun
+- indication: das Defizit
+  result: deficit
+  clue: Noun
+- indication: das Drive-In
+  result: drive-thru
   clue: Noun
 - indication: 'das Eigentum • plural: die Eigenten'
   result: property
   clue: Noun
-- indication: die Geschwister
-  result: siblings
+- indication: das Eisbein auf
+  result: sauerkraut
+  clue: Noun
+- indication: das Eiweiß
+  result: egg yolk
+  clue: Noun
+- indication: das Elektron
+  result: electron
+  clue: Noun
+- indication: das Fahrzeug
+  result: vehicle
+  clue: Noun
+- indication: das Feinkostgeschäft
+  result: ready meal
+  clue: Noun
+- indication: das Filet
+  result: fillet
+  clue: Noun
+- indication: das Flugzeug
+  result: airplane
+  clue: Noun
+- indication: 'das Gebäude • plural: die Gebäuden'
+  result: building
+  clue: Noun
+- indication: das Gefängnis
+  result: gesture
+  clue: Noun
+- indication: das Gegenteil
+  result: opposite
+  clue: Noun
+- indication: das Gepäck
+  result: luggage
+  clue: Noun
+- indication: das Geschäft
+  result: business
+  clue: Noun
+- indication: das Gleichgewicht
+  result: balance
+  clue: Noun
+- indication: das Hackfleisch
+  result: mince
+  clue: Noun
+- indication: das Hähnchen
+  result: chicken
+  clue: Noun
+- indication: das Handy aufladen
+  result: to charge your phone
+  clue: Noun
+- indication: das Hühnerfrikassee
+  result: chicken fricassee
+  clue: Noun
+- indication: 'das Interesse • plural: die Interessen'
+  result: interest
+  clue: Noun
+- indication: das Internet
+  result: internet
+  clue: Noun
+- indication: das Kalbfleisch
+  result: veal
+  clue: Noun
+- indication: das Kapital
+  result: capital
+  clue: Noun
+- indication: das Käsemesser
+  result: fish knife
+  clue: Noun
+- indication: das Kassler mit
+  result: sauerkraut
+  clue: Noun
+- indication: das Kilogramm
+  result: kilogram
+  clue: Noun
+- indication: 'das Klima • plural: die Klimas'
+  result: climate
+  clue: Noun
+- indication: 'das Konto • plural: die Kontos'
+  result: account
+  clue: Noun
+- indication: 'das Konzert • plural: die Konzerte'
+  result: concert
+  clue: Noun
+- indication: das Kotelett
+  result: chop
+  clue: Noun
+- indication: das Krankenhaus
+  result: hospital
+  clue: Noun
+- indication: das Marzipan
+  result: marzipan
+  clue: Noun
+- indication: das Material
+  result: material
+  clue: Noun
+- indication: das Mehl
+  result: flour
+  clue: Noun
+- indication: 'das Merkmal • plural: die Merkmale'
+  result: feature
+  clue: Noun
+- indication: das Mittagessen
+  result: lunch
+  clue: Noun
+- indication: das Müsli
+  result: scrambled eggs
+  clue: Noun
+- indication: das Netzwerk
+  result: network
+  clue: Noun
+- indication: das Olivenöl
+  result: olive oil
+  clue: Noun
+- indication: das Omelett
+  result: omelette
+  clue: Noun
+- indication: das Päckchen
+  result: tin
+  clue: Noun
+- indication: das Plundergebäck
+  result: Danish pastry
+  clue: Noun
+- indication: das Profil
+  result: profile
+  clue: Noun
+- indication: das Protein
+  result: protein
+  clue: Noun
+- indication: das Rehfleisch
+  result: venison
+  clue: Noun
+- indication: das Rindfleisch
+  result: beef
+  clue: Noun
+- indication: das Sandwich
+  result: sandwich
+  clue: Noun
+- indication: das Schalentier
+  result: shellfish
+  clue: Noun
+- indication: das Schnitzel
+  result: schnitzel
+  clue: Noun
+- indication: das Semester
+  result: semester
+  clue: Noun
+- indication: das Seminar
+  result: seminar
+  clue: Noun
+- indication: 'das Stadion • plural: die Stadionen'
+  result: stadium
+  clue: Noun
+- indication: das Steak
+  result: steak
+  clue: Noun
+- indication: das Steakmesser
+  result: steak knife
+  clue: Noun
+- indication: das Symptom
+  result: symptom
+  clue: Noun
+- indication: 'das Teilchen • plural: die Teilchen'
+  result: particle
+  clue: Noun
+- indication: das Training
+  result: training
+  clue: Noun
+- indication: das Verhalten
+  result: behavior
+  clue: Noun
+- indication: das Vitamin
+  result: vitamin
+  clue: Noun
+- indication: das Vorfeld
+  result: advance
+  clue: Noun
+- indication: das Weinglas
+  result: wine glass
+  clue: Noun
+- indication: das Wiedersehen
+  result: reunion
+  clue: Noun
+- indication: das Wunder
+  result: miracle
+  clue: Noun
+- indication: das Würstchen
+  result: pâté
+  clue: Noun
+- indication: der Aal
+  result: eel
+  clue: Noun
+- indication: der Abstand
+  result: distance
+  clue: Noun
+- indication: der Alkohol
+  result: alcohol
+  clue: Noun
+- indication: der Anbieter
+  result: supplier
+  clue: Noun
+- indication: der Apfelkuchen
+  result: apple tart
+  clue: Noun
+- indication: der Apfelstrudel
+  result: apple strudel
+  clue: Noun
+- indication: der Appenzeller
+  result: Appenzeller
+  clue: Noun
+- indication: der Arbeitgeber
+  result: employer
+  clue: Noun
+- indication: der Arbeitnehmer
+  result: employee
+  clue: Noun
+- indication: der Auflauf
+  result: gratin
+  clue: Noun
+- indication: der Aufschnitt
+  result: cold meats
+  clue: Noun
+- indication: der Austausch
+  result: exchange
+  clue: Noun
+- indication: der Barkeeper /
+  result: barman/barmaid
+  clue: Noun
+- indication: der Befund
+  result: results
+  clue: Noun
+- indication: der Berliner
+  result: doughnut
+  clue: Noun
+- indication: der Blattsalat
+  result: lettuce
+  clue: Noun
+- indication: der Blumenkohl
+  result: cauliflower
+  clue: Noun
+- indication: der Brokkoli
+  result: broccoli
+  clue: Noun
+- indication: der Camembert
+  result: Camembert
+  clue: Noun
+- indication: der Chili
+  result: chilli
+  clue: Noun
+- indication: der Computer
+  result: computer
+  clue: Noun
+- indication: der Dialekt
+  result: dialect
+  clue: Noun
+- indication: der Dialog
+  result: dialogue
+  clue: Noun
+- indication: der Direktor
+  result: director
+  clue: Noun
+- indication: der Durchschnitt
+  result: average
+  clue: Noun
+- indication: 'der Ehegatte • plural: die Ehegatten'
+  result: husband
+  clue: Noun
+- indication: der Einblick
+  result: insight
+  clue: Noun
+- indication: der Eingang
+  result: entrance
+  clue: Noun
+- indication: der Emmental
+  result: Emmenthal
+  clue: Noun
+- indication: der Essig
+  result: vinegar
+  clue: Noun
+- indication: der Essig und das Öl
+  result: waiter/waitress
+  clue: Noun
+- indication: der Flüchtling
+  result: refugee
+  clue: Noun
+- indication: 'der Flughafen • plural: die Flughäfen'
+  result: airport
+  clue: Noun
+- indication: der Fortschritt
+  result: progress
+  clue: Noun
+- indication: der Frischkäse
+  result: cream cheese
+  clue: Noun
+- indication: der Geburtstag
+  result: birthday
+  clue: Noun
+- indication: der gemischte Salat
+  result: mixed salad
+  clue: Noun
+- indication: der Gemüseladen
+  result: juice
+  clue: Noun
+- indication: der General
+  result: general
+  clue: Noun
+- indication: der Geschäftsführer
+  result: manager
+  clue: Noun
+- indication: der grüne Salat
+  result: green salad
+  clue: Noun
+- indication: der Hamburger
+  result: beefburger
+  clue: Noun
+- indication: der Hering
+  result: herring
+  clue: Noun
+- indication: 'der Herr • plural: die Herren'
+  result: man, Mr.
+  clue: Noun
+- indication: der Horizont
+  result: horizon
+  clue: Noun
+- indication: der Kabeljau
+  result: cod
+  clue: Noun
+- indication: der Kaiser
+  result: emperor
+  clue: Noun
+- indication: der Kapitän
+  result: captain
+  clue: Noun
+- indication: der Kartoffelbrei
+  result: mash
+  clue: Noun
+- indication: der Käsekuchen
+  result: cheesecake
+  clue: Noun
+- indication: der Kauf
+  result: purchase
+  clue: Noun
+- indication: der Knoblauch
+  result: garlic
+  clue: Noun
+- indication: der Koffer
+  result: suitcase
+  clue: Noun
+- indication: der Kohl
+  result: cabbage
+  clue: Noun
+- indication: der Konflikt
+  result: conflict
+  clue: Noun
+- indication: der Kontext
+  result: context
+  clue: Noun
+- indication: der Lachs
+  result: salmon
+  clue: Noun
+- indication: der Lauch
+  result: leek
+  clue: Noun
+- indication: der Leberkäse
+  result: meatloaf
+  clue: Noun
+- indication: der Lebkuchen
+  result: lebkuchen
+  clue: Noun
+- indication: der Link
+  result: link
+  clue: Noun
+- indication: der lösliche Kaffee
+  result: jam
+  clue: Noun
+- indication: der Magen
+  result: stomach
+  clue: Noun
+- indication: der Maler
+  result: painter
+  clue: Noun
+- indication: der Milchkaffee
+  result: coffee with milk
+  clue: Noun
+- indication: der Minister
+  result: minister
   clue: Noun
 - indication: der Mörder
   result: murderer
   clue: Noun
+- indication: der Mozzarella
+  result: mozzarella
+  clue: Noun
+- indication: der Musiker
+  result: musician
+  clue: Noun
+- indication: der Mut
+  result: courage
+  clue: Noun
+- indication: der Nachbar
+  result: neighbor
+  clue: Noun
+- indication: der Offizier
+  result: officer
+  clue: Noun
+- indication: der Organismus
+  result: organism
+  clue: Noun
+- indication: der Parmesan
+  result: parmesan
+  clue: Noun
+- indication: der PC
+  result: computer
+  clue: Noun
+- indication: der Pilz
+  result: mushroom
+  clue: Noun
+- indication: der Protest
+  result: protest
+  clue: Noun
+- indication: der Pudding
+  result: blancmange
+  clue: Noun
+- indication: der Quark
+  result: curd cheese
+  clue: Noun
+- indication: der Räucherkäse
+  result: smoked cheese
+  clue: Noun
+- indication: der Räucherlachs
+  result: smoked salmon
+  clue: Noun
+- indication: der Regisseur
+  result: director
+  clue: Noun
+- indication: der Reis
+  result: rice
+  clue: Noun
+- indication: der Respekt
+  result: respect
+  clue: Noun
+- indication: der Rochen
+  result: skate
+  clue: Noun
+- indication: der Rogen
+  result: roe
+  clue: Noun
+- indication: der Roquefort
+  result: Roquefort
+  clue: Noun
+- indication: der Rosenkohl
+  result: Brussels sprout
+  clue: Noun
+- indication: der Satz
+  result: sentence
+  clue: Noun
+- indication: der Schellfisch
+  result: haddock
+  clue: Noun
+- indication: der Schinken
+  result: ham
+  clue: Noun
+- indication: der Seeteufel
+  result: monkfish
+  clue: Noun
+- indication: der Sellerie
+  result: celery
+  clue: Noun
+- indication: der Senf
+  result: mustard
+  clue: Noun
+- indication: 'der Service • plural: die Servicen'
+  result: service
+  clue: Noun
+- indication: der Skandal
+  result: scandal
+  clue: Noun
+- indication: der Spargel
+  result: asparagus
+  clue: Noun
+- indication: der Speck
+  result: bacon
+  clue: Noun
+- indication: der Sportler
+  result: athlete
+  clue: Noun
+- indication: der Standard
+  result: standard
+  clue: Noun
+- indication: der Teig
+  result: dough
+  clue: Noun
+- indication: der Thunfisch
+  result: tuna
+  clue: Noun
+- indication: der Tilsiter
+  result: Tilsit cheese
+  clue: Noun
+- indication: der Tourismus
+  result: tourism
+  clue: Noun
+- indication: der Unfall
+  result: accident
+  clue: Noun
+- indication: der Unternehmer
+  result: employer
+  clue: Noun
+- indication: der Verbraucher
+  result: consumer
+  clue: Noun
+- indication: der Verkäufer
+  result: salesman
+  clue: Noun
+- indication: der Verkehr
+  result: traffic
+  clue: Noun
+- indication: der Vertrag
+  result: contract
+  clue: Noun
+- indication: der Vorhang
+  result: curtain
+  clue: Noun
+- indication: der Vormittag
+  result: morning
+  clue: Noun
+- indication: der Vortrag
+  result: lecture
+  clue: Noun
+- indication: der Zander
+  result: zander
+  clue: Noun
+- indication: der Ziegenkäse
+  result: goat’s cheese
+  clue: Noun
 - indication: der Zins
   result: interest
+  clue: Noun
+- indication: der Zwiebelkuchen
+  result: onion tart
+  clue: Noun
+- indication: der/die Angestellte
+  result: employee
+  clue: Noun
+- indication: der/die Beschäftigte
+  result: employee
+  clue: Noun
+- indication: der/die Verwandte
+  result: relative
+  clue: Noun
+- indication: die Abwehr
+  result: defense
+  clue: Noun
+- indication: 'die Adresse • plural: die Adressen'
+  result: address
+  clue: Noun
+- indication: 'die Akademie • plural: die Akademien'
+  result: academy
+  clue: Noun
+- indication: die Aktivität
+  result: activity
+  clue: Noun
+- indication: 'die Analyse • plural: die Analysen'
+  result: analysis
+  clue: Noun
+- indication: die Ananas
+  result: pineapple
+  clue: Noun
+- indication: die Armut
+  result: poverty
+  clue: Noun
+- indication: die Artischocke
+  result: artichoke
+  clue: Noun
+- indication: die Aubergine
+  result: aubergine
+  clue: Noun
+- indication: 'die Äußerung • plural: die Äußerungen'
+  result: comment
+  clue: Noun
+- indication: die bäckerei und die konditorei
+  result: bakery and patisserie   |
+  clue: Noun
+- indication: die Bäckerin
+  result: der Bäcker /
+  clue: Noun
+- indication: 'die Batterie • plural: die Batterien'
+  result: battery
+  clue: Noun
+- indication: 'die Biologie • plural: die Biologien'
+  result: biology
+  clue: Noun
+- indication: die Blaubeere
+  result: blueberry
+  clue: Noun
+- indication: 'die Blüte • plural: die Blüten'
+  result: blossom
+  clue: Noun
+- indication: 'die Botschaft • plural: die Botschaften'
+  result: message
+  clue: Noun
+- indication: die Brasse
+  result: sea bream
+  clue: Noun
+- indication: die Bratwurst
+  result: bratwurst
+  clue: Noun
+- indication: die Brezel
+  result: pretzel
+  clue: Noun
+- indication: 'die Brille • plural: die Brillen'
+  result: glasses
+  clue: Noun
+- indication: die Brötchen ntpl
+  result: bread rolls
+  clue: Noun
+- indication: 'die Dienstleistung • plural: die Dienstleistungen'
+  result: service
+  clue: Noun
+- indication: die Distanz
+  result: distance
+  clue: Noun
+- indication: 'die Dunkelheit • plural: die Dunkelheiten'
+  result: darkness
+  clue: Noun
+- indication: die E-Mail
+  result: email
+  clue: Noun
+- indication: die E-Mail-Adresse
+  result: email address
+  clue: Noun
+- indication: 'die Ehe • plural: die Ehen'
+  result: marriage
+  clue: Noun
+- indication: 'die Entfernung • plural: die Entfernungen'
+  result: distance
+  clue: Noun
+- indication: 'die Entscheidung • plural: die Entscheidungen'
+  result: decision
+  clue: Noun
+- indication: 'die Erhöhung • plural: die Erhöhungen'
+  result: increase
+  clue: Noun
+- indication: 'die Eröffnung • plural: die Eröffnungen'
+  result: opening
+  clue: Noun
+- indication: die Fabrik
+  result: factory
+  clue: Noun
+- indication: 'die Fachleute • plural: die Fachleuten'
+  result: experts
+  clue: Noun
+- indication: die Fakultät
+  result: faculty
+  clue: Noun
+- indication: 'die Ferne • plural: die Fernen'
+  result: distance
+  clue: Noun
+- indication: die Fischhändlerin
+  result: der Fischhändler /
+  clue: Noun
+- indication: 'die Fluggesellschaft • plural: die Fluggesellschaften'
+  result: airline
+  clue: Noun
+- indication: die Forelle
+  result: trout
+  clue: Noun
+- indication: die Formel
+  result: formula
+  clue: Noun
+- indication: 'die Forschung • plural: die Forschungen'
+  result: research
+  clue: Noun
+- indication: 'die Frage • plural: die Fragen'
+  result: question
+  clue: Noun
+- indication: 'die Fragestellung • plural: die Fragestellungen'
+  result: problem
+  clue: Noun
+- indication: die Frühstückstheke
+  result: bread and butter
+  clue: Noun
+- indication: 'die Funktion • plural: die Funktionen'
+  result: function
+  clue: Noun
+- indication: 'die Galerie • plural: die Galerien'
+  result: gallery
+  clue: Noun
+- indication: die gefüllte Kartoffel
+  result: baked potato
+  clue: Noun
+- indication: die Gegenwart
+  result: present
+  clue: Noun
+- indication: die gekochten Eier
+  result: boiled eggs
+  clue: Noun
+- indication: 'die Gerechtigkeit • plural: die Gerechtigkeiten'
+  result: justice
+  clue: Noun
+- indication: die Geschwister
+  result: siblings
+  clue: Noun
+- indication: 'die Gleichung • plural: die Gleichungen'
+  result: equation
+  clue: Noun
+- indication: die Grapefruit
+  result: grapefruit
+  clue: Noun
+- indication: die Gräte
+  result: (fish)bone
+  clue: Noun
+- indication: die grünen Bohnen fpl
+  result: green beans
+  clue: Noun
+- indication: die Gurke
+  result: cucumber
+  clue: Noun
+- indication: die Händlerin
+  result: der Händler /
+  clue: Noun
+- indication: die Himbeere
+  result: raspberry
+  clue: Noun
+- indication: die Hinsicht
+  result: respect
+  clue: Noun
+- indication: die Hochzeit
+  result: wedding
+  clue: Noun
+- indication: die Identität
+  result: identity
+  clue: Noun
+- indication: 'die Industrie • plural: die Industrien'
+  result: industry
+  clue: Noun
+- indication: die Karotte
+  result: carrot
+  clue: Noun
+- indication: 'die Kategorie • plural: die Kategorien'
+  result: category
+  clue: Noun
+- indication: die Kirsche
+  result: cherry
+  clue: Noun
+- indication: die Kiwi
+  result: kiwi fruit
+  clue: Noun
+- indication: 'die Kleidung • plural: die Kleidungen'
+  result: clothes
+  clue: Noun
+- indication: die Klöße mpl
+  result: German dumplings
+  clue: Noun
+- indication: 'die Kneipe • plural: die Kneipen'
+  result: pub, bar
+  clue: Noun
+- indication: die kommunikation und die informationstechnologie
+  result: communication and it   |
+  clue: Noun
+- indication: die Kräuter ntpl
+  result: honey
+  clue: Noun
+- indication: die Kruste
+  result: crust
+  clue: Noun
+- indication: die Kundin
+  result: der Kunde /
+  clue: Noun
+- indication: 'die Lehrerin • plural: die Lehrerinnen'
+  result: teacher
+  clue: Noun
+- indication: 'die Leidenschaft • plural: die Leidenschaften'
+  result: passion
+  clue: Noun
+- indication: die Lieferantin
+  result: der Lieferant /
+  clue: Noun
+- indication: 'die Lösung • plural: die Lösungen'
+  result: solution
+  clue: Noun
+- indication: die Makrele
+  result: mackerel
+  clue: Noun
+- indication: die Mango
+  result: mango
+  clue: Noun
+- indication: die Mayonnaise
+  result: mayonnaise
+  clue: Noun
+- indication: 'die Medizin • plural: die Medizinnen'
+  result: medicine
+  clue: Noun
+- indication: 'die Mehrheit • plural: die Mehrheiten'
+  result: majority
+  clue: Noun
+- indication: die Melone
+  result: melon
+  clue: Noun
+- indication: 'die Menschheit • plural: die Menschheiten'
+  result: humanity
+  clue: Noun
+- indication: die Metzgerin
+  result: der Metzger /
+  clue: Noun
+- indication: 'die Mischung • plural: die Mischungen'
+  result: mixture
+  clue: Noun
+- indication: 'die Mission • plural: die Missionen'
+  result: mission
+  clue: Noun
+- indication: 'die Mode • plural: die Moden'
+  result: fashion
+  clue: Noun
+- indication: die Münzen fpl
+  result: debit/credit card
+  clue: Noun
+- indication: die Nudeln fpl
+  result: noodles
+  clue: Noun
+- indication: die Nüsse fpl
+  result: olives
+  clue: Noun
+- indication: 'die Oberfläche • plural: die Oberflächen'
+  result: surface
+  clue: Noun
+- indication: die Obsttorte
+  result: fruit tart
+  clue: Noun
+- indication: 'die Oma • plural: die Omas'
+  result: grandma
+  clue: Noun
+- indication: die Papiertüte
+  result: paper bag
+  clue: Noun
+- indication: die Pastete
+  result: pâté
+  clue: Noun
+- indication: die pasteurisierte
+  result: pasteurized milk
+  clue: Noun
+- indication: die Paybackkarte
+  result: loyalty card
+  clue: Noun
+- indication: die Pfannkuchen
+  result: pancakes
+  clue: Noun
+- indication: die Pflaume
+  result: plum
+  clue: Noun
+- indication: die Physik
+  result: physics
+  clue: Noun
+- indication: die PIN
+  result: PIN
+  clue: Noun
+- indication: die Plastiktüte
+  result: plastic bag
+  clue: Noun
+- indication: die Politik
+  result: politics
+  clue: Noun
+- indication: 'die Position • plural: die Positionen'
+  result: position
+  clue: Noun
+- indication: die Produkte ntpl
+  result: produce
+  clue: Noun
+- indication: die Quittung
+  result: receipt
+  clue: Noun
+- indication: 'die Reaktion • plural: die Reaktionen'
+  result: reaction
+  clue: Noun
+- indication: 'die Realität • plural: die Realitäten'
+  result: reality
+  clue: Noun
+- indication: 'die Religion • plural: die Religionen'
+  result: religion
+  clue: Noun
+- indication: 'die Rente • plural: die Renten'
+  result: pension
+  clue: Noun
+- indication: die Republik
+  result: republic
+  clue: Noun
+- indication: 'die Ressource • plural: die Ressourcen'
+  result: resource
+  clue: Noun
+- indication: die Rippchen ntpl
+  result: ribs
+  clue: Noun
+- indication: die rote
+  result: redcurrant
+  clue: Noun
+- indication: die Rote Beete
+  result: beetroot
+  clue: Noun
+- indication: die rote Grütze
+  result: shredded pancake
+  clue: Noun
+- indication: die Rückerstattung
+  result: voucher
+  clue: Noun
+- indication: die Sardelle
+  result: anchovy
+  clue: Noun
+- indication: die Sardine
+  result: sardine
+  clue: Noun
+- indication: 'die Schauspielerin • plural: die Schauspielerinnen'
+  result: actress
+  clue: Noun
+- indication: 'die Scheidung • plural: die Scheidungen'
+  result: divorce
+  clue: Noun
+- indication: die Schulter
+  result: shoulder
+  clue: Noun
+- indication: die Schuppen fpl
+  result: scales
+  clue: Noun
+- indication: 'die Schwäche • plural: die Schwächen'
+  result: weakness
+  clue: Noun
+- indication: die Schwarzwälder
+  result: Kirschtorte
+  clue: Noun
+- indication: die Seezunge
+  result: lemon sole
+  clue: Noun
+- indication: die Sehnsucht
+  result: longing
+  clue: Noun
+- indication: 'die Software • plural: die Softwaren'
+  result: software
+  clue: Noun
+- indication: 'die Sprache • plural: die Sprachen'
+  result: language
+  clue: Noun
+- indication: die Stachelbeere
+  result: gooseberry
+  clue: Noun
+- indication: 'die Stärke • plural: die Stärken'
+  result: strength
+  clue: Noun
+- indication: 'die Station • plural: die Stationen'
+  result: station
+  clue: Noun
+- indication: die Stirn
+  result: forehead
+  clue: Noun
+- indication: 'die Strategie • plural: die Strategien'
+  result: strategy
+  clue: Noun
+- indication: 'die Subvention • plural: die Subventionen'
+  result: subsidy
+  clue: Noun
+- indication: die Suppe
+  result: soup
+  clue: Noun
+- indication: die Süßigkeiten fpl
+  result: drinks
+  clue: Noun
+- indication: 'die Tätigkeit • plural: die Tätigkeiten'
+  result: activity
+  clue: Noun
+- indication: 'die Therapie • plural: die Therapien'
+  result: therapy
+  clue: Noun
+- indication: die Tochter
+  result: daughter
+  clue: Noun
+- indication: 'die Übernahme • plural: die Übernahmen'
+  result: takeover
+  clue: Noun
+- indication: 'die Überraschung • plural: die Überraschungen'
+  result: surprise
+  clue: Noun
+- indication: die Uniform
+  result: uniform
+  clue: Noun
+- indication: 'die Verfügung • plural: die Verfügungen'
+  result: disposal
+  clue: Noun
+- indication: 'die Version • plural: die Versionen'
+  result: version
+  clue: Noun
+- indication: 'die Vorlesung • plural: die Vorlesungen'
+  result: lecture
+  clue: Noun
+- indication: die Vorsicht
+  result: caution
+  clue: Noun
+- indication: die Weinkellnerin
+  result: der Weinkellner /
+  clue: Noun
+- indication: die Weintraube
+  result: grape
+  clue: Noun
+- indication: die Wurst
+  result: sausage
+  clue: Noun
+- indication: die Wurst und der
+  result: cold meats and cheese
+  clue: Noun
+- indication: die Wurstwaren fpl
+  result: cold meats
+  clue: Noun
+- indication: 'die Zahlung • plural: die Zahlungen'
+  result: payment
+  clue: Noun
+- indication: 'die Zeichnung • plural: die Zeichnungen'
+  result: drawing
+  clue: Noun
+- indication: 'die Zeuge • plural: die Zeugen'
+  result: witness
+  clue: Noun
+- indication: die Zitrone
+  result: lemon
+  clue: Noun
+- indication: die Zucchini
+  result: courgette
+  clue: Noun
+- indication: 'die Zustimmung • plural: die Zustimmungen'
+  result: approval
   clue: Noun

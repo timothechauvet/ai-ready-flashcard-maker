@@ -1,68 +1,32 @@
-- indication: ursprünglich
-  result: originally
+- indication: A&E
+  result: das Krankenhaus
   clue: Adjective
-- indication: gespuckt
-  result: spat / spit
+- indication: abartig
+  result: disgusting / perverse / abnormal / gross
   clue: Adjective
-- indication: verschwunden
-  result: disappeared / gone
+- indication: acupuncture
+  result: therapies
   clue: Adjective
-- indication: bloß
-  result: mere / bare / pure
+- indication: acupuncturist
+  result: die Chiropraktorin
   clue: Adjective
-- indication: gelitten
-  result: suffered / endured
-  clue: Adjective
-- indication: eklig
-  result: disgusting / gross
-  clue: Adjective
-- indication: anwesend
-  result: present / in attendance
-  clue: Adjective
-- indication: unantastbar
-  result: untouchable / inviolable
-  clue: Adjective
-- indication: böse
-  result: angry / evil / mean / badly
-  clue: Adjective
-- indication: schrecklich
-  result: terrible / awful / dreadful
-  clue: Adjective
-- indication: schlimmstenfalls
-  result: at worst / in the worst case
-  clue: Adjective
-- indication: bemerkten
-  result: noticed / observed / remarked
+- indication: ambulance
+  result: die Notaufnahme
   clue: Adjective
 - indication: angebracht
   result: appropriate / fitting / proper
   clue: Adjective
-- indication: angeklungen
-  result: hinted at / resonated / sounded
-  clue: Adjective
-- indication: verlockend
-  result: tempting / enticing / attractive
-  clue: Adjective
 - indication: angegangen
   result: approached / tackled / addressed
   clue: Adjective
-- indication: vorzeitig
-  result: premature / early / ahead of time
+- indication: angeklungen
+  result: hinted at / resonated / sounded
   clue: Adjective
-- indication: vorgestellt
-  result: introduced / presented / imagined
+- indication: angetan
+  result: impressed / fond of / done to / put on
   clue: Adjective
-- indication: vorgeworfen
-  result: accused / reproached / blamed for
-  clue: Adjective
-- indication: übergibt
-  result: hands over / transfers / passes on
-  clue: Adjective
-- indication: eingeschaltet
-  result: switched on / turned on / activated
-  clue: Adjective
-- indication: kampflos
-  result: without a fight / without resistance
+- indication: anwesend
+  result: present / in attendance
   clue: Adjective
 - indication: aufgeregt
   result: excited / upset / agitated / nervous
@@ -70,57 +34,306 @@
 - indication: ausgeschaltet
   result: switched off / turned off / shut down
   clue: Adjective
-- indication: angetan
-  result: impressed / fond of / done to / put on
+- indication: behälter
+  result: der Kontaktlinsen­
   clue: Adjective
-- indication: unhaltbar
-  result: untenable / unsustainable / indefensible
+- indication: bemerkten
+  result: noticed / observed / remarked
+  clue: Adjective
+- indication: blind
+  result: sehbehindert
+  clue: Adjective
+- indication: bloß
+  result: mere / bare / pure
+  clue: Adjective
+- indication: böse
+  result: angry / evil / mean / badly
+  clue: Adjective
+- indication: Caesarean section
+  result: die Geburt
+  clue: Adjective
+- indication: chinesische Medizin
+  result: die traditionelle
+  clue: Adjective
+- indication: chiropractic
+  result: die Akupunktur
+  clue: Adjective
+- indication: colour-blind
+  result: blind
+  clue: Adjective
+- indication: conjunctivitis
+  result: die Linse
+  clue: Adjective
+- indication: contact lenses
+  result: Kontaktlinsen tragen
+  clue: Adjective
+- indication: crutches
+  result: entlassen werden
+  clue: Adjective
+- indication: CT/MRI scan
+  result: die Operation
+  clue: Adjective
+- indication: dentist’s drill
+  result: der Zahnarztstuhl
+  clue: Adjective
+- indication: dentures
+  result: der Bohrer
+  clue: Adjective
+- indication: due date
+  result: tot geboren
+  clue: Adjective
+- indication: dynamisch
+  result: dynamic
+  clue: Adjective
+  pronunciation: '[dyˈnaːmɪʃ]'
+- indication: eingeliefert /
+  result: discharged
+  clue: Adjective
+- indication: eingeschaltet
+  result: switched on / turned on / activated
+  clue: Adjective
+- indication: einschläfern
+  result: E-collar
   clue: Adjective
 - indication: einsichtig
   result: reasonable / showing insight / compliant
   clue: Adjective
-- indication: abartig
-  result: disgusting / perverse / abnormal / gross
+- indication: eklig
+  result: disgusting / gross
   clue: Adjective
-- indication: strafbar
-  result: punishable / criminal / liable to prosecution
+- indication: entzündung
+  result: die Bindehaut­
+  clue: Adjective
+- indication: epidural
+  result: die Nabelschnur
+  clue: Adjective
+- indication: Epiduralanästhesie
+  result: die
+  clue: Adjective
+- indication: flea collar
+  result: der Elisabeth­Kragen
+  clue: Adjective
+- indication: foetus
+  result: das Neugeborene
+  clue: Adjective
+- indication: gelitten
+  result: suffered / endured
   clue: Adjective
 - indication: geprägt
   result: shaped / influenced / characterized / stamped
+  clue: Adjective
+- indication: gespuckt
+  result: spat / spit
+  clue: Adjective
+- indication: glasses case
+  result: die Brille
+  clue: Adjective
+- indication: gnostiker /
+  result: der Ultraschalldia­
+  clue: Adjective
+- indication: gnostikerin
+  result: die Ultraschalldia­
+  clue: Adjective
+- indication: gums
+  result: der Zahnersatz
+  clue: Adjective
+- indication: hospital bed
+  result: der Tropf
+  clue: Adjective
+- indication: humoristisch
+  result: humorous
+  clue: Adjective
+  pronunciation: '[humoˈʁɪstɪʃ]'
+- indication: hypnotherapy
+  result: die Chiropraktik
   clue: Adjective
 - indication: idealerweise
   result: ideally
   clue: Adjective
   pronunciation: '[ideˈaːlɐˌvaɪ̯zə]'
-- indication: dynamisch
-  result: dynamic
+- indication: kampflos
+  result: without a fight / without resistance
   clue: Adjective
-  pronunciation: '[dyˈnaːmɪʃ]'
-- indication: verzögert
-  result: delayed
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈtsøːɡɐt]'
 - indication: komödiantisch
   result: comedic
   clue: Adjective
   pronunciation: '[komøˈdi̯antɪʃ]'
+- indication: Krankenschwester
+  result: die
+  clue: Adjective
+- indication: long-sighted
+  result: kurzsichtig
+  clue: Adjective
+- indication: massage
+  result: die Hypnotherapie
+  clue: Adjective
+- indication: meditation
+  result: die Massage
+  clue: Adjective
+- indication: mindfulness
+  result: Reiki
+  clue: Adjective
+- indication: miscarriage
+  result: der Kaiserschnitt
+  clue: Adjective
+- indication: morning sickness
+  result: der Geburtstermin
+  clue: Adjective
+- indication: mouthwash
+  result: das Zahnfleisch
+  clue: Adjective
+- indication: newborn
+  result: die Schwangere
+  clue: Adjective
 - indication: obdachlos
   result: homeless
   clue: Adjective
   pronunciation: '[ˈɔpdaxloːs]'
-- indication: humoristisch
-  result: humorous
+- indication: ophthalmologist
+  result: vocabulary
   clue: Adjective
-  pronunciation: '[humoˈʁɪstɪʃ]'
+- indication: optician
+  result: das Brillenetui
+  clue: Adjective
+- indication: osteopathy
+  result: die Meditation
+  clue: Adjective
+- indication: pet carrier
+  result: das Flohhalsband
+  clue: Adjective
+- indication: pet passport
+  result: Behandlung
+  clue: Adjective
+- indication: Pflanzenheilkunde
+  result: die
+  clue: Adjective
+- indication: pregnant woman
+  result: vocabulary
+  clue: Adjective
+- indication: public/private hospital
+  result: der Rettungswagen
+  clue: Adjective
+- indication: pulse
+  result: die Diagnose
+  clue: Adjective
+- indication: quarantine
+  result: der Heimtierausweis
+  clue: Adjective
+- indication: radiographer
+  result: die Physiotherapeutin
+  clue: Adjective
+- indication: reflexology
+  result: die Osteopathie
+  clue: Adjective
+- indication: reiki
+  result: das Heilmittel
+  clue: Adjective
+- indication: remedy
+  result: die Reflexologin
+  clue: Adjective
+- indication: Röntgenassistentin
+  result: surgeon
+  clue: Adjective
 - indication: satirisch
   result: satirical
   clue: Adjective
   pronunciation: '[zaˈtiːʁɪʃ]'
-- indication: spekulativ
-  result: speculative
+- indication: schaftsübelkeit
+  result: die Schwanger­
   clue: Adjective
-  pronunciation: '[ʃpekulaˈtiːf]'
+- indication: schlimmstenfalls
+  result: at worst / in the worst case
+  clue: Adjective
+- indication: schrecklich
+  result: terrible / awful / dreadful
+  clue: Adjective
+- indication: short-sighted
+  result: Sehen
+  clue: Adjective
+- indication: sonographer
+  result: schaftstest
+  clue: Adjective
 - indication: spektakulär
   result: spectacular
   clue: Adjective
   pronunciation: '[ʃpɛktakuˈlɛːɐ̯]'
+- indication: spekulativ
+  result: speculative
+  clue: Adjective
+  pronunciation: '[ʃpekulaˈtiːf]'
+- indication: stillborn
+  result: die Fehlgeburt
+  clue: Adjective
+- indication: strafbar
+  result: punishable / criminal / liable to prosecution
+  clue: Adjective
+- indication: teeth
+  result: das Mundwasser
+  clue: Adjective
+- indication: thalassotherapy
+  result: massage
+  clue: Adjective
+- indication: therapist
+  result: vocabulary
+  clue: Adjective
+- indication: to be admitted/
+  result: operiert werden
+  clue: Adjective
+- indication: to massage
+  result: sich entspannen
+  clue: Adjective
+- indication: to meditate
+  result: massieren
+  clue: Adjective
+- indication: to miscarry
+  result: bringen
+  clue: Adjective
+- indication: to wear glasses
+  result: farbblind
+  clue: Adjective
+- indication: traditional Chinese
+  result: die Thalassotherapie
+  clue: Adjective
+- indication: übergibt
+  result: hands over / transfers / passes on
+  clue: Adjective
+- indication: unantastbar
+  result: untouchable / inviolable
+  clue: Adjective
+- indication: unhaltbar
+  result: untenable / unsustainable / indefensible
+  clue: Adjective
+- indication: ursprünglich
+  result: originally
+  clue: Adjective
+- indication: verlockend
+  result: tempting / enticing / attractive
+  clue: Adjective
+- indication: verschwunden
+  result: disappeared / gone
+  clue: Adjective
+- indication: verzögert
+  result: delayed
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈtsøːɡɐt]'
+- indication: veterinary clinic
+  result: vocabulary
+  clue: Adjective
+- indication: visually impaired
+  result: weitsichtig
+  clue: Adjective
+- indication: vorgestellt
+  result: introduced / presented / imagined
+  clue: Adjective
+- indication: vorgeworfen
+  result: accused / reproached / blamed for
+  clue: Adjective
+- indication: vorzeitig
+  result: premature / early / ahead of time
+  clue: Adjective
+- indication: wheelchair
+  result: die Station
+  clue: Adjective
+- indication: X-ray
+  result: der Rollstuhl
+  clue: Adjective

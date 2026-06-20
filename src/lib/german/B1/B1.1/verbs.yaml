@@ -1,1 +1,87 @@
-[]
+- indication: abholen
+  result: die Bestellung
+  clue: Verb
+- indication: anklicken
+  result: to click on
+  clue: Verb
+- indication: aufgeben
+  result: telefonisch
+  clue: Verb
+- indication: aufstreichen
+  result: to spread
+  clue: Verb
+- indication: bedient werden
+  result: to be served
+  clue: Verb
+- indication: bestellen
+  result: to place an order
+  clue: Verb
+- indication: delicatessen
+  result: der Gang
+  clue: Verb
+- indication: eine Bestellung
+  result: to phone in an order
+  clue: Verb
+- indication: einen Tisch
+  result: to reserve a table
+  clue: Verb
+- indication: einschalten /
+  result: to switch on/off
+  clue: Verb
+- indication: entsaften
+  result: to juice
+  clue: Verb
+- indication: frozen
+  result: frisch
+  clue: Verb
+- indication: frühstücken
+  result: to have breakfast
+  clue: Verb
+- indication: Frühstückscerealien
+  result: die
+  clue: Verb
+- indication: gebraten
+  result: cooked
+  clue: Verb
+- indication: gesalzen
+  result: salted
+  clue: Verb
+- indication: hacken
+  result: to chop
+  clue: Verb
+- indication: hochladen
+  result: herunterladen /
+  clue: Verb
+- indication: nach Hause gehen
+  result: to go home
+  clue: Verb
+- indication: raspeln
+  result: to grate
+  clue: Verb
+- indication: schälen
+  result: to peel
+  clue: Verb
+- indication: Schinken
+  result: der Spargel mit
+  clue: Verb
+- indication: Schokoladenkuchen
+  result: der
+  clue: Verb
+- indication: stollen
+  result: die Brezel
+  clue: Verb
+- indication: touchscreen
+  result: die Voicemail
+  clue: Verb
+- indication: treffen
+  result: sich mit Freunden
+  clue: Verb
+- indication: überspringen
+  result: das Frühstück
+  clue: Verb
+- indication: verlangen
+  result: die Rechnung
+  clue: Verb
+- indication: würfeln
+  result: to dice
+  clue: Verb

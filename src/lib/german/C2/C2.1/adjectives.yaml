@@ -1,3 +1,704 @@
+- indication: '114'
+  result: die Weide
+  clue: Adjective
+- indication: '116'
+  result: die Sonne
+  clue: Adjective
+- indication: alligator
+  result: vocabulary
+  clue: Adjective
+- indication: alpin
+  result: alpine
+  clue: Adjective
+- indication: amphibian
+  result: das Reptil
+  clue: Adjective
+- indication: animal
+  result: vocabulary
+  clue: Adjective
+- indication: annehmbar
+  result: acceptable / reasonable
+  clue: Adjective
+  pronunciation: '[ˈanˌneːmbaːɐ̯]'
+- indication: ant
+  result: stechen
+  clue: Adjective
+- indication: atmosphere
+  result: die Luft
+  clue: Adjective
+- indication: auffällig
+  result: (in)conspicuous / (un)obtrusive / (un)noticeable
+  clue: Adjective
+  pronunciation: '[(ˈʊn)ˌʔaʊ̯fɛlɪç]'
+- indication: aufwändig
+  result: elaborate / costly / time-consuming
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯fˌvɛndɪç]'
+- indication: ausdrücklich
+  result: explicit / express / explicitly
+  clue: Adjective
+  pronunciation: '[ˈaʊ̯sˌdʁʏklɪç]'
+- indication: badger
+  result: vocabulary
+  clue: Adjective
+- indication: bat
+  result: der Dachs
+  clue: Adjective
+- indication: bedürftig
+  result: needy / in need
+  clue: Adjective
+  pronunciation: '[bəˈdʏʁftɪç]'
+- indication: bee
+  result: die Ameise
+  clue: Adjective
+- indication: beetle
+  result: die Biene
+  clue: Adjective
+- indication: begehrt
+  result: highly sought-after / in-demand / coveted
+  clue: Adjective
+  pronunciation: '[bəˈɡeːɐ̯t]'
+- indication: begrenzt
+  result: limited / restricted
+  clue: Adjective
+  pronunciation: '[bəˈɡʁɛntst]'
+- indication: beharrlich
+  result: persistent / tenacious / persevering
+  clue: Adjective
+  pronunciation: '[bəˈhaʁlɪç]'
+- indication: bekanntlich
+  result: as is well known / as you know
+  clue: Adjective
+  pronunciation: '[bəˈkantlɪç]'
+- indication: berufsbedingt
+  result: work-related / due to one's job
+  clue: Adjective
+  pronunciation: '[bəˈʁuːfsbəˌdɪŋt]'
+- indication: bildungsbürgerlich
+  result: educated middle-class / highbrow
+  clue: Adjective
+  pronunciation: '[ˈbɪldʊŋsˌbʏʁɡɐlɪç]'
+- indication: blackbird
+  result: vocabulary
+  clue: Adjective
+- indication: boar
+  result: die Fledermaus
+  clue: Adjective
+- indication: brutto
+  result: gross (vs. net)
+  clue: Adjective
+  pronunciation: '[ˈbʁʊto]'
+- indication: bud
+  result: das Gras
+  clue: Adjective
+- indication: budgerigar
+  result: pets
+  clue: Adjective
+- indication: bulb
+  result: die Knospe
+  clue: Adjective
+- indication: buttercup
+  result: flowers
+  clue: Adjective
+- indication: buzzard
+  result: die Amsel
+  clue: Adjective
+- indication: canary
+  result: der Wellensittich
+  clue: Adjective
+- indication: carnation
+  result: die Butterblume
+  clue: Adjective
+- indication: cat
+  result: der Kanarienvogel
+  clue: Adjective
+- indication: cat litter
+  result: das Fischfutter
+  clue: Adjective
+- indication: caterpillar
+  result: der Schmetterling
+  clue: Adjective
+- indication: cave
+  result: land
+  clue: Adjective
+- indication: centipede
+  result: die Raupe
+  clue: Adjective
+- indication: chrysanthemum
+  result: die Nelke
+  clue: Adjective
+- indication: claw
+  result: der Schwanz
+  clue: Adjective
+- indication: cobweb
+  result: die Kolonie
+  clue: Adjective
+- indication: cold-blooded
+  result: der Schnabel
+  clue: Adjective
+- indication: colony
+  result: der Schwarm
+  clue: Adjective
+- indication: coral
+  result: vocabulary
+  clue: Adjective
+- indication: crane
+  result: der Bussard
+  clue: Adjective
+- indication: crocodile
+  result: der Alligator
+  clue: Adjective
+- indication: crow
+  result: der Kranich
+  clue: Adjective
+- indication: daffodil
+  result: die Chrysantheme
+  clue: Adjective
+- indication: daisy
+  result: die Osterglocke
+  clue: Adjective
+- indication: deer
+  result: das Wildschwein
+  clue: Adjective
+- indication: detailreich
+  result: detailed / rich in detail
+  clue: Adjective
+  pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
+- indication: dog
+  result: die Katze
+  clue: Adjective
+- indication: donkey
+  result: die Kuh
+  clue: Adjective
+- indication: dove
+  result: der Rabe
+  clue: Adjective
+- indication: dragonfly
+  result: die Grille
+  clue: Adjective
+- indication: eagle
+  result: die Taube
+  clue: Adjective
+- indication: earthworm
+  result: die Libelle
+  clue: Adjective
+- indication: einfühlsam
+  result: empathetic / sensitive
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌfyːlzaːm]'
+- indication: eingeschränkt
+  result: restricted / limited
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nɡəˌʃʁɛŋkt]'
+- indication: einleuchtend
+  result: plausible / logical / obvious
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌlɔʏ̯çtn̩t]'
+- indication: einseitig
+  result: one-sided / unilateral / biased
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌzaɪ̯tɪç]'
+- indication: einsetzbar
+  result: applicable / usable / deployable
+  clue: Adjective
+  pronunciation: '[ˈaɪ̯nˌzɛtsbaːɐ̯]'
+- indication: einst
+  result: once / formerly
+  clue: Adjective
+  pronunciation: '[aɪ̯nst]'
+- indication: erfüllend
+  result: fulfilling (a fulfilling job)
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈfʏlnt (aɪ̯n ɛɐ̯ˈfʏləndɐ bəˈʁuːf)]'
+- indication: erheblich
+  result: significant / considerable
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈheːplɪç]'
+- indication: erstaunlich
+  result: astonishing / amazing
+  clue: Adjective
+  pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
+- indication: estuary
+  result: das Wasser
+  clue: Adjective
+- indication: farm animals
+  result: die Ratte
+  clue: Adjective
+- indication: farmer
+  result: die Katzenstreu
+  clue: Adjective
+- indication: feather
+  result: das Horn
+  clue: Adjective
+- indication: ferret
+  result: der Hund
+  clue: Adjective
+- indication: fesselnd
+  result: captivating / enthralling
+  clue: Adjective
+  pronunciation: '[ˈfɛsl̩nt]'
+- indication: fish food
+  result: vocabulary
+  clue: Adjective
+- indication: fly
+  result: der Regenwurm
+  clue: Adjective
+- indication: fox
+  result: das Reh
+  clue: Adjective
+- indication: frog
+  result: das Krokodil
+  clue: Adjective
+- indication: fundiert
+  result: well-founded / sound
+  clue: Adjective
+  pronunciation: '[fʊnˈdiːɐ̯t]'
+- indication: fur
+  result: der Zoo
+  clue: Adjective
+- indication: gecko
+  result: der Frosch
+  clue: Adjective
+- indication: gefühlsbetont
+  result: emotional / sentimental / emotive
+  clue: Adjective
+  pronunciation: '[ɡəˈfyːlsbəˌtoːnt]'
+- indication: gegenwärtig
+  result: current / present
+  clue: Adjective
+  pronunciation: '[ˈɡeːɡn̩ˌvɛʁtɪç]'
+- indication: geschlechtsspezifisch
+  result: gender-specific
+  clue: Adjective
+  pronunciation: '[ɡəˈʃlɛçt͡sʃpeˌt͡siːfɪʃ]'
+- indication: gewinnorientiert
+  result: profit-oriented / profit-driven
+  clue: Adjective
+  pronunciation: '[ɡəˈvɪnʔoʁiɛnˌtiːɐ̯t]'
+- indication: gewiss
+  result: certain / specific
+  clue: Adjective
+  pronunciation: '[ɡəˈvɪs]'
+- indication: glacier
+  result: der Wald
+  clue: Adjective
+- indication: goldfish
+  result: das Frettchen
+  clue: Adjective
+- indication: grapevine
+  result: der Pilz
+  clue: Adjective
+- indication: grasshopper
+  result: die Fliege
+  clue: Adjective
+- indication: grassland
+  result: der Gletscher
+  clue: Adjective
+- indication: guinea pig
+  result: der Goldfisch
+  clue: Adjective
+- indication: hamster
+  result: das Meerschweinchen
+  clue: Adjective
+- indication: hare
+  result: der Fuchs
+  clue: Adjective
+- indication: harmoniebedürftig
+  result: needing harmony / conflict-averse
+  clue: Adjective
+  pronunciation: '[haʁmoˈniːbəˌdʏʁftɪç]'
+- indication: hedgehog
+  result: der Hase
+  clue: Adjective
+- indication: herausragend
+  result: outstanding / prominent / exceptional
+  clue: Adjective
+  pronunciation: '[hɛˈʁaʊ̯sˌʁaːɡn̩t]'
+- indication: herd/flock
+  result: die Wiese
+  clue: Adjective
+- indication: hill
+  result: das Grasland
+  clue: Adjective
+- indication: höchstmöglich
+  result: highest possible
+  clue: Adjective
+  pronunciation: '[ˈhøːçstˌmøːklɪç]'
+- indication: horn
+  result: die Kralle
+  clue: Adjective
+- indication: iguana
+  result: der Gecko
+  clue: Adjective
+- indication: impulsiv
+  result: impulsive (to react impulsively)
+  clue: Adjective
+  pronunciation: '[ɪmpʊlˈziːf]'
+- indication: insect
+  result: das Nagetier
+  clue: Adjective
+- indication: insect bite
+  result: das Spinnennetz
+  clue: Adjective
+- indication: iris
+  result: die Hyazinthe
+  clue: Adjective
+- indication: ivy
+  result: der Weinstock
+  clue: Adjective
+- indication: jellyfish
+  result: der Aal
+  clue: Adjective
+- indication: kaltblütig
+  result: warm-blooded
+  clue: Adjective
+- indication: killer whale
+  result: die Qualle
+  clue: Adjective
+- indication: klischeehaft
+  result: clichéed / stereotypical
+  clue: Adjective
+  pronunciation: '[klɪˈʃeːhaft]'
+- indication: kurzweilig
+  result: entertaining / amusing / diverting
+  clue: Adjective
+  pronunciation: '[ˈkʊʁtsˌvaɪ̯lɪç]'
+- indication: ladybird
+  result: die Heuschrecke
+  clue: Adjective
+- indication: ländlich
+  result: rural
+  clue: Adjective
+- indication: landscape
+  result: vocabulary
+  clue: Adjective
+- indication: längerfristig
+  result: longer-term / in the longer term
+  clue: Adjective
+  pronunciation: '[ˈlɛŋɐˌfʁɪstɪç]'
+- indication: langwierig
+  result: lengthy / protracted
+  clue: Adjective
+  pronunciation: '[ˈlaŋˌviːʁɪç]'
+- indication: lily
+  result: die Iris
+  clue: Adjective
+- indication: lily-of-the-valley
+  result: die Lilie
+  clue: Adjective
+- indication: lizard
+  result: der Leguan
+  clue: Adjective
+- indication: mammal
+  result: die Spezies
+  clue: Adjective
+- indication: mammals   |  säugetiere
+  result: '111'
+  clue: Adjective
+- indication: marsh
+  result: der See
+  clue: Adjective
+- indication: massiv
+  result: 'massive (here: severe / strong)'
+  clue: Adjective
+  pronunciation: '[maˈsiːf]'
+- indication: meinungsäußernd
+  result: expressing an opinion
+  clue: Adjective
+  pronunciation: '[ˈmaɪ̯nʊŋsˌʔɔʏ̯sɐnt]'
+- indication: mole
+  result: der Igel
+  clue: Adjective
+- indication: mosquito
+  result: die Eintagsfliege
+  clue: Adjective
+- indication: moss
+  result: der Efeu
+  clue: Adjective
+- indication: mountain
+  result: der Sumpf
+  clue: Adjective
+- indication: mud
+  result: die Erde
+  clue: Adjective
+- indication: nebenberuflich
+  result: part-time / on the side / secondary (job)
+  clue: Adjective
+  pronunciation: '[ˈneːbn̩bəˌʁuːflɪç]'
+- indication: neuartig
+  result: novel / new type of
+  clue: Adjective
+  pronunciation: '[ˈnɔɪ̯ˌʔaːɐ̯tɪç]'
+- indication: newt
+  result: die Eidechse
+  clue: Adjective
+- indication: oak
+  result: das Moos
+  clue: Adjective
+- indication: ordinär
+  result: vulgar / low / common
+  clue: Adjective
+  pronunciation: '[ɔʁdiˈnɛːɐ̯]'
+- indication: originell
+  result: original / creative
+  clue: Adjective
+  pronunciation: '[oʁiɡiˈnɛl]'
+- indication: other common mammals
+  result: der Wolf
+  clue: Adjective
+- indication: otter
+  result: die Maus
+  clue: Adjective
+- indication: pansy
+  result: die Orchidee
+  clue: Adjective
+- indication: parrot
+  result: der Hamster
+  clue: Adjective
+- indication: peninsula
+  result: die Insel
+  clue: Adjective
+- indication: petal
+  result: das Blatt
+  clue: Adjective
+- indication: pig
+  result: das Pferd
+  clue: Adjective
+- indication: pine
+  result: die Eiche
+  clue: Adjective
+- indication: plane
+  result: die Kiefer
+  clue: Adjective
+- indication: plants and trees
+  result: das Veilchen
+  clue: Adjective
+- indication: Polar-
+  result: polar
+  clue: Adjective
+- indication: pond
+  result: der Berg
+  clue: Adjective
+- indication: pony
+  result: der Papagei
+  clue: Adjective
+- indication: poplar
+  result: die Platane
+  clue: Adjective
+- indication: puppy
+  result: die Herde
+  clue: Adjective
+- indication: rabbit
+  result: das Pony
+  clue: Adjective
+- indication: rat
+  result: das Kaninchen
+  clue: Adjective
+- indication: river
+  result: der Teich
+  clue: Adjective
+- indication: rockpool
+  result: die Halbinsel
+  clue: Adjective
+- indication: rocks
+  result: der Fluss
+  clue: Adjective
+- indication: rodent
+  result: die Amphibie
+  clue: Adjective
+- indication: rose
+  result: die Mohnblume
+  clue: Adjective
+- indication: salamander
+  result: der Wassermolch
+  clue: Adjective
+- indication: sämtlich
+  result: all / complete
+  clue: Adjective
+  pronunciation: '[ˈzɛmtlɪç]'
+- indication: scenery
+  result: Naturschutzgebiet
+  clue: Adjective
+- indication: scheinbar
+  result: seemingly / apparently
+  clue: Adjective
+  pronunciation: '[ˈʃaɪ̯nbaːɐ̯]'
+- indication: schuldbewusst
+  result: guilt-conscious / contrite / apologetic
+  clue: Adjective
+  pronunciation: '[ˈʃʊltbəˌvʊst]'
+- indication: scrub
+  result: das Gestein
+  clue: Adjective
+- indication: sheep
+  result: das Schwein
+  clue: Adjective
+- indication: sheepdog
+  result: das Schaf
+  clue: Adjective
+- indication: sinngemäß
+  result: analogous / corresponding in meaning / by implication
+  clue: Adjective
+  pronunciation: '[ˈzɪnɡəˌmɛːsɪç]'
+- indication: snake
+  result: der Salamander
+  clue: Adjective
+- indication: sorgfältig
+  result: careful / meticulous / diligent
+  clue: Adjective
+  pronunciation: '[ˈzɔʁkˌfɛltɪç]'
+- indication: species
+  result: das Tier
+  clue: Adjective
+- indication: squirrel
+  result: der Otter
+  clue: Adjective
+- indication: städtisch
+  result: urban
+  clue: Adjective
+- indication: stalk
+  result: vocabulary
+  clue: Adjective
+- indication: stream
+  result: das Buschland
+  clue: Adjective
+- indication: stur
+  result: stubborn / obstinate
+  clue: Adjective
+  pronunciation: '[ʃtuːɐ̯]'
+- indication: sunflower
+  result: die Rose
+  clue: Adjective
+- indication: swarm
+  result: vocabulary
+  clue: Adjective
+- indication: to buzz
+  result: der Stich
+  clue: Adjective
+- indication: to growl
+  result: schnurren
+  clue: Adjective
+- indication: to purr
+  result: bellen
+  clue: Adjective
+- indication: to roar
+  result: knurren
+  clue: Adjective
+- indication: to sting
+  result: summen
+  clue: Adjective
+- indication: toad
+  result: die Schlange
+  clue: Adjective
+- indication: tropisch
+  result: tropical
+  clue: Adjective
+- indication: tulip
+  result: die Sonnenblume
+  clue: Adjective
+- indication: übergenau
+  result: overly precise / fastidious
+  clue: Adjective
+  pronunciation: '[ˈyːbɐɡəˌnaʊ̯]'
+- indication: übermäßig
+  result: excessive / immoderate
+  clue: Adjective
+  pronunciation: '[ˈyːbɐˌmɛːsɪç]'
+- indication: überspitzt
+  result: exaggerated / provocative / overstated
+  clue: Adjective
+  pronunciation: '[ˌyːbɐˈʃpɪt͡st]'
+- indication: unermüdlich
+  result: untiring / tireless / indefatigable
+  clue: Adjective
+  pronunciation: '[ˈʊnʔɛɐ̯ˌmyːtlɪç]'
+- indication: unlösbar
+  result: unsolvable / insoluble
+  clue: Adjective
+  pronunciation: '[ˈʊnˌløːsbaːɐ̯]'
+- indication: unparteiisch
+  result: impartial / unbiased
+  clue: Adjective
+  pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
+- indication: unterbelegt
+  result: underoccupied / under-allocated / understaffed
+  clue: Adjective
+  pronunciation: '[ˈʊntɐbəˌleːkt]'
+- indication: unterrepräsentiert
+  result: underrepresented
+  clue: Adjective
+  pronunciation: '[ˈʊntɐʁeːpʁezɛnˌtiːɐ̯t]'
+- indication: valley
+  result: der Bach
+  clue: Adjective
+- indication: verhältnismäßig
+  result: relatively / comparatively / proportional
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈhɛltnɪsˌmɛːsɪç]'
+- indication: vermeintlich
+  result: supposed / alleged
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
+- indication: verschwiegen
+  result: discreet / secretive
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
+- indication: verwackelt
+  result: blurry / shaky
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈvakl̩t]'
+- indication: verwerflich
+  result: reprehensible / morally objectionable
+  clue: Adjective
+  pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
+- indication: violet
+  result: die Tulpe
+  clue: Adjective
+- indication: volcano
+  result: das Tal
+  clue: Adjective
+- indication: vorhersehbar
+  result: predictable (*predictable results*)
+  clue: Adjective
+  pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'
+- indication: vorrangig
+  result: primary / paramount / of primary importance / primarily
+  clue: Adjective
+  pronunciation: '[ˈfoːɐ̯ˌʁaŋɪç]'
+- indication: Wasserschildkröte
+  result: die
+  clue: Adjective
+- indication: water
+  result: der Schlamm
+  clue: Adjective
+- indication: waterfall
+  result: der Vulkan
+  clue: Adjective
+- indication: wertschätzend
+  result: appreciative / respectful
+  clue: Adjective
+  pronunciation: '[ˈveːɐ̯tˌʃɛt͡sənt]'
+- indication: willow
+  result: die Pappel
+  clue: Adjective
+- indication: wirklichkeitsnah
+  result: realistic / true-to-life
+  clue: Adjective
+  pronunciation: '[ˈvɪʁklɪçkaɪ̯tsˌnaː]'
+- indication: wood
+  result: die Blumenzwiebel
+  clue: Adjective
+- indication: würdigend
+  result: appreciative / honoring
+  clue: Adjective
+  pronunciation: '[ˈvʏʁdɪɡn̩t]'
+- indication: zielführend
+  result: expedient / goal-oriented / constructive / productivity
+  clue: Adjective
+  pronunciation: '[ˈtsiːlˌfyːʁənt]'
+- indication: zoo
+  result: die Landschaft
+  clue: Adjective
 - indication: zufolge
   result: according to
   clue: Adjective
@@ -6,275 +707,3 @@
   result: interpersonal
   clue: Adjective
   pronunciation: '[ˈtsvɪʃn̩ˌmɛnʃlɪç]'
-- indication: verwackelt
-  result: blurry / shaky
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈvakl̩t]'
-- indication: sämtlich
-  result: all / complete
-  clue: Adjective
-  pronunciation: '[ˈzɛmtlɪç]'
-- indication: bedürftig
-  result: needy / in need
-  clue: Adjective
-  pronunciation: '[bəˈdʏʁftɪç]'
-- indication: geschlechtsspezifisch
-  result: gender-specific
-  clue: Adjective
-  pronunciation: '[ɡəˈʃlɛçt͡sʃpeˌt͡siːfɪʃ]'
-- indication: brutto
-  result: gross (vs. net)
-  clue: Adjective
-  pronunciation: '[ˈbʁʊto]'
-- indication: einst
-  result: once / formerly
-  clue: Adjective
-  pronunciation: '[aɪ̯nst]'
-- indication: höchstmöglich
-  result: highest possible
-  clue: Adjective
-  pronunciation: '[ˈhøːçstˌmøːklɪç]'
-- indication: unterrepräsentiert
-  result: underrepresented
-  clue: Adjective
-  pronunciation: '[ˈʊntɐʁeːpʁezɛnˌtiːɐ̯t]'
-- indication: gegenwärtig
-  result: current / present
-  clue: Adjective
-  pronunciation: '[ˈɡeːɡn̩ˌvɛʁtɪç]'
-- indication: gewiss
-  result: certain / specific
-  clue: Adjective
-  pronunciation: '[ɡəˈvɪs]'
-- indication: vermeintlich
-  result: supposed / alleged
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈmaɪ̯ntlɪç]'
-- indication: neuartig
-  result: novel / new type of
-  clue: Adjective
-  pronunciation: '[ˈnɔɪ̯ˌʔaːɐ̯tɪç]'
-- indication: originell
-  result: original / creative
-  clue: Adjective
-  pronunciation: '[oʁiɡiˈnɛl]'
-- indication: unparteiisch
-  result: impartial / unbiased
-  clue: Adjective
-  pronunciation: '[ˈʊnpaʁˌtaɪ̯ɪʃ]'
-- indication: verschwiegen
-  result: discreet / secretive
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈʃviːɡn̩]'
-- indication: langwierig
-  result: lengthy / protracted
-  clue: Adjective
-  pronunciation: '[ˈlaŋˌviːʁɪç]'
-- indication: fundiert
-  result: well-founded / sound
-  clue: Adjective
-  pronunciation: '[fʊnˈdiːɐ̯t]'
-- indication: begrenzt
-  result: limited / restricted
-  clue: Adjective
-  pronunciation: '[bəˈɡʁɛntst]'
-- indication: stur
-  result: stubborn / obstinate
-  clue: Adjective
-  pronunciation: '[ʃtuːɐ̯]'
-- indication: eingeschränkt
-  result: restricted / limited
-  clue: Adjective
-  pronunciation: '[ˈaɪ̯nɡəˌʃʁɛŋkt]'
-- indication: meinungsäußernd
-  result: expressing an opinion
-  clue: Adjective
-  pronunciation: '[ˈmaɪ̯nʊŋsˌʔɔʏ̯sɐnt]'
-- indication: ordinär
-  result: vulgar / low / common
-  clue: Adjective
-  pronunciation: '[ɔʁdiˈnɛːɐ̯]'
-- indication: erstaunlich
-  result: astonishing / amazing
-  clue: Adjective
-  pronunciation: '[ɛɐ̯ˈʃtaʊ̯nlɪç]'
-- indication: einfühlsam
-  result: empathetic / sensitive
-  clue: Adjective
-  pronunciation: '[ˈaɪ̯nˌfyːlzaːm]'
-- indication: unlösbar
-  result: unsolvable / insoluble
-  clue: Adjective
-  pronunciation: '[ˈʊnˌløːsbaːɐ̯]'
-- indication: scheinbar
-  result: seemingly / apparently
-  clue: Adjective
-  pronunciation: '[ˈʃaɪ̯nbaːɐ̯]'
-- indication: übermäßig
-  result: excessive / immoderate
-  clue: Adjective
-  pronunciation: '[ˈyːbɐˌmɛːsɪç]'
-- indication: würdigend
-  result: appreciative / honoring
-  clue: Adjective
-  pronunciation: '[ˈvʏʁdɪɡn̩t]'
-- indication: annehmbar
-  result: acceptable / reasonable
-  clue: Adjective
-  pronunciation: '[ˈanˌneːmbaːɐ̯]'
-- indication: klischeehaft
-  result: clichéed / stereotypical
-  clue: Adjective
-  pronunciation: '[klɪˈʃeːhaft]'
-- indication: wirklichkeitsnah
-  result: realistic / true-to-life
-  clue: Adjective
-  pronunciation: '[ˈvɪʁklɪçkaɪ̯tsˌnaː]'
-- indication: wertschätzend
-  result: appreciative / respectful
-  clue: Adjective
-  pronunciation: '[ˈveːɐ̯tˌʃɛt͡sənt]'
-- indication: detailreich
-  result: detailed / rich in detail
-  clue: Adjective
-  pronunciation: '[deˈtaɪ̯ˌʁaɪ̯ç]'
-- indication: fesselnd
-  result: captivating / enthralling
-  clue: Adjective
-  pronunciation: '[ˈfɛsl̩nt]'
-- indication: erheblich
-  result: significant / considerable
-  clue: Adjective
-  pronunciation: '[ɛɐ̯ˈheːplɪç]'
-- indication: übergenau
-  result: overly precise / fastidious
-  clue: Adjective
-  pronunciation: '[ˈyːbɐɡəˌnaʊ̯]'
-- indication: erfüllend
-  result: fulfilling (a fulfilling job)
-  clue: Adjective
-  pronunciation: '[ɛɐ̯ˈfʏlnt (aɪ̯n ɛɐ̯ˈfʏləndɐ bəˈʁuːf)]'
-- indication: einleuchtend
-  result: plausible / logical / obvious
-  clue: Adjective
-  pronunciation: '[ˈaɪ̯nˌlɔʏ̯çtn̩t]'
-- indication: bekanntlich
-  result: as is well known / as you know
-  clue: Adjective
-  pronunciation: '[bəˈkantlɪç]'
-- indication: massiv
-  result: 'massive (here: severe / strong)'
-  clue: Adjective
-  pronunciation: '[maˈsiːf]'
-- indication: gewinnorientiert
-  result: profit-oriented / profit-driven
-  clue: Adjective
-  pronunciation: '[ɡəˈvɪnʔoʁiɛnˌtiːɐ̯t]'
-- indication: sorgfältig
-  result: careful / meticulous / diligent
-  clue: Adjective
-  pronunciation: '[ˈzɔʁkˌfɛltɪç]'
-- indication: berufsbedingt
-  result: work-related / due to one's job
-  clue: Adjective
-  pronunciation: '[bəˈʁuːfsbəˌdɪŋt]'
-- indication: einseitig
-  result: one-sided / unilateral / biased
-  clue: Adjective
-  pronunciation: '[ˈaɪ̯nˌzaɪ̯tɪç]'
-- indication: ausdrücklich
-  result: explicit / express / explicitly
-  clue: Adjective
-  pronunciation: '[ˈaʊ̯sˌdʁʏklɪç]'
-- indication: einsetzbar
-  result: applicable / usable / deployable
-  clue: Adjective
-  pronunciation: '[ˈaɪ̯nˌzɛtsbaːɐ̯]'
-- indication: bildungsbürgerlich
-  result: educated middle-class / highbrow
-  clue: Adjective
-  pronunciation: '[ˈbɪldʊŋsˌbʏʁɡɐlɪç]'
-- indication: impulsiv
-  result: impulsive (to react impulsively)
-  clue: Adjective
-  pronunciation: '[ɪmpʊlˈziːf]'
-- indication: längerfristig
-  result: longer-term / in the longer term
-  clue: Adjective
-  pronunciation: '[ˈlɛŋɐˌfʁɪstɪç]'
-- indication: harmoniebedürftig
-  result: needing harmony / conflict-averse
-  clue: Adjective
-  pronunciation: '[haʁmoˈniːbəˌdʏʁftɪç]'
-- indication: gefühlsbetont
-  result: emotional / sentimental / emotive
-  clue: Adjective
-  pronunciation: '[ɡəˈfyːlsbəˌtoːnt]'
-- indication: kurzweilig
-  result: entertaining / amusing / diverting
-  clue: Adjective
-  pronunciation: '[ˈkʊʁtsˌvaɪ̯lɪç]'
-- indication: aufwändig
-  result: elaborate / costly / time-consuming
-  clue: Adjective
-  pronunciation: '[ˈaʊ̯fˌvɛndɪç]'
-- indication: vorhersehbar
-  result: predictable (*predictable results*)
-  clue: Adjective
-  pronunciation: '[foːɐ̯ˈheːɐ̯zeːbaːɐ̯]'
-- indication: unermüdlich
-  result: untiring / tireless / indefatigable
-  clue: Adjective
-  pronunciation: '[ˈʊnʔɛɐ̯ˌmyːtlɪç]'
-- indication: beharrlich
-  result: persistent / tenacious / persevering
-  clue: Adjective
-  pronunciation: '[bəˈhaʁlɪç]'
-- indication: herausragend
-  result: outstanding / prominent / exceptional
-  clue: Adjective
-  pronunciation: '[hɛˈʁaʊ̯sˌʁaːɡn̩t]'
-- indication: verwerflich
-  result: reprehensible / morally objectionable
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈvɛʁflɪç]'
-- indication: überspitzt
-  result: exaggerated / provocative / overstated
-  clue: Adjective
-  pronunciation: '[ˌyːbɐˈʃpɪt͡st]'
-- indication: schuldbewusst
-  result: guilt-conscious / contrite / apologetic
-  clue: Adjective
-  pronunciation: '[ˈʃʊltbəˌvʊst]'
-- indication: verhältnismäßig
-  result: relatively / comparatively / proportional
-  clue: Adjective
-  pronunciation: '[fɛɐ̯ˈhɛltnɪsˌmɛːsɪç]'
-- indication: begehrt
-  result: highly sought-after / in-demand / coveted
-  clue: Adjective
-  pronunciation: '[bəˈɡeːɐ̯t]'
-- indication: nebenberuflich
-  result: part-time / on the side / secondary (job)
-  clue: Adjective
-  pronunciation: '[ˈneːbn̩bəˌʁuːflɪç]'
-- indication: unterbelegt
-  result: underoccupied / under-allocated / understaffed
-  clue: Adjective
-  pronunciation: '[ˈʊntɐbəˌleːkt]'
-- indication: auffällig
-  result: (in)conspicuous / (un)obtrusive / (un)noticeable
-  clue: Adjective
-  pronunciation: '[(ˈʊn)ˌʔaʊ̯fɛlɪç]'
-- indication: sinngemäß
-  result: analogous / corresponding in meaning / by implication
-  clue: Adjective
-  pronunciation: '[ˈzɪnɡəˌmɛːsɪç]'
-- indication: vorrangig
-  result: primary / paramount / of primary importance / primarily
-  clue: Adjective
-  pronunciation: '[ˈfoːɐ̯ˌʁaŋɪç]'
-- indication: zielführend
-  result: expedient / goal-oriented / constructive / productivity
-  clue: Adjective
-  pronunciation: '[ˈtsiːlˌfyːʁənt]'

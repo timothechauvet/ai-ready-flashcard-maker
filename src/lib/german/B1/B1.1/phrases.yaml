@@ -1,1 +1,144 @@
-[]
+- indication: '42'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '43'
+  result: the basics   |  das wesentliche supermarket   |  der supermarkt
+  clue: Phrase
+- indication: '44'
+  result: market   |  der markt
+  clue: Phrase
+- indication: '48'
+  result: butcher’s   |  die metzgerei
+  clue: Phrase
+- indication: '49'
+  result: butcher’s   |  die metzgerei
+  clue: Phrase
+- indication: '61'
+  result: the basics   |  das wesentliche
+  clue: Phrase
+- indication: '64'
+  result: fast food   |  das fastfood
+  clue: Phrase
+- indication: '65'
+  result: fast food   |  das fastfood
+  clue: Phrase
+- indication: a takeaway
+  result: an order to go/
+  clue: Phrase
+- indication: beef olives
+  result: classic german dishes
+  clue: Phrase
+- indication: card reader
+  result: die Banknoten fpl
+  clue: Phrase
+- indication: couscous
+  result: die Kekse mpl
+  clue: Phrase
+- indication: cucumber salad
+  result: die Pommes ntpl
+  clue: Phrase
+- indication: delivery man/woman
+  result: die Lieferkosten pl
+  clue: Phrase
+- indication: eier und milchprodukte
+  result: eggs and dairy products   |
+  clue: Phrase
+- indication: eine SMS / E-Mail
+  result: email
+  clue: Phrase
+- indication: ham
+  result: asparagus wrapped in
+  clue: Phrase
+- indication: herring
+  result: fried and marinated
+  clue: Phrase
+- indication: jam
+  result: main meals   |  die hauptmahlzeiten
+  clue: Phrase
+- indication: Kreditkarte
+  result: die Bankkarte /
+  clue: Phrase
+- indication: margarine
+  result: die saure Sahne
+  clue: Phrase
+- indication: menu
+  result: der Krug Wasser
+  clue: Phrase
+- indication: mobile phone
+  result: die Daten ntpl
+  clue: Phrase
+- indication: ntpl
+  result: die verlorene Eier
+  clue: Phrase
+- indication: pancake soup
+  result: die Frikadellen fpl
+  clue: Phrase
+- indication: pasta
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: pepper
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: Pfeffer
+  result: das Salz und der
+  clue: Phrase
+- indication: poached eggs
+  result: die Spiegeleier ntpl
+  clue: Phrase
+- indication: popcorn
+  result: die Oliven fpl
+  clue: Phrase
+- indication: potato fritters
+  result: die Kartoffeln fpl
+  clue: Phrase
+- indication: potatoes
+  result: die Nudeln fpl
+  clue: Phrase
+- indication: sauce
+  result: sausage with curry
+  clue: Phrase
+- indication: schnitzel
+  result: die Kohlrouladen fpl
+  clue: Phrase
+- indication: service charge
+  result: die Tagesgerichte ntpl
+  clue: Phrase
+- indication: spinach
+  result: der rote Paprika
+  clue: Phrase
+- indication: starters
+  result: zum Essen ausgehen
+  clue: Phrase
+- indication: stuffed cabbage leaves
+  result: die Maultaschen fpl
+  clue: Phrase
+- indication: to ask for the bill
+  result: bestellen
+  clue: Phrase
+- indication: to browse
+  result: die Lebensmittel ntpl
+  clue: Phrase
+- indication: to have dinner
+  result: zu Mittag essen
+  clue: Phrase
+- indication: to have lunch
+  result: essen / trinken
+  clue: Phrase
+- indication: to make a phone call
+  result: das Kabel
+  clue: Phrase
+- indication: to send a text/an
+  result: anrufen
+  clue: Phrase
+- indication: vinegar and oil
+  result: die Zahnstocher mpl
+  clue: Phrase
+- indication: weiße Fleisch
+  result: das rote /
+  clue: Phrase
+- indication: wine
+  result: die Spirituosen pl
+  clue: Phrase
+- indication: wrap
+  result: die Sushis ntpl
+  clue: Phrase

@@ -1,278 +1,437 @@
-- indication: 'der Hund • plural: die Hunde'
-  result: the dog
-  clue: Noun
-- indication: 'die Katze • plural: die Katzen'
-  result: the cat
-  clue: Noun
-- indication: 'das Buch • plural: die Bücher'
-  result: the book
-  clue: Noun
-- indication: 'der Apfel • plural: die Äpfel'
-  result: the apple
-  clue: Noun
-- indication: 'das Haus • plural: die Häuser'
-  result: the house
-  clue: Noun
-- indication: 'der Tisch • plural: die Tische'
-  result: the table
-  clue: Noun
-- indication: 'der Stuhl • plural: die Stühle'
-  result: the chair
-  clue: Noun
-- indication: 'das Kind • plural: die Kinder'
-  result: the child
-  clue: Noun
-- indication: 'die Schule • plural: die Schulen'
-  result: the school
-  clue: Noun
-- indication: 'das Auto • plural: die Autos'
-  result: automobile, car
-  clue: Noun
-- indication: 'die CD • plural: die CDs'
-  result: CD
-  clue: Noun
-- indication: 'das TV • plural: die TVs'
-  result: TV
-  clue: Noun
-- indication: 'der Tag • plural: die Tage'
-  result: day
-  clue: Noun
-- indication: 'der Mann / die Frau • plural: die Männer'
-  result: man
-  clue: Noun
-- indication: 'das Ende • plural: die Enden'
-  result: end
+- indication: das Alter
+  result: age
   clue: Noun
 - indication: 'das Auge • plural: die Augen'
   result: eye
   clue: Noun
-- indication: der Krieg
-  result: war
+- indication: 'das Auto • plural: die Autos'
+  result: automobile, car
   clue: Noun
-- indication: der Sohn
-  result: son
-  clue: Noun
-- indication: die Kunst
-  result: art
-  clue: Noun
-- indication: der Gott
-  result: god
-  clue: Noun
-- indication: das Gesetz
-  result: law
-  clue: Noun
-- indication: der Arm
-  result: arm
-  clue: Noun
-- indication: 'der Junge • plural: die Jungen'
-  result: boy
-  clue: Noun
-- indication: die Luft
-  result: air
-  clue: Noun
-- indication: das Bett
-  result: bed
-  clue: Noun
-- indication: der Spaß
-  result: fun
-  clue: Noun
-- indication: das Alter
-  result: age
+- indication: das Bedürfnis
+  result: need
   clue: Noun
 - indication: das Bein
   result: leg
   clue: Noun
-- indication: 'die Sonne • plural: die Sonnen'
-  result: sun
+- indication: das Bett
+  result: bed
   clue: Noun
-- indication: 'die Freude • plural: die Freuden'
-  result: joy
+- indication: das Bier
+  result: beer
   clue: Noun
-- indication: der Job
-  result: job
+- indication: das Boot
+  result: boat
   clue: Noun
-- indication: 'die See • plural: die Seen'
-  result: sea
+- indication: 'das Buch • plural: die Bücher'
+  result: the book
   clue: Noun
-- indication: das Ohr
-  result: ear
-  clue: Noun
-- indication: 'die Nutzung • plural: die Nutzungen'
-  result: use
-  clue: Noun
-- indication: der Bus
-  result: bus
-  clue: Noun
-- indication: 'die Summe • plural: die Summen'
-  result: sum
-  clue: Noun
-- indication: 'die Verwendung • plural: die Verwendungen'
-  result: use
-  clue: Noun
-- indication: die Steuer
-  result: tax
-  clue: Noun
-- indication: der Gebrauch
-  result: use
-  clue: Noun
-- indication: 'die Lippe • plural: die Lippen'
-  result: lip
-  clue: Noun
-- indication: der Schlüssel
-  result: key
+- indication: das Dach
+  result: roof
   clue: Noun
 - indication: 'das Ei • plural: die Eis'
   result: egg
   clue: Noun
-- indication: der Hut
-  result: hat
+- indication: 'das Ende • plural: die Enden'
+  result: end
   clue: Noun
-- indication: das Öl
-  result: oil
-  clue: Noun
-- indication: 'der Tee • plural: die Teen'
-  result: tea
+- indication: das Feuer
+  result: fire
   clue: Noun
 - indication: das Gas
   result: gas
   clue: Noun
-- indication: 'die Benutzung • plural: die Benutzungen'
-  result: use
-  clue: Noun
-- indication: das Top
-  result: top
-  clue: Noun
-- indication: 'der Bude • plural: die Buden'
-  result: boy
-  clue: Noun
-- indication: der Nebel
-  result: fog
-  clue: Noun
-- indication: der Schnitt
-  result: cut
-  clue: Noun
-- indication: der Topf
-  result: pot
-  clue: Noun
-- indication: der Akt
-  result: act
-  clue: Noun
-- indication: 'die Tasse • plural: die Tassen'
-  result: cup
-  clue: Noun
-- indication: die Gebühr
-  result: fee
-  clue: Noun
-- indication: die Kuh
-  result: cow
-  clue: Noun
-- indication: die Bar
-  result: bar
-  clue: Noun
-- indication: 'die Lücke • plural: die Lücken'
-  result: gap
-  clue: Noun
-- indication: das Schwein
-  result: pig
-  clue: Noun
-- indication: 'das Jahr • plural: die Jahre'
-  result: year
-  clue: Noun
-- indication: 'das Mal • plural: die Male'
-  result: time
-  clue: Noun
-- indication: 'die Arbeit • plural: die Arbeiten'
-  result: work
-  clue: Noun
-- indication: 'die Hand • plural: die Hände'
-  result: hand
-  clue: Noun
-- indication: der/das Teil
-  result: part
-  clue: Noun
-- indication: 'die Woche • plural: die Wochen'
-  result: week
-  clue: Noun
-- indication: das Leben
-  result: life
-  clue: Noun
-- indication: das Wort
-  result: word
-  clue: Noun
-- indication: 'die Stunde • plural: die Stunden'
-  result: hour
-  clue: Noun
-- indication: 'der Name • plural: die Namen'
-  result: name
-  clue: Noun
-- indication: der Kopf
-  result: head
-  clue: Noun
-- indication: 'der Euro • plural: die Euros'
-  result: euro
+- indication: das Gesetz
+  result: law
   clue: Noun
 - indication: das Gesicht
   result: face
   clue: Noun
-- indication: 'die Rolle • plural: die Rollen'
-  result: role
+- indication: das Haar
+  result: hair
   clue: Noun
-- indication: die Tür
-  result: door
+- indication: 'das Haus • plural: die Häuser'
+  result: the house
   clue: Noun
-- indication: der Text
-  result: text
+- indication: das Holz
+  result: wood
   clue: Noun
-- indication: das Werk
-  result: work
+- indication: Das ist mein / meine…
+  result: This is my...
   clue: Noun
-- indication: die Regel
-  result: rule
+- indication: 'das Jahr • plural: die Jahre'
+  result: year
   clue: Noun
-- indication: der Schritt
-  result: step
+- indication: 'das Kind • plural: die Kinder'
+  result: the child
   clue: Noun
-- indication: das Spiel
-  result: game
+- indication: 'das Knie • plural: die Knien'
+  result: knee
   clue: Noun
-- indication: der Film
-  result: film
+- indication: das Leben
+  result: life
+  clue: Noun
+- indication: das Lebensmittel
+  result: food
+  clue: Noun
+- indication: das Lied
+  result: song
+  clue: Noun
+- indication: das Loch
+  result: hole
   clue: Noun
 - indication: 'das Mädchen • plural: die Mädchen'
   result: girl
   clue: Noun
-- indication: 'das Zuhause • plural: die Zuhausen'
-  result: home
+- indication: 'das Mal • plural: die Male'
+  result: time
   clue: Noun
-- indication: das Zimmer
-  result: room
+- indication: das Ohr
+  result: ear
   clue: Noun
-- indication: der Fuß
-  result: foot
+- indication: das Öl
+  result: oil
   clue: Noun
-- indication: der Körper
-  result: body
-  clue: Noun
-- indication: 'die Idee • plural: die Ideen'
-  result: idea
-  clue: Noun
-- indication: 'die Hilfe • plural: die Hilfen'
-  result: help
-  clue: Noun
-- indication: der Westen/West
-  result: west
-  clue: Noun
-- indication: der Osten/Ost
-  result: east
-  clue: Noun
-- indication: das Haar
-  result: hair
+- indication: das Rennen
+  result: race
   clue: Noun
 - indication: 'das Risiko • plural: die Risikos'
   result: risk
   clue: Noun
+- indication: das Schicksal
+  result: fate
+  clue: Noun
+- indication: das Schiff
+  result: ship
+  clue: Noun
+- indication: das Schwein
+  result: pig
+  clue: Noun
+- indication: Das sind meine…
+  result: These are my...
+  clue: Noun
+- indication: das Spiel
+  result: game
+  clue: Noun
+- indication: das Team
+  result: team
+  clue: Noun
+- indication: das Top
+  result: top
+  clue: Noun
+- indication: 'das TV • plural: die TVs'
+  result: TV
+  clue: Noun
+- indication: das Werk
+  result: work
+  clue: Noun
+- indication: das Wort
+  result: word
+  clue: Noun
+- indication: 'das Zeichen • plural: die Zeichen'
+  result: sign
+  clue: Noun
+- indication: das Zimmer
+  result: room
+  clue: Noun
+- indication: 'das Zuhause • plural: die Zuhausen'
+  result: home
+  clue: Noun
+- indication: der / die
+  result: office worker
+  clue: Noun
+- indication: der Akt
+  result: act
+  clue: Noun
+- indication: 'der Apfel • plural: die Äpfel'
+  result: the apple
+  clue: Noun
+- indication: der Arm
+  result: arm
+  clue: Noun
+- indication: der Baum
+  result: tree
+  clue: Noun
+- indication: der Beamter /
+  result: civil servant
+  clue: Noun
+- indication: 'der Bude • plural: die Buden'
+  result: boy
+  clue: Noun
+- indication: der Bus
+  result: bus
+  clue: Noun
+- indication: der Club
+  result: club
+  clue: Noun
+- indication: der Elektriker /
+  result: electrician
+  clue: Noun
+- indication: der Enkelsohn
+  result: grandson
+  clue: Noun
+- indication: 'der Euro • plural: die Euros'
+  result: euro
+  clue: Noun
+- indication: der Feuerwehrmann /
+  result: firefighter
+  clue: Noun
+- indication: der Film
+  result: film
+  clue: Noun
+- indication: der Fisch
+  result: fish
+  clue: Noun
+- indication: der Fuß
+  result: foot
+  clue: Noun
+- indication: der Gebrauch
+  result: use
+  clue: Noun
+- indication: der Gott
+  result: god
+  clue: Noun
+- indication: der Hinweis
+  result: hint
+  clue: Noun
+- indication: 'der Hund • plural: die Hunde'
+  result: the dog
+  clue: Noun
+- indication: der Hut
+  result: hat
+  clue: Noun
+- indication: der Informatiker /
+  result: IT worker
+  clue: Noun
+- indication: der Job
+  result: job
+  clue: Noun
+- indication: 'der Junge • plural: die Jungen'
+  result: boy
+  clue: Noun
+- indication: der König
+  result: king
+  clue: Noun
+- indication: der Kopf
+  result: head
+  clue: Noun
+- indication: der Körper
+  result: body
+  clue: Noun
+- indication: der Krieg
+  result: war
+  clue: Noun
+- indication: der Laden
+  result: shop
+  clue: Noun
+- indication: 'der Mann / die Frau • plural: die Männer'
+  result: man
+  clue: Noun
+- indication: der Mechaniker /
+  result: mechanic
+  clue: Noun
+- indication: 'der Name • plural: die Namen'
+  result: name
+  clue: Noun
+- indication: der Nebel
+  result: fog
+  clue: Noun
+- indication: der Osten/Ost
+  result: east
+  clue: Noun
+- indication: der Park
+  result: park
+  clue: Noun
+- indication: der Plan
+  result: plan
+  clue: Noun
+- indication: der Rand
+  result: edge
+  clue: Noun
+- indication: der Rechtsanwalt /
+  result: lawyer
+  clue: Noun
+- indication: der Regen
+  result: rain
+  clue: Noun
+- indication: der Rücken
+  result: back
+  clue: Noun
+- indication: der Schlag
+  result: blow
+  clue: Noun
+- indication: der Schlüssel
+  result: key
+  clue: Noun
+- indication: der Schnitt
+  result: cut
+  clue: Noun
+- indication: der Schritt
+  result: step
+  clue: Noun
+- indication: der Schwager
+  result: brother-in-law
+  clue: Noun
+- indication: der Schwiegersohn
+  result: son-in-law
+  clue: Noun
+- indication: der Schwiegervater
+  result: father-in-law
+  clue: Noun
+- indication: 'der See • plural: die Seen'
+  result: lake
+  clue: Noun
+- indication: der Sohn
+  result: son
+  clue: Noun
+- indication: der Spaß
+  result: fun
+  clue: Noun
+- indication: der Stern
+  result: star
+  clue: Noun
+- indication: der Stiefsohn
+  result: stepson
+  clue: Noun
+- indication: der Stiefvater
+  result: stepfather
+  clue: Noun
+- indication: 'der Stuhl • plural: die Stühle'
+  result: the chair
+  clue: Noun
+- indication: 'der Tag • plural: die Tage'
+  result: day
+  clue: Noun
+- indication: 'der Tee • plural: die Teen'
+  result: tea
+  clue: Noun
+- indication: der Test
+  result: test
+  clue: Noun
+- indication: der Text
+  result: text
+  clue: Noun
+- indication: 'der Tisch • plural: die Tische'
+  result: the table
+  clue: Noun
+- indication: der Topf
+  result: pot
+  clue: Noun
+- indication: der Typ
+  result: type
+  clue: Noun
+- indication: der Verlobte /
+  result: fiancé/fiancée
+  clue: Noun
+- indication: der Verlust
+  result: loss
+  clue: Noun
+- indication: der Vogel
+  result: bird
+  clue: Noun
+- indication: der Wein
+  result: wine
+  clue: Noun
+- indication: der Westen/West
+  result: west
+  clue: Noun
+- indication: 'der Wille • plural: die Willen'
+  result: will
+  clue: Noun
+- indication: der Wind
+  result: wind
+  clue: Noun
+- indication: der Wunsch
+  result: wish
+  clue: Noun
+- indication: der/das Teil
+  result: part
+  clue: Noun
+- indication: 'die Arbeit • plural: die Arbeiten'
+  result: work
+  clue: Noun
+- indication: 'die Armee • plural: die Armeen'
+  result: army
+  clue: Noun
+- indication: die Bar
+  result: bar
+  clue: Noun
+- indication: die Bäuerin
+  result: der Bauer /
+  clue: Noun
+- indication: 'die Benutzung • plural: die Benutzungen'
+  result: use
+  clue: Noun
+- indication: 'die CD • plural: die CDs'
+  result: CD
+  clue: Noun
+- indication: die Cousine
+  result: der Cousin /
+  clue: Noun
+- indication: 'die Dame • plural: die Damen'
+  result: lady
+  clue: Noun
 - indication: die Daten
   result: data
+  clue: Noun
+- indication: die Dozentin
+  result: der Dozent /
+  clue: Noun
+- indication: die Enkelin
+  result: granddaughter
+  clue: Noun
+- indication: die Fahrerin
+  result: der Fahrer /
+  clue: Noun
+- indication: die Fischerin
+  result: der Fischer /
+  clue: Noun
+- indication: 'die Freude • plural: die Freuden'
+  result: joy
+  clue: Noun
+- indication: die Gebühr
+  result: fee
+  clue: Noun
+- indication: die Großfamilie
+  result: extended family
+  clue: Noun
+- indication: 'die Hälfte • plural: die Hälften'
+  result: half
+  clue: Noun
+- indication: 'die Hand • plural: die Hände'
+  result: hand
+  clue: Noun
+- indication: die Haut
+  result: skin
+  clue: Noun
+- indication: 'die Hilfe • plural: die Hilfen'
+  result: help
+  clue: Noun
+- indication: 'die Hoffnung • plural: die Hoffnungen'
+  result: hope
+  clue: Noun
+- indication: 'die Idee • plural: die Ideen'
+  result: idea
+  clue: Noun
+- indication: die Ingenieurin
+  result: der Ingenieur /
+  clue: Noun
+- indication: die Journalistin
+  result: der Journalist /
+  clue: Noun
+- indication: 'die Katze • plural: die Katzen'
+  result: the cat
+  clue: Noun
+- indication: die Köchin
+  result: der Koch /
+  clue: Noun
+- indication: die Krankenschwester
+  result: der Krankenpfleger /
+  clue: Noun
+- indication: die Kuh
+  result: cow
+  clue: Noun
+- indication: die Kunst
+  result: art
   clue: Noun
 - indication: 'die Liebe • plural: die Lieben'
   result: love
@@ -280,162 +439,114 @@
 - indication: 'die Linie • plural: die Linien'
   result: line
   clue: Noun
-- indication: der Wunsch
-  result: wish
-  clue: Noun
-- indication: der Rücken
-  result: back
-  clue: Noun
-- indication: 'die Zelle • plural: die Zellen'
-  result: cell
-  clue: Noun
-- indication: die Wand
-  result: wall
-  clue: Noun
-- indication: 'die Hälfte • plural: die Hälften'
-  result: half
-  clue: Noun
-- indication: der Plan
-  result: plan
-  clue: Noun
-- indication: der Baum
-  result: tree
-  clue: Noun
-- indication: der Hinweis
-  result: hint
-  clue: Noun
-- indication: die Haut
-  result: skin
-  clue: Noun
-- indication: das Team
-  result: team
-  clue: Noun
-- indication: 'das Zeichen • plural: die Zeichen'
-  result: sign
-  clue: Noun
-- indication: 'die Tatsache • plural: die Tatsachen'
-  result: fact
-  clue: Noun
-- indication: der Wind
-  result: wind
-  clue: Noun
-- indication: 'der See • plural: die Seen'
-  result: lake
-  clue: Noun
-- indication: der Typ
-  result: type
-  clue: Noun
-- indication: das Schiff
-  result: ship
-  clue: Noun
-- indication: 'die Hoffnung • plural: die Hoffnungen'
-  result: hope
-  clue: Noun
-- indication: der König
-  result: king
-  clue: Noun
-- indication: die Tat
-  result: deed
-  clue: Noun
-- indication: der Rand
-  result: edge
-  clue: Noun
-- indication: 'die Vergangenheit • plural: die Vergangenheiten'
-  result: past
-  clue: Noun
-- indication: der Verlust
-  result: loss
-  clue: Noun
-- indication: 'die Dame • plural: die Damen'
-  result: lady
-  clue: Noun
-- indication: das Dach
-  result: roof
-  clue: Noun
-- indication: die Mauer
-  result: wall
-  clue: Noun
-- indication: der Stern
-  result: star
-  clue: Noun
-- indication: der Laden
-  result: shop
-  clue: Noun
-- indication: das Feuer
-  result: fire
-  clue: Noun
-- indication: 'die Nase • plural: die Nasen'
-  result: nose
-  clue: Noun
-- indication: der Club
-  result: club
-  clue: Noun
-- indication: der Fisch
-  result: fish
-  clue: Noun
-- indication: der Wein
-  result: wine
-  clue: Noun
-- indication: 'die Welle • plural: die Wellen'
-  result: wave
-  clue: Noun
-- indication: das Bedürfnis
-  result: need
-  clue: Noun
-- indication: 'die Tante • plural: die Tanten'
-  result: aunt
-  clue: Noun
-- indication: das Loch
-  result: hole
-  clue: Noun
-- indication: der Regen
-  result: rain
-  clue: Noun
-- indication: der Test
-  result: test
-  clue: Noun
-- indication: das Bier
-  result: beer
-  clue: Noun
-- indication: das Lied
-  result: song
-  clue: Noun
-- indication: die Pflicht
-  result: duty
-  clue: Noun
-- indication: 'der Wille • plural: die Willen'
-  result: will
-  clue: Noun
-- indication: der Vogel
-  result: bird
-  clue: Noun
-- indication: 'die Armee • plural: die Armeen'
-  result: army
-  clue: Noun
-- indication: das Boot
-  result: boat
-  clue: Noun
-- indication: der Park
-  result: park
-  clue: Noun
-- indication: das Holz
-  result: wood
-  clue: Noun
-- indication: 'das Knie • plural: die Knien'
-  result: knee
+- indication: 'die Lippe • plural: die Lippen'
+  result: lip
   clue: Noun
 - indication: 'die Liste • plural: die Listen'
   result: list
   clue: Noun
-- indication: das Schicksal
-  result: fate
+- indication: 'die Lücke • plural: die Lücken'
+  result: gap
   clue: Noun
-- indication: das Lebensmittel
-  result: food
+- indication: die Luft
+  result: air
   clue: Noun
-- indication: das Rennen
-  result: race
+- indication: die Mauer
+  result: wall
   clue: Noun
-- indication: der Schlag
-  result: blow
+- indication: die Maurerin
+  result: der Maurer /
+  clue: Noun
+- indication: 'die Nase • plural: die Nasen'
+  result: nose
+  clue: Noun
+- indication: 'die Nutzung • plural: die Nutzungen'
+  result: use
+  clue: Noun
+- indication: die Partnerin
+  result: der Partner /
+  clue: Noun
+- indication: die Pflicht
+  result: duty
+  clue: Noun
+- indication: die Rechtsanwältin
+  result: lecturer
+  clue: Noun
+- indication: die Regel
+  result: rule
+  clue: Noun
+- indication: 'die Rolle • plural: die Rollen'
+  result: role
+  clue: Noun
+- indication: 'die Schule • plural: die Schulen'
+  result: the school
+  clue: Noun
+- indication: die Schwägerin
+  result: sister-in-law
+  clue: Noun
+- indication: die Schwiegermutter
+  result: mother-in-law
+  clue: Noun
+- indication: die Schwiegertochter
+  result: daughter-in-law
+  clue: Noun
+- indication: 'die See • plural: die Seen'
+  result: sea
+  clue: Noun
+- indication: 'die Sonne • plural: die Sonnen'
+  result: sun
+  clue: Noun
+- indication: die Steuer
+  result: tax
+  clue: Noun
+- indication: die Stiefmutter
+  result: stepmother
+  clue: Noun
+- indication: die Stieftochter
+  result: stepdaughter
+  clue: Noun
+- indication: 'die Stunde • plural: die Stunden'
+  result: hour
+  clue: Noun
+- indication: 'die Summe • plural: die Summen'
+  result: sum
+  clue: Noun
+- indication: 'die Tante • plural: die Tanten'
+  result: aunt
+  clue: Noun
+- indication: 'die Tasse • plural: die Tassen'
+  result: cup
+  clue: Noun
+- indication: die Tat
+  result: deed
+  clue: Noun
+- indication: 'die Tatsache • plural: die Tatsachen'
+  result: fact
+  clue: Noun
+- indication: die Tischlerin
+  result: der Tischler /
+  clue: Noun
+- indication: die Tür
+  result: door
+  clue: Noun
+- indication: 'die Vergangenheit • plural: die Vergangenheiten'
+  result: past
+  clue: Noun
+- indication: 'die Verwendung • plural: die Verwendungen'
+  result: use
+  clue: Noun
+- indication: die Wand
+  result: wall
+  clue: Noun
+- indication: 'die Welle • plural: die Wellen'
+  result: wave
+  clue: Noun
+- indication: 'die Woche • plural: die Wochen'
+  result: week
+  clue: Noun
+- indication: die Zahnärztin
+  result: der Zahnarzt /
+  clue: Noun
+- indication: 'die Zelle • plural: die Zellen'
+  result: cell
   clue: Noun

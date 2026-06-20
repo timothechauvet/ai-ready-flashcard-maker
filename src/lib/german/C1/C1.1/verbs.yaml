@@ -1,1 +1,33 @@
-[]
+- indication: abdomen
+  result: der Brustkorb
+  clue: Verb
+- indication: einnehmen
+  result: Medikamente
+  clue: Verb
+- indication: fallen
+  result: to fall
+  clue: Verb
+- indication: hören
+  result: to touch
+  clue: Verb
+- indication: mit Zahnseide
+  result: to floss
+  clue: Verb
+- indication: oxygen
+  result: die Vene
+  clue: Verb
+- indication: sich den Arm
+  result: to break one’s arm
+  clue: Verb
+- indication: sich die Zähne putzen
+  result: to brush one’s teeth
+  clue: Verb
+- indication: sich übergeben
+  result: to faint
+  clue: Verb
+- indication: sich um … kümmern
+  result: to treat
+  clue: Verb
+- indication: sich verletzen
+  result: to injure oneself
+  clue: Verb

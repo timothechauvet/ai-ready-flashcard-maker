@@ -1,1 +1,48 @@
-[]
+- indication: '77'
+  result: music   |  musik
+  clue: Phrase
+- indication: '78'
+  result: games   |  spiele
+  clue: Phrase
+- indication: '79'
+  result: arts and crafts   |  kunsthandwerk
+  clue: Phrase
+- indication: '88'
+  result: winter sports   |  wintersport
+  clue: Phrase
+- indication: '89'
+  result: combat sports   |  kampfsportarten
+  clue: Phrase
+- indication: '91'
+  result: golf   |  golf
+  clue: Phrase
+- indication: '92'
+  result: other sports   |  andere sportarten
+  clue: Phrase
+- indication: boxing
+  result: k.o. schlagen
+  clue: Phrase
+- indication: headguard
+  result: die Boxschuhe mpl
+  clue: Phrase
+- indication: needle and thread
+  result: die Stricknadeln fpl
+  clue: Phrase
+- indication: sewing accessories
+  result: die Wasserfarben fpl
+  clue: Phrase
+- indication: singer
+  result: die Noten fpl
+  clue: Phrase
+- indication: ski suit
+  result: die Skier mpl
+  clue: Phrase
+- indication: to listen to music
+  result: singen
+  clue: Phrase
+- indication: trombone
+  result: die kleine Trommel
+  clue: Phrase
+- indication: über / unter Par
+  result: over/under par
+  clue: Phrase

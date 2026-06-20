@@ -1,129 +1,150 @@
-- indication: bereichern
-  result: enrich
-  clue: Verb
-- indication: entmutigen
-  result: to discourage
-  clue: Verb
-- indication: fangen
-  result: catch / capture
-  clue: Verb
-- indication: bewusst
-  result: aware / conscious
-  clue: Verb
-- indication: segeln
-  result: to sail / sailing
-  clue: Verb
-- indication: erwähnen
-  result: mention / refer to
-  clue: Verb
-- indication: kämpfen
-  result: to fight / struggle
-  clue: Verb
-- indication: verankern
-  result: anchoring / to anchor
-  clue: Verb
-- indication: verschwinden
-  result: to disappear / vanish
-  clue: Verb
-- indication: umfangen
-  result: encompassed / embraced
-  clue: Verb
-- indication: erhöhen
-  result: increase / raise / elevate
-  clue: Verb
-- indication: einrichten
-  result: set up / establish / arrange
-  clue: Verb
-- indication: blitzen
-  result: to flash / to catch speeding
-  clue: Verb
-- indication: läuten
-  result: to ring / to toll / to sound
-  clue: Verb
-- indication: taufen
-  result: to baptize / christen / name
-  clue: Verb
-- indication: mitlaufen
-  result: to go along with / tag along
-  clue: Verb
-- indication: dienstleistungen
-  result: services / service provisions
-  clue: Verb
-- indication: sachlich
-  result: objectively / matter-of-factly
-  clue: Verb
-- indication: flüchten
-  result: to flee / escape / take refuge
-  clue: Verb
-- indication: runtermachen
-  result: to put down / insult / badmouth
-  clue: Verb
-- indication: aufkleben
-  result: to stick on / paste on / attach
-  clue: Verb
-- indication: anstoßen
-  result: to toast / to initiate / to nudge
-  clue: Verb
-- indication: vorführen
-  result: to demonstrate / present / expose
-  clue: Verb
-- indication: ausrasten
-  result: to freak out / lose control / snap
+- indication: angehen
+  result: to approach / to concern / to tackle
   clue: Verb
 - indication: ankämpfen
   result: to fight against / struggle against
   clue: Verb
-- indication: durchstehen
-  result: to withstand / get through / endure
+- indication: anstoßen
+  result: to toast / to initiate / to nudge
   clue: Verb
-- indication: angehen
-  result: to approach / to concern / to tackle
-  clue: Verb
-- indication: erfahren
-  result: to find out / to learn / experienced
-  clue: Verb
-- indication: mitteilen
-  result: to share / to inform / to communicate
-  clue: Verb
-- indication: umgekehrt
-  result: conversely / in contrast / vice versa
+- indication: aufkleben
+  result: to stick on / paste on / attach
   clue: Verb
 - indication: ausdrücken
   result: to express / to extract (squeeze out)
   clue: Verb
-- indication: verpassen
-  result: to miss / fail to catch / miss out on
+- indication: ausrasten
+  result: to freak out / lose control / snap
   clue: Verb
-- indication: niederschlagen
-  result: to beat down / suppress / strike down
+- indication: bereichern
+  result: enrich
   clue: Verb
-- indication: treten
-  result: to step / to kick (uses sein or haben)
+- indication: bewusst
+  result: aware / conscious
   clue: Verb
-- indication: verkraften
-  result: to cope with / to handle / to get over
-  clue: Verb
-- indication: überlegen
-  result: to consider / superior / to think about
-  clue: Verb
-- indication: entlassen
-  result: to dismiss / fire / release / discharge
-  clue: Verb
-- indication: zusammenschlagen
-  result: to beat up / smash together / fold shut
-  clue: Verb
-- indication: versetzen
-  result: to move / transfer / relocate / put into
-  clue: Verb
-- indication: umgehen
-  result: to deal with / avoid / bypass / go around
+- indication: blitzen
+  result: to flash / to catch speeding
   clue: Verb
 - indication: darstellen
   result: to portray / represent / depict / present
   clue: Verb
+- indication: den Puls fühlen
+  result: to undergo surgery
+  clue: Verb
+- indication: dienstleistungen
+  result: services / service provisions
+  clue: Verb
+- indication: durchstehen
+  result: to withstand / get through / endure
+  clue: Verb
+- indication: ein Kind zur Welt
+  result: to give birth
+  clue: Verb
+- indication: einrichten
+  result: set up / establish / arrange
+  clue: Verb
+- indication: entlassen
+  result: to dismiss / fire / release / discharge
+  clue: Verb
+- indication: entmutigen
+  result: to discourage
+  clue: Verb
+- indication: erfahren
+  result: to find out / to learn / experienced
+  clue: Verb
+- indication: erhöhen
+  result: increase / raise / elevate
+  clue: Verb
+- indication: erwähnen
+  result: mention / refer to
+  clue: Verb
+- indication: fangen
+  result: catch / capture
+  clue: Verb
 - indication: festhalten
   result: to hold on to / detain / record / stick to
   clue: Verb
+- indication: flüchten
+  result: to flee / escape / take refuge
+  clue: Verb
+- indication: in den Wehen liegen
+  result: to be in labour
+  clue: Verb
+- indication: kämpfen
+  result: to fight / struggle
+  clue: Verb
 - indication: kontakte pflegen
   result: maintain contacts
+  clue: Verb
+- indication: läuten
+  result: to ring / to toll / to sound
+  clue: Verb
+- indication: mitlaufen
+  result: to go along with / tag along
+  clue: Verb
+- indication: mitteilen
+  result: to share / to inform / to communicate
+  clue: Verb
+- indication: niederschlagen
+  result: to beat down / suppress / strike down
+  clue: Verb
+- indication: runtermachen
+  result: to put down / insult / badmouth
+  clue: Verb
+- indication: sachlich
+  result: objectively / matter-of-factly
+  clue: Verb
+- indication: schwanger werden
+  result: to fall pregnant
+  clue: Verb
+- indication: segeln
+  result: to sail / sailing
+  clue: Verb
+- indication: sterilisieren /
+  result: to spay/neuter
+  clue: Verb
+- indication: stillen
+  result: to breast-feed
+  clue: Verb
+- indication: taufen
+  result: to baptize / christen / name
+  clue: Verb
+- indication: treten
+  result: to step / to kick (uses sein or haben)
+  clue: Verb
+- indication: überlegen
+  result: to consider / superior / to think about
+  clue: Verb
+- indication: umfangen
+  result: encompassed / embraced
+  clue: Verb
+- indication: umgehen
+  result: to deal with / avoid / bypass / go around
+  clue: Verb
+- indication: umgekehrt
+  result: conversely / in contrast / vice versa
+  clue: Verb
+- indication: verankern
+  result: anchoring / to anchor
+  clue: Verb
+- indication: verkraften
+  result: to cope with / to handle / to get over
+  clue: Verb
+- indication: verpassen
+  result: to miss / fail to catch / miss out on
+  clue: Verb
+- indication: verschwinden
+  result: to disappear / vanish
+  clue: Verb
+- indication: versehen
+  result: mit einem Mikrochip
+  clue: Verb
+- indication: versetzen
+  result: to move / transfer / relocate / put into
+  clue: Verb
+- indication: vorführen
+  result: to demonstrate / present / expose
+  clue: Verb
+- indication: zusammenschlagen
+  result: to beat up / smash together / fold shut
   clue: Verb
