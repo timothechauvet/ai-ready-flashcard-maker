@@ -81,7 +81,7 @@
 	}
 
 	function speakWord(text: string | undefined) {
-		if (!text) return;
+		if (!text || window.speechSynthesis.speaking) return;
 		const cleanText = text.replace(/\([^)]*\)/g, '').replace(/\[[^\]]*\]/g, '').trim();
 		const utterance = new SpeechSynthesisUtterance(cleanText);
 		
