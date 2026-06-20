@@ -11,7 +11,7 @@
 	let deckAuthor = $state('');
 	let deckOrganization = $state('');
 	let rawYamlText = $state('');
-	let uploadMode = $state<'file' | 'text'>('file');
+	let uploadMode = $state<'file' | 'text'>('text');
 	let errorMsg = $state('');
 	let successMsg = $state('');
 	let isUploading = $state(false);
@@ -173,18 +173,18 @@ Topic: `;
 		<div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
 			<div class="tabs" style="display: flex; gap: 1rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
 				<button 
-					class="btn {uploadMode === 'file' ? 'btn-primary' : 'btn-secondary'}" 
-					onclick={() => uploadMode = 'file'}
-					style="flex: 1;"
-				>
-					Upload File
-				</button>
-				<button 
 					class="btn {uploadMode === 'text' ? 'btn-primary' : 'btn-secondary'}" 
 					onclick={() => uploadMode = 'text'}
 					style="flex: 1;"
 				>
 					Paste YAML
+				</button>
+				<button 
+					class="btn {uploadMode === 'file' ? 'btn-primary' : 'btn-secondary'}" 
+					onclick={() => uploadMode = 'file'}
+					style="flex: 1;"
+				>
+					Upload File
 				</button>
 			</div>
 
