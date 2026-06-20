@@ -222,10 +222,21 @@
 		<!-- Top Bar Controls & Stats -->
 		<div class="top-bar" style="justify-content: center;">
 			<div style="display: flex; align-items: center; gap: 1rem;">
-				<label class="random-toggle-label">
-					<input type="checkbox" checked={isRandom} onchange={toggleRandom} />
-					<span>Shuffle</span>
-				</label>
+				<button
+					class="action-btn shuffle-btn"
+					onclick={toggleRandom}
+					style="display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--border-color); background: {isRandom ? 'var(--accent-color)' : 'var(--card-bg)'}; color: {isRandom ? '#ffffff' : 'var(--text-color)'}; cursor: pointer;"
+					aria-label="Shuffle deck"
+					title="Shuffle deck"
+				>
+					<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+						<polyline points="16 3 21 3 21 8"/>
+						<line x1="4" y1="20" x2="21" y2="3"/>
+						<polyline points="21 16 21 21 16 21"/>
+						<line x1="15" y1="15" x2="21" y2="21"/>
+						<line x1="4" y1="4" x2="9" y2="9"/>
+					</svg>
+				</button>
 				<div class="scoreboard-inline">
 					<span class="score-incorrect">Need to revise: {incorrectCount}</span>
 					<span class="score-correct">I know: {correctCount}</span>
@@ -246,8 +257,13 @@
 					<div class="card-side card-front">
 						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
 						<p class="card-text">{currentCard?.indication}</p>
+						{#if currentCard?.clue}
+							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
+								{currentCard.clue}
+							</p>
+						{/if}
 						{#if currentCard?.pronunciation}
-							<p class="pronunciation-text" style="color: var(--text-muted); font-size: 1.1rem; font-family: monospace; margin-top: 0.5rem;">
+							<p class="pronunciation-text" style="color: var(--text-muted); font-size: 1.1rem; font-family: monospace; margin-top: 0.25rem;">
 								{currentCard.pronunciation}
 							</p>
 						{/if}
@@ -255,6 +271,11 @@
 					<div class="card-side card-back">
 						<span class="card-counter">{currentActivePointer + 1} / {activeIndices.length}</span>
 						<p class="card-text">{currentCard?.result}</p>
+						{#if currentCard?.clue}
+							<p class="clue-text" style="color: var(--text-muted); font-size: 1.1rem; font-style: italic; margin-top: 0.5rem;">
+								{currentCard.clue}
+							</p>
+						{/if}
 					</div>
 				</div>
 			</div>

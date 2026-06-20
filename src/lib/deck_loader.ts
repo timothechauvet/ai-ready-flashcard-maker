@@ -11,6 +11,7 @@ export interface Flashcard {
 	indication: string;
 	result: string;
 	pronunciation?: string;
+	clue?: string;
 }
 
 export function getGermanIdiomsDeck(): Flashcard[] {
