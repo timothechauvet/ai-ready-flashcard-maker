@@ -52,8 +52,8 @@
 - indication: freeriden
   result: freeride
   clue: Adjective
-- indication: to spar
-  result: zuschlagen
+- indication: zuschlagen
+  result: to spar
   clue: Adjective
 - indication: kicken
   result: kick

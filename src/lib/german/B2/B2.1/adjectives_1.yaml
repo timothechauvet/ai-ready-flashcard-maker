@@ -10,8 +10,8 @@
 - indication: der Schiedrichter-
   result: the referee
   clue: Adjective
-- indication: assistentin
-  result: Schiedrichter-
+- indication: Schiedrichter-
+  result: assistentin
   clue: Adjective
 - indication: der Aufschlag
   result: the serve
@@ -52,8 +52,8 @@
 - indication: bed and breakfast
   result: vocabulary
   clue: Adjective
-- indication: blue line
-  result: vocabulary
+- indication: vocabulary
+  result: blue line
   clue: Adjective
 - indication: die Festspiele
   result: the festival

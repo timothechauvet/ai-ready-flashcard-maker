@@ -4,8 +4,8 @@
 - indication: die Hose
   result: the pants
   clue: Adjective
-- indication: Tabellenkalkulation
-  result: die
+- indication: die
+  result: Tabellenkalkulation
   clue: Adjective
 - indication: die Sonnencreme
   result: the sunscreen

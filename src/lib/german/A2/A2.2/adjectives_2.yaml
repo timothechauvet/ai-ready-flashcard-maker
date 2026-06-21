@@ -1,5 +1,5 @@
-- indication: chores
-  result: ntpl
+- indication: ntpl
+  result: chores
   clue: Adjective
 - indication: das Etagenbett
   result: the bunk bed

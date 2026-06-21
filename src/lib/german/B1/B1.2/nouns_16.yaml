@@ -34,8 +34,8 @@
 - indication: die Struktur
   result: structure
   clue: Noun
-- indication: die Studentin
-  result: der Student /
+- indication: der Student /
+  result: die Studentin
   clue: Noun
 - indication: die Substanz
   result: substance

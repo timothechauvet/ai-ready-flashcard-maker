@@ -16,8 +16,8 @@
 - indication: die Bundeswehr
   result: Armed Forces
   clue: Noun
-- indication: die Camperin
-  result: der Camper /
+- indication: der Camper /
+  result: die Camperin
   clue: Noun
 - indication: die Cheftrainerin
   result: der Cheftrainer /

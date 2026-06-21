@@ -7,8 +7,8 @@
 - indication: Nein.
   result: no.
   clue: Phrase
-- indication: I don’t understand.
-  result: Bitte.
+- indication: Bitte.
+  result: I don’t understand.
   clue: Phrase
 - indication: Ich bin verheiratet.
   result: i am married.
@@ -52,8 +52,8 @@
 - indication: Geburtstag?
   result: birthday?
   clue: Phrase
-- indication: I’m a/an...
-  result: Ich arbeite als…
+- indication: Ich arbeite als…
+  result: I’m a/an...
   clue: Phrase
 - indication: Ich bin arbeitslos.
   result: i'm unemployed.

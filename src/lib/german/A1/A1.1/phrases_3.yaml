@@ -1,26 +1,26 @@
-- indication: I’m cold/warm.
-  result: Ich bin satt.
+- indication: Ich bin satt.
+  result: I’m cold/warm.
   clue: Phrase
-- indication: I’m divorced.
-  result: Ich bin ledig.
+- indication: Ich bin ledig.
+  result: I’m divorced.
   clue: Phrase
-- indication: I’m full.
-  result: Durst.
+- indication: Durst.
+  result: I’m full.
   clue: Phrase
-- indication: I’m married.
-  result: ledig?
+- indication: ledig?
+  result: I’m married.
   clue: Phrase
-- indication: I’m single.
-  result: Partnerin.
+- indication: Partnerin.
+  result: I’m single.
   clue: Phrase
 - indication: Wie bitte?
   result: i'm sorry, what?
   clue: Phrase
-- indication: I’m travelling.
-  result: Ruhestand.
+- indication: Ruhestand.
+  result: I’m travelling.
   clue: Phrase
-- indication: I’m widowed.
-  result: Ich bin geschieden.
+- indication: Ich bin geschieden.
+  result: I’m widowed.
   clue: Phrase
 - indication: jünger als…
   result: Ich bin älter /

@@ -22,8 +22,8 @@
 - indication: Mittwoch
   result: wednesday
   clue: Adjective
-- indication: Tuesday
-  result: Montag
+- indication: Montag
+  result: Tuesday
   clue: Adjective
 - indication: verspätet
   result: soon
@@ -55,6 +55,6 @@
 - indication: der Monat
   result: the month
   clue: Adjective
-- indication: yearly
-  result: monatlich
+- indication: monatlich
+  result: yearly
   clue: Adjective

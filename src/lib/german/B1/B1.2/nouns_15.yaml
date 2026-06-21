@@ -1,8 +1,8 @@
 - indication: 'die Operation • plural: die Operationen'
   result: operation
   clue: Noun
-- indication: die Pastille
-  result: lozenge
+- indication: lozenge
+  result: die Pastille
   clue: Noun
 - indication: die Pflegespülung
   result: conditioner

@@ -25,8 +25,8 @@
 - indication: post
   result: vocabulary
   clue: Adjective
-- indication: pot roast
-  result: Sauerkraut
+- indication: Sauerkraut
+  result: pot roast
   clue: Adjective
 - indication: die Erbsen
   result: the peas

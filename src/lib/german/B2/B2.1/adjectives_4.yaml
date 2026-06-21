@@ -37,8 +37,8 @@
 - indication: der Wettbewerb
   result: the competition
   clue: Adjective
-- indication: leisure centre
-  result: spielen
+- indication: spielen
+  result: leisure centre
   clue: Adjective
 - indication: die Spur
   result: the trail

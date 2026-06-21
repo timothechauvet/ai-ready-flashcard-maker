@@ -24,8 +24,8 @@
 - indication: das Mundwasser
   result: the mouthwash
   clue: Adjective
-- indication: thalassotherapy
-  result: massage
+- indication: massage
+  result: thalassotherapy
   clue: Adjective
 - indication: therapist
   result: vocabulary

@@ -37,8 +37,8 @@
 - indication: das Rubbellos
   result: the scratch card
   clue: Adjective
-- indication: sticky tape
-  result: fpl
+- indication: fpl
+  result: sticky tape
   clue: Adjective
 - indication: stomachache
   result: mpl

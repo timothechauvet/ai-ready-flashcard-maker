@@ -16,8 +16,8 @@
 - indication: die Kontaktlinsen fpl
   result: the contact lenses fpl
   clue: Phrase
-- indication: dentist’s chair
-  result: the dentist’s surgery   |  beim zahnarzt
+- indication: the dentist’s surgery   |  beim zahnarzt
+  result: dentist’s chair
   clue: Phrase
 - indication: die harten / weichen
   result: the hard/soft ones

@@ -52,8 +52,8 @@
 - indication: Blauschimmelkäse
   result: der
   clue: Adjective
-- indication: blue cheese
-  result: vocabulary
+- indication: vocabulary
+  result: blue cheese
   clue: Adjective
 - indication: das Fertiggericht
   result: the ready meal

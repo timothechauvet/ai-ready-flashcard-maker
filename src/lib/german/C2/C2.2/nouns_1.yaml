@@ -1,5 +1,5 @@
-- indication: C1 › 90*
-  result: 'Page: 176 | C1 › 90*'
+- indication: 'Page: 176 | C1 › 90*'
+  result: C1 › 90*
   clue: Noun
   pronunciation: '[—]'
 - indication: das Anliegen
@@ -11,7 +11,8 @@
   clue: Noun
   pronunciation: '[das ˈfyːʁʊŋsfɛɐ̯ˌhaltn̩]'
 - indication: Das geplante Bauprojekt wurde von den Behörden kurzerhand abgeschmettert.
-  result: The planned construction project was summarily rejected (turned down flat) by the authorities.
+  result: The planned construction project was summarily rejected (turned down flat)
+    by the authorities.
   clue: Noun
 - indication: 'das Gespräch suchen • plural: die Gespräch suchen'
   result: to seek to talk / to reach out for a conversation

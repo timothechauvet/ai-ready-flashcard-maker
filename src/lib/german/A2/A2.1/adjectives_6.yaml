@@ -43,8 +43,8 @@
 - indication: die Jalousie
   result: the blinds
   clue: Adjective
-- indication: mechanic
-  result: ntpl
+- indication: ntpl
+  result: mechanic
   clue: Adjective
 - indication: das Kochfeld
   result: the hob

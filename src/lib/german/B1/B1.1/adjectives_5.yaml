@@ -1,8 +1,8 @@
 - indication: kontaktlos
   result: contactless
   clue: Adjective
-- indication: gluten-free
-  result: kalorienarm
+- indication: kalorienarm
+  result: gluten-free
   clue: Adjective
 - indication: glutenfrei
   result: gluten-free

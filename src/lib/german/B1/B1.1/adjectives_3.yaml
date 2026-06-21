@@ -31,8 +31,8 @@
 - indication: tiefgefroren
   result: frozen
   clue: Adjective
-- indication: dairy-free
-  result: aus Freilandhaltung
+- indication: aus Freilandhaltung
+  result: dairy-free
   clue: Adjective
 - indication: die App
   result: the app
@@ -55,6 +55,6 @@
 - indication: die Sahne
   result: the cream
   clue: Adjective
-- indication: egg white
-  result: vocabulary
+- indication: vocabulary
+  result: egg white
   clue: Adjective

@@ -43,8 +43,8 @@
 - indication: tourist
   result: vocabulary
   clue: Adjective
-- indication: Touristenattraktion
-  result: die
+- indication: die
+  result: Touristenattraktion
   clue: Adjective
 - indication: tournament
   result: vocabulary

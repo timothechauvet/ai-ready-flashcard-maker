@@ -1,11 +1,11 @@
 - indication: 'die Benutzung • plural: die Benutzungen'
   result: use
   clue: Noun
-- indication: 'die CD • plural: die CDs'
-  result: CD
+- indication: CD
+  result: 'die CD • plural: die CDs'
   clue: Noun
-- indication: die Cousine
-  result: der Cousin /
+- indication: der Cousin /
+  result: die Cousine
   clue: Noun
 - indication: 'die Dame • plural: die Damen'
   result: lady

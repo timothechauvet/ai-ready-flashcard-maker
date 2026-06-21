@@ -52,8 +52,8 @@
 - indication: die Nachspielzeit
   result: the injury time
   clue: Adjective
-- indication: Frühstückspension
-  result: die
+- indication: die
+  result: Frühstückspension
   clue: Adjective
 - indication: das Konzert
   result: the concert

@@ -46,8 +46,8 @@
 - indication: der Schulhof
   result: the schoolyard
   clue: Adjective
-- indication: Hand-Waschlotion
-  result: die
+- indication: die
+  result: Hand-Waschlotion
   clue: Adjective
 - indication: die Tasse
   result: the cup

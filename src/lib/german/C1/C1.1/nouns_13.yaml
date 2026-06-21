@@ -1,5 +1,5 @@
-- indication: die Patientin
-  result: der Patient /
+- indication: der Patient /
+  result: die Patientin
   clue: Noun
 - indication: 'die Perspektive • plural: die Perspektiven'
   result: perspective, prospects

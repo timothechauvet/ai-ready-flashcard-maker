@@ -7,8 +7,8 @@
 - indication: die Bremse
   result: the brake
   clue: Adjective
-- indication: accessible parking space
-  result: fpl
+- indication: fpl
+  result: accessible parking space
   clue: Adjective
 - indication: accident
   result: vocabulary

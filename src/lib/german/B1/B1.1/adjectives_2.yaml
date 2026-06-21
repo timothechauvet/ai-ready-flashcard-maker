@@ -7,8 +7,8 @@
 - indication: die Rechnung
   result: the bill
   clue: Adjective
-- indication: bread rolls
-  result: ntpl
+- indication: ntpl
+  result: bread rolls
   clue: Adjective
 - indication: breakfast bar
   result: vocabulary

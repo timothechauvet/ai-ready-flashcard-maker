@@ -1,5 +1,5 @@
-- indication: kebab
-  result: ntpl
+- indication: ntpl
+  result: kebab
   clue: Adjective
 - indication: kernlos
   result: seedless
@@ -25,8 +25,8 @@
 - indication: die Languste
   result: the lobster
   clue: Adjective
-- indication: low-calorie
-  result: fettarm
+- indication: fettarm
+  result: low-calorie
   clue: Adjective
 - indication: Milch-
   result: milk-

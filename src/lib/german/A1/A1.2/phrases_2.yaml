@@ -4,8 +4,8 @@
 - indication: Es ist halb zehn.
   result: it's half past nine.
   clue: Phrase
-- indication: It’s 5 p.m.
-  result: (morgens).
+- indication: (morgens).
+  result: It’s 5 p.m.
   clue: Phrase
 - indication: dunstig.
   result: hazy.
@@ -16,8 +16,8 @@
 - indication: zehn.
   result: ten.
   clue: Phrase
-- indication: It’s quarter past nine.
-  result: Es ist zehn nach neun.
+- indication: Es ist zehn nach neun.
+  result: It’s quarter past nine.
   clue: Phrase
 - indication: Es friert.
   result: it's freezing.
@@ -46,8 +46,8 @@
 - indication: So ein schöner Tag!
   result: What awful weather!
   clue: Phrase
-- indication: spring
-  result: haben wir?
+- indication: haben wir?
+  result: spring
   clue: Phrase
 - indication: tage, monate und jahreszeiten
   result: days, months, and seasons   |
