@@ -132,7 +132,7 @@
 		}
 	}
 
-	function speakWord(text: string | undefined, options?: { allowInterrupt?: boolean }) {
+	function speakWord(text: string | undefined, options: { allowInterrupt?: boolean } = {}) {
 		if (!text) return;
 
 		const now = Date.now();
