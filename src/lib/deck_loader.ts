@@ -100,8 +100,12 @@ function buildGermanDecks(): DeckDefinition[] {
 	return decks;
 }
 
+const categoryLabels: Record<string, string> = {
+	verbspraposition: 'Verben mit Präpositionen'
+};
+
 function capitalize(s: string): string {
-	return s.charAt(0).toUpperCase() + s.slice(1);
+	return categoryLabels[s] ?? s.charAt(0).toUpperCase() + s.slice(1);
 }
 
 const germanDeckDefinitions: DeckDefinition[] = buildGermanDecks();
