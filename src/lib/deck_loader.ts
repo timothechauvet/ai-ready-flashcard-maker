@@ -1,6 +1,7 @@
 import yaml from 'js-yaml';
 import sampleYaml from './sample_deck.yaml?raw';
 import kannadaColorsYaml from './kannada_colors.yaml?raw';
+import drJainDeck1Yaml from './dr_jain_deck_1.yaml?raw';
 
 export interface Flashcard {
 	indication: string;
@@ -122,6 +123,14 @@ const legacyDeckDefinitions: DeckDefinition[] = [
 		title: 'Kannada Colors',
 		description: '10 cards • Colors in Kannada script with pronunciation',
 		cards: parseDeck(kannadaColorsYaml, 'kannada colors')
+	},
+	{
+		id: 'dr-jain-deck-1',
+		title: 'German with Dr. Jain • Deck 1',
+		description: '20 cards • German verbs with conjugations',
+		author: 'Dr. Jain',
+		organization: 'German with Dr. Jain',
+		cards: parseDeck(drJainDeck1Yaml, 'dr jain deck 1')
 	}
 ];
 

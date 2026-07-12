@@ -161,9 +161,10 @@ def _load_bundled_decks():
             )
 
     # Legacy decks
-    for legacy_file, deck_id, title, desc in [
-        ("sample_deck.yaml", "german-idioms", "German Idioms & Nuances", "Advanced German vocabulary and expressions"),
-        ("kannada_colors.yaml", "kannada-colors", "Kannada Colors", "Colors in Kannada script with pronunciation"),
+    for legacy_file, deck_id, title, desc, author, org, folder in [
+        ("sample_deck.yaml", "german-idioms", "German Idioms & Nuances", "Advanced German vocabulary and expressions", "YASSSF", None, "German"),
+        ("kannada_colors.yaml", "kannada-colors", "Kannada Colors", "Colors in Kannada script with pronunciation", "YASSSF", None, "Other"),
+        ("dr_jain_deck_1.yaml", "dr-jain-deck-1", "German with Dr. Jain • Deck 1", "20 German verbs with conjugations", "Dr. Jain", "German with Dr. Jain", "German with Dr. Jain"),
     ]:
         path = BUNDLED_DECKS_DIR / legacy_file
         if path.exists():
@@ -179,7 +180,7 @@ def _load_bundled_decks():
                     """INSERT OR REPLACE INTO decks
                        (id, title, description, folder, subfolder, level, category, part, cards_json, source, author, organization)
                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
-                    (deck_id, title, f"{len(cards)} cards • {desc}", None, None, None, None, None, json.dumps(cards), "bundled", "YASSSF", None),
+                    (deck_id, title, f"{len(cards)} cards • {desc}", folder, None, None, None, None, json.dumps(cards), "bundled", author, org),
                 )
 
     conn.commit()
