@@ -1,99 +1,299 @@
 - indication: |
-    überzeugen
+    **überzeugen**
     Sie überzeugte den Chef von ihrer Idee.
-  result: to convince — She convinced the boss of her idea.
+    ich überzeuge
+    du überzeugst
+    er/sie/es überzeugt
+    wir überzeugen
+    ihr überzeugt
+    sie/Sie überzeugen
+    ich überzeugte
+    hat überzeugt
+  result: |
+    to convince
+    She convinced the boss of her idea.
 
 - indication: |
-    vermeiden
+    **vermeiden**
     Um Streit zu vermeiden, spricht sie sehr offen mit ihrer Kollegin.
-  result: to avoid — In order to avoid an argument, she speaks very openly with her colleague.
+    ich vermeide
+    du vermeidest
+    er/sie/es vermeidet
+    wir vermeiden
+    ihr vermeidet
+    sie/Sie vermeiden
+    ich vermied
+    hat vermieden
+  result: |
+    to avoid
+    In order to avoid an argument, she speaks very openly with her colleague.
 
 - indication: |
-    widersprechen
+    **widersprechen**
     Da muss ich dir leider widersprechen.
-  result: to contradict / disagree — I have to disagree with you there, unfortunately.
+    ich widerspreche
+    du widersprichst
+    er/sie/es widerspricht
+    wir widersprechen
+    ihr widersprecht
+    sie/Sie widersprechen
+    ich widersprach
+    hat widersprochen
+  result: |
+    to contradict / disagree
+    I have to disagree with you there, unfortunately.
 
 - indication: |
-    berücksichtigen
+    **berücksichtigen**
     Wir müssen alle Faktoren berücksichtigen.
-  result: to consider / take into account — We must consider all factors.
+    ich berücksichtige
+    du berücksichtigst
+    er/sie/es berücksichtigt
+    wir berücksichtigen
+    ihr berücksichtigt
+    sie/Sie berücksichtigen
+    ich berücksichtigte
+    hat berücksichtigt
+  result: |
+    to consider / take into account
+    We must consider all factors.
 
 - indication: |
-    beeinflussen
+    **beeinflussen**
     Die Medien beeinflussen unsere Meinung oft mehr als wir denken.
-  result: to influence — The media often influence our opinion more than we think.
+    ich beeinflusse
+    du beeinflusst
+    er/sie/es beeinflusst
+    wir beeinflussen
+    ihr beeinflusst
+    sie/Sie beeinflussen
+    ich beeinflusste
+    hat beeinflusst
+  result: |
+    to influence
+    The media often influence our opinion more than we think.
 
 - indication: |
-    umsetzen
+    **umsetzen**
     Die Schule setzt ein neues Konzept um.
-  result: to implement — The school is implementing a new concept.
+    ich setze um
+    du setzt um
+    er/sie/es setzt um
+    wir setzen um
+    ihr setzt um
+    sie/Sie setzen um
+    ich setzte um
+    hat umgesetzt
+  result: |
+    to implement
+    The school is implementing a new concept.
 
 - indication: |
-    zugeben
+    **zugeben**
     Er gibt zu, dass er die Straftat begangen hat.
-  result: to admit — He admits that he committed the crime.
+    ich gebe zu
+    du gibst zu
+    er/sie/es gibt zu
+    wir geben zu
+    ihr gebt zu
+    sie/Sie geben zu
+    ich gab zu
+    hat zugegeben
+  result: |
+    to admit
+    He admits that he committed the crime.
 
 - indication: |
-    durchführen
+    **durchführen**
     Die Firma führt einmal im Jahr eine Mitarbeiterbefragung durch.
-  result: to conduct / carry out — The company conducts an employee survey once a year.
+    ich führe durch
+    du führst durch
+    er/sie/es führt durch
+    wir führen durch
+    ihr führt durch
+    sie/Sie führen durch
+    ich führte durch
+    hat durchgeführt
+  result: |
+    to conduct / carry out
+    The company conducts an employee survey once a year.
 
 - indication: |
-    verfügen über
+    **verfügen über**
     Er verfügt über langjährige Erfahrung.
-  result: to feature / have at one's disposal — He has many years of experience at his disposal.
+    ich verfüge
+    du verfügst
+    er/sie/es verfügt
+    wir verfügen
+    ihr verfügt
+    sie/Sie verfügen
+    ich verfügte
+    hat verfügt
+  result: |
+    to feature / have's disposal
+    He has many years of experience at his disposal.
 
 - indication: |
-    beitragen zu
+    **beitragen zu**
     Jede Person in der Stadt kann etwas zum Klimaschutz beitragen.
-  result: to contribute to — Every person in the city can contribute something to climate protection.
+    ich trage bei
+    du trägst bei
+    er/sie/es trägt bei
+    wir tragen bei
+    ihr tragt bei
+    sie/Sie tragen bei
+    ich trug bei
+    hat beigetragen
+  result: |
+    to contribute to
+    Every person in the city can contribute something to climate protection.
 
 - indication: |
-    genießen
+    **genießen**
     Er genießt das köstliche Essen.
-  result: to enjoy — He enjoys the delicious food.
+    ich genieße
+    du genießt
+    er/sie/es genießt
+    wir genießen
+    ihr genießt
+    sie/Sie genießen
+    ich genoss
+    hat genossen
+  result: |
+    to enjoy
+    He enjoys the delicious food.
 
 - indication: |
-    zustimmen
+    **zustimmen**
     Ich stimme deinem Vorschlag zu.
-  result: to agree — I agree with your suggestion.
+    ich stimme zu
+    du stimmst zu
+    er/sie/es stimmt zu
+    wir stimmen zu
+    ihr stimmt zu
+    sie/Sie stimmen zu
+    ich stimmte zu
+    hat zugestimmt
+  result: |
+    to agree
+    I agree with your suggestion.
 
 - indication: |
-    übertreiben
+    **übertreiben**
     Du übertreibst mit deinen Sorgen.
-  result: to exaggerate — You are exaggerating with your worries.
+    ich übertreibe
+    du übertreibst
+    er/sie/es übertreibt
+    wir übertreiben
+    ihr übertreibt
+    sie/Sie übertreiben
+    ich übertrieb
+    hat übertrieben
+  result: |
+    to exaggerate
+    You are exaggerating with your worries.
 
 - indication: |
-    leiden
+    **leiden**
     Er leidet an Migräne.
-  result: to suffer — He suffers from migraines.
+    ich leide
+    du leidest
+    er/sie/es leidet
+    wir leiden
+    ihr leidet
+    sie/Sie leiden
+    ich litt
+    hat gelitten
+  result: |
+    to suffer
+    He suffers from migraines.
 
 - indication: |
-    anpassen
+    **anpassen**
     Ich passe meine Strategie an die Situation an.
-  result: to adapt / adjust — I adjust my strategy to the situation.
+    ich passe an
+    du passt an
+    er/sie/es passt an
+    wir passen an
+    ihr passt an
+    sie/Sie passen an
+    ich passte an
+    hat angepasst
+  result: |
+    to adapt / adjust
+    I adjust my strategy to the situation.
 
 - indication: |
-    begründen
+    **begründen**
     Er begründet seine Entscheidung klar.
-  result: to justify / give reasons — He justifies his decision clearly.
+    ich begründe
+    du begründest
+    er/sie/es begründet
+    wir begründen
+    ihr begründet
+    sie/Sie begründen
+    ich begründete
+    hat begründet
+  result: |
+    to justify / give reasons
+    He justifies his decision clearly.
 
 - indication: |
-    entstehen
+    **entstehen**
     Neue Ideen entstehen oft spontan.
-  result: to arise / develop — New ideas often arise spontaneously.
+    ich entstehe
+    du entstehst
+    er/sie/es entsteht
+    wir entstehen
+    ihr entsteht
+    sie/Sie entstehen
+    ich entstand
+    ist entstanden
+  result: |
+    to arise / develop
+    New ideas often arise spontaneously.
 
 - indication: |
-    zwingen
+    **zwingen**
     Die schwachen Verkaufszahlen zwingen das Unternehmen zu einer Umstrukturierung.
-  result: to force / compel — The weak sales figures force the company into a restructuring.
+    ich zwinge
+    du zwingst
+    er/sie/es zwingt
+    wir zwingen
+    ihr zwingt
+    sie/Sie zwingen
+    ich zwang
+    hat gezwungen
+  result: |
+    to force / compel
+    The weak sales figures force the company into a restructuring.
 
 - indication: |
-    unterstützen
+    **unterstützen**
     Die Regierung unterstützt soziale Projekte.
-  result: to support — The government supports social projects.
+    ich unterstütze
+    du unterstützt
+    er/sie/es unterstützt
+    wir unterstützen
+    ihr unterstützt
+    sie/Sie unterstützen
+    ich unterstützte
+    hat unterstützt
+  result: |
+    to support
+    The government supports social projects.
 
 - indication: |
-    ablehnen
+    **ablehnen**
     Sie lehnt das Jobangebot ab, weil das Gehalt zu niedrig ist.
-  result: to reject / refuse — She rejects the job offer because the salary is too low.
+    ich lehne ab
+    du lehnst ab
+    er/sie/es lehnt ab
+    wir lehnen ab
+    ihr lehnen ab
+    sie/Sie lehnen ab
+    ich lehnte ab
+    hat abgelehnt
+  result: |
+    to reject / refuse
+    She rejects the job offer because the salary is too low.
