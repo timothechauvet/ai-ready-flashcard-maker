@@ -26,7 +26,7 @@
 		"@types/js-yaml": "^4.0.9",
 		"@types/node": "^24.13.3",
 		"canvas-confetti": "^1.9.4",
-		"eslint": "^10.9.0",
+		"eslint": "^10.9.1",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-svelte": "^3.23.0",
 		"globals": "^17.11.0",
@@ -35,11 +35,11 @@
 		"svelte": "^5.56.10",
 		"svelte-check": "^4.7.6",
 		"typescript": "^6.0.3",
-		"typescript-eslint": "^8.67.0",
+		"typescript-eslint": "^8.68.0",
 		"vite": "^8.2.2"
 	},
 	"dependencies": {
-		"@supabase/supabase-js": "^2.112.3",
+		"@supabase/supabase-js": "^2.112.4",
 		"js-yaml": "^4.3.1",
 		"web-haptics": "^0.0.6"
 	},
