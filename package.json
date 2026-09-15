@@ -35,11 +35,11 @@
 		"svelte": "^5.57.0",
 		"svelte-check": "^4.7.6",
 		"typescript": "^6.0.3",
-		"typescript-eslint": "^8.69.0",
+		"typescript-eslint": "^8.70.0",
 		"vite": "^8.2.2"
 	},
 	"dependencies": {
-		"@supabase/supabase-js": "^2.115.0",
+		"@supabase/supabase-js": "^2.116.0",
 		"js-yaml": "^4.3.2",
 		"web-haptics": "^0.0.6"
 	},
